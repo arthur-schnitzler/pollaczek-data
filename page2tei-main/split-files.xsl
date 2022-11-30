@@ -6,7 +6,7 @@
     <xsl:output name="xml" method="xml" indent="yes" omit-xml-declaration="yes"/>
 
     <!-- directory of new files -->
-    <xsl:param name="dir">../data/editions</xsl:param>
+    <xsl:param name="dir">../editions</xsl:param>
     <xsl:param name="toc"
         select="document('../data/indices/toc.xml')"/>
     <xsl:key name="toc-title" match="item" use="@xml:id"/>
@@ -32,7 +32,7 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:variable>
-            <xsl:result-document href="../../editions/{$dateiname}.xml">
+            <xsl:result-document href="../../../data/editions/{$dateiname}.xml">
                 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                     xml:id="{$dateiname}"
@@ -40,12 +40,22 @@
                     <teiHeader>
                         <fileDesc>
                             <titleStmt>
-                                <title level="s">Clara Katharina Pollaczek: Arthur Schnitzler und ich</title>
-                                <title level="main">
-                                    <xsl:text>Seite </xsl:text><xsl:value-of select="@id"/></title>
+                                <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title>
+                                <xsl:variable name="inhalt-nachschlagen" select="key('toc-title', $dateiname, $toc)" as="node()"/>
                                 <title level="a">
-                                    <xsl:value-of select="key('toc-title', $dateiname, $toc)/title"/>
+                                    <xsl:value-of select="$inhalt-nachschlagen/title"/>
                                 </title>
+                                <xsl:for-each select="$inhalt-nachschlagen/date/@when">
+                                    <xsl:element name="title" namespace="http://www.tei-c.org/ns/1.0">
+                                        <xsl:attribute name="type">
+                                            <xsl:text>alternative</xsl:text>
+                                        </xsl:attribute>
+                                        <xsl:attribute name="when-iso">
+                                            <xsl:value-of select="."/>
+                                        </xsl:attribute>
+                                        
+                                    </xsl:element>
+                                </xsl:for-each>
                                 <author ref="#12435">Pollaczek, Clara Katharina</author>
                                 <editor>
                                     <name>Müller, Martin Anton</name>
