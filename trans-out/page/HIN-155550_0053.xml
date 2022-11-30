@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
+        <Created>2022-11-17T16:34:08.747+01:00</Created>
+        <LastChange>2022-11-18T03:23:52.188Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259254" pageNr="53" tsid="104225733" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JSIZVFWSDGWCPQTFRIPWOKFG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OQFUQONCCPEVOZGRIVBDZEIR" imageId="41048839"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0053.tif" imageWidth="2777" imageHeight="1578">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749959656" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="450,158 450,1465 2607,1465 2607,158"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1229,415 1273,435 1370,401 1635,490 1834,403 2187,406 2187,344 2022,308 1787,342 1743,311 1600,336 1228,315"/>
+                <Baseline points="1242,396 1288,396 1335,395 1381,395 1428,395 1475,394 1521,393 1568,393 1614,392 1661,392 1708,392 1754,390 1801,390 1847,389 1894,389 1941,387 1987,387 2034,387 2080,386 2127,386 2174,386"/>
+                <TextEquiv>
+                    <Unicode>27. VII. 1915. Dresden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="673,741 2479,709 2449,597 2027,662 672,647"/>
+                <Baseline points="687,729 780,728 874,726 967,725 1061,725 1155,723 1248,722 1342,722 1436,720 1529,719 1623,717 1716,716 1810,716 1904,714 1997,713 2091,711 2185,710 2278,707 2372,705 2466,704"/>
+                <TextEquiv>
+                    <Unicode>Nach einer kleinen Rundreise, München, Nürn-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="438,875 2018,891 2512,856 2511,769 437,814"/>
+                <Baseline points="450,866 552,864 654,864 757,863 859,861 962,861 1064,860 1166,858 1269,857 1371,855 1474,853 1576,851 1678,849 1781,848 1883,846 1986,845 2088,843 2190,842 2293,842 2395,840 2498,839"/>
+                <TextEquiv>
+                    <Unicode>berg, Dresden, fahre ich jetzt über Wien nach Ischl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="458,1016 2307,955 2471,1015 2470,923 2360,898 457,924"/>
+                <Baseline points="471,993 570,993 669,992 768,990 868,989 967,987 1066,987 1166,986 1265,984 1364,984 1464,983 1563,981 1662,981 1761,980 1861,978 1960,977 2059,975 2159,974 2258,972 2357,969 2457,968"/>
+                <TextEquiv>
+                    <Unicode>(Habsburgerhof ) zurück. Kommen Sie mit Ihrer Fa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="439,1137 706,1167 749,1130 967,1130 1101,1167 1231,1119 1418,1166 1602,1133 1601,1038 1517,1067 1314,1029 1235,1078 1045,1040 887,1088 439,1070"/>
+                <Baseline points="452,1124 508,1124 565,1124 622,1124 679,1124 736,1124 793,1124 850,1122 907,1122 964,1121 1021,1121 1077,1119 1134,1119 1191,1118 1248,1116 1305,1116 1362,1115 1419,1115 1476,1113 1533,1112 1590,1110"/>
+                <TextEquiv>
+                    <Unicode>milie auch in diese Gegend?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="758,1272 1016,1264 1096,1293 1175,1254 1391,1287 1465,1258 1672,1266 1648,1187 1215,1184 1175,1211 757,1187"/>
+                <Baseline points="770,1253 814,1253 858,1253 903,1253 947,1253 992,1253 1036,1253 1080,1253 1125,1252 1169,1251 1214,1251 1258,1251 1302,1250 1347,1250 1391,1250 1436,1248 1480,1247 1524,1247 1569,1244 1613,1243 1658,1241"/>
+                <TextEquiv>
+                    <Unicode>Mit einem schönen Grus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1677,1319 1703,1326 1718,1318 1778,1337 1811,1319 1877,1323 1876,1228 1853,1226 1840,1239 1812,1234 1786,1250 1715,1241 1692,1262 1676,1260"/>
+                <Baseline points="1691,1310 1719,1307 1748,1307 1777,1307 1805,1307 1834,1306 1863,1305"/>
+                <TextEquiv>
+                    <Unicode>Ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1838,1443 2112,1446 2141,1467 2186,1443 2286,1460 2345,1442 2397,1465 2484,1451 2483,1344 2363,1378 2242,1335 2071,1382 1886,1371 1838,1394"/>
+                <Baseline points="1851,1433 1882,1433 1913,1433 1944,1433 1975,1433 2006,1433 2037,1433 2068,1433 2099,1433 2130,1433 2161,1431 2192,1431 2223,1431 2254,1431 2285,1431 2316,1431 2347,1430 2378,1430 2409,1430 2440,1430 2471,1430"/>
+                <TextEquiv>
+                    <Unicode>Clara Pollaczek</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="2508,320 2542,315 2549,323 2560,318 2582,331 2590,326 2618,332 2622,104 2593,106 2583,100 2578,106 2560,105 2537,123 2511,123"/>
+                <Baseline points="2522,264 2550,258 2578,261 2607,263"/>
+                <TextEquiv>
+                    <Unicode>6/1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

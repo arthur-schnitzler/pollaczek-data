@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
+        <Created>2022-11-17T16:33:59.947+01:00</Created>
+        <LastChange>2022-11-29T09:58:22.166+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50258983" pageNr="4" tsid="105287223" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=CUCSHWUDSKGKEEZJSEYSNFDJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YRUVZWBPFGCLQFUPPJCAAKBI" imageId="41048788"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0004.tif" imageWidth="2806" imageHeight="3370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749959210" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="359,149 359,3172 2618,3172 2618,149"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="1604,405 1796,408 1851,439 1899,404 2403,434 2405,342 1605,338"/>
+                <Baseline points="1619,396 1657,398 1696,398 1734,398 1773,399 1811,399 1850,399 1888,399 1927,399 1965,399 2004,399 2043,399 2081,400 2120,401 2158,402 2197,402 2235,404 2274,405 2312,408 2351,410 2390,414"/>
+                <TextEquiv>
+                    <Unicode>5, Rue de Maubeuge,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="545,493 2053,514 2052,422 1997,403 1436,447 1035,322 861,382 772,341 544,368"/>
+                <Baseline points="558,464 632,471 706,476 780,480 854,483 928,485 1002,486 1076,486 1150,485 1224,483 1298,480 1372,479 1446,477 1520,474 1594,473 1668,470 1742,468 1816,468 1890,468 1964,470 2039,471"/>
+                <TextEquiv>
+                    <Unicode>Arthin Schenzle Paris, 28.4.97.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="451,620 673,621 765,684 1094,586 1278,662 1822,584 1989,632 2021,490 1749,543 1193,490 1077,547 746,484 614,541 450,520"/>
+                <Baseline points="465,600 542,600 619,600 696,600 773,599 850,599 927,599 1004,597 1081,597 1158,596 1236,594 1313,594 1390,593 1467,593 1544,591 1621,590 1698,590 1775,588 1852,588 1929,587 2007,585"/>
+                <TextEquiv>
+                    <Unicode>an Heyr v. Hofmannstal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="396,732 2592,776 2521,664 2287,713 397,632"/>
+                <Baseline points="410,726 518,728 626,728 735,729 843,731 952,731 1060,732 1169,732 1277,732 1386,734 1494,734 1602,734 1711,734 1819,735 1928,735 2036,735 2145,735 2253,737 2362,737 2470,737 2579,738"/>
+                <TextEquiv>
+                    <Unicode>Lieber Hugo, an Fischer hab ich geschrieben, ich zweifle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="378,927 2627,926 2627,845 2494,797 378,810"/>
+                <Baseline points="393,878 504,879 615,881 726,881 837,882 948,882 1059,884 1170,884 1281,885 1392,885 1503,886 1614,887 1725,887 1836,888 1947,888 2058,888 2169,890 2280,890 2391,891 2502,891 2613,891"/>
+                <TextEquiv>
+                    <Unicode>nicht, dass er ohnewieters einverstanden ist. Warum aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="403,1076 2580,1053 2530,942 404,960"/>
+                <Baseline points="417,1019 524,1020 631,1022 739,1023 846,1023 954,1023 1061,1025 1168,1025 1276,1025 1383,1025 1491,1026 1598,1026 1705,1026 1813,1026 1920,1028 2028,1028 2135,1028 2242,1029 2350,1029 2457,1031 2565,1031"/>
+                <TextEquiv>
+                    <Unicode>glauben Sie, dass alle diese Sachen sich nur von Paris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="389,1207 2511,1190 2511,1074 2436,1062 2153,1130 1615,1062 1362,1130 390,1116"/>
+                <Baseline points="404,1161 508,1164 613,1166 718,1167 822,1167 927,1169 1032,1170 1136,1170 1241,1170 1346,1172 1451,1172 1555,1172 1660,1173 1765,1173 1869,1173 1974,1173 2079,1175 2183,1175 2288,1176 2393,1178 2498,1179"/>
+                <TextEquiv>
+                    <Unicode>aus komisch anhören. Sie sind übrigens mehr ekelhaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="386,1310 2362,1371 2317,1273 1899,1231 1528,1301 388,1244"/>
+                <Baseline points="401,1284 498,1295 595,1304 693,1313 790,1319 887,1326 985,1330 1082,1335 1179,1337 1277,1340 1374,1341 1471,1343 1569,1343 1666,1343 1763,1343 1861,1341 1958,1340 2055,1340 2153,1338 2250,1335 2348,1334"/>
+                <TextEquiv>
+                    <Unicode>als komisch, wenn sich Clara nur nicht viel draus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="349,1503 2387,1502 2536,1484 2536,1412 348,1439"/>
+                <Baseline points="363,1485 471,1484 579,1484 687,1484 795,1484 903,1484 1011,1484 1119,1482 1227,1482 1335,1482 1443,1481 1551,1481 1659,1481 1767,1479 1875,1479 1983,1478 2091,1478 2199,1476 2307,1476 2415,1475 2523,1475"/>
+                <TextEquiv>
+                    <Unicode>macht und sich nicht gar zu viel sezieren lassen mus-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="354,1644 2575,1675 2575,1564 2413,1524 354,1553"/>
+                <Baseline points="368,1622 477,1620 587,1620 697,1620 806,1619 916,1619 1026,1619 1135,1617 1245,1617 1355,1617 1465,1616 1574,1616 1684,1614 1794,1614 1903,1614 2013,1613 2123,1611 2232,1611 2342,1610 2452,1608 2562,1607"/>
+                <TextEquiv>
+                    <Unicode>Grüssen Sie sie und Anna von mir herzlich. Ist es mög-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="347,1791 2474,1775 2473,1698 2365,1662 347,1716"/>
+                <Baseline points="362,1764 466,1764 571,1764 676,1764 781,1764 886,1764 991,1763 1095,1763 1200,1761 1305,1761 1410,1760 1515,1760 1620,1758 1725,1758 1829,1757 1934,1757 2039,1755 2144,1754 2249,1754 2354,1754 2459,1752"/>
+                <TextEquiv>
+                    <Unicode>lich, dass Minni an dem Tratsch zum Theil schuld ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="354,1931 2267,1938 2394,1918 2394,1829 353,1825"/>
+                <Baseline points="368,1904 468,1904 569,1905 669,1905 770,1905 871,1905 971,1904 1072,1904 1173,1904 1273,1902 1374,1902 1475,1902 1575,1901 1676,1899 1777,1899 1877,1899 1978,1898 2079,1898 2179,1898 2280,1896 2381,1896"/>
+                <TextEquiv>
+                    <Unicode>(Da wird sie mir ja auch was ähnliches anrichten!)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="347,2086 2193,2087 2493,2047 2493,1953 347,1986"/>
+                <Baseline points="360,2043 466,2045 572,2045 678,2046 784,2046 890,2046 996,2046 1102,2046 1208,2045 1314,2045 1420,2045 1526,2044 1632,2043 1738,2043 1844,2042 1950,2042 2056,2040 2162,2039 2268,2039 2374,2037 2480,2037"/>
+                <TextEquiv>
+                    <Unicode>Sonderbarerweise das einzige literarische, worüber ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="354,2217 2405,2216 2480,2211 2480,2102 353,2122"/>
+                <Baseline points="366,2186 471,2186 576,2186 681,2186 786,2186 891,2186 996,2186 1101,2184 1206,2184 1311,2183 1416,2183 1521,2183 1626,2181 1731,2181 1836,2180 1941,2180 2046,2180 2151,2180 2256,2178 2361,2180 2466,2180"/>
+                <TextEquiv>
+                    <Unicode>hier ein bisl nachgedacht, ist das Stück, wo sie mich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="367,2356 2499,2373 2498,2262 2210,2233 366,2275"/>
+                <Baseline points="381,2324 486,2324 591,2324 696,2324 801,2324 906,2325 1011,2325 1117,2325 1222,2325 1327,2325 1432,2324 1537,2324 1642,2324 1747,2324 1853,2322 1958,2322 2063,2321 2168,2319 2273,2318 2378,2316 2484,2315"/>
+                <TextEquiv>
+                    <Unicode>rettet. Aber sie ändert sich mir im Kopge, sie ist sch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="373,2472 498,2470 547,2493 631,2463 697,2492 725,2470 820,2468 869,2499 934,2480 934,2439 898,2435 832,2382 790,2409 651,2369 598,2399 496,2384 426,2417 373,2400"/>
+                <Baseline points="387,2456 413,2457 440,2457 467,2457 493,2459 520,2459 547,2459 573,2459 600,2459 627,2459 654,2459 680,2459 707,2459 734,2459 760,2459 787,2459 814,2460 840,2460 867,2462 894,2464 921,2465"/>
+                <TextEquiv>
+                    <Unicode>beinah blond.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="358,2606 2513,2593 2512,2529 2340,2480 2185,2542 1810,2482 358,2525"/>
+                <Baseline points="372,2589 478,2591 584,2592 691,2594 797,2594 903,2594 1010,2595 1116,2595 1222,2594 1329,2594 1435,2594 1541,2594 1648,2592 1754,2592 1860,2591 1967,2591 2073,2589 2179,2588 2286,2586 2392,2586 2499,2585"/>
+                <TextEquiv>
+                    <Unicode>Meinen Brief von gestern oder vorgestern haben Sie da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="385,2756 435,2725 552,2770 621,2743 696,2771 730,2746 971,2761 1024,2736 1074,2778 1160,2751 1160,2670 1060,2650 983,2680 855,2633 733,2674 688,2649 386,2672"/>
+                <Baseline points="398,2720 435,2721 472,2723 510,2724 547,2726 585,2727 622,2727 659,2727 697,2729 734,2729 772,2729 809,2727 846,2727 884,2727 921,2727 959,2727 996,2726 1033,2726 1071,2726 1108,2726 1146,2726"/>
+                <TextEquiv>
+                    <Unicode>Arbeiten Sie was?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="366,2881 2295,2893 2520,2814 1670,2753 365,2789"/>
+                <Baseline points="378,2858 484,2859 590,2859 697,2859 803,2859 909,2859 1016,2859 1122,2859 1228,2859 1335,2858 1441,2858 1547,2857 1654,2856 1760,2856 1866,2855 1973,2855 2079,2855 2185,2855 2292,2855 2398,2855 2505,2856"/>
+                <TextEquiv>
+                    <Unicode>Eben komme ich von Versailles zurück und habe eine u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="360,3008 2373,3010 2373,2949 2192,2916 360,2931"/>
+                <Baseline points="374,2993 473,2994 572,2994 671,2996 771,2996 870,2996 969,2996 1069,2994 1168,2994 1267,2994 1367,2993 1466,2993 1565,2991 1664,2991 1764,2990 1863,2990 1962,2990 2062,2990 2161,2990 2260,2990 2360,2991"/>
+                <TextEquiv>
+                    <Unicode>beschreibliche Lust nach Grün und Luft und Stille</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="344,3174 2518,3161 2518,3086 2387,3044 344,3060"/>
+                <Baseline points="359,3131 466,3132 573,3132 680,3132 788,3134 895,3134 1002,3134 1109,3134 1217,3134 1324,3133 1431,3132 1538,3132 1646,3134 1753,3134 1860,3134 1967,3134 2075,3135 2182,3137 2289,3137 2396,3140 2504,3141"/>
+                <TextEquiv>
+                    <Unicode>heimgebracht; eine so heftige Ungeduld, dass ich gleic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5, Rue de Maubeuge,
+Arthin Schenzle Paris, 28.4.97.
+an Heyr v. Hofmannstal.
+Lieber Hugo, an Fischer hab ich geschrieben, ich zweifle
+nicht, dass er ohnewieters einverstanden ist. Warum aber
+glauben Sie, dass alle diese Sachen sich nur von Paris
+aus komisch anhören. Sie sind übrigens mehr ekelhaft
+als komisch, wenn sich Clara nur nicht viel draus
+macht und sich nicht gar zu viel sezieren lassen mus-
+Grüssen Sie sie und Anna von mir herzlich. Ist es mög-
+lich, dass Minni an dem Tratsch zum Theil schuld ist
+(Da wird sie mir ja auch was ähnliches anrichten!)
+Sonderbarerweise das einzige literarische, worüber ich
+hier ein bisl nachgedacht, ist das Stück, wo sie mich
+rettet. Aber sie ändert sich mir im Kopge, sie ist sch
+beinah blond.
+Meinen Brief von gestern oder vorgestern haben Sie da
+Arbeiten Sie was?
+Eben komme ich von Versailles zurück und habe eine u.
+beschreibliche Lust nach Grün und Luft und Stille
+heimgebracht; eine so heftige Ungeduld, dass ich gleic</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

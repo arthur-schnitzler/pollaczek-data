@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
+        <Created>2022-11-17T16:34:00.424+01:00</Created>
+        <LastChange>2022-11-29T11:16:46.866+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50258986" pageNr="7" tsid="105292090" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=UPJLGHTEBHBIRXLHGAUULEBZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DALJSPLEXVADGCRGSALIWEZF" imageId="41048791"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0007.tif" imageWidth="2806" imageHeight="3370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749959296" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="384,115 384,3227 2661,3227 2661,115"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="382,413 539,419 570,394 614,417 722,416 802,393 992,413 993,313 962,328 870,309 837,280 769,303 687,279 592,319 383,294"/>
+                <Baseline points="396,372 425,374 454,374 483,375 512,375 542,375 571,375 600,375 629,375 658,375 688,375 717,375 746,375 775,375 804,377 834,377 863,377 892,377 921,378 950,380 980,381"/>
+                <TextEquiv>
+                    <Unicode>A.S. an H.v.H.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+                <Coords points="389,575 1629,528 2106,577 2453,547 2453,493 2156,440 388,464"/>
+                <Baseline points="402,534 509,536 616,536 723,536 831,536 938,536 1045,536 1153,534 1260,534 1367,534 1475,533 1582,533 1689,531 1797,531 1904,530 2011,530 2119,528 2226,528 2333,528 2441,528"/>
+                <TextEquiv>
+                    <Unicode>bei Shakespeare notwendig ist. Erst im letzten Akt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;} textStyle {offset:14; length:2;underlined:true; fontSize:0.0; kerning:0;} textStyle {offset:37; length:2;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="511,712 2200,731 2472,706 2472,600 511,622"/>
+                <Baseline points="524,683 620,683 717,683 814,683 911,683 1007,683 1104,683 1201,681 1298,681 1394,680 1491,680 1588,678 1685,678 1781,677 1878,676 1975,675 2072,675 2168,675 2265,674 2362,674 2459,675"/>
+                <TextEquiv>
+                    <Unicode>wo nicht mehr le misanthrop, sondern un misanthrop</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="370,851 2331,857 2331,785 2128,739 370,771"/>
+                <Baseline points="384,816 480,822 577,825 674,829 771,831 867,833 964,833 1061,833 1158,831 1254,831 1351,830 1448,828 1545,827 1641,825 1738,824 1835,824 1932,822 2028,822 2125,824 2222,825 2319,827"/>
+                <TextEquiv>
+                    <Unicode>vor einem steht,spürt man was ewig menschliches.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="408,986 2117,1013 2415,975 2415,872 408,916"/>
+                <Baseline points="420,975 519,975 618,975 717,975 816,975 915,974 1014,974 1113,974 1212,972 1311,971 1411,971 1510,969 1609,969 1708,968 1807,968 1906,966 2005,966 2104,965 2203,965 2302,965 2402,965"/>
+                <TextEquiv>
+                    <Unicode>Es liegtwohl daran, dass alles, was in diesem Stück</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="385,1123 2213,1142 2380,1123 2380,1046 385,1059"/>
+                <Baseline points="399,1110 497,1113 595,1116 694,1118 792,1119 891,1119 989,1119 1087,1119 1186,1118 1284,1118 1383,1116 1481,1115 1579,1113 1678,1112 1776,1112 1875,1110 1973,1110 2071,1110 2170,1110 2268,1112 2367,1115"/>
+                <TextEquiv>
+                    <Unicode>vorgeht, einfach die Ansicht des Helden bestätigt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1668710285630_100" custom="readingOrder {index:6;}">
+                <Coords points="394,1290 1984,1293 2360,1267 2360,1188 393,1207"/>
+                <Baseline points="407,1263 432,1265 458,1265 484,1265 510,1265 536,1265 561,1265 587,1265 613,1265 639,1265 665,1263 690,1263 716,1263 742,1263 768,1263 794,1263 819,1262 845,1262 871,1263 897,1263 923,1263 1061,1262 1125,1262 1189,1262 1254,1261 1318,1260 1382,1260 1447,1260 1511,1260 1575,1259 1640,1259 1704,1259 1768,1258 1833,1257 1897,1257 1961,1257 2026,1256 2090,1256 2154,1254 2219,1254 2283,1253 2348,1253"/>
+                <TextEquiv>
+                    <Unicode>er erfährt nichts neues, denn schon im ersten Auf¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1668710279637_89" custom="readingOrder {index:7;}">
+                <Coords points="390,1456 2310,1422 2328,1332 390,1335"/>
+                <Baseline points="402,1355 417,1355 489,1400 504,1400 1032,1400 1096,1400 1160,1400 1224,1398 1288,1398 1353,1398 1417,1398 1481,1397 1545,1397 1609,1397 1674,1397 1738,1396 1802,1395 1866,1395 1930,1395 1995,1394 2059,1394 2123,1394 2187,1394 2251,1392 2316,1392"/>
+                <TextEquiv>
+                    <Unicode>tritt weiss er, was die Menschen für ein Gesindel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:8;}">
+                <Coords points="376,1567 2211,1570 2391,1556 2391,1484 376,1485"/>
+                <Baseline points="390,1545 489,1545 588,1547 688,1547 787,1547 887,1545 986,1545 1086,1545 1185,1544 1285,1542 1384,1542 1483,1541 1583,1539 1682,1539 1782,1538 1881,1537 1981,1536 2080,1536 2180,1536 2279,1536 2379,1536"/>
+                <TextEquiv>
+                    <Unicode>sind. Erst sein Entschluss in die Einsamkeit sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:9;}">
+                <Coords points="393,1755 1309,1753 1576,1681 2127,1741 2428,1677 2242,1573 391,1611"/>
+                <Baseline points="405,1683 505,1683 605,1683 706,1683 806,1683 907,1682 1007,1682 1108,1680 1208,1680 1309,1679 1409,1677 1509,1677 1610,1676 1710,1674 1811,1673 1911,1673 2012,1671 2112,1671 2213,1671 2313,1670 2414,1670"/>
+                <TextEquiv>
+                    <Unicode>zurückzuziehen, bewegt uns; wahrscheinlich weil wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:10;}">
+                <Coords points="378,1868 2416,1837 2415,1754 2238,1738 377,1768"/>
+                <Baseline points="390,1821 490,1821 591,1821 691,1821 792,1821 893,1821 993,1821 1094,1820 1194,1820 1295,1818 1396,1817 1496,1815 1597,1815 1697,1814 1798,1812 1899,1812 1999,1811 2100,1809 2200,1809 2301,1808 2402,1808"/>
+                <TextEquiv>
+                    <Unicode>wissen, dass seine ganze Menschenfeindschaft nichts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:11;}">
+                <Coords points="377,2003 1996,1991 2230,1969 2230,1899 376,1882"/>
+                <Baseline points="389,1968 480,1967 571,1966 663,1965 754,1964 846,1964 937,1964 1028,1962 1120,1962 1211,1962 1303,1961 1394,1961 1485,1961 1577,1961 1668,1959 1760,1959 1851,1959 1942,1958 2034,1958 2125,1956 2217,1955"/>
+                <TextEquiv>
+                    <Unicode>ist als Sehnsucht nach guten Menschen, die er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:12;}">
+                <Coords points="385,2120 2349,2118 2379,2020 384,2038"/>
+                <Baseline points="398,2105 496,2103 594,2103 693,2102 791,2102 890,2100 988,2099 1086,2099 1185,2097 1283,2097 1382,2096 1480,2094 1578,2094 1677,2093 1775,2093 1874,2091 1972,2090 2070,2090 2169,2088 2267,2088 2366,2087"/>
+                <TextEquiv>
+                    <Unicode>jetzt ein für alle Mal selbst zu etwas unerfüll¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:13;}">
+                <Coords points="397,2254 1225,2235 1354,2295 2314,2236 2313,2169 2221,2154 396,2177"/>
+                <Baseline points="408,2238 502,2240 597,2240 691,2241 786,2241 881,2241 975,2241 1070,2241 1165,2240 1259,2240 1354,2238 1449,2237 1543,2236 1638,2235 1733,2234 1827,2232 1922,2231 2017,2229 2111,2228 2206,2228 2301,2226"/>
+                <TextEquiv>
+                    <Unicode>barem macht; denn er wird niemanden mehr kennen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:14;}">
+                <Coords points="382,2391 467,2403 490,2388 526,2390 578,2418 616,2395 673,2404 747,2368 747,2329 703,2324 678,2338 559,2313 528,2331 497,2316 466,2331 381,2319"/>
+                <Baseline points="395,2381 421,2381 447,2381 473,2381 499,2381 525,2381 551,2381 577,2382 603,2382 629,2382 655,2382 681,2380 707,2378 734,2375"/>
+                <TextEquiv>
+                    <Unicode>lernen.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:15;}">
+                <Coords points="388,2545 2341,2515 2340,2430 2155,2396 1867,2465 1694,2400 1373,2456 387,2439"/>
+                <Baseline points="401,2513 497,2513 593,2514 689,2514 786,2514 882,2513 978,2513 1075,2511 1171,2510 1267,2510 1364,2508 1460,2507 1556,2505 1652,2504 1749,2504 1845,2502 1941,2502 2038,2501 2134,2501 2230,2501 2327,2501"/>
+                <TextEquiv>
+                    <Unicode>Trösten Sie sich wegen desgemischten Hausbrots:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:16;}">
+                <Coords points="392,2667 802,2722 2320,2662 2276,2596 392,2585"/>
+                <Baseline points="404,2663 499,2664 594,2666 689,2666 784,2666 879,2666 974,2666 1069,2666 1164,2666 1259,2664 1355,2664 1450,2663 1545,2661 1640,2661 1735,2660 1830,2660 1925,2658 2020,2658 2115,2658 2210,2658 2306,2658"/>
+                <TextEquiv>
+                    <Unicode>Wochenlang hab ich ein weisses trockenes geges¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:17;}">
+                <Coords points="386,2823 2468,2801 2467,2729 2258,2705 2092,2758 385,2740"/>
+                <Baseline points="398,2807 500,2807 603,2807 706,2807 809,2805 912,2805 1015,2804 1118,2804 1221,2802 1324,2801 1427,2799 1529,2799 1632,2798 1735,2796 1838,2795 1941,2795 2044,2793 2147,2793 2250,2792 2353,2792 2456,2792"/>
+                <TextEquiv>
+                    <Unicode>sen (wer nie sein Brot mit Thränen ass!!); und auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:18;}">
+                <Coords points="397,2946 1959,2959 2271,2943 2304,2855 397,2861"/>
+                <Baseline points="410,2921 504,2921 598,2919 692,2919 786,2919 880,2918 974,2918 1068,2918 1162,2918 1256,2918 1351,2918 1445,2918 1539,2918 1633,2916 1727,2916 1821,2916 1915,2916 2009,2916 2103,2915 2197,2915 2292,2915"/>
+                <TextEquiv>
+                    <Unicode>jetzt nehm ich meine Mahlzeiten in einer stock¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:19;}">
+                <Coords points="393,3070 2313,3054 2284,2988 2053,2972 393,2993"/>
+                <Baseline points="405,3053 499,3053 594,3054 689,3054 784,3054 878,3055 973,3054 1068,3054 1163,3054 1257,3054 1352,3053 1447,3053 1542,3053 1636,3051 1731,3051 1826,3051 1921,3051 2015,3051 2110,3053 2205,3053 2300,3054"/>
+                <TextEquiv>
+                    <Unicode>französischen Familie ein, wo keine heimatlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:20;}">
+                <Coords points="387,3219 2287,3229 2286,3147 2173,3106 387,3132"/>
+                <Baseline points="401,3194 494,3194 588,3194 681,3194 775,3194 869,3194 962,3192 1056,3192 1149,3191 1243,3189 1337,3189 1430,3188 1524,3186 1617,3186 1711,3185 1805,3183 1898,3183 1992,3182 2085,3182 2179,3182 2273,3182"/>
+                <TextEquiv>
+                    <Unicode>Gulyasch-Düfte aufsteigen. Sie ahnen nicht, wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A.S. an H.v.H.
+bei Shakespeare notwendig ist. Erst im letzten Akt,
+wo nicht mehr le misanthrop, sondern un misanthrop
+vor einem steht,spürt man was ewig menschliches.
+Es liegtwohl daran, dass alles, was in diesem Stück
+vorgeht, einfach die Ansicht des Helden bestätigt;
+er erfährt nichts neues, denn schon im ersten Auf¬
+tritt weiss er, was die Menschen für ein Gesindel
+sind. Erst sein Entschluss in die Einsamkeit sich
+zurückzuziehen, bewegt uns; wahrscheinlich weil wir
+wissen, dass seine ganze Menschenfeindschaft nichts
+ist als Sehnsucht nach guten Menschen, die er
+jetzt ein für alle Mal selbst zu etwas unerfüll¬
+barem macht; denn er wird niemanden mehr kennen
+lernen.-
+Trösten Sie sich wegen desgemischten Hausbrots:
+Wochenlang hab ich ein weisses trockenes geges¬
+sen (wer nie sein Brot mit Thränen ass!!); und auch
+jetzt nehm ich meine Mahlzeiten in einer stock¬
+französischen Familie ein, wo keine heimatlichen
+Gulyasch-Düfte aufsteigen. Sie ahnen nicht, wie</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

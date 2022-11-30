@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:53</Creator>
+        <Created>2022-11-17T16:36:15.606+01:00</Created>
+        <LastChange>2022-11-25T11:53:33.516Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50264548" pageNr="732" tsid="105032765" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=PPNYRVIUKJUPZKRGYZCCHKKE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WRHXCJRTHBBQMHWOOFJHSFSH" imageId="41050959"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0732.tif" imageWidth="3690" imageHeight="4667">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749963841" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="483,98 483,1555 3575,1555 3575,98"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="463,472 674,483 767,449 849,486 896,458 928,484 1010,460 1228,474 1229,399 1108,365 1015,392 965,359 893,390 805,364 768,395 662,361 533,388 465,369"/>
+                <Baseline points="483,437 519,438 555,440 592,441 628,443 665,444 701,445 738,446 774,447 811,447 847,449 883,449 920,449 956,449 993,449 1029,449 1066,450 1102,450 1139,450 1175,450 1212,450"/>
+                <TextEquiv>
+                    <Unicode>An A.S.,Marienbad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1984,487 2077,471 2119,504 2177,508 2292,468 2483,528 2534,487 2570,498 2634,471 2635,428 2507,393 2443,403 2283,335 2139,411 2026,359 1986,373"/>
+                <Baseline points="2001,458 2031,459 2062,462 2093,464 2124,465 2154,466 2185,467 2216,468 2247,469 2277,470 2308,471 2339,471 2370,471 2400,471 2431,471 2462,471 2493,471 2523,471 2554,471 2585,471 2616,471"/>
+                <TextEquiv>
+                    <Unicode>Wien, 19.9.1929.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="537,729 3183,778 3365,756 3367,642 538,632"/>
+                <Baseline points="555,705 694,707 834,708 973,710 1113,713 1253,714 1392,716 1532,717 1672,720 1811,722 1951,724 2091,726 2230,728 2370,729 2510,732 2649,734 2789,735 2929,737 3068,738 3208,740 3348,740"/>
+                <TextEquiv>
+                    <Unicode>Erhalte eben Ansichtskarte vom 18., habe einen einzigen Brief am Mitt-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="541,858 3387,907 3388,825 3121,778 543,747"/>
+                <Baseline points="561,833 701,836 841,839 982,842 1122,843 1263,846 1403,848 1543,851 1684,852 1824,854 1965,855 2105,857 2245,859 2386,861 2526,863 2667,864 2807,867 2947,870 3088,872 3228,875 3369,879"/>
+                <TextEquiv>
+                    <Unicode>woch Nachmittag und drei Ansichtskarten, bedauere Postunzulänglichkeit,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="552,1005 3388,1053 3389,949 2993,907 554,894"/>
+                <Baseline points="570,965 717,967 864,969 1011,972 1159,975 1306,977 1453,980 1601,981 1748,984 1895,986 2043,987 2190,990 2337,992 2485,995 2632,996 2779,999 2927,1001 3074,1004 3221,1007 3369,1010"/>
+                <TextEquiv>
+                    <Unicode>glaube dieser Karte mit einigem Erstaunen neuerliche Reiseverlängerung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="539,1105 3206,1206 3433,1081 540,1034"/>
+                <Baseline points="557,1092 699,1095 842,1098 985,1101 1128,1104 1271,1107 1413,1109 1556,1112 1699,1115 1842,1117 1985,1119 2127,1122 2270,1124 2413,1126 2556,1128 2699,1130 2841,1131 2984,1134 3127,1136 3270,1137 3413,1139"/>
+                <TextEquiv>
+                    <Unicode>zu entnehmen.- Ich warte Brief ab und schreibe vorderhand nicht ausführ-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="537,1238 3139,1309 3220,1207 538,1159"/>
+                <Baseline points="554,1224 686,1227 818,1230 950,1232 1083,1235 1215,1238 1347,1239 1480,1242 1612,1244 1744,1245 1877,1248 2009,1250 2141,1252 2273,1254 2406,1256 2538,1259 2670,1260 2803,1263 2935,1265 3067,1268 3200,1269"/>
+                <TextEquiv>
+                    <Unicode>licher, da briefliche Missverständnisse auf Grund von Verstimmungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="584,1406 3240,1462 3299,1341 586,1274"/>
+                <Baseline points="603,1355 744,1358 885,1361 1026,1364 1167,1366 1308,1368 1449,1371 1590,1373 1731,1376 1872,1379 2013,1380 2154,1383 2295,1385 2436,1388 2577,1389 2718,1392 2859,1394 3000,1397 3141,1398 3282,1401"/>
+                <TextEquiv>
+                    <Unicode>fürchte. Wünsche weiter alles Gute und Schöne und herzlichen Gruss.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="2489,1535 2507,1535 2535,1557 2575,1533 2635,1567 2653,1556 2678,1568 2700,1564 2702,1472 2641,1467 2627,1452 2609,1463 2559,1447 2538,1429 2492,1428"/>
+                <Baseline points="2508,1520 2537,1518 2566,1518 2595,1518 2624,1519 2653,1521 2682,1523"/>
+                <TextEquiv>
+                    <Unicode>C.K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="3453,276 3517,267 3532,277 3546,273 3563,254 3595,250 3591,107 3548,119 3530,109 3448,115"/>
+                <Baseline points="3470,203 3496,200 3522,198 3548,198 3575,200"/>
+                <TextEquiv>
+                    <Unicode>273</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

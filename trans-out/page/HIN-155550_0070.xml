@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
+        <Created>2022-11-17T16:34:11.894+01:00</Created>
+        <LastChange>2022-11-18T03:23:59.289Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259486" pageNr="70" tsid="104225750" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=TBXPJNMKCUDCWYVLVWSGGDAC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RYLNMJXUZNYWBPACKWIVYOLV" imageId="41048856"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0070.tif" imageWidth="3742" imageHeight="4646">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749959816" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="557,124 557,1283 3593,1283 3593,124"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1908,407 2059,386 2271,439 2317,408 2526,409 2654,457 2763,421 2765,319 2127,310 2060,334 2026,301 1910,303"/>
+                <Baseline points="1928,383 1968,384 2009,386 2050,387 2091,389 2132,389 2173,390 2213,391 2254,392 2295,393 2336,393 2377,393 2418,395 2459,395 2499,395 2540,396 2581,397 2622,398 2663,399 2704,400 2745,401"/>
+                <TextEquiv>
+                    <Unicode>Bade.Baden,5.7.1923.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="538,572 3304,668 3366,516 539,495"/>
+                <Baseline points="557,555 696,558 836,560 975,563 1115,566 1254,568 1394,570 1533,573 1673,576 1812,579 1952,581 2092,584 2231,587 2371,589 2510,591 2650,594 2789,597 2929,599 3068,601 3208,603 3348,606"/>
+                <TextEquiv>
+                    <Unicode>Liebe schöne Clara Katharina, am Sonntag treffe ich mit meinem Sohn in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="590,710 3394,804 3397,689 592,609"/>
+                <Baseline points="608,684 746,687 885,690 1023,693 1162,696 1301,699 1439,702 1578,705 1716,708 1855,711 1994,713 2132,716 2271,719 2409,721 2548,723 2687,726 2825,729 2964,731 3102,734 3241,737 3380,740"/>
+                <TextEquiv>
+                    <Unicode>Nürnberg zusammen und hoffe Montag Früh in Wien zu sein. Alle übrigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="550,841 3180,905 3348,901 3350,796 552,716"/>
+                <Baseline points="569,816 707,819 845,822 983,824 1121,827 1259,830 1397,832 1536,834 1674,837 1812,840 1950,843 2088,845 2226,848 2364,851 2503,853 2641,856 2779,858 2917,861 3055,863 3193,866 3332,867"/>
+                <TextEquiv>
+                    <Unicode>Mitteilungen seien auf das Wiedersehenverspart, dem ich mich mehr ent-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="544,1018 3204,1020 3317,949 546,879"/>
+                <Baseline points="564,953 700,954 837,956 973,957 1110,959 1247,962 1383,963 1520,966 1657,969 1793,971 1930,974 2067,977 2203,978 2340,981 2477,984 2613,987 2750,990 2887,992 3023,995 3160,996 3297,999"/>
+                <TextEquiv>
+                    <Unicode>gegenfreue, als ich sagen kann. Möge ich in Gnaden aufgenommenwerden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1459,1124 1508,1143 1641,1102 2133,1122 2133,1060 2012,1034 1973,1051 1907,1022 1753,1034 1701,1002 1663,1026 1460,1023"/>
+                <Baseline points="1476,1094 1509,1097 1543,1097 1576,1098 1610,1100 1644,1100 1677,1101 1711,1101 1745,1101 1778,1101 1812,1101 1845,1101 1879,1101 1913,1101 1946,1101 1980,1102 2014,1103 2047,1104 2081,1106 2115,1107"/>
+                <TextEquiv>
+                    <Unicode>Alles Herzliche.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="2108,1291 2154,1285 2177,1307 2249,1253 2273,1267 2304,1261 2307,1181 2279,1173 2240,1179 2220,1165 2188,1178 2171,1160 2150,1170 2140,1159 2112,1162"/>
+                <Baseline points="2127,1232 2154,1238 2181,1239 2208,1238 2235,1236 2262,1238 2289,1244"/>
+                <TextEquiv>
+                    <Unicode>Dein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="3479,281 3510,275 3516,267 3549,279 3614,268 3603,101 3582,102 3572,110 3547,101 3501,146 3494,140 3469,145"/>
+                <Baseline points="3494,230 3527,229 3560,226 3593,224"/>
+                <TextEquiv>
+                    <Unicode>21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

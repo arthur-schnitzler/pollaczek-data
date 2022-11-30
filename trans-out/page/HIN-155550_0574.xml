@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:52</Creator>
+        <Created>2022-11-17T16:35:45.630+01:00</Created>
+        <LastChange>2022-11-29T11:13:00.975+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50263723" pageNr="574" tsid="105291927" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=CRZDCCYRGZDSEBMDSWSQQFOB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DJCFJFBTXXXYXMUVLLBQVSCS" imageId="41050720"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0574.tif" imageWidth="3787" imageHeight="4703">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749962890" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="686,357 686,1423 3495,1423 3495,357"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2263,425 2372,461 2438,434 2515,473 2635,410 2744,425 2779,460 2839,436 2986,472 3046,445 3047,367 3001,374 2945,331 2903,366 2776,327 2660,375 2457,332 2263,362"/>
+                <Baseline points="2280,416 2317,416 2354,416 2392,416 2429,416 2466,417 2504,417 2541,418 2578,419 2616,420 2653,420 2690,422 2728,422 2765,422 2802,422 2840,422 2877,422 2914,420 2952,419 2989,418 3027,414"/>
+                <TextEquiv>
+                    <Unicode>21.8.29. Bl. 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="671,636 3287,665 3288,571 671,531"/>
+                <Baseline points="690,605 819,605 948,606 1077,608 1206,609 1335,609 1464,611 1593,612 1722,612 1851,614 1980,615 2109,615 2238,617 2367,617 2496,618 2625,618 2754,618 2883,618 3012,618 3141,618 3270,618"/>
+                <TextEquiv>
+                    <Unicode>Ich bin gestern Abend, als ich heimkam, lange im dunklen Zimmer am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="668,757 3513,807 3514,706 3163,671 669,655"/>
+                <Baseline points="686,732 826,734 966,735 1107,737 1247,738 1388,738 1528,740 1669,741 1809,741 1950,743 2090,743 2230,744 2371,746 2511,746 2652,747 2792,749 2933,750 3073,752 3214,753 3354,755 3495,756"/>
+                <TextEquiv>
+                    <Unicode>Fenster gestanden. Der Himmel war schwer von Sternen und ich war sehr,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="682,897 3474,921 3475,819 2952,776 683,806"/>
+                <Baseline points="699,864 844,866 989,866 1134,867 1279,869 1425,870 1570,870 1715,872 1860,873 2005,874 2151,875 2296,876 2441,878 2586,878 2731,879 2877,881 3022,881 3167,882 3312,882 3458,884"/>
+                <TextEquiv>
+                    <Unicode>sehr traurig.- über Dich und Dein Leid, über mich und meine Sehnsucht.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="670,1010 3470,1031 3470,953 3239,916 671,929"/>
+                <Baseline points="687,995 825,996 963,998 1101,998 1240,999 1378,1001 1516,1002 1655,1002 1793,1004 1931,1005 2070,1007 2208,1007 2346,1008 2484,1010 2623,1010 2761,1011 2899,1012 3038,1013 3176,1014 3314,1014 3453,1016"/>
+                <TextEquiv>
+                    <Unicode>Aber ich will nicht jammern, denn mein Brief soll Dich aufheitern. Ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="668,1179 3394,1177 3472,1090 669,1045"/>
+                <Baseline points="687,1127 825,1127 963,1128 1101,1128 1240,1130 1378,1131 1516,1133 1655,1134 1793,1136 1931,1137 2070,1139 2208,1140 2346,1142 2484,1143 2623,1143 2761,1145 2899,1146 3038,1146 3176,1146 3314,1146 3453,1145"/>
+                <TextEquiv>
+                    <Unicode>glaube, ich sehe schon besser aus und das ist sehr notwendig für Dich!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="704,1276 1059,1274 1083,1299 1372,1258 1494,1281 1554,1271 1556,1183 1499,1210 1401,1181 1235,1210 973,1143 902,1177 706,1149"/>
+                <Baseline points="722,1254 762,1253 803,1253 844,1254 884,1254 925,1254 966,1254 1006,1256 1047,1256 1088,1257 1129,1257 1169,1259 1210,1259 1251,1260 1291,1260 1332,1262 1373,1262 1413,1263 1454,1263 1495,1263 1536,1265"/>
+                <TextEquiv>
+                    <Unicode>Ich küsse Dich sehr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="1540,1405 1590,1399 1652,1422 1691,1402 1726,1435 1765,1405 1786,1405 1789,1303 1726,1312 1701,1301 1637,1334 1571,1304 1543,1303"/>
+                <Baseline points="1557,1388 1583,1389 1610,1391 1636,1391 1663,1392 1689,1392 1716,1393 1742,1394 1769,1395"/>
+                <TextEquiv>
+                    <Unicode>Deine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1669713901050_262" custom="readingOrder {index:8;}">
+                <Coords points="1855,1475 2011,1475 2011,1525 1855,1525"/>
+                <Baseline points="1855,1520 2011,1520"/>
+                <TextEquiv>
+                    <Unicode>C.K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>21.8.29. Bl. 2.
+Ich bin gestern Abend, als ich heimkam, lange im dunklen Zimmer am
+Fenster gestanden. Der Himmel war schwer von Sternen und ich war sehr,
+sehr traurig.- über Dich und Dein Leid, über mich und meine Sehnsucht.-
+Aber ich will nicht jammern, denn mein Brief soll Dich aufheitern. Ich
+glaube, ich sehe schon besser aus und das ist sehr notwendig für Dich!
+Ich küsse Dich sehr.
+Deine
+C.K.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

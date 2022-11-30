@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:51</Creator>
+        <Created>2022-11-17T16:35:06.397+01:00</Created>
+        <LastChange>2022-11-25T11:51:27.983Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50263103" pageNr="364" tsid="105032249" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=BAYJIWNMMALAZCIYFVRDWTPO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JJMFYSCRBRHICIEPDAPJYDHB" imageId="41050207"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0364.tif" imageWidth="3758" imageHeight="4683">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749961670" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="591,92 591,1417 3599,1417 3599,92"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2416,421 2708,428 2813,395 2975,429 3319,383 3318,312 3216,289 3097,329 2953,320 2892,271 2626,330 2415,315"/>
+                <Baseline points="2432,390 2475,392 2518,392 2562,393 2605,393 2649,392 2692,392 2735,392 2779,390 2822,389 2866,389 2909,387 2952,387 2996,387 3039,386 3083,386 3126,384 3169,384 3213,386 3256,386 3300,387"/>
+                <TextEquiv>
+                    <Unicode>3.8.1926. Bl.2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="574,625 3305,623 3396,489 573,523"/>
+                <Baseline points="591,600 730,600 869,600 1009,599 1148,599 1287,599 1427,597 1566,597 1705,596 1845,594 1984,593 2123,593 2263,591 2402,590 2541,588 2681,587 2820,587 2959,585 3099,584 3238,584 3378,582"/>
+                <TextEquiv>
+                    <Unicode>Die Sonne strahlt in mein Ostzimmer, ich mache mich fertig und wandere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="578,748 3425,775 3403,638 578,689"/>
+                <Baseline points="596,731 736,731 877,731 1017,729 1158,729 1298,728 1439,728 1579,726 1720,726 1860,725 2001,724 2142,723 2282,722 2423,721 2563,720 2704,719 2844,717 2985,716 3125,716 3266,714 3407,713"/>
+                <TextEquiv>
+                    <Unicode>ins Freie. Von meiner Ischias ist nicht das geringste mehr zu verspü-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="617,914 3260,909 3309,796 616,822"/>
+                <Baseline points="635,861 767,861 900,861 1033,861 1166,861 1299,861 1431,861 1564,860 1697,860 1830,858 1963,858 2095,857 2228,855 2361,855 2494,854 2627,852 2759,851 2892,851 3025,849 3158,848 3291,846"/>
+                <TextEquiv>
+                    <Unicode>ren. - Lebwohl, mein Schatz, ich freue mich auf die Sonnenstunden mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="620,1013 3281,1024 3280,912 3119,892 620,914"/>
+                <Baseline points="639,993 770,993 901,993 1032,994 1163,993 1295,993 1426,993 1557,993 1688,992 1819,992 1951,990 2082,990 2213,989 2344,987 2475,987 2606,986 2738,984 2869,984 3000,983 3131,983 3263,983"/>
+                <TextEquiv>
+                    <Unicode>Dir, - auch wenn es zufällig der Mond sein sollte; - und umarme Dich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="623,1153 760,1189 897,1133 1041,1148 1042,1018 1007,1004 933,1028 887,1017 834,1056 806,1045 746,1073 623,1047"/>
+                <Baseline points="642,1124 667,1125 693,1125 718,1126 744,1127 769,1127 795,1127 820,1127 846,1127 871,1127 897,1127 922,1127 948,1127 973,1127 999,1127 1025,1127"/>
+                <TextEquiv>
+                    <Unicode>zärtlich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1617,1281 1670,1289 1701,1271 1775,1258 1821,1265 1842,1286 1884,1283 1885,1167 1860,1167 1818,1198 1797,1191 1730,1201 1684,1169 1649,1194 1617,1186"/>
+                <Baseline points="1635,1247 1660,1248 1686,1250 1712,1250 1737,1251 1763,1251 1789,1252 1814,1251 1840,1249 1866,1247"/>
+                <TextEquiv>
+                    <Unicode>Dein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1916,1424 1944,1424 1979,1392 2025,1388 2025,1304 2000,1304 1993,1311 1979,1304 1968,1315 1944,1322 1916,1322"/>
+                <Baseline points="1934,1379 1970,1382 2006,1379"/>
+                <TextEquiv>
+                    <Unicode>A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="3468,244 3502,253 3532,238 3574,283 3584,288 3609,282 3622,114 3598,112 3586,122 3570,110 3555,113 3532,93 3510,102 3479,100"/>
+                <Baseline points="3488,192 3515,198 3543,198 3571,199 3599,204"/>
+                <TextEquiv>
+                    <Unicode>323</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

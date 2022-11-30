@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_04:28</Creator>
+        <Created>2022-11-17T16:34:19.807+01:00</Created>
+        <LastChange>2022-11-18T04:28:26.089Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50260253" pageNr="114" tsid="104226024" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=QKCOAUOIBUQUMQXVAGLQPTKE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TIHUZDENUGWHYWBUADNGXDWN" imageId="41048900"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0114.tif" imageWidth="3742" imageHeight="1297">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749960120" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="356,121 356,886 3609,886 3609,121"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1814,219 2090,243 2179,279 2265,246 2350,278 2443,249 2596,304 2601,209 2443,127 2297,149 2250,116 1970,164 1897,106 1821,105"/>
+                <Baseline points="1833,209 1870,209 1907,210 1944,212 1982,213 2019,214 2056,215 2094,218 2131,220 2168,222 2206,224 2243,227 2280,229 2317,232 2355,235 2392,236 2429,240 2467,243 2504,246 2541,249 2579,252"/>
+                <TextEquiv>
+                    <Unicode>anrichsharte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="343,479 628,444 953,502 1006,472 1051,511 1242,464 1408,489 1484,478 1486,361 1129,402 962,369 912,410 724,328 621,368 344,369"/>
+                <Baseline points="362,452 417,452 472,452 527,453 582,453 637,455 692,455 747,456 802,458 857,459 913,460 968,461 1023,462 1078,463 1133,464 1188,464 1243,464 1298,464 1353,464 1408,462 1464,461"/>
+                <TextEquiv>
+                    <Unicode>Baden - Baden 30. 6. 19 24</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="335,595 3354,655 3355,538 2794,498 336,515"/>
+                <Baseline points="356,579 512,581 669,584 826,585 983,587 1139,588 1296,590 1453,591 1610,593 1767,594 1923,596 2080,597 2237,599 2394,600 2551,602 2707,603 2864,605 3021,606 3178,609 3335,611"/>
+                <TextEquiv>
+                    <Unicode>Begebe mich eben auf die Wanderscheft und grüsse tausendmal. Ich hoffe bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="344,755 3264,800 3417,692 346,622"/>
+                <Baseline points="363,705 514,708 666,711 817,713 969,716 1121,717 1272,719 1424,720 1576,722 1727,723 1879,726 2031,726 2182,729 2334,730 2486,732 2637,734 2789,735 2941,737 3092,738 3244,741 3396,743"/>
+                <TextEquiv>
+                    <Unicode>Heimkehr im Gunzelmannhof Nachricht vorzufinden. Bitte nach Salzburg : Sterr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="339,878 632,837 790,904 1049,843 1298,897 1300,791 1023,809 944,751 742,793 667,758 484,785 341,749"/>
+                <Baseline points="357,836 403,837 449,839 495,840 541,840 588,842 634,842 680,843 726,843 772,843 819,845 865,845 911,845 957,845 1003,846 1050,847 1096,848 1142,849 1188,851 1234,852 1281,855"/>
+                <TextEquiv>
+                    <Unicode>Hof zu schreiben. A. S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="3527,277 3557,273 3576,284 3591,269 3629,273 3629,133 3595,137 3584,125 3554,137 3527,133"/>
+                <Baseline points="3546,221 3577,221 3609,221"/>
+                <TextEquiv>
+                    <Unicode>65</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

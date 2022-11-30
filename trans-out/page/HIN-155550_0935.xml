@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:54</Creator>
+        <Created>2022-11-17T16:36:53.840+01:00</Created>
+        <LastChange>2022-11-25T11:54:32.425Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50264956" pageNr="935" tsid="105033035" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=MNGGIYUOAAASBMHVMVGTBZAP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YVUXKUVWIARBNHEAMULYDUEQ" imageId="41051364"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0935.tif" imageWidth="3771" imageHeight="4622">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749965049" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="648,348 648,1189 3507,1189 3507,348"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="631,434 958,437 989,462 1039,435 1177,483 1298,457 1300,365 1183,331 1119,365 1094,347 1023,360 988,334 934,355 875,311 737,294 708,315 633,306"/>
+                <Baseline points="648,417 679,417 711,417 742,419 774,419 806,420 837,420 869,422 901,422 932,423 964,424 996,425 1027,425 1059,426 1091,426 1122,427 1154,428 1186,428 1217,426 1249,426 1281,426"/>
+                <TextEquiv>
+                    <Unicode>Tgb. 10.7.1931.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="668,681 1999,634 2734,713 3438,592 669,514"/>
+                <Baseline points="686,615 822,617 959,618 1095,621 1232,623 1369,624 1505,626 1642,627 1779,628 1915,629 2052,630 2189,632 2325,633 2462,635 2599,635 2735,636 2872,638 3009,639 3145,641 3282,644 3419,645"/>
+                <TextEquiv>
+                    <Unicode>macht sich Sorgen um mich. Abend Cobenzl mit A. und Prof. Schinnerer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="638,781 2590,770 2799,858 3339,825 3443,712 638,703"/>
+                <Baseline points="656,744 794,746 932,748 1071,750 1209,752 1347,753 1486,756 1624,758 1762,759 1901,761 2039,762 2177,763 2316,764 2454,765 2592,767 2731,768 2869,770 3007,771 3146,773 3284,774 3423,776"/>
+                <TextEquiv>
+                    <Unicode>Schönes Wetter und Prof. Sch. wieder mehr nett zu mir. Mittwochwollen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="646,931 3461,974 3492,765 3118,857 647,799"/>
+                <Baseline points="665,878 805,879 945,879 1085,881 1226,882 1366,884 1506,887 1647,888 1787,890 1927,891 2068,893 2208,896 2348,897 2488,899 2629,900 2769,902 2909,903 3050,905 3190,906 3330,906 3471,908"/>
+                <TextEquiv>
+                    <Unicode>wir auf den Semmering - - ich fürchte mich! Contrakt mit der Hausfrau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="650,1021 3524,1114 3526,979 3314,955 651,936"/>
+                <Baseline points="668,1002 817,1007 966,1010 1116,1013 1265,1016 1415,1019 1564,1020 1713,1023 1863,1025 2012,1026 2162,1028 2311,1029 2461,1032 2610,1034 2759,1035 2909,1037 3058,1038 3208,1041 3357,1044 3507,1046"/>
+                <TextEquiv>
+                    <Unicode>für ein Jahr verlängert. Ich bin zu elend, um jetzt etwas zu entscheiden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="632,1150 650,1150 660,1161 703,1164 703,1015 685,1015 682,1019 675,1015 657,1022 650,1030 632,1030"/>
+                <Baseline points="651,1101 684,1101"/>
+                <TextEquiv>
+                    <Unicode>a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="734,1160 968,1234 1441,1158 2122,1213 2123,1117 1854,1057 1687,1101 1368,1054 736,1071"/>
+                <Baseline points="753,1143 820,1143 888,1143 955,1143 1023,1143 1091,1143 1158,1145 1226,1145 1294,1146 1361,1148 1429,1149 1497,1149 1564,1151 1632,1152 1700,1154 1767,1154 1835,1155 1903,1155 1970,1155 2038,1157 2106,1157"/>
+                <TextEquiv>
+                    <Unicode>er es wird mich an nichts hindern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

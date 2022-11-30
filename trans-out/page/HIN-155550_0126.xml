@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_04:28</Creator>
+        <Created>2022-11-17T16:34:21.903+01:00</Created>
+        <LastChange>2022-11-18T04:28:29.926Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50260404" pageNr="126" tsid="104226036" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=XGSDVHPOABATYBLTBVPRMTEN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VTESIWPXWKXPXVWXLILRFOLD" imageId="41048914"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0126.tif" imageWidth="3689" imageHeight="4662">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749960168" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="569,297 569,821 3410,821 3410,297"/>
+            <TextLine id="line_1668715153044_1720" custom="readingOrder {index:0;}">
+                <Coords points="581,648 3347,681 3226,552 1701,596 1224,498 924,589 583,514"/>
+                <Baseline points="599,618 3330,668"/>
+                <TextEquiv>
+                    <Unicode>Und erst aus unserem Briefwechsel, während meines Aufenthaltes in Wei-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1668715157577_1725" custom="readingOrder {index:1;}">
+                <Coords points="618,794 3388,832 3276,711 619,708"/>
+                <Baseline points="635,761 3373,789"/>
+                <TextEquiv>
+                    <Unicode>mar und Baden-Baden, ist das Aufblühen eines starken Gefühls zu spüren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

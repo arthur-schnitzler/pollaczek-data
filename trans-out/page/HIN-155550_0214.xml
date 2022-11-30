@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_04:56</Creator>
+        <Created>2022-11-17T16:34:38.204+01:00</Created>
+        <LastChange>2022-11-18T04:56:36.117Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50260847" pageNr="214" tsid="104226394" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=STVUHHGPRMDXMOPTKLELXHTB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZNQPBDZAZLOAIDCDUIBSFSCC" imageId="41049050"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0214.tif" imageWidth="3686" imageHeight="4703">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749960736" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="654,110 654,1234 3557,1234 3557,110"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2109,423 2517,419 2643,460 2762,421 2835,431 2836,358 2753,367 2673,340 2454,362 2425,342 2398,362 2110,324"/>
+                <Baseline points="2126,413 2160,411 2195,411 2230,411 2264,411 2299,411 2334,411 2368,411 2403,411 2438,413 2473,413 2507,413 2542,413 2577,414 2611,414 2646,414 2681,414 2715,414 2750,414 2785,414 2820,414"/>
+                <TextEquiv>
+                    <Unicode>Wien,Hotel Regina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="2130,492 2200,496 2216,480 2302,498 2346,485 2422,499 2491,489 2492,423 2340,418 2310,438 2270,418 2243,441 2207,420 2131,420"/>
+                <Baseline points="2147,476 2172,475 2197,474 2222,474 2247,474 2272,474 2297,474 2323,476 2348,476 2373,476 2398,477 2423,477 2448,477 2474,477"/>
+                <TextEquiv>
+                    <Unicode>19.6.1925</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="668,496 854,484 1016,517 1235,482 1334,512 1527,479 1527,420 1348,356 1116,422 668,400"/>
+                <Baseline points="684,471 725,475 766,476 807,478 849,479 890,479 931,480 972,480 1014,480 1055,479 1096,479 1137,479 1179,477 1220,477 1261,477 1302,477 1344,477 1385,479 1426,479 1467,481 1509,483"/>
+                <TextEquiv>
+                    <Unicode>An A,S.,Baden-Baden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="2195,569 2241,573 2261,563 2307,583 2361,557 2397,570 2420,557 2453,581 2483,558 2506,561 2507,495 2444,484 2424,501 2381,487 2301,500 2281,484 2195,483"/>
+                <Baseline points="2213,548 2238,546 2263,546 2288,546 2313,546 2338,545 2363,545 2388,546 2413,546 2438,547 2463,548 2489,549"/>
+                <TextEquiv>
+                    <Unicode>(Karte)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="639,717 3069,723 3321,687 3321,614 639,617"/>
+                <Baseline points="654,675 786,676 919,677 1051,677 1184,677 1316,677 1449,677 1581,677 1714,677 1846,677 1979,677 2112,677 2244,677 2377,677 2509,677 2642,677 2774,678 2907,678 3039,680 3172,680 3305,681"/>
+                <TextEquiv>
+                    <Unicode>Fahre eben hier fort. Habe das kleine Zimmer trotz allem mit ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="712,816 3347,853 3347,743 3135,720 712,730"/>
+                <Baseline points="728,804 858,806 988,807 1118,807 1248,808 1378,809 1508,809 1638,809 1768,809 1898,809 2029,809 2159,809 2289,809 2419,809 2549,809 2679,809 2809,809 2939,809 3069,809 3199,810 3330,810"/>
+                <TextEquiv>
+                    <Unicode>mischten Gefühlen verlassen. Vielen Dank für Telegramm, sehe Nach-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="665,972 3151,957 3124,877 665,870"/>
+                <Baseline points="680,936 802,938 925,938 1048,939 1171,939 1293,941 1416,941 1539,941 1662,942 1784,942 1907,942 2030,942 2153,942 2275,942 2398,942 2521,942 2644,942 2766,942 2889,942 3012,942 3135,942"/>
+                <TextEquiv>
+                    <Unicode>richten in Salzburg mit Spannung entgegen. Viele Gedanken und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="681,1079 707,1077 730,1100 770,1101 783,1114 806,1098 826,1102 860,1076 903,1097 933,1081 989,1088 990,1022 944,1008 907,1017 828,992 808,1009 782,998 728,1017 715,1004 682,1003"/>
+                <Baseline points="696,1064 721,1065 746,1067 771,1067 796,1067 821,1067 846,1067 871,1067 896,1067 921,1069 946,1070 972,1071"/>
+                <TextEquiv>
+                    <Unicode>Grüsse.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="2156,1210 2189,1210 2205,1227 2215,1221 2222,1228 2245,1218 2268,1226 2295,1210 2341,1214 2344,1105 2328,1104 2291,1127 2264,1126 2248,1116 2201,1141 2188,1131 2158,1133"/>
+                <Baseline points="2171,1203 2196,1202 2222,1202 2247,1203 2273,1203 2298,1205 2324,1206"/>
+                <TextEquiv>
+                    <Unicode>C.K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="3438,249 3478,247 3510,268 3530,269 3547,259 3573,264 3578,134 3551,134 3522,116 3478,131 3465,124 3442,126"/>
+                <Baseline points="3455,210 3480,210 3506,210 3531,212 3557,213"/>
+                <TextEquiv>
+                    <Unicode>164</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

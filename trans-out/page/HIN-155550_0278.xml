@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:51</Creator>
+        <Created>2022-11-17T16:34:50.376+01:00</Created>
+        <LastChange>2022-11-28T22:39:12.665+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50262115" pageNr="278" tsid="105268744" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=LYAAPCGQFTCMCAUIIKUGKDCQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GRCNDRYKNCPNGXBNIIIWFWYT" imageId="41049667"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0278.tif" imageWidth="3759" imageHeight="4658">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749961151" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="690,113 690,1826 3612,1826 3612,113"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} date {offset:0; length:8;}">
+                <Coords points="2556,564 2654,607 2685,590 2741,611 2815,574 2867,616 2955,603 2956,488 2908,470 2858,501 2778,493 2760,510 2732,510 2690,481 2624,501 2557,497"/>
+                <Baseline points="2574,569 2600,569 2626,569 2652,567 2678,567 2704,567 2730,568 2756,569 2782,569 2808,569 2834,570 2860,570 2886,572 2912,572 2939,573"/>
+                <TextEquiv>
+                    <Unicode>14.10.25</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="724,722 3308,705 3136,613 724,621"/>
+                <Baseline points="741,696 868,698 996,698 1123,698 1251,699 1378,699 1506,699 1633,699 1761,699 1888,699 2016,699 2143,699 2271,699 2398,699 2526,699 2653,699 2781,699 2908,701 3036,701 3163,702 3291,702"/>
+                <TextEquiv>
+                    <Unicode>entziffern. Deinen lieben Brief habe ich heute schon wenigstens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="682,855 3490,846 3406,755 682,760"/>
+                <Baseline points="698,831 836,831 975,833 1113,833 1252,834 1391,834 1529,834 1668,834 1807,834 1945,834 2084,833 2223,833 2361,833 2500,833 2639,833 2777,833 2916,833 3055,834 3193,834 3332,836 3471,837"/>
+                <TextEquiv>
+                    <Unicode>10 Mal gelesen aber nicht, weil ich ihn nicht verstanden habe, sondern,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="691,982 3523,1004 3436,878 691,881"/>
+                <Baseline points="707,960 847,960 987,962 1127,963 1267,963 1407,965 1547,965 1687,966 1827,966 1967,966 2107,966 2247,968 2387,968 2527,968 2667,968 2807,968 2947,968 3087,968 3227,968 3367,968 3507,966"/>
+                <TextEquiv>
+                    <Unicode>weil ich Dich dann näher fühle. Bleibe gesund, mein Liebes und ärgere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="672,1111 833,1102 951,1155 1053,1114 1200,1139 1291,1091 1337,1137 1550,1163 1551,1040 1436,997 1372,1025 1331,990 1271,1031 1131,1044 672,1006"/>
+                <Baseline points="690,1091 732,1092 774,1094 816,1094 858,1094 900,1094 942,1094 984,1094 1026,1094 1068,1094 1111,1094 1153,1094 1195,1094 1237,1094 1279,1094 1321,1095 1363,1095 1405,1097 1447,1098 1489,1100 1532,1103"/>
+                <TextEquiv>
+                    <Unicode>Dich möglichst wenig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1242,1251 1498,1276 1827,1242 2054,1306 2132,1250 2300,1296 2300,1146 1915,1176 1736,1144 1603,1178 1355,1121 1243,1160"/>
+                <Baseline points="1260,1221 1311,1223 1362,1224 1413,1224 1464,1226 1515,1226 1566,1226 1618,1226 1669,1226 1720,1226 1771,1226 1822,1226 1873,1226 1924,1226 1976,1226 2027,1226 2078,1226 2129,1226 2180,1227 2231,1227 2283,1229"/>
+                <TextEquiv>
+                    <Unicode>Ich küsse Dich tausendmal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1793,1378 1835,1371 1898,1392 1912,1378 1947,1375 1978,1396 2010,1379 2052,1390 2052,1295 2035,1295 2014,1277 1937,1291 1916,1277 1874,1277 1829,1241 1794,1248"/>
+                <Baseline points="1812,1356 1839,1356 1867,1355 1895,1355 1923,1353 1950,1353 1978,1354 2006,1356 2034,1361"/>
+                <TextEquiv>
+                    <Unicode>Deine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1999,1489 2118,1546 2209,1507 2262,1532 2297,1501 2444,1522 2682,1505 2682,1425 2493,1435 2332,1403 2216,1437 2104,1392 1999,1412"/>
+                <Baseline points="2015,1484 2047,1484 2080,1484 2112,1485 2145,1485 2177,1485 2210,1485 2242,1485 2275,1485 2307,1485 2340,1485 2373,1484 2405,1484 2438,1484 2470,1484 2503,1485 2535,1485 2568,1485 2600,1486 2633,1487 2666,1488"/>
+                <TextEquiv>
+                    <Unicode>Clara Katharina.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1849,1831 1884,1828 1901,1838 1926,1828 1947,1807 1975,1810 1975,1688 1957,1688 1947,1698 1933,1691 1908,1691 1870,1709 1849,1709"/>
+                <Baseline points="1866,1794 1896,1793 1926,1793 1956,1794"/>
+                <TextEquiv>
+                    <Unicode>- - - - - - - - </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>14.10.25
+entziffern. Deinen lieben Brief habe ich heute schon wenigstens
+10 Mal gelesen aber nicht, weil ich ihn nicht verstanden habe, sondern,
+weil ich Dich dann näher fühle. Bleibe gesund, mein Liebes und ärgere
+Dich möglichst wenig.
+Ich küsse Dich tausendmal
+Deine
+Clara Katharina.
+- - - - - - - - </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

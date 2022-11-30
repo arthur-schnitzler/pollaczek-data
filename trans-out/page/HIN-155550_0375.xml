@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:51</Creator>
+        <Created>2022-11-17T16:35:08.399+01:00</Created>
+        <LastChange>2022-11-25T11:51:31.302Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50263115" pageNr="375" tsid="105032261" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=GGWJYNDQGJCPDTDBBPCQVUAQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QZUBQBDGHFUTRANINROINJKP" imageId="41050219"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0375.tif" imageWidth="3771" imageHeight="4674">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749961708" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="626,67 626,4274 3627,4274 3627,67"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
+                <Coords points="1993,379 2744,372 2798,393 2797,285 2564,268 2370,316 1992,293"/>
+                <Baseline points="2012,372 2050,372 2088,371 2126,370 2165,369 2203,369 2241,369 2280,369 2318,369 2356,369 2395,369 2433,369 2471,369 2509,369 2548,369 2586,369 2624,368 2663,368 2701,368 2739,367 2778,366"/>
+                <TextEquiv>
+                    <Unicode>Adel boden, 7.8.1926.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+                <Coords points="2040,494 2205,487 2274,437 2407,474 2583,438 2759,492 2845,432 3115,454 3204,515 3337,476 3338,368 2040,383"/>
+                <Baseline points="2058,434 2121,435 2184,435 2247,435 2310,435 2373,437 2436,437 2499,437 2562,437 2625,437 2689,438 2752,438 2815,438 2878,438 2941,438 3004,438 3067,438 3130,438 3193,438 3256,437 3320,437"/>
+                <TextEquiv>
+                    <Unicode>(nach Zürich) Hotel Baur au Lac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1668767329796_2044" custom="readingOrder {index:2;}">
+                <Coords points="769,578 3238,628 3357,606 3357,484 769,517"/>
+                <Baseline points="786,569 816,569 1152,572 1197,572 1779,569 1857,569 1935,570 2013,570 2091,570 2169,570 2247,570 2325,570 2403,570 2481,570 2559,570 2637,570 2715,570 2793,570 2871,570 2949,570 3027,570 3105,570 3183,570 3261,570 3339,570"/>
+                <TextEquiv>
+                    <Unicode>in Liebes, gestern war ein schöner Morgen, den ich gleich benützte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1668767338083_2052" custom="readingOrder {index:3;}">
+                <Coords points="773,715 3242,720 3242,634 2656,605 773,628"/>
+                <Baseline points="791,702 816,704 841,704 866,704 891,704 916,704 941,704 966,704 991,704 1016,704 1041,703 1066,702 1091,702 1116,702 1141,702 1166,703 1191,704 1217,704 2028,701 2087,702 2147,702 2207,704 2267,704 2327,704 2387,704 2446,704 2506,704 2566,704 2626,704 2686,702 2746,702 2806,702 2865,702 2925,701 2985,701 3045,701 3105,701 3165,701 3225,702"/>
+                <TextEquiv>
+                    <Unicode>einen grösseren Spaziergang zu machen, aufs Hahnenmoos hin und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1668767343922_2057" custom="readingOrder {index:4;}">
+                <Coords points="647,848 3335,870 3335,765 3022,744 647,773"/>
+                <Baseline points="666,830 695,830 725,831 755,831 785,833 815,833 845,833 874,833 904,833 934,833 964,833 994,833 1024,833 1054,833 1083,831 1113,831 1143,831 1173,831 1203,831 1233,831 1263,831 1835,836 1909,836 1983,836 2057,836 2131,836 2205,836 2279,836 2353,834 2427,834 2501,834 2576,834 2650,833 2724,833 2798,833 2872,833 2946,831 3020,831 3094,831 3168,831 3242,831 3317,831"/>
+                <TextEquiv>
+                    <Unicode>zurück über 5 Stunden - Nachmittag schlug das Wetter wieder un und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1668767348619_2062" custom="readingOrder {index:5;}">
+                <Coords points="665,999 3386,1008 3440,893 665,905"/>
+                <Baseline points="683,965 722,965 762,965 802,965 842,965 882,965 922,965 962,965 1002,966 1042,966 1082,966 1121,966 1161,966 1201,968 1241,968 1281,968 1321,968 1361,968 1401,968 1441,969 1481,969 1814,965 1894,966 1974,966 2054,966 2135,966 2215,966 2295,966 2376,966 2456,966 2536,966 2617,966 2697,966 2777,966 2857,966 2938,965 3018,965 3098,965 3179,965 3259,965 3339,965 3420,965"/>
+                <TextEquiv>
+                    <Unicode>heute ist es trüb, kühl, regnerisch. Neinpes ist doch nicht der rechte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:6;}">
+                <Coords points="628,1118 2683,1153 3366,1114 3366,1038 628,1039"/>
+                <Baseline points="645,1094 780,1095 915,1095 1050,1095 1185,1097 1320,1097 1455,1097 1590,1098 1725,1098 1860,1098 1996,1098 2131,1098 2266,1098 2401,1098 2536,1098 2671,1098 2806,1098 2941,1098 3076,1097 3211,1097 3347,1097"/>
+                <TextEquiv>
+                    <Unicode>Aufenthalt und das übelste, dass man zu jedem grösseren Ausflug (von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:7;}">
+                <Coords points="634,1255 3200,1255 3172,1151 635,1119"/>
+                <Baseline points="653,1226 779,1226 906,1227 1032,1227 1159,1227 1285,1227 1412,1229 1538,1229 1665,1229 1791,1229 1918,1229 2044,1229 2171,1230 2297,1230 2424,1230 2550,1230 2677,1230 2803,1229 2930,1229 3056,1229 3183,1229"/>
+                <TextEquiv>
+                    <Unicode>etlichen Bergpartien abgesehen) vor allem einmal nach Frulingen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:8;}">
+                <Coords points="613,1377 3197,1405 3369,1387 3370,1301 613,1302"/>
+                <Baseline points="632,1356 775,1356 918,1358 1061,1358 1204,1358 1347,1359 1490,1359 1633,1359 1776,1359 1919,1359 2063,1359 2206,1359 2349,1359 2492,1359 2635,1359 2778,1359 2921,1359 3064,1359 3207,1361 3351,1361"/>
+                <TextEquiv>
+                    <Unicode>1 Automobilstunde) hinunterfahren musste. Am Dienstag oder Mittwoch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:9;}">
+                <Coords points="635,1501 2902,1501 3003,1574 3409,1503 3248,1405 635,1411"/>
+                <Baseline points="654,1481 790,1482 927,1484 1064,1485 1201,1487 1338,1488 1475,1488 1612,1490 1749,1490 1886,1490 2023,1490 2159,1491 2296,1491 2433,1491 2570,1491 2707,1491 2844,1491 2981,1491 3118,1491 3255,1493 3392,1493"/>
+                <TextEquiv>
+                    <Unicode>erfolgt also allgemeine Abreise; - ich fahre mit Heini wahrscheinlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:10;}">
+                <Coords points="635,1567 736,1566 753,1582 774,1583 780,1497 762,1496 738,1484 708,1500 690,1491 668,1501 658,1493 640,1492"/>
+                <Baseline points="654,1550 680,1555 706,1557 732,1559 759,1556"/>
+                <TextEquiv>
+                    <Unicode>nact.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:11;}">
+                <Coords points="646,1644 3409,1649 3474,1544 646,1565"/>
+                <Baseline points="663,1611 802,1614 942,1616 1081,1617 1221,1619 1361,1619 1500,1620 1640,1620 1779,1620 1919,1620 2059,1622 2198,1622 2338,1622 2477,1622 2617,1622 2757,1622 2896,1622 3036,1622 3175,1622 3315,1622 3455,1623"/>
+                <TextEquiv>
+                    <Unicode>zu Kandersteg zu Julius für 1-2 Tage; dann Bern, wo ich voraussichtlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:12;}">
+                <Coords points="2721,1691 3195,1705 3196,1637 3056,1629 3019,1647 2844,1624 2800,1642 2721,1637"/>
+                <Baseline points="2739,1685 2764,1686 2790,1686 2816,1686 2841,1686 2867,1688 2893,1688 2918,1688 2944,1688 2970,1688 2996,1688 3021,1688 3047,1688 3073,1688 3098,1688 3124,1688 3150,1688 3176,1689"/>
+                <TextEquiv>
+                    <Unicode>erhalte ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:13;}">
+                <Coords points="622,1771 3116,1813 3396,1781 3397,1688 622,1684"/>
+                <Baseline points="641,1745 785,1745 929,1746 1073,1746 1217,1748 1361,1748 1505,1748 1650,1749 1794,1749 1938,1751 2082,1751 2226,1751 2370,1752 2515,1752 2659,1752 2803,1754 2947,1754 3091,1754 3235,1755 3380,1755"/>
+                <TextEquiv>
+                    <Unicode>Bellevue absteigen werde; - da das aber nicht sicher erhält xxx eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:14;}">
+                <Coords points="608,1943 3397,1902 2689,1781 608,1777"/>
+                <Baseline points="626,1875 763,1877 901,1877 1039,1878 1176,1878 1314,1880 1452,1880 1589,1880 1727,1881 1865,1881 2003,1881 2140,1881 2278,1881 2416,1883 2553,1883 2691,1883 2829,1884 2966,1884 3104,1886 3242,1886 3380,1887"/>
+                <TextEquiv>
+                    <Unicode>Nachricht poste restante (die ich wohl Donnerstag Nachmittag abholen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:15;}">
+                <Coords points="634,2014 3315,2040 3315,1958 3009,1910 634,1928"/>
+                <Baseline points="651,2004 783,2006 915,2007 1047,2009 1180,2009 1312,2010 1444,2010 1577,2010 1709,2010 1841,2010 1974,2012 2106,2012 2238,2012 2370,2012 2503,2012 2635,2012 2767,2013 2900,2013 3032,2013 3164,2015 3297,2015"/>
+                <TextEquiv>
+                    <Unicode>werde). Ob ich Dir dann noch ins Baur au Lac oder nach Interlaken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:16;}">
+                <Coords points="631,2148 2341,2220 3315,2180 3316,2065 631,2055"/>
+                <Baseline points="650,2135 782,2136 914,2138 1046,2139 1179,2139 1311,2141 1443,2141 1576,2141 1708,2142 1840,2142 1973,2142 2105,2142 2237,2144 2369,2144 2502,2144 2634,2145 2766,2145 2899,2145 3031,2147 3163,2147 3296,2148"/>
+                <TextEquiv>
+                    <Unicode>schreiben resp. telefonieren soll, wird ja in dem Brief stehen, den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:17;}">
+                <Coords points="629,2327 3468,2285 3199,2187 629,2208"/>
+                <Baseline points="647,2268 787,2268 927,2270 1067,2270 1208,2271 1348,2272 1488,2273 1628,2273 1769,2274 1909,2274 2049,2276 2189,2276 2330,2276 2470,2276 2610,2276 2750,2277 2891,2276 3031,2276 3171,2276 3311,2276 3452,2276"/>
+                <TextEquiv>
+                    <Unicode>ich in Bern vorfinde. Ich sehe vielleicht auf dem Weg etwas am Thuner-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:18;}">
+                <Coords points="634,2440 3434,2433 3399,2325 635,2339"/>
+                <Baseline points="654,2396 792,2397 930,2399 1068,2400 1206,2402 1344,2402 1482,2402 1621,2403 1759,2403 1897,2403 2035,2405 2173,2405 2311,2405 2449,2406 2588,2406 2726,2407 2864,2408 3002,2409 3140,2411 3278,2412 3417,2414"/>
+                <TextEquiv>
+                    <Unicode>see an, wo es sehr hübsche Orte geben soll, besonders an einer Strecke,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:19;}">
+                <Coords points="624,2533 3363,2553 3363,2474 2907,2446 625,2447"/>
+                <Baseline points="644,2526 779,2528 914,2529 1049,2531 1184,2532 1319,2532 1454,2534 1589,2534 1724,2534 1859,2535 1994,2535 2129,2535 2264,2535 2399,2536 2534,2537 2669,2537 2804,2538 2939,2538 3074,2540 3209,2541 3345,2543"/>
+                <TextEquiv>
+                    <Unicode>die die Schweizer stolz ihre Riviera nennen. Zusammentreffen werden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:20;}">
+                <Coords points="663,2671 3312,2686 3312,2593 3201,2574 664,2595"/>
+                <Baseline points="681,2657 811,2658 942,2660 1072,2660 1203,2661 1334,2663 1464,2663 1595,2664 1725,2664 1856,2666 1987,2666 2117,2667 2248,2667 2378,2669 2509,2669 2640,2670 2770,2670 2901,2672 3031,2672 3162,2672 3293,2673"/>
+                <TextEquiv>
+                    <Unicode>wir wohl in Bern.(Thun ist eine halbe Stunde entfernt). Aber das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:21;}">
+                <Coords points="626,2807 2448,2851 3271,2831 3293,2759 627,2706"/>
+                <Baseline points="644,2787 775,2789 906,2790 1038,2792 1169,2792 1301,2793 1432,2795 1564,2795 1695,2796 1827,2796 1958,2798 2089,2798 2221,2799 2352,2799 2484,2801 2615,2801 2747,2801 2878,2802 3010,2804 3141,2804 3273,2805"/>
+                <TextEquiv>
+                    <Unicode>werden wir wohl telefonisch besprechen Freitag zur Frühstückszeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:22;}">
+                <Coords points="620,2912 1629,2965 1630,2857 1458,2849 1400,2881 1303,2852 1256,2884 1113,2818 1041,2861 944,2831 620,2854"/>
+                <Baseline points="636,2918 684,2918 733,2918 782,2918 831,2918 880,2918 929,2919 977,2919 1026,2921 1075,2922 1124,2922 1173,2924 1222,2924 1271,2924 1319,2925 1368,2925 1417,2924 1466,2924 1515,2922 1564,2921 1613,2919"/>
+                <TextEquiv>
+                    <Unicode>oder während des Lunch.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:23;}">
+                <Coords points="628,3062 3226,3111 3306,2993 628,2972"/>
+                <Baseline points="644,3047 776,3048 908,3050 1040,3051 1172,3053 1304,3053 1436,3054 1569,3056 1701,3057 1833,3057 1965,3059 2097,3059 2229,3060 2361,3060 2494,3062 2626,3062 2758,3062 2890,3063 3022,3063 3154,3063 3287,3063"/>
+                <TextEquiv>
+                    <Unicode>Dein Filmaujet ist nicht übel; aber es sind nicht nur gewisse An-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:24;}">
+                <Coords points="620,3213 3283,3237 3212,3121 620,3120"/>
+                <Baseline points="638,3177 769,3179 900,3180 1032,3182 1163,3183 1295,3183 1426,3185 1557,3185 1689,3186 1820,3186 1952,3188 2083,3188 2214,3189 2346,3189 2477,3191 2609,3191 2740,3192 2871,3192 3003,3194 3134,3194 3266,3195"/>
+                <TextEquiv>
+                    <Unicode>klänge an Variété-sondern auch an den "Mann, der die Ohrfeigen be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:25;}">
+                <Coords points="617,3311 3355,3351 3356,3236 618,3236"/>
+                <Baseline points="636,3303 771,3306 906,3309 1041,3311 1176,3314 1311,3314 1446,3315 1581,3317 1716,3317 1851,3317 1986,3318 2121,3318 2256,3318 2391,3320 2526,3320 2661,3321 2796,3323 2931,3324 3066,3327 3201,3329 3336,3333"/>
+                <TextEquiv>
+                    <Unicode>kam", -ich glaube, ich sah den Film in Berlin, aber ohne Sich, Chaney,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:26;}">
+                <Coords points="620,3458 3355,3473 3355,3394 3111,3367 621,3350"/>
+                <Baseline points="639,3437 781,3438 923,3440 1065,3442 1207,3444 1349,3444 1491,3446 1633,3447 1775,3447 1917,3449 2059,3449 2201,3450 2343,3450 2485,3451 2627,3452 2769,3453 2911,3453 3053,3455 3195,3456 3338,3458"/>
+                <TextEquiv>
+                    <Unicode>(den Du aus dem Oberngespenst kennst) spielte die Hauptrolle; einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:27;}">
+                <Coords points="616,3591 3434,3627 3528,3534 617,3483"/>
+                <Baseline points="635,3567 778,3569 922,3570 1066,3572 1209,3573 1353,3573 1497,3575 1640,3576 1784,3576 1928,3578 2072,3578 2215,3579 2359,3579 2503,3581 2646,3581 2790,3582 2934,3584 3077,3584 3221,3585 3365,3587 3509,3588"/>
+                <TextEquiv>
+                    <Unicode>Clown, der seine Tochter (oder seine Frau?) einem Entführer zu entreis-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:28;}">
+                <Coords points="614,3720 2902,3772 3388,3740 3389,3625 614,3638"/>
+                <Baseline points="633,3696 769,3698 906,3699 1043,3701 1180,3702 1317,3702 1454,3704 1591,3705 1728,3707 1865,3707 2002,3708 2138,3708 2275,3710 2412,3710 2549,3711 2686,3713 2823,3713 2960,3714 3097,3714 3234,3716 3371,3716"/>
+                <TextEquiv>
+                    <Unicode>sen sucht.- Ich bin indess auf die etwas zu meinem Vortheil geänder-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:29;}">
+                <Coords points="630,3858 3437,3895 3466,3784 631,3725"/>
+                <Baseline points="647,3828 794,3830 941,3830 1088,3831 1236,3833 1383,3834 1530,3836 1678,3837 1825,3839 1972,3840 2120,3841 2267,3842 2414,3843 2562,3845 2709,3846 2856,3846 3004,3848 3151,3848 3298,3849 3446,3849"/>
+                <TextEquiv>
+                    <Unicode>ten Bedingungen des Dr. Müller eingegangen.-Ob die Leute nun noch etwas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:30;}">
+                <Coords points="619,3983 2290,4018 2502,3991 2503,3933 620,3857"/>
+                <Baseline points="636,3959 728,3960 821,3962 913,3962 1006,3963 1098,3963 1191,3965 1283,3965 1376,3966 1468,3966 1561,3966 1653,3968 1746,3968 1838,3969 1931,3969 2023,3971 2116,3971 2208,3972 2301,3973 2393,3974 2486,3975"/>
+                <TextEquiv>
+                    <Unicode>von sich werden hören lassen, wird sich zeigen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:31;}">
+                <Coords points="612,4117 3476,4134 3476,4048 2920,3989 1105,4045 613,3966"/>
+                <Baseline points="630,4085 771,4086 912,4089 1054,4091 1195,4092 1337,4094 1478,4095 1619,4097 1761,4097 1902,4098 2044,4100 2185,4101 2326,4101 2468,4103 2609,4104 2751,4106 2892,4106 3033,4107 3175,4109 3316,4109 3458,4110"/>
+                <TextEquiv>
+                    <Unicode>Nun mein Liebes will ich Dir noch eine sehr angenehme Reise wünschen -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:32;}">
+                <Coords points="609,4276 3302,4257 3037,4154 611,4165"/>
+                <Baseline points="629,4218 761,4220 894,4221 1027,4223 1160,4224 1292,4226 1425,4227 1558,4230 1691,4232 1823,4232 1956,4234 2089,4235 2222,4236 2354,4238 2487,4239 2620,4241 2753,4241 2885,4242 3018,4244 3151,4244 3284,4245"/>
+                <TextEquiv>
+                    <Unicode>und wenn der Wunsch auch etwas verapätet eintrifft, so wird er doch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:33;}">
+                <Coords points="3507,195 3525,197 3532,190 3563,214 3577,215 3584,223 3598,221 3622,241 3640,242 3651,106 3604,102 3591,87 3572,100 3552,84 3516,84"/>
+                <Baseline points="3528,167 3561,171 3594,176 3627,173"/>
+                <TextEquiv>
+                    <Unicode>33A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

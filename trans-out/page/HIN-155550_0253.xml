@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:50</Creator>
+        <Created>2022-11-17T16:34:45.365+01:00</Created>
+        <LastChange>2022-11-28T21:47:56.756+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50261472" pageNr="253" tsid="105266446" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=GVAGSYBSNBJVYPQJNRMNXNEM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MLJVQLPBRVTWATTRKYSLJXIE" imageId="41049306"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0253.tif" imageWidth="3758" imageHeight="4670">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749960966" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="579,121 579,2324 3668,2324 3668,121"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2047,467 2139,498 2232,468 2474,504 2525,469 2767,471 2825,510 2910,491 2910,395 2721,401 2660,351 2517,396 2313,360 2228,410 2047,390"/>
+                <Baseline points="2066,461 2107,462 2148,462 2189,462 2231,464 2272,464 2313,464 2354,464 2396,464 2437,464 2478,464 2519,465 2561,465 2602,465 2643,465 2684,465 2726,465 2767,465 2808,467 2849,467 2891,468"/>
+                <TextEquiv>
+                    <Unicode>Karerpass, 13.8.1925.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="584,606 3454,641 3455,545 3262,531 585,518"/>
+                <Baseline points="605,581 746,582 887,584 1029,585 1170,587 1312,588 1453,590 1595,591 1736,591 1878,593 2019,594 2160,596 2302,597 2443,599 2585,600 2726,602 2868,602 3009,603 3151,605 3292,606 3434,609"/>
+                <TextEquiv>
+                    <Unicode>Mein Liebes, mein Telegramm hast Du erhalten. Meine weiteren Reisepläne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="559,753 3028,784 3264,756 3265,656 560,606"/>
+                <Baseline points="579,710 712,711 845,713 978,714 1112,716 1245,717 1378,719 1512,720 1645,722 1778,723 1912,725 2045,726 2178,726 2311,728 2445,729 2578,731 2711,731 2845,732 2978,734 3111,734 3245,735"/>
+                <TextEquiv>
+                    <Unicode>werden sich erst in Bozen entscheiden. Die Ofenstrasse scheint für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="573,888 3196,911 3313,797 574,773"/>
+                <Baseline points="591,840 726,842 861,843 996,845 1131,846 1266,849 1401,850 1537,852 1672,854 1807,855 1942,857 2077,857 2212,859 2347,860 2483,861 2618,863 2753,864 2888,864 3023,866 3158,866 3294,867"/>
+                <TextEquiv>
+                    <Unicode>Privatautos verboten; so ist es vorläufig unklar, wie in die Schweiz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="587,1000 3122,1034 3310,1028 3312,920 588,888"/>
+                <Baseline points="608,969 742,972 876,974 1010,975 1145,977 1279,978 1413,981 1547,983 1682,984 1816,986 1950,987 2084,989 2219,990 2353,990 2487,992 2621,993 2756,995 2890,995 3024,996 3158,996 3293,996"/>
+                <TextEquiv>
+                    <Unicode>einzufahren wäre. Ich werde gleich nach meiner Ankunft in Bozen In-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1580,1054 1606,1057 1634,1052 1641,1061 1653,1054 1672,1057 1683,1066 1714,1065 1722,997 1692,989 1675,999 1668,990 1649,988 1641,995 1588,985"/>
+                <Baseline points="1602,1040 1633,1044 1664,1050 1695,1049"/>
+                <TextEquiv>
+                    <Unicode>Dire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="576,1166 2830,1123 3342,1198 3344,1021 578,1001"/>
+                <Baseline points="596,1101 732,1103 868,1104 1005,1106 1141,1109 1278,1110 1414,1112 1550,1113 1687,1115 1823,1117 1960,1119 2096,1121 2232,1122 2369,1124 2505,1125 2642,1127 2778,1127 2914,1128 3051,1130 3187,1131 3324,1131"/>
+                <TextEquiv>
+                    <Unicode>formationen einholen, und xxx entweder Samstag zwischen 4 und 5 oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="581,1271 3317,1297 3283,1181 583,1171"/>
+                <Baseline points="602,1235 736,1236 871,1238 1006,1241 1141,1242 1275,1244 1410,1245 1545,1247 1680,1248 1814,1250 1949,1251 2084,1253 2219,1254 2353,1256 2488,1257 2623,1259 2758,1261 2892,1263 3027,1265 3162,1268 3297,1271"/>
+                <TextEquiv>
+                    <Unicode>Sonntag Früh zwischen 9 und 10 zu telefonieren versuchen. In jedem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="581,1386 3115,1428 3273,1411 3274,1322 582,1271"/>
+                <Baseline points="599,1365 731,1367 864,1368 997,1371 1130,1373 1263,1374 1395,1376 1528,1377 1661,1379 1794,1382 1927,1383 2059,1385 2192,1386 2325,1388 2458,1389 2591,1391 2723,1392 2856,1392 2989,1394 3122,1395 3255,1397"/>
+                <TextEquiv>
+                    <Unicode>Fall sehen wir uns jetzt, und ich bin sehr froh, dass wir weiteres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="604,1545 3255,1537 3233,1456 606,1399"/>
+                <Baseline points="624,1497 754,1499 885,1500 1015,1501 1146,1502 1276,1503 1407,1505 1537,1506 1668,1508 1798,1510 1929,1512 2059,1514 2190,1515 2320,1517 2451,1518 2581,1520 2712,1523 2842,1524 2973,1527 3103,1529 3234,1532"/>
+                <TextEquiv>
+                    <Unicode>Aug in Aug und Herz an Herzen besprechen können.- Ich fahre morgen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="563,1676 3491,1708 3319,1563 565,1549"/>
+                <Baseline points="582,1625 726,1626 871,1629 1015,1632 1160,1634 1305,1637 1449,1638 1594,1640 1738,1643 1883,1644 2028,1646 2172,1647 2317,1650 2461,1652 2606,1653 2751,1655 2895,1657 3040,1659 3184,1661 3329,1662 3474,1664"/>
+                <TextEquiv>
+                    <Unicode>Früh nach Bozen mit Heini, gleichfalls morgen oder Sonntag fahren Licht's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="568,1760 3198,1872 3689,1747 569,1683"/>
+                <Baseline points="587,1757 741,1757 895,1759 1049,1761 1203,1763 1357,1766 1511,1769 1665,1772 1819,1775 1973,1778 2127,1781 2281,1782 2435,1785 2589,1787 2743,1788 2897,1790 3051,1790 3205,1790 3359,1788 3513,1785 3668,1782"/>
+                <TextEquiv>
+                    <Unicode>vermutlich an einen italienischen See oder ans Meer) sowie Pollaczeks. (H. Owenig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="570,1914 1621,1944 1811,1894 2110,1965 2113,1819 1512,1796 1408,1840 1120,1785 672,1839 572,1798"/>
+                <Baseline points="590,1881 665,1884 740,1886 815,1887 890,1890 966,1891 1041,1892 1116,1893 1191,1895 1266,1896 1342,1896 1417,1898 1492,1899 1567,1900 1642,1901 1718,1902 1793,1904 1868,1907 1943,1908 2018,1910 2094,1913"/>
+                <TextEquiv>
+                    <Unicode>Vom Weiher ist der halbe 3.Akt fertig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="602,2034 890,2073 1041,2040 1113,2091 1307,2036 1826,2073 1973,2048 1974,1975 603,1934"/>
+                <Baseline points="623,2018 689,2019 756,2021 822,2022 889,2022 956,2024 1022,2025 1089,2025 1155,2027 1222,2027 1289,2027 1355,2028 1422,2028 1488,2030 1555,2030 1621,2031 1688,2033 1755,2034 1821,2034 1888,2036 1955,2037"/>
+                <TextEquiv>
+                    <Unicode>Sei tausendmal umarmt mein Liebes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="1503,2169 1592,2168 1607,2177 1623,2169 1646,2182 1654,2174 1680,2195 1707,2176 1742,2182 1745,2108 1695,2107 1627,2058 1600,2065 1539,2055 1527,2066 1507,2065"/>
+                <Baseline points="1524,2157 1549,2159 1574,2160 1599,2160 1624,2161 1649,2162 1674,2163 1699,2164 1725,2166"/>
+                <TextEquiv>
+                    <Unicode>Dein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="1753,2339 1780,2339 1792,2331 1807,2335 1818,2323 1830,2323 1865,2304 1884,2304 1883,2180 1864,2181 1825,2216 1817,2208 1798,2220 1752,2216"/>
+                <Baseline points="1773,2294 1803,2293 1833,2292 1863,2294"/>
+                <TextEquiv>
+                    <Unicode>A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Karerpass, 13.8.1925.
+Mein Liebes, mein Telegramm hast Du erhalten. Meine weiteren Reisepläne
+werden sich erst in Bozen entscheiden. Die Ofenstrasse scheint für
+Privatautos verboten; so ist es vorläufig unklar, wie in die Schweiz
+einzufahren wäre. Ich werde gleich nach meiner Ankunft in Bozen In-
+Dire
+formationen einholen, und xxx entweder Samstag zwischen 4 und 5 oder
+Sonntag Früh zwischen 9 und 10 zu telefonieren versuchen. In jedem
+Fall sehen wir uns jetzt, und ich bin sehr froh, dass wir weiteres
+Aug in Aug und Herz an Herzen besprechen können.- Ich fahre morgen
+Früh nach Bozen mit Heini, gleichfalls morgen oder Sonntag fahren Licht's
+vermutlich an einen italienischen See oder ans Meer) sowie Pollaczeks. (H. Owenig
+Vom Weiher ist der halbe 3.Akt fertig.
+Sei tausendmal umarmt mein Liebes
+Dein
+A.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

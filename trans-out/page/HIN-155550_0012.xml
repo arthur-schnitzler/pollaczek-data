@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
+        <Created>2022-11-17T16:34:01.256+01:00</Created>
+        <LastChange>2022-11-29T11:32:14.745+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50258991" pageNr="12" tsid="105293431" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YTCMUBYSZQKFHULINYZPGDCZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QZSUMHLDZXRCNPUOBEEKSKZH" imageId="41048796"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0012.tif" imageWidth="2806" imageHeight="3370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749959314" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="221,189 221,3118 2708,3118 2708,189"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="1176,465 1332,458 1391,480 1533,410 1615,457 1744,424 1858,441 1859,333 1684,276 1552,300 1485,281 1420,308 1300,255 1177,293"/>
+                <Baseline points="1191,380 1223,383 1256,384 1288,387 1321,389 1353,389 1386,390 1418,390 1451,392 1483,392 1516,392 1549,392 1581,392 1614,392 1646,390 1679,390 1711,390 1744,390 1776,390 1809,390 1842,390"/>
+                <TextEquiv>
+                    <Unicode>Ischl, 21.7.97.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="290,701 827,654 1075,779 1269,652 1598,643 1760,766 1963,620 2239,729 2471,635 2699,686 2719,603 2295,470 2094,566 1800,467 1634,577 1388,585 921,462 288,588"/>
+                <Baseline points="305,671 425,669 545,666 665,663 785,660 905,656 1025,652 1145,648 1265,644 1385,641 1505,636 1625,633 1745,630 1865,629 1985,627 2105,627 2225,627 2345,629 2465,630 2585,635 2705,639"/>
+                <TextEquiv>
+                    <Unicode>Arthur Schnitzler an Hugo v. Hofmannstal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+                <Coords points="236,1005 2724,945 2723,819 2235,858 2114,764 1854,872 806,820 235,904"/>
+                <Baseline points="251,960 373,955 496,948 619,944 742,938 865,935 988,930 1110,927 1233,924 1356,923 1479,921 1602,920 1725,918 1848,918 1970,918 2093,920 2216,921 2339,923 2462,926 2585,927 2708,932"/>
+                <TextEquiv>
+                    <Unicode>in Angelegenheit meines Ein-Aktes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="206,1162 2458,1105 2456,1041 2227,998 1974,1057 971,1007 773,1092 408,1019 205,1095"/>
+                <Baseline points="221,1145 332,1142 443,1140 554,1136 665,1134 776,1130 887,1127 998,1124 1109,1121 1220,1118 1331,1115 1442,1112 1553,1109 1664,1106 1775,1103 1886,1100 1997,1097 2108,1095 2219,1092 2330,1089 2441,1086"/>
+                <TextEquiv>
+                    <Unicode>»Mimi« Strahlenbilder aus dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="206,1347 338,1312 956,1323 1019,1290 1256,1290 1254,1219 1209,1242 1087,1175 871,1261 660,1193 523,1227 423,1169 204,1248"/>
+                <Baseline points="221,1313 271,1311 322,1309 373,1307 424,1305 475,1305 526,1303 577,1302 628,1301 679,1299 730,1298 780,1298 831,1296 882,1295 933,1293 984,1292 1035,1290 1086,1288 1137,1286 1188,1284 1239,1281"/>
+                <TextEquiv>
+                    <Unicode>Mädchenleben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="408,2074 2383,2031 2381,1929 2295,1915 1439,1987 406,1957"/>
+                <Baseline points="423,2046 520,2046 617,2046 714,2045 811,2043 909,2042 1006,2040 1103,2039 1200,2037 1297,2036 1395,2034 1492,2031 1589,2030 1686,2028 1783,2027 1881,2025 1978,2024 2075,2022 2172,2021 2269,2021 2367,2019"/>
+                <TextEquiv>
+                    <Unicode>Neulich war ich in Aussee bei den Loebs; gestern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="407,2233 2348,2188 2378,2089 406,2141"/>
+                <Baseline points="423,2192 520,2190 617,2190 714,2189 811,2189 908,2187 1005,2186 1102,2183 1199,2181 1296,2180 1393,2178 1490,2175 1587,2174 1684,2172 1781,2169 1878,2168 1975,2166 2072,2165 2169,2164 2266,2163 2364,2163"/>
+                <TextEquiv>
+                    <Unicode>waren sie in Ischl. Clara fühlt sich sehr verlas¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="402,2329 2344,2336 2460,2310 2459,2242 401,2277"/>
+                <Baseline points="417,2328 518,2327 619,2325 721,2324 822,2322 923,2321 1025,2319 1126,2318 1227,2316 1329,2315 1430,2313 1531,2312 1633,2310 1734,2309 1835,2307 1937,2306 2038,2304 2139,2301 2241,2300 2342,2298 2444,2297"/>
+                <TextEquiv>
+                    <Unicode>sen von Ihnen. Sie hat es anders ausgedrückt; aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="408,2481 1062,2481 1129,2452 1194,2463 1193,2398 870,2380 824,2406 731,2361 406,2398"/>
+                <Baseline points="423,2466 460,2465 498,2465 536,2464 574,2463 612,2463 649,2462 687,2462 725,2462 763,2460 801,2460 838,2460 876,2459 914,2458 952,2457 990,2456 1027,2455 1065,2454 1103,2453 1141,2451 1179,2450"/>
+                <TextEquiv>
+                    <Unicode>das ist der Sinn.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="405,2629 2402,2586 2400,2506 2197,2482 403,2515"/>
+                <Baseline points="420,2598 518,2597 616,2596 714,2595 813,2594 911,2592 1009,2591 1107,2589 1206,2587 1304,2586 1402,2583 1500,2582 1599,2580 1697,2577 1795,2576 1893,2574 1992,2571 2090,2570 2188,2567 2286,2565 2385,2562"/>
+                <TextEquiv>
+                    <Unicode>Sie wissen wohl, dass Burckhardt die Jordan nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+                <Coords points="417,2763 451,2765 493,2739 558,2752 597,2735 616,2753 684,2757 702,2741 770,2745 870,2721 868,2665 788,2643 715,2673 585,2659 463,2684 414,2664"/>
+                <Baseline points="432,2730 458,2730 484,2730 511,2730 537,2730 563,2730 590,2729 616,2729 643,2728 669,2726 695,2726 722,2724 748,2724 774,2722 801,2720 827,2718 854,2717"/>
+                <TextEquiv>
+                    <Unicode>aufführt? -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+                <Coords points="496,2886 2389,2864 2468,2845 2467,2740 495,2788"/>
+                <Baseline points="510,2855 607,2853 704,2852 801,2850 898,2849 996,2847 1093,2846 1190,2843 1287,2841 1384,2840 1482,2838 1579,2837 1676,2834 1773,2832 1870,2831 1968,2829 2065,2829 2162,2828 2259,2826 2356,2826 2454,2825"/>
+                <TextEquiv>
+                    <Unicode>Ich ärgere mich sehr; umso mehr als ich zu ahnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:12;}">
+                <Coords points="498,2991 1988,2938 2401,3011 2424,2860 497,2889"/>
+                <Baseline points="515,2960 609,2957 704,2955 798,2953 893,2951 988,2949 1082,2948 1177,2948 1272,2946 1366,2945 1461,2945 1556,2943 1650,2943 1745,2943 1840,2942 1934,2942 2029,2940 2124,2940 2218,2939 2313,2937 2408,2936"/>
+                <TextEquiv>
+                    <Unicode>glaube, wo die Gründe liegen und wer eigentlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:13;}">
+                <Coords points="537,3138 2270,3103 2269,3014 2057,2985 536,3037"/>
+                <Baseline points="551,3083 636,3084 721,3084 806,3084 891,3086 977,3084 1062,3084 1147,3084 1232,3083 1317,3083 1403,3081 1488,3080 1573,3078 1658,3078 1743,3077 1829,3075 1914,3074 1999,3072 2084,3071 2169,3071 2255,3069"/>
+                <TextEquiv>
+                    <Unicode>-- sagen wir "mit"-schuldig ist.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ischl, 21.7.97.
+Arthur Schnitzler an Hugo v. Hofmannstal
+in Angelegenheit meines Ein-Aktes
+»Mimi« Strahlenbilder aus dem
+Mädchenleben
+Neulich war ich in Aussee bei den Loebs; gestern
+waren sie in Ischl. Clara fühlt sich sehr verlas¬
+sen von Ihnen. Sie hat es anders ausgedrückt; aber
+das ist der Sinn.-
+Sie wissen wohl, dass Burckhardt die Jordan nicht
+aufführt? -
+Ich ärgere mich sehr; umso mehr als ich zu ahnen
+glaube, wo die Gründe liegen und wer eigentlich
+-- sagen wir "mit"-schuldig ist.-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

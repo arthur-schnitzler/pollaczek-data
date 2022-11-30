@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:54</Creator>
+        <Created>2022-11-17T16:36:58.566+01:00</Created>
+        <LastChange>2022-11-25T11:54:41.830Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50264995" pageNr="966" tsid="105033073" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=QVZAAYNGLPYWAEJIWSUBANBG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QAUNLPKGEDKUISFFXMPZKOVY" imageId="41051403"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0966.tif" imageWidth="3811" imageHeight="4501">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749965304" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="660,256 660,4048 3546,4048 3546,256"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1787,326 1816,329 1822,337 1833,330 1840,335 1858,336 1864,275 1846,274 1838,277 1810,263 1792,262"/>
+                <Baseline points="1806,317 1842,320"/>
+                <TextEquiv>
+                    <Unicode>5 -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="770,616 3177,627 3400,597 3400,499 770,501"/>
+                <Baseline points="788,594 917,593 1047,593 1177,593 1307,593 1436,591 1566,591 1696,590 1826,590 1955,588 2085,588 2215,587 2345,587 2474,585 2604,585 2734,584 2864,584 2993,584 3123,584 3253,584 3383,584"/>
+                <TextEquiv>
+                    <Unicode>eine menschliche Beziehung helfend oder rettend eingreifen, wenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1668781094557_658" custom="readingOrder {index:2;}">
+                <Coords points="709,733 2888,783 3396,749 3396,641 708,664"/>
+                <Baseline points="725,722 804,723 883,723 963,723 1042,723 1122,723 1201,723 1280,722 1360,722 1439,722 1519,721 1598,720 1677,720 1757,720 1836,719 1916,719 1995,719 2074,719 2154,720 2233,720 2313,722 2505,714 2548,716 2592,717 2635,719 2679,719 2723,719 2766,719 2810,717 2854,717 2897,717 2941,716 2985,716 3028,714 3072,714 3116,714 3159,714 3203,714 3247,714 3290,716 3334,717 3378,719"/>
+                <TextEquiv>
+                    <Unicode>man nicht zu beiden Beteiligten mit den gleichen Sympathien steht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="721,861 2479,907 3293,877 3329,776 721,796"/>
+                <Baseline points="738,852 866,852 995,854 1123,854 1252,854 1381,854 1509,852 1638,852 1767,852 1895,851 2024,851 2153,849 2281,848 2410,848 2539,846 2667,846 2796,845 2925,845 3053,843 3182,843 3311,843"/>
+                <TextEquiv>
+                    <Unicode>istw immer eine Kurzzichtigkeit oder eine Gemeinheit oder - eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="710,1020 3498,992 3379,902 2795,872 710,898"/>
+                <Baseline points="729,984 866,984 1004,984 1141,984 1279,983 1416,983 1554,983 1691,981 1829,981 1966,981 2104,980 2241,980 2379,978 2516,978 2654,978 2791,977 2929,977 3066,977 3204,975 3341,975 3479,975"/>
+                <TextEquiv>
+                    <Unicode>Unaufrichtigkeit, die leicht zum Verbrechen wird und strengere Sühne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="698,1191 1220,1111 3133,1136 3158,1032 697,1025"/>
+                <Baseline points="717,1115 838,1115 959,1115 1080,1115 1201,1115 1322,1115 1443,1113 1565,1113 1686,1113 1807,1113 1928,1113 2049,1113 2170,1113 2291,1113 2413,1112 2534,1112 2655,1112 2776,1112 2897,1112 3018,1110 3140,1110"/>
+                <TextEquiv>
+                    <Unicode>verdient als ein Mord, der reineren Motiven entspringen kann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="1612,1254 1638,1251 1684,1291 1702,1280 1738,1295 1774,1259 1850,1274 1886,1249 1933,1264 1966,1235 2059,1236 2060,1192 2016,1192 1995,1174 1948,1188 1912,1166 1825,1191 1757,1172 1732,1197 1689,1172 1613,1182"/>
+                <Baseline points="1632,1226 1657,1227 1683,1227 1709,1229 1734,1229 1760,1229 1786,1229 1811,1229 1837,1229 1863,1227 1888,1227 1914,1228 1940,1229 1965,1229 1991,1230 2017,1231 2043,1232"/>
+                <TextEquiv>
+                    <Unicode>- - - -...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="645,1490 3390,1471 3563,1446 3563,1341 645,1378"/>
+                <Baseline points="665,1437 809,1437 953,1437 1097,1437 1241,1437 1385,1437 1529,1437 1673,1437 1817,1437 1961,1436 2105,1436 2249,1436 2393,1436 2537,1434 2681,1434 2825,1433 2969,1433 3113,1431 3257,1431 3401,1430 3546,1428"/>
+                <TextEquiv>
+                    <Unicode>Zwischen Liebenden gibt es keine Verpflichtungen, sondern nur Selbstver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="707,1572 3492,1610 3492,1488 707,1486"/>
+                <Baseline points="725,1568 862,1568 999,1568 1137,1568 1274,1566 1412,1566 1549,1566 1687,1566 1824,1565 1962,1565 2099,1565 2236,1565 2374,1563 2511,1563 2649,1563 2786,1563 2924,1562 3061,1562 3199,1560 3336,1560 3474,1560"/>
+                <TextEquiv>
+                    <Unicode>ständlichkeiten. Empfindet man erst einmal das, was man gibt oder em-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="707,1756 3488,1724 3488,1605 706,1637"/>
+                <Baseline points="726,1701 863,1700 1000,1698 1137,1698 1275,1697 1412,1695 1549,1695 1686,1695 1824,1695 1961,1694 2098,1694 2235,1694 2373,1694 2510,1694 2647,1694 2784,1694 2922,1694 3059,1694 3196,1692 3333,1692 3471,1692"/>
+                <TextEquiv>
+                    <Unicode>pfängt, als eine erfüllte Pflicht, dann liegt die Liebe in den letzten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="707,1839 2296,1825 2548,1900 3002,1830 3001,1726 2872,1690 2324,1767 707,1756"/>
+                <Baseline points="725,1827 838,1827 951,1827 1064,1827 1177,1827 1290,1827 1403,1827 1516,1826 1629,1826 1742,1826 1855,1826 1968,1824 2081,1824 2194,1824 2307,1823 2420,1823 2533,1823 2646,1823 2759,1823 2872,1823 2985,1824"/>
+                <TextEquiv>
+                    <Unicode>Zügen und man sollte ihr rasch den Todesstoss versetzen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="1765,2019 1783,2019 1794,2009 1830,2013 1860,1985 1896,1972 1932,1991 1983,1982 1985,1899 1960,1902 1921,1883 1906,1897 1870,1888 1841,1909 1805,1897 1769,1907"/>
+                <Baseline points="1787,1938 1812,1938 1838,1940 1864,1940 1889,1940 1915,1941 1941,1942 1967,1944"/>
+                <TextEquiv>
+                    <Unicode>-- —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1668781102296_677" custom="readingOrder {index:12;}">
+                <Coords points="642,2167 3359,2169 3178,2014 2007,2103 642,2041"/>
+                <Baseline points="660,2151 741,2151 823,2151 905,2153 986,2153 1068,2153 1150,2153 1231,2153 1313,2153 1395,2151 1477,2151 1558,2151 1640,2151 1722,2151 1803,2151 1885,2150 1967,2150 2048,2150 2130,2150 2212,2150 2294,2150 2880,2145 2905,2146 2931,2147 2957,2148 2982,2149 3008,2150 3034,2150 3059,2150 3085,2150 3111,2150 3136,2150 3162,2150 3188,2150 3213,2148 3239,2148 3265,2148 3290,2148 3316,2148 3342,2148"/>
+                <TextEquiv>
+                    <Unicode>Es ist wichtiger von einem geliebt zu werden, dem wir nur Sympathie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1668781228523_685" custom="readingOrder {index:13;}">
+                <Coords points="714,2302 3430,2311 3373,2196 714,2158"/>
+                <Baseline points="731,2280 832,2282 933,2282 1034,2283 1135,2283 1236,2283 1337,2283 1438,2283 1539,2283 1640,2283 1742,2283 1843,2282 1944,2282 2045,2282 2146,2282 2247,2282 2348,2282 2449,2283 2550,2283 2651,2285 2753,2286 2966,2280 2992,2280 3018,2280 3044,2280 3070,2280 3096,2280 3123,2280 3149,2280 3175,2280 3201,2280 3227,2280 3253,2280 3280,2280 3306,2280 3332,2282 3358,2282 3384,2282 3411,2282"/>
+                <TextEquiv>
+                    <Unicode>entgegenbringen, als einen zu lieben, der uns nur sympathisch findet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:14;}">
+                <Coords points="1687,2427 1752,2438 1795,2417 1882,2429 1904,2415 2037,2405 2038,2344 2012,2344 1995,2325 1962,2336 1944,2321 1926,2339 1912,2332 1836,2356 1796,2345 1753,2359 1731,2337 1688,2348"/>
+                <Baseline points="1706,2394 1732,2397 1758,2399 1784,2400 1810,2402 1836,2402 1862,2402 1888,2401 1914,2400 1940,2400 1966,2400 1992,2400 2019,2402"/>
+                <TextEquiv>
+                    <Unicode>............</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:15;}">
+                <Coords points="703,2605 3510,2651 3452,2486 704,2512"/>
+                <Baseline points="723,2603 861,2604 999,2606 1138,2606 1276,2607 1415,2607 1553,2607 1692,2607 1830,2607 1969,2607 2107,2607 2245,2607 2384,2607 2522,2607 2661,2607 2799,2607 2938,2607 3076,2607 3215,2607 3353,2609 3492,2610"/>
+                <TextEquiv>
+                    <Unicode>Ihr nennt Eure Magd, die Euch Zucker oder ein Paar Strümpfe entwendet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:16;}">
+                <Coords points="670,2750 3393,2772 3303,2656 670,2649"/>
+                <Baseline points="689,2733 823,2733 957,2733 1092,2733 1226,2733 1361,2733 1495,2735 1629,2735 1764,2735 1898,2735 2033,2735 2167,2735 2301,2735 2436,2736 2570,2736 2705,2736 2839,2736 2973,2736 3108,2736 3242,2736 3377,2736"/>
+                <TextEquiv>
+                    <Unicode>eine Diebin - und mit Recht. Was aber seid Ihr, die Ihr einer Andern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:17;}">
+                <Coords points="662,2878 2842,2919 3249,2879 3249,2785 662,2816"/>
+                <Baseline points="681,2865 808,2867 936,2867 1063,2867 1191,2868 1318,2868 1446,2868 1573,2868 1701,2868 1828,2870 1956,2868 2083,2868 2211,2868 2338,2868 2466,2868 2593,2867 2721,2867 2848,2865 2976,2865 3103,2864 3231,2862"/>
+                <TextEquiv>
+                    <Unicode>den Mann, den Geliebten nehmt, oder es wenigstens - versucht - -?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:18;}">
+                <Coords points="1641,3023 1687,3041 1774,3003 1803,3017 1839,3000 1871,3014 1904,3000 1958,3022 2001,2997 2077,3016 2077,2940 2031,2944 2006,2922 1905,2939 1836,2906 1782,2941 1753,2927 1724,2945 1641,2947"/>
+                <Baseline points="1659,2981 1685,2981 1712,2981 1738,2982 1765,2982 1792,2982 1818,2984 1845,2984 1871,2984 1898,2984 1925,2984 1951,2984 1978,2984 2004,2984 2031,2984 2058,2984"/>
+                <TextEquiv>
+                    <Unicode>- - -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:19;}">
+                <Coords points="646,3246 3477,3195 3477,3115 3088,3058 1446,3139 646,2998"/>
+                <Baseline points="662,3186 809,3186 956,3187 1103,3188 1251,3188 1398,3188 1545,3189 1693,3189 1840,3189 1987,3189 2135,3189 2282,3189 2429,3189 2577,3189 2724,3189 2871,3189 3019,3189 3166,3189 3313,3189 3461,3189"/>
+                <TextEquiv>
+                    <Unicode>M anche Frauen gönnen einer andern nicht einmal den Mann, den sie ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:20;}">
+                <Coords points="676,3384 3447,3370 3425,3247 676,3244"/>
+                <Baseline points="693,3312 829,3314 966,3315 1103,3316 1240,3317 1377,3318 1513,3318 1650,3320 1787,3320 1924,3320 2061,3321 2197,3321 2334,3321 2471,3321 2608,3321 2745,3321 2881,3321 3018,3321 3155,3320 3292,3320 3429,3320"/>
+                <TextEquiv>
+                    <Unicode>lassen haben und nehmen es ihm übel, wenn er mit dieser Andern glück-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:21;}">
+                <Coords points="649,3504 786,3487 850,3527 883,3516 904,3534 922,3516 991,3513 1078,3463 1103,3477 1164,3467 1164,3405 1118,3387 955,3390 902,3350 847,3343 804,3372 765,3350 703,3382 682,3360 649,3364"/>
+                <Baseline points="666,3443 691,3444 716,3444 741,3444 767,3446 792,3446 817,3446 842,3446 868,3446 893,3446 918,3446 943,3444 969,3444 994,3444 1019,3444 1044,3446 1070,3446 1095,3446 1120,3447 1146,3449"/>
+                <TextEquiv>
+                    <Unicode>licher ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:22;}">
+                <Coords points="1685,3573 1731,3588 1847,3572 1904,3594 1933,3576 1955,3591 2002,3570 2077,3575 2079,3470 2053,3477 2032,3462 2003,3484 1928,3454 1845,3471 1805,3460 1776,3488 1762,3473 1744,3484 1719,3458 1686,3458"/>
+                <Baseline points="1703,3566 1728,3566 1754,3566 1779,3566 1805,3566 1830,3566 1856,3566 1881,3566 1907,3566 1932,3567 1958,3567 1983,3568 2009,3569 2034,3570 2060,3572"/>
+                <TextEquiv>
+                    <Unicode>............</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:23;}">
+                <Coords points="669,3807 3176,3835 3443,3811 3444,3692 670,3688"/>
+                <Baseline points="687,3765 831,3767 975,3768 1119,3770 1263,3771 1407,3773 1551,3773 1696,3774 1840,3774 1984,3776 2128,3776 2272,3777 2416,3777 2561,3777 2705,3777 2849,3777 2993,3777 3137,3777 3281,3777 3426,3777"/>
+                <TextEquiv>
+                    <Unicode>Das Wesen einer menschlichen Beziehung entscheidet nicht wie sie be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:24;}">
+                <Coords points="674,3937 836,3915 915,3951 1012,3904 1236,3900 1470,3961 1664,3954 1823,3911 1823,3788 1672,3828 1571,3792 1470,3832 1088,3814 980,3850 674,3807"/>
+                <Baseline points="690,3906 745,3905 801,3903 857,3902 913,3902 968,3900 1024,3900 1080,3900 1136,3900 1191,3900 1247,3900 1303,3901 1359,3902 1414,3902 1470,3902 1526,3902 1582,3902 1637,3902 1693,3902 1749,3902 1805,3900"/>
+                <TextEquiv>
+                    <Unicode>ginnt, sondern wie sie endet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:25;}">
+                <Coords points="1684,4032 1745,4048 1767,4037 1806,4052 1864,4045 1907,4082 1954,4064 1993,4076 2058,4051 2059,3983 2019,3979 1973,3949 1923,3938 1854,3980 1774,3983 1732,3947 1685,3935"/>
+                <Baseline points="1701,4017 1727,4017 1753,4017 1779,4017 1805,4019 1831,4019 1857,4019 1883,4019 1909,4020 1935,4020 1961,4020 1987,4020 2013,4020 2039,4020"/>
+                <TextEquiv>
+                    <Unicode>- - -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:51</Creator>
+        <Created>2022-11-17T16:34:46.501+01:00</Created>
+        <LastChange>2022-11-28T22:09:00.303+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50261631" pageNr="259" tsid="105267338" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YALKRKDEAZWTKRLMVRORFOVM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZGWKZHCUFAXYPDWBHXGGSRFG" imageId="41049398"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0259.tif" imageWidth="3690" imageHeight="4670">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749960994" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="618,124 618,1802 3573,1802 3573,124"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="614,465 785,499 876,466 918,491 960,474 991,492 1037,465 1065,490 1233,489 1234,392 1101,403 1049,381 954,404 895,379 864,392 822,360 703,386 616,360"/>
+                <Baseline points="632,458 661,458 690,458 719,458 748,458 777,459 806,459 835,459 864,459 893,461 923,461 952,461 981,462 1010,462 1039,464 1068,464 1097,465 1126,465 1155,465 1184,467 1214,467"/>
+                <TextEquiv>
+                    <Unicode>Tagebuchauszug</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} date {offset:1; length:7;}">
+                <Coords points="665,622 801,644 920,621 965,650 990,629 1052,633 1054,525 952,527 910,551 865,526 844,537 830,522 767,522 691,476 666,482"/>
+                <Baseline points="683,597 708,596 733,596 758,596 784,596 809,596 834,596 860,596 885,596 910,597 935,597 961,599 986,599 1011,599 1037,600"/>
+                <TextEquiv>
+                    <Unicode>(19.8.25)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="611,731 3256,781 3368,768 3369,649 611,671"/>
+                <Baseline points="630,725 766,725 902,726 1038,726 1174,728 1310,728 1446,729 1582,729 1718,731 1854,731 1990,732 2126,734 2262,734 2398,735 2534,735 2670,737 2806,737 2942,738 3078,738 3214,740 3351,740"/>
+                <TextEquiv>
+                    <Unicode>Mann ist. Wir sollen uns bald da, bald dort treffen. Gestern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="675,875 1119,868 1349,926 1552,861 1825,908 1986,875 1986,822 1833,769 1245,813 676,753"/>
+                <Baseline points="693,854 756,855 820,855 884,856 948,857 1011,857 1075,858 1139,858 1203,858 1266,860 1330,860 1394,860 1458,860 1521,861 1585,861 1649,861 1713,862 1776,863 1840,863 1904,864 1968,864"/>
+                <TextEquiv>
+                    <Unicode>waren wir zusammen in St. Moritz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="617,992 3416,1043 3445,921 617,916"/>
+                <Baseline points="633,983 772,986 912,987 1052,989 1192,990 1331,992 1471,992 1611,992 1751,993 1890,993 2030,993 2170,993 2310,993 2449,995 2589,995 2729,996 2869,997 3008,998 3148,1001 3288,1002 3428,1005"/>
+                <TextEquiv>
+                    <Unicode>Manchesmal habe ich Gewissensbisse. Passt das zusammen: Zimmer vermie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="626,1119 3041,1193 3443,1122 626,1056"/>
+                <Baseline points="644,1112 783,1115 922,1116 1061,1118 1200,1119 1339,1121 1478,1122 1617,1122 1756,1124 1895,1125 2035,1125 2174,1126 2313,1127 2452,1127 2591,1128 2730,1128 2869,1128 3008,1130 3147,1130 3286,1130 3426,1131"/>
+                <TextEquiv>
+                    <Unicode>ten und so leben? Die lieben Bekannten werden sich den Mund zerreis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="619,1277 3258,1277 3217,1193 2920,1166 620,1186"/>
+                <Baseline points="638,1241 768,1242 898,1244 1028,1245 1158,1246 1289,1247 1419,1248 1549,1250 1679,1251 1809,1251 1940,1253 2070,1254 2200,1256 2330,1256 2460,1257 2590,1257 2721,1259 2851,1259 2981,1260 3111,1260 3242,1262"/>
+                <TextEquiv>
+                    <Unicode>sen. Aber wem bin ich Rechenschaft schuldig? Hätte ich allein in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="601,1382 3033,1471 3386,1449 3387,1341 601,1291"/>
+                <Baseline points="618,1373 755,1373 893,1374 1030,1376 1168,1377 1305,1378 1443,1379 1580,1380 1718,1382 1855,1383 1993,1385 2130,1385 2268,1386 2405,1388 2543,1388 2680,1389 2818,1391 2955,1391 3093,1392 3230,1392 3368,1392"/>
+                <TextEquiv>
+                    <Unicode>irgend einem kleinen Nest sitzen bleiben sollen und auf das Beisam¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="624,1557 3339,1558 3435,1436 625,1428"/>
+                <Baseline points="641,1502 779,1503 918,1505 1057,1506 1196,1508 1334,1509 1473,1511 1612,1511 1751,1512 1889,1514 2028,1515 2167,1515 2306,1517 2444,1518 2583,1518 2722,1520 2861,1521 2999,1521 3138,1523 3277,1524 3416,1526"/>
+                <TextEquiv>
+                    <Unicode>mensein mit A. verzichten, damit ich es meinen Nebenmenschen Recht ma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="604,1641 3264,1675 3177,1576 605,1557"/>
+                <Baseline points="620,1631 751,1632 882,1634 1013,1635 1145,1637 1276,1637 1407,1638 1538,1640 1670,1641 1801,1643 1932,1643 2063,1644 2195,1646 2326,1647 2457,1647 2588,1649 2720,1650 2851,1652 2982,1652 3113,1653 3245,1655"/>
+                <TextEquiv>
+                    <Unicode>che? Wem würde ich damit etwas nützen? Aber ich bin doch irgendwo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:10;}">
+                <Coords points="605,1802 3052,1804 3014,1720 2647,1695 606,1701"/>
+                <Baseline points="624,1760 744,1763 865,1764 985,1766 1106,1767 1226,1768 1347,1769 1467,1770 1588,1772 1708,1772 1829,1773 1950,1775 2070,1776 2191,1776 2311,1778 2432,1779 2552,1779 2673,1781 2793,1782 2914,1784 3035,1785"/>
+                <TextEquiv>
+                    <Unicode>noch ein Spiesser und vermag nichts skrupellos zu geniessen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tagebuchauszug
+(19.8.25)
+Mann ist. Wir sollen uns bald da, bald dort treffen. Gestern
+waren wir zusammen in St. Moritz.
+Manchesmal habe ich Gewissensbisse. Passt das zusammen: Zimmer vermie¬
+ten und so leben? Die lieben Bekannten werden sich den Mund zerreis¬
+sen. Aber wem bin ich Rechenschaft schuldig? Hätte ich allein in
+irgend einem kleinen Nest sitzen bleiben sollen und auf das Beisam¬
+mensein mit A. verzichten, damit ich es meinen Nebenmenschen Recht ma¬
+che? Wem würde ich damit etwas nützen? Aber ich bin doch irgendwo
+noch ein Spiesser und vermag nichts skrupellos zu geniessen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

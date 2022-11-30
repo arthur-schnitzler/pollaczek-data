@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:51</Creator>
+        <Created>2022-11-17T16:34:53.497+01:00</Created>
+        <LastChange>2022-11-29T08:09:31.386+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50262565" pageNr="296" tsid="105282231" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=PVSCDNLZIJFCOMYKULAMGAJB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PWDJALUBOHMAHHZNUXGKHPAF" imageId="41049917"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0296.tif" imageWidth="3798" imageHeight="4598">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749961230" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="734,115 734,2688 3642,2688 3642,115"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} date {offset:0; length:8;}">
+                <Coords points="2267,408 2318,400 2399,441 2531,382 2596,409 2667,371 2697,374 2697,292 2666,303 2632,279 2503,297 2435,284 2412,308 2317,302 2266,319"/>
+                <Baseline points="2282,381 2307,381 2332,383 2357,381 2382,381 2407,381 2432,381 2457,381 2482,381 2507,381 2532,381 2557,380 2582,380 2607,380 2632,380 2657,378 2682,378"/>
+                <TextEquiv>
+                    <Unicode>9.2.1926.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="796,636 3447,590 3274,481 797,507"/>
+                <Baseline points="815,572 945,572 1076,572 1207,572 1337,573 1468,573 1599,573 1729,573 1860,573 1991,573 2122,575 2252,575 2383,575 2514,575 2644,575 2775,575 2906,575 3036,576 3167,576 3298,576 3429,576"/>
+                <TextEquiv>
+                    <Unicode>will mich zeichnen für die Literarische Welt; - eine Freundin Eli¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="758,776 1098,702 3504,748 3481,619 759,623"/>
+                <Baseline points="777,704 912,704 1047,704 1183,705 1318,705 1454,705 1589,705 1725,705 1860,705 1996,705 2131,705 2266,705 2402,705 2537,705 2673,707 2808,707 2944,708 3079,708 3215,710 3350,711 3486,713"/>
+                <TextEquiv>
+                    <Unicode>sabeth Bergners ( Name unverständlich) will meine Hand modellieren,-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="769,843 3480,876 3365,757 769,772"/>
+                <Baseline points="785,836 918,836 1052,836 1186,836 1320,836 1454,836 1588,836 1721,837 1855,837 1989,837 2123,839 2257,839 2391,839 2525,840 2658,840 2792,840 2926,840 3060,840 3194,840 3328,840 3462,839"/>
+                <TextEquiv>
+                    <Unicode>sich eventuell mit einer Zeichnung begnügen; alles dilatorisch be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="745,984 2927,1032 3443,983 3444,885 746,899"/>
+                <Baseline points="762,962 895,963 1028,965 1161,965 1295,966 1428,967 1561,968 1695,969 1828,969 1961,969 2095,971 2228,971 2361,971 2494,972 2628,972 2761,972 2894,974 3028,974 3161,975 3294,975 3428,975"/>
+                <TextEquiv>
+                    <Unicode>handelt.- Donnerstag Abend ein Herrenabend bei Georg Engel, mit dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="789,1151 3423,1105 3304,1010 789,1029"/>
+                <Baseline points="806,1091 935,1093 1065,1095 1195,1097 1325,1098 1455,1100 1585,1101 1715,1101 1845,1101 1975,1103 2105,1103 2234,1103 2364,1103 2494,1103 2624,1103 2754,1103 2884,1104 3014,1104 3144,1106 3274,1106 3404,1107"/>
+                <TextEquiv>
+                    <Unicode>Kultusminister, bei dem ich überdies für Freitag zum Thee geladen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="755,1292 3263,1271 3365,1258 3366,1163 756,1153"/>
+                <Baseline points="771,1223 899,1226 1028,1227 1157,1229 1286,1230 1415,1230 1544,1232 1672,1232 1801,1232 1930,1233 2059,1233 2188,1233 2317,1233 2446,1233 2574,1233 2703,1233 2832,1235 2961,1235 3090,1235 3219,1236 3348,1238"/>
+                <TextEquiv>
+                    <Unicode>bin mitgehangen, mitgefangen. Morgen Mittag bei Fulda.- Schapiro,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="752,1379 3291,1377 3237,1261 753,1291"/>
+                <Baseline points="770,1352 895,1353 1020,1355 1145,1356 1270,1357 1395,1358 1520,1359 1646,1359 1771,1361 1896,1361 2021,1362 2146,1362 2271,1364 2396,1364 2522,1364 2647,1365 2772,1365 2897,1365 3022,1367 3147,1367 3273,1368"/>
+                <TextEquiv>
+                    <Unicode>Jakob u.a. noch nicht untergebracht. Heute Abend bei Michaelis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="752,1501 3321,1505 3321,1427 3094,1396 752,1409"/>
+                <Baseline points="768,1485 894,1486 1021,1487 1148,1487 1275,1488 1402,1488 1529,1490 1655,1490 1782,1491 1909,1491 2036,1491 2163,1493 2290,1493 2417,1494 2543,1494 2670,1496 2797,1497 2924,1497 3051,1499 3178,1499 3305,1500"/>
+                <TextEquiv>
+                    <Unicode>(mit der Fein) - morgen mit Albert Steinrück. Jetzt erwarte ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="738,1626 2950,1679 3283,1654 3284,1542 738,1507"/>
+                <Baseline points="756,1613 881,1616 1007,1617 1132,1619 1258,1619 1383,1620 1509,1622 1634,1622 1760,1623 1885,1623 2011,1623 2136,1625 2262,1625 2387,1625 2513,1626 2638,1626 2764,1626 2889,1628 3015,1628 3140,1629 3266,1631"/>
+                <TextEquiv>
+                    <Unicode>Barnowsky, der mich dringend zu sprechen wünscht. Freitag Abend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1669705728879_1150" custom="readingOrder {index:10;}">
+                <Coords points="788,1678 2477,1635 3526,1699 3467,1807 3236,1826 1421,1802 1123,1793 787,1749"/>
+                <Baseline points="804,1742 838,1743 872,1745 906,1746 940,1746 975,1746 1009,1748 1043,1748 1077,1748 1111,1748 1146,1748 1180,1748 1214,1748 1248,1748 1282,1748 1317,1749 1351,1749 1385,1749 1419,1751 1453,1751 1488,1752 1617,1751 1711,1752 1806,1752 1900,1754 1995,1754 2089,1754 2184,1754 2278,1754 2373,1754 2467,1754 2562,1755 2656,1755 2751,1755 2845,1755 2940,1757 3034,1758 3129,1759 3223,1761 3318,1763 3412,1765 3507,1767"/>
+                <TextEquiv>
+                    <Unicode>hoff ich noch Heini als Max zu sehen (vorläufig ist er bettlägerig,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="770,1884 3516,1900 3516,1778 771,1789"/>
+                <Baseline points="786,1874 921,1875 1057,1877 1193,1878 1328,1880 1464,1881 1600,1883 1735,1883 1871,1884 2007,1884 2143,1884 2278,1886 2414,1886 2550,1886 2685,1887 2821,1887 2957,1888 3092,1889 3228,1889 3364,1890 3500,1892"/>
+                <TextEquiv>
+                    <Unicode>aber kein Fieber und sehr vergnügt). - Feilchenfeld ist in Davos. Ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1669705744057_1155" custom="readingOrder {index:12;}">
+                <Coords points="755,1889 833,1883 3483,1903 3448,2049 736,2051 737,1929"/>
+                <Baseline points="752,2006 887,2007 1023,2009 1158,2010 1294,2012 1430,2012 1565,2013 1701,2013 1837,2015 1972,2015 2108,2016 2244,2016 2379,2018 2515,2018 2651,2019 2786,2019 2922,2021 3058,2022 3193,2024 3329,2025 3465,2027 770,1940 797,1939 824,1938 852,1940 879,1940 907,1941 934,1941 962,1940"/>
+                <TextEquiv>
+                    <Unicode>denke morgen seinen Vertreter zu sprechen. Samstag Früh dürft ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="776,2188 3342,2164 3054,2030 2775,2110 1737,2031 776,2082"/>
+                <Baseline points="794,2136 920,2138 1047,2139 1173,2141 1300,2142 1427,2144 1553,2145 1680,2145 1806,2147 1933,2148 2060,2148 2186,2150 2313,2150 2439,2151 2566,2151 2693,2151 2819,2153 2946,2153 3072,2153 3199,2154 3326,2154"/>
+                <TextEquiv>
+                    <Unicode>nach Dresden fahren, mit Lili und Montag oder Dienstag nach Wien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="756,2282 3423,2330 3424,2221 756,2187"/>
+                <Baseline points="773,2268 904,2270 1036,2271 1168,2273 1299,2274 1431,2274 1563,2276 1694,2277 1826,2277 1958,2279 2090,2280 2221,2280 2353,2282 2485,2282 2616,2282 2748,2283 2880,2283 3011,2285 3143,2285 3275,2285 3407,2285"/>
+                <TextEquiv>
+                    <Unicode>zurück. Programmänderungen vorbehalten, - für heut mein Schatz leb¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+                <Coords points="716,2393 1059,2464 1242,2415 1337,2487 1462,2478 1544,2415 1812,2421 1813,2346 1457,2309 1331,2355 1080,2346 1016,2294 870,2347 717,2335"/>
+                <Baseline points="734,2399 787,2399 840,2400 893,2400 946,2402 999,2402 1052,2403 1105,2403 1158,2405 1211,2405 1264,2405 1317,2406 1370,2406 1423,2407 1476,2408 1529,2408 1582,2408 1635,2408 1688,2408 1741,2408 1794,2408"/>
+                <TextEquiv>
+                    <Unicode>wohl und sei innig umarmt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:16;}">
+                <Coords points="1810,2585 1875,2591 1971,2549 2038,2592 2115,2611 2149,2601 2152,2506 2082,2464 2068,2474 1984,2461 1953,2474 1923,2442 1814,2446"/>
+                <Baseline points="1830,2534 1855,2535 1880,2535 1905,2537 1931,2538 1956,2538 1981,2538 2006,2539 2032,2540 2057,2540 2082,2541 2107,2542 2133,2543"/>
+                <TextEquiv>
+                    <Unicode>Dein A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;}">
+                <Coords points="1838,2679 1865,2686 1903,2657 1954,2689 2015,2680 2025,2687 2053,2661 2069,2668 2104,2659 2105,2601 2082,2597 2054,2616 2027,2592 2003,2612 1979,2608 1945,2620 1898,2616 1878,2598 1840,2601"/>
+                <Baseline points="1856,2655 1881,2654 1907,2653 1933,2652 1959,2654 1984,2654 2010,2656 2036,2657 2062,2658 2088,2660"/>
+                <TextEquiv>
+                    <Unicode>- - -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>9.2.1926.
+will mich zeichnen für die Literarische Welt; - eine Freundin Eli¬
+sabeth Bergners ( Name unverständlich) will meine Hand modellieren,-
+sich eventuell mit einer Zeichnung begnügen; alles dilatorisch be-
+handelt.- Donnerstag Abend ein Herrenabend bei Georg Engel, mit dem
+Kultusminister, bei dem ich überdies für Freitag zum Thee geladen
+bin mitgehangen, mitgefangen. Morgen Mittag bei Fulda.- Schapiro,
+Jakob u.a. noch nicht untergebracht. Heute Abend bei Michaelis
+(mit der Fein) - morgen mit Albert Steinrück. Jetzt erwarte ich
+Barnowsky, der mich dringend zu sprechen wünscht. Freitag Abend
+hoff ich noch Heini als Max zu sehen (vorläufig ist er bettlägerig,
+aber kein Fieber und sehr vergnügt). - Feilchenfeld ist in Davos. Ich
+denke morgen seinen Vertreter zu sprechen. Samstag Früh dürft ich
+nach Dresden fahren, mit Lili und Montag oder Dienstag nach Wien
+zurück. Programmänderungen vorbehalten, - für heut mein Schatz leb¬
+wohl und sei innig umarmt.
+Dein A.
+- - -</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

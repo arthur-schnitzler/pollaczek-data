@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:52</Creator>
+        <Created>2022-11-17T16:35:27.396+01:00</Created>
+        <LastChange>2022-11-25T11:52:25.433Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50263436" pageNr="477" tsid="105032427" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=SUTNCZXFULPTZQXOAQXPBMMF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YTBYHURPEARSEKWXNJRSNZZR" imageId="41050539"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0477.tif" imageWidth="3771" imageHeight="4694">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749962348" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="729,384 729,1069 3398,1069 3398,384"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2286,468 2366,497 2504,472 2649,504 2770,463 2899,465 2965,494 2964,405 2845,367 2770,381 2670,339 2605,386 2499,357 2434,394 2358,365 2286,379"/>
+                <Baseline points="2304,458 2336,461 2368,462 2400,464 2433,464 2465,465 2497,465 2529,465 2562,464 2594,464 2626,462 2658,462 2691,461 2723,460 2755,459 2787,459 2820,458 2852,458 2884,458 2916,458 2949,458"/>
+                <TextEquiv>
+                    <Unicode>7.9.1927. Bl.2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="748,668 2648,725 3415,648 3296,566 748,589"/>
+                <Baseline points="765,659 896,659 1028,659 1159,660 1291,660 1423,660 1554,660 1686,660 1818,660 1949,660 2081,660 2213,659 2344,659 2476,659 2608,659 2739,659 2871,657 3003,657 3134,657 3266,657 3398,657"/>
+                <TextEquiv>
+                    <Unicode>ich über alle Meinungsverschiedenheiten hinüber, die sich ausglei-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="712,829 3178,821 3296,716 712,737"/>
+                <Baseline points="729,789 856,789 984,790 1111,791 1239,791 1367,791 1494,791 1622,791 1749,791 1877,791 2005,791 2132,791 2260,791 2387,791 2515,789 2643,789 2770,789 2898,789 3025,789 3153,789 3281,788"/>
+                <TextEquiv>
+                    <Unicode>chen lassen müssen, - mit den innigsten Gefühlen Deiner denke und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="760,929 2034,979 2396,924 2367,848 862,873 760,830"/>
+                <Baseline points="777,920 857,920 937,921 1017,921 1097,921 1178,921 1258,921 1338,923 1418,923 1498,923 1579,923 1659,923 1739,923 1819,922 1899,921 1980,921 2060,921 2140,921 2220,921 2300,923 2381,923"/>
+                <TextEquiv>
+                    <Unicode>dass niemanden bessere gehören. Dein. A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1654,1046 1690,1044 1736,1068 1759,1055 1769,1065 1782,1055 1825,1070 1838,1057 1881,1061 1941,1032 1942,970 1889,972 1860,955 1830,968 1807,957 1767,993 1655,1003"/>
+                <Baseline points="1671,1040 1696,1037 1721,1035 1746,1037 1771,1037 1797,1038 1822,1040 1847,1041 1872,1041 1897,1041 1923,1040"/>
+                <TextEquiv>
+                    <Unicode>- - - - —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

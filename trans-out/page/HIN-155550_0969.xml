@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:54</Creator>
+        <Created>2022-11-17T16:36:59.006+01:00</Created>
+        <LastChange>2022-11-25T11:54:42.608Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50264998" pageNr="969" tsid="105033080" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JNXTCGIDATKEZRAAXEJWARZG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZMVFTHRFWWFBFGEUGQSHYSTQ" imageId="41051406"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0969.tif" imageWidth="3674" imageHeight="4687">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749965312" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="539,323 539,1423 3323,1423 3323,323"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="539,451 573,452 623,415 761,429 789,416 844,438 879,419 906,433 987,408 989,325 961,327 934,302 871,318 785,305 710,251 661,271 600,241 544,257"/>
+                <Baseline points="558,390 583,392 609,393 635,394 661,395 687,396 712,398 738,399 764,399 790,401 816,401 841,402 867,402 893,402 919,401 945,401 971,399"/>
+                <TextEquiv>
+                    <Unicode>10.8.1931.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="547,640 3092,665 3142,510 548,539"/>
+                <Baseline points="566,593 700,594 835,597 970,599 1104,602 1239,603 1374,605 1508,606 1643,608 1778,609 1912,611 2047,612 2182,612 2316,614 2451,615 2586,617 2720,618 2855,620 2990,622 3125,624"/>
+                <TextEquiv>
+                    <Unicode>vorstellen. Begeisterte Komplimente über meine Aphorismen. Sonst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="549,746 657,734 718,763 774,736 885,738 1051,786 1141,787 1142,683 1093,700 1032,661 983,688 928,645 863,634 744,680 699,662 664,686 609,661 550,681"/>
+                <Baseline points="566,723 593,725 621,726 649,726 677,726 705,727 733,728 761,728 789,728 817,728 845,728 872,729 900,729 928,729 956,729 984,731 1012,731 1040,732 1068,733 1096,734 1124,735"/>
+                <TextEquiv>
+                    <Unicode>wieder allein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="541,885 3263,901 3264,755 1722,829 543,754"/>
+                <Baseline points="560,857 694,858 828,860 962,861 1097,863 1231,863 1365,864 1499,866 1634,867 1768,869 1902,870 2036,872 2171,873 2305,875 2439,876 2573,878 2708,879 2842,881 2976,882 3110,884 3245,887"/>
+                <TextEquiv>
+                    <Unicode>11.8. Fühle mich wohler. Alle finden mich besser aussehend. Es muss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="546,1007 1785,1001 1972,1062 2481,1012 2482,940 547,924"/>
+                <Baseline points="563,983 658,986 753,987 848,989 943,991 1038,993 1133,993 1228,995 1323,996 1418,997 1514,998 1609,999 1704,999 1799,1001 1894,1001 1989,1002 2084,1004 2179,1004 2274,1005 2369,1007 2465,1008"/>
+                <TextEquiv>
+                    <Unicode>sehr arg gewesen sein, wenn das schon besser ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="537,1139 3200,1190 3338,1175 3340,1043 538,1055"/>
+                <Baseline points="554,1115 692,1117 830,1119 969,1121 1107,1122 1246,1124 1384,1125 1523,1127 1661,1130 1800,1131 1938,1133 2076,1134 2215,1136 2353,1137 2492,1139 2630,1140 2769,1142 2907,1143 3046,1145 3184,1146 3323,1146"/>
+                <TextEquiv>
+                    <Unicode>Roman begonnen. Eine Einladung zu Fery Bl. abgelehnt. Es schüttet und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="532,1277 3226,1308 3227,1190 3113,1178 533,1211"/>
+                <Baseline points="549,1250 682,1248 815,1250 948,1250 1081,1251 1214,1253 1347,1254 1480,1256 1613,1259 1746,1261 1879,1263 2012,1266 2145,1268 2278,1269 2411,1271 2544,1272 2677,1274 2810,1274 2943,1272 3076,1272 3209,1269"/>
+                <TextEquiv>
+                    <Unicode>ein Einspänner wäre für mich zu teuer. Heute hat A. meinen Brief -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="521,1432 615,1389 822,1446 919,1395 1394,1387 1688,1435 1785,1395 1786,1332 1499,1277 1266,1334 917,1288 795,1328 747,1286 633,1330 522,1273"/>
+                <Baseline points="539,1374 600,1377 661,1379 723,1380 784,1382 846,1382 907,1383 968,1385 1030,1385 1091,1385 1153,1386 1214,1386 1275,1386 1337,1388 1398,1388 1460,1388 1521,1389 1582,1389 1644,1389 1705,1391 1767,1392"/>
+                <TextEquiv>
+                    <Unicode>morgen könnte Antwort da sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

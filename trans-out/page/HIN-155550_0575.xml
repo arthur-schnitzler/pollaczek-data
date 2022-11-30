@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:52</Creator>
+        <Created>2022-11-17T16:35:45.798+01:00</Created>
+        <LastChange>2022-11-29T10:21:27.390+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50263725" pageNr="575" tsid="105288011" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=SUTARFEQPUUAHHEXBPEYMFXL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NGPCGDUGJOWHKZXYHPCZJVTD" imageId="41050721"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0575.tif" imageWidth="3787" imageHeight="4703">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749962893" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="677,322 677,2819 3542,2819 3542,322"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2034,425 2090,450 2222,408 2339,448 2527,406 2755,464 3007,398 3008,313 2638,300 2560,339 2262,299 2123,341 2034,305"/>
+                <Baseline points="2051,384 2098,384 2145,384 2192,386 2239,386 2286,386 2333,386 2380,386 2427,386 2474,386 2521,386 2568,387 2615,387 2662,387 2709,387 2756,387 2803,387 2850,388 2897,389 2944,389 2991,390"/>
+                <TextEquiv>
+                    <Unicode>Hohenschwangau, 22.8.1928.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="716,568 3412,614 3413,486 717,490"/>
+                <Baseline points="735,567 867,569 1000,570 1133,572 1266,573 1399,575 1532,576 1665,578 1798,578 1931,579 2064,581 2196,582 2329,582 2462,584 2595,585 2728,587 2861,587 2994,588 3127,590 3260,591 3393,593"/>
+                <TextEquiv>
+                    <Unicode>Mein Liebes, gestern Nachmittag (es war ein Regentag) versuchte ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="696,724 3503,762 3504,652 2374,602 697,650"/>
+                <Baseline points="716,698 854,699 993,702 1131,704 1270,705 1408,707 1547,708 1685,709 1824,710 1962,711 2101,713 2239,714 2378,714 2516,716 2655,717 2793,719 2932,720 3070,722 3209,723 3347,726 3486,728"/>
+                <TextEquiv>
+                    <Unicode>noch allerlei zum "Wort" zu notieren; - nach dem Nachtmahl sass ich wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="698,835 3451,906 3452,810 3232,769 700,725"/>
+                <Baseline points="716,828 859,830 1002,831 1145,834 1288,836 1431,837 1574,839 1717,840 1860,842 2003,843 2147,845 2290,846 2433,848 2576,849 2719,850 2862,851 3005,852 3148,854 3291,855 3435,857"/>
+                <TextEquiv>
+                    <Unicode>immer mit Heini im Rauchzimmer und las. Kurz nach 10 wie allabendlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="683,1012 3496,1016 3562,881 684,867"/>
+                <Baseline points="701,957 843,959 985,962 1127,963 1269,965 1411,967 1553,969 1695,971 1837,972 1979,974 2121,975 2263,977 2405,977 2547,978 2689,980 2831,981 2973,983 3115,983 3257,984 3399,986 3542,986"/>
+                <TextEquiv>
+                    <Unicode>zu Bett. Lange mit meist beziehungsvollen Träumen und nie ohne Unterbre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="693,1115 1353,1107 1524,1141 1524,1059 1340,1015 1262,1046 1187,1006 1145,1038 1109,1016 992,1047 772,1016 693,1033"/>
+                <Baseline points="711,1085 750,1088 790,1089 830,1091 870,1092 909,1092 949,1094 989,1094 1029,1094 1068,1094 1108,1095 1148,1095 1188,1095 1227,1095 1267,1095 1307,1095 1347,1095 1386,1095 1426,1095 1466,1097 1506,1097"/>
+                <TextEquiv>
+                    <Unicode>chungen geschlafen.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="724,1266 3267,1311 3326,1141 1983,1189 1070,1107 725,1181"/>
+                <Baseline points="741,1220 869,1221 997,1223 1126,1224 1254,1226 1382,1227 1511,1229 1639,1230 1767,1232 1896,1233 2024,1235 2152,1236 2281,1237 2409,1239 2537,1241 2666,1242 2794,1244 2922,1245 3051,1247 3179,1249 3308,1251"/>
+                <TextEquiv>
+                    <Unicode>Am Vormittag allein in Füssen herumspaziert, in den Anlagen unter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="688,1382 3444,1448 3478,1282 689,1276"/>
+                <Baseline points="708,1350 845,1352 983,1353 1120,1355 1258,1356 1395,1358 1533,1359 1670,1361 1808,1362 1945,1364 2083,1365 2221,1367 2358,1369 2496,1371 2633,1372 2771,1374 2908,1374 3046,1376 3183,1377 3321,1379 3459,1379"/>
+                <TextEquiv>
+                    <Unicode>der Burg geruht. Zu Fuss nach Hohenschwangau zurück. Indessen war Ruth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="683,1511 3145,1503 3229,1579 3478,1529 3479,1447 684,1411"/>
+                <Baseline points="702,1479 840,1481 978,1484 1116,1485 1254,1487 1392,1488 1530,1490 1668,1492 1806,1494 1944,1496 2082,1497 2220,1499 2358,1500 2496,1502 2634,1503 2772,1505 2910,1506 3048,1508 3186,1508 3324,1509 3462,1511"/>
+                <TextEquiv>
+                    <Unicode>angekommen; Heini machte uns bekannt; sie sieht ein wenig der Eveline</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="705,1639 3309,1685 3445,1594 706,1533"/>
+                <Baseline points="725,1608 860,1611 995,1614 1130,1616 1265,1617 1400,1620 1535,1622 1671,1623 1806,1625 1941,1626 2076,1628 2211,1629 2346,1629 2481,1631 2617,1632 2752,1634 2887,1637 3022,1638 3157,1640 3292,1642 3428,1644"/>
+                <TextEquiv>
+                    <Unicode>hold ähnlich; ist sympathisch, scheint recht klug und gutartig; -nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="675,1756 3357,1785 3358,1689 3085,1664 676,1692"/>
+                <Baseline points="692,1740 824,1742 956,1743 1088,1746 1221,1748 1353,1749 1485,1751 1618,1752 1750,1755 1882,1757 2015,1758 2147,1760 2279,1761 2411,1763 2544,1764 2676,1766 2808,1767 2941,1768 3073,1769 3205,1770 3338,1770"/>
+                <TextEquiv>
+                    <Unicode>dem Essen wandelten wir amSee. Man war gleich in gutem Gespräch und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="682,1898 3471,1947 3472,1833 2900,1787 683,1816"/>
+                <Baseline points="702,1872 839,1874 977,1877 1114,1878 1252,1880 1389,1881 1527,1883 1664,1884 1802,1886 1939,1887 2077,1889 2215,1890 2352,1892 2490,1893 2627,1895 2765,1896 2902,1898 3040,1899 3177,1901 3315,1902 3453,1905"/>
+                <TextEquiv>
+                    <Unicode>vertrauter Atmosphäre. Nun bin ich unbeschreiblich müd auf meinem Bett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="2794,1968 2890,1971 2922,1985 2944,1974 2962,1981 2993,1977 2993,1910 2972,1906 2926,1914 2918,1906 2862,1910 2851,1918 2844,1911 2837,1918 2823,1911 2794,1914"/>
+                <Baseline points="2813,1964 2840,1962 2867,1961 2894,1961 2921,1962 2948,1962 2975,1961"/>
+                <TextEquiv>
+                    <Unicode>eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="675,2029 3229,2091 3486,1976 676,1943"/>
+                <Baseline points="693,2009 831,2009 970,2009 1109,2010 1247,2011 1386,2012 1525,2013 1663,2015 1802,2016 1941,2018 2080,2021 2218,2022 2357,2024 2496,2025 2634,2027 2773,2028 2912,2030 3050,2031 3189,2032 3328,2033 3467,2034"/>
+                <TextEquiv>
+                    <Unicode>gelegen. Dein wohltuender Brief erhellt mir trotz wunder-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="704,2143 1523,2227 1688,2151 2888,2193 2981,2170 2982,2052 2843,2111 704,2069"/>
+                <Baseline points="720,2135 832,2136 944,2138 1056,2139 1168,2140 1281,2141 1393,2142 1505,2144 1617,2145 1729,2147 1842,2148 1954,2150 2066,2151 2178,2153 2290,2154 2403,2156 2515,2156 2627,2157 2739,2157 2851,2159 2964,2159"/>
+                <TextEquiv>
+                    <Unicode>baren Herbstglanzes über See und Bergen,düstere Stunde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="663,2293 2915,2343 3072,2306 3073,2232 664,2197"/>
+                <Baseline points="680,2262 798,2265 917,2267 1036,2268 1154,2271 1273,2273 1392,2274 1510,2275 1629,2277 1748,2279 1867,2279 1985,2280 2104,2282 2223,2283 2341,2285 2460,2286 2579,2288 2697,2289 2816,2292 2935,2294 3054,2297"/>
+                <TextEquiv>
+                    <Unicode>Ich will wieder meine Manuscripte hernennen - und versuchen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="660,2439 3307,2464 3308,2357 662,2318"/>
+                <Baseline points="677,2394 807,2397 938,2399 1068,2400 1199,2403 1330,2405 1460,2406 1591,2408 1722,2409 1852,2411 1983,2412 2114,2414 2244,2416 2375,2417 2506,2420 2636,2421 2767,2423 2898,2424 3028,2427 3159,2429 3290,2432"/>
+                <TextEquiv>
+                    <Unicode>Für heut sag ich Dir Lebwohl und küsse Dich dankbar und zärtlich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="1644,2612 1679,2616 1779,2595 1811,2596 1853,2621 1875,2617 1876,2475 1808,2482 1759,2446 1730,2449 1691,2481 1645,2488"/>
+                <Baseline points="1661,2540 1688,2536 1716,2535 1744,2535 1772,2537 1800,2538 1828,2538 1856,2537"/>
+                <TextEquiv>
+                    <Unicode>Dein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="1862,2718 1883,2718 1893,2707 1925,2718 1940,2703 1972,2703 1972,2576 1943,2576 1933,2565 1904,2554 1886,2536 1862,2540"/>
+                <Baseline points="1881,2672 1917,2670 1953,2672"/>
+                <TextEquiv>
+                    <Unicode>A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="1670,2842 1737,2835 1773,2807 1815,2828 1893,2810 1911,2796 1950,2810 1950,2753 1925,2757 1915,2746 1897,2757 1815,2696 1762,2736 1726,2736 1705,2714 1691,2725 1670,2721"/>
+                <Baseline points="1689,2789 1716,2789 1743,2789 1770,2787 1797,2787 1825,2787 1852,2787 1879,2788 1906,2789 1934,2790"/>
+                <TextEquiv>
+                    <Unicode>- -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hohenschwangau, 22.8.1928.
+Mein Liebes, gestern Nachmittag (es war ein Regentag) versuchte ich
+noch allerlei zum "Wort" zu notieren; - nach dem Nachtmahl sass ich wie
+immer mit Heini im Rauchzimmer und las. Kurz nach 10 wie allabendlich
+zu Bett. Lange mit meist beziehungsvollen Träumen und nie ohne Unterbre-
+chungen geschlafen.-
+Am Vormittag allein in Füssen herumspaziert, in den Anlagen unter
+der Burg geruht. Zu Fuss nach Hohenschwangau zurück. Indessen war Ruth
+angekommen; Heini machte uns bekannt; sie sieht ein wenig der Eveline
+hold ähnlich; ist sympathisch, scheint recht klug und gutartig; -nach
+dem Essen wandelten wir amSee. Man war gleich in gutem Gespräch und
+vertrauter Atmosphäre. Nun bin ich unbeschreiblich müd auf meinem Bett
+eine
+gelegen. Dein wohltuender Brief erhellt mir trotz wunder-
+baren Herbstglanzes über See und Bergen,düstere Stunde.
+Ich will wieder meine Manuscripte hernennen - und versuchen.
+Für heut sag ich Dir Lebwohl und küsse Dich dankbar und zärtlich.
+Dein
+A.
+- -</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

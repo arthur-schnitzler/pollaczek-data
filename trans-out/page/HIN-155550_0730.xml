@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:53</Creator>
+        <Created>2022-11-17T16:36:15.242+01:00</Created>
+        <LastChange>2022-11-25T11:53:33.086Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50264544" pageNr="730" tsid="105032763" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YUERHKXYAXSJDNKBBPAWVREB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NMZAAAUNKKLYKJJPFBZHSWAA" imageId="41050955">
+            <Property key="mdSetName" value="myMdSet"/>
+            <Property key="property2"/>
+            <Property key="property1"/>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0730.tif" imageWidth="3690" imageHeight="4667">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749963835" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="639,228 639,4422 3356,4422 3356,228"/>
+            <TextLine id="r1l24" custom="readingOrder {index:0;}">
+                <Coords points="1809,657 1684,654 1542,716 1335,700 1223,777 1151,781 1152,872 1246,863 1283,832 1390,910 1499,867 1586,912 1747,849 1811,864"/>
+                <Baseline points="1791,761 1761,759 1731,758 1702,756 1672,756 1643,755 1613,755 1583,755 1554,755 1524,755 1495,755 1465,755 1435,756 1406,756 1376,756 1347,757 1317,758 1198,767 1169,767 1228,758 1199,759"/>
+                <TextEquiv>
+                    <Unicode>Kaufmann, Dich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:1;}">
+                <Coords points="3114,522 721,500 650,515 649,741 1225,778 1696,685 3113,752"/>
+                <Baseline points="3095,629 2998,629 2901,628 2804,627 2707,627 2611,627 2514,626 2417,626 2320,626 2223,626 2127,626 2030,626 1933,626 1836,626 1739,624 1643,624 1546,624 766,618 669,618 1256,623"/>
+                <TextEquiv>
+                    <Unicode>Ce nous avons donné dans le mois de la résulté de cette</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:2;}">
+                <Coords points="3316,308 3236,321 3158,285 3139,303 3045,297 3006,318 2954,313 2932,290 2829,321 2824,509 2963,532 2993,506 3042,534 3102,517 3309,538"/>
+                <Baseline points="3294,440 3269,437 3244,436 3219,435 3194,434 3169,432 3144,432 3119,431 3094,431 3069,431 3044,429 3019,429 2994,428 2969,428 2944,428 2919,426 2894,426 2869,426 2844,425"/>
+                <TextEquiv>
+                    <Unicode>14.9.29.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

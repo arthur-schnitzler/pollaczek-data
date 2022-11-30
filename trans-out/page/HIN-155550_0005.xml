@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
+        <Created>2022-11-17T16:34:00.109+01:00</Created>
+        <LastChange>2022-11-29T09:58:38.777+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50258984" pageNr="5" tsid="105287226" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=MCRHJYMRRGVSVCPBGKZBDGVL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YOBFVOUXIPNXTWEKFHGCCHZQ" imageId="41048789"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0005.tif" imageWidth="2806" imageHeight="3370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749959289" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="452,106 452,1531 2696,1531 2696,106"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="441,426 511,444 659,425 811,459 839,436 952,457 1009,427 1010,362 987,370 917,336 864,356 835,331 687,330 632,355 564,332 441,336"/>
+                <Baseline points="453,407 480,407 507,407 534,408 562,408 589,408 616,410 643,410 671,410 698,410 725,410 752,410 780,410 807,410 834,410 861,410 889,410 916,410 943,410 970,411 998,411"/>
+                <TextEquiv>
+                    <Unicode>A.S. an H.v.H.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="452,613 2481,635 2481,539 2115,482 1860,558 1649,508 452,540"/>
+                <Baseline points="465,603 565,605 665,605 765,606 865,606 965,606 1065,606 1166,606 1266,606 1366,606 1466,605 1566,605 1666,605 1766,603 1867,603 1967,603 2067,603 2167,603 2267,603 2367,603 2468,603"/>
+                <TextEquiv>
+                    <Unicode>wieder aus Paris weg möchte, wenn's so ohneweiteres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="459,813 492,810 577,775 599,785 667,766 700,781 712,768 730,768 730,698 710,693 687,706 652,695 632,713 600,693 590,700 567,693 544,710 519,695 459,702"/>
+                <Baseline points="471,765 498,763 525,761 552,761 579,762 607,763 634,764 661,764 688,763 716,761"/>
+                <TextEquiv>
+                    <Unicode>ginge.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="441,914 1327,920 1327,855 1292,842 907,847 749,794 598,862 441,824"/>
+                <Baseline points="453,891 496,894 539,897 582,898 625,899 668,900 711,900 754,900 797,900 840,900 883,899 926,899 969,899 1012,897 1055,897 1098,897 1141,897 1184,897 1227,897 1270,897 1314,899"/>
+                <TextEquiv>
+                    <Unicode>Das gibt sich wieder.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="966,1040 2181,1070 2181,963 2136,948 1916,978 1765,928 1510,986 1274,934 966,942"/>
+                <Baseline points="978,1029 1037,1029 1097,1031 1156,1032 1216,1032 1275,1032 1335,1032 1394,1032 1454,1032 1513,1032 1573,1032 1633,1032 1692,1031 1752,1031 1811,1031 1871,1029 1930,1029 1990,1029 2049,1029 2109,1029 2169,1029"/>
+                <TextEquiv>
+                    <Unicode>Seien Sie herzlichst gegrüsst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1413,1177 1498,1183 1515,1200 1558,1176 1621,1196 1761,1173 1851,1196 1894,1189 1894,1093 1794,1123 1724,1090 1651,1119 1586,1096 1546,1113 1504,1095 1413,1107"/>
+                <Baseline points="1425,1167 1450,1167 1475,1169 1500,1169 1526,1169 1551,1169 1576,1169 1601,1169 1627,1169 1652,1169 1677,1169 1703,1169 1728,1170 1753,1170 1778,1170 1804,1170 1829,1172 1854,1172 1880,1173"/>
+                <TextEquiv>
+                    <Unicode>Ihr Arthur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="443,1323 2249,1324 2309,1216 443,1240"/>
+                <Baseline points="456,1301 552,1301 649,1302 746,1302 843,1302 939,1304 1036,1304 1133,1304 1230,1304 1327,1304 1423,1304 1520,1304 1617,1304 1714,1304 1811,1304 1907,1304 2004,1304 2101,1302 2198,1302 2295,1302"/>
+                <TextEquiv>
+                    <Unicode>Statt gemischten Hausbrots ess ich gemischtes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="438,1468 508,1453 654,1483 681,1463 744,1478 771,1455 847,1458 927,1418 927,1355 839,1363 799,1393 766,1373 721,1385 646,1343 569,1385 508,1368 438,1380"/>
+                <Baseline points="452,1436 477,1435 503,1434 529,1434 554,1434 580,1434 606,1436 632,1436 657,1436 683,1436 709,1437 734,1437 760,1437 786,1437 812,1436 837,1436 863,1434 889,1433 915,1431"/>
+                <TextEquiv>
+                    <Unicode>Hausbrot.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1185,1506 1200,1508 1210,1498 1227,1500 1237,1511 1250,1516 1258,1511 1270,1511 1270,1448 1253,1448 1245,1443 1232,1450 1212,1448 1205,1455 1197,1448 1185,1448"/>
+                <Baseline points="1197,1494 1227,1491 1257,1494"/>
+                <TextEquiv>
+                    <Unicode>- -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A.S. an H.v.H.
+wieder aus Paris weg möchte, wenn's so ohneweiteres
+ginge.
+Das gibt sich wieder.
+Seien Sie herzlichst gegrüsst
+Ihr Arthur.
+Statt gemischten Hausbrots ess ich gemischtes
+Hausbrot.-
+- -</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

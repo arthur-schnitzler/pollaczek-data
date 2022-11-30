@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:53</Creator>
+        <Created>2022-11-17T16:36:01.035+01:00</Created>
+        <LastChange>2022-11-25T11:53:13.468Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50264392" pageNr="660" tsid="105032666" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=TACHHOTGUDBBQEQIPYZJYKML&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JJNOGYYUCBQHLHFSDSSUOXCF" imageId="41050812"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0660.tif" imageWidth="3771" imageHeight="4722">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749963470" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="675,98 675,1462 3630,1462 3630,98"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2848,394 3077,390 3111,421 3245,427 3289,386 3402,389 3505,423 3505,282 3409,307 3340,283 3022,308 2995,332 2957,312 2847,322"/>
+                <Baseline points="2865,378 2896,378 2927,380 2958,380 2989,381 3020,381 3051,381 3083,381 3114,381 3145,381 3176,381 3207,380 3238,380 3269,380 3301,380 3332,379 3363,378 3394,378 3425,378 3456,378 3488,377"/>
+                <TextEquiv>
+                    <Unicode>16.3.1929 Bl.2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="760,637 3287,619 3424,532 759,531"/>
+                <Baseline points="777,588 908,590 1040,590 1171,590 1303,590 1434,590 1566,588 1697,588 1829,587 1960,587 2092,585 2224,584 2355,584 2487,582 2618,582 2750,581 2881,581 3013,581 3144,581 3276,581 3408,581"/>
+                <TextEquiv>
+                    <Unicode>ergen Mittag Fischer, wo auch Elisabeth hin kommt.-Eben, mein Liebes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="702,716 3216,761 3452,640 701,665"/>
+                <Baseline points="717,720 852,720 988,720 1124,719 1260,719 1396,719 1532,719 1668,717 1804,717 1940,717 2076,716 2211,716 2347,714 2483,714 2619,714 2755,713 2891,713 3027,711 3163,711 3299,711 3435,710"/>
+                <TextEquiv>
+                    <Unicode>kommt Dein Brief Nr. 2. Ich danke Dir und bedauere, dass sich der Sma-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="656,865 3393,861 3273,752 656,789"/>
+                <Baseline points="675,852 810,851 945,849 1080,849 1215,848 1350,848 1485,848 1620,848 1755,848 1890,848 2025,848 2160,848 2295,848 2430,848 2565,848 2700,848 2835,846 2970,845 3105,843 3240,842 3375,839"/>
+                <TextEquiv>
+                    <Unicode>ragd nicht von Dir trennen will, bin aber froh, dass Du mit dem Zahn-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="705,1022 3181,972 3366,1040 3390,916 704,909"/>
+                <Baseline points="720,981 852,981 985,981 1118,981 1250,981 1383,981 1516,981 1648,980 1781,980 1914,980 2047,980 2179,980 2312,980 2445,979 2577,978 2710,978 2843,977 2975,977 3108,975 3241,975 3374,974"/>
+                <TextEquiv>
+                    <Unicode>arzt für einige Zeit fertig bist. Es geht mir gesundheitlich gut; -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="672,1143 3135,1161 3447,1127 3447,1038 672,1041"/>
+                <Baseline points="690,1110 834,1110 978,1110 1122,1110 1266,1110 1410,1110 1554,1110 1699,1110 1843,1110 1987,1110 2131,1110 2275,1109 2419,1109 2564,1109 2708,1109 2852,1109 2996,1109 3140,1107 3284,1107 3429,1107"/>
+                <TextEquiv>
+                    <Unicode>und ich bin bei Dir mit allen meinen innigsten Gedanken und Gefühlen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="661,1250 2353,1278 2287,1179 1781,1134 1534,1196 1154,1141 661,1178"/>
+                <Baseline points="677,1241 764,1242 851,1242 938,1242 1026,1244 1113,1244 1200,1244 1288,1244 1375,1244 1462,1244 1550,1244 1637,1244 1724,1244 1812,1244 1899,1244 1986,1244 2074,1244 2161,1242 2248,1242 2336,1242"/>
+                <TextEquiv>
+                    <Unicode>Sei tausendmal umarmt, mein Liebes,Dein A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1800,1440 1868,1450 1899,1436 1982,1491 2030,1494 2053,1474 2077,1473 2077,1323 2053,1326 2022,1309 1954,1344 1930,1337 1909,1357 1886,1361 1858,1344 1831,1364 1800,1364"/>
+                <Baseline points="1818,1424 1844,1424 1871,1424 1898,1425 1925,1425 1952,1426 1979,1426 2006,1425 2033,1424 2060,1421"/>
+                <TextEquiv>
+                    <Unicode>----</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="3514,271 3562,267 3576,281 3586,277 3593,284 3603,274 3613,281 3648,281 3648,140 3627,140 3589,103 3514,110"/>
+                <Baseline points="3531,198 3564,198 3597,198 3630,198"/>
+                <TextEquiv>
+                    <Unicode>210</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:51</Creator>
+        <Created>2022-11-17T16:34:55.174+01:00</Created>
+        <LastChange>2022-11-25T11:51:13.346Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50262700" pageNr="305" tsid="105032178" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WNAEAFFPUCAHKCPACGTMXCVK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AIHZDCGSRDMTRVYEAAUYCSRA" imageId="41049938"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0305.tif" imageWidth="3799" imageHeight="4707">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749961257" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="494,454 494,1996 3566,1996 3566,454"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="485,538 3587,563 3587,445 3442,425 485,446"/>
+                <Baseline points="503,518 656,519 809,521 962,522 1115,524 1268,524 1421,525 1575,525 1728,525 1881,525 2034,525 2187,527 2340,527 2493,527 2647,527 2800,527 2953,528 3106,528 3259,530 3412,530 3566,531"/>
+                <TextEquiv>
+                    <Unicode>Wozu wiederholen, womit unzühlige zwecklose und quählende Gespräche erfüllt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="486,669 3508,695 3482,595 2433,547 487,608"/>
+                <Baseline points="506,650 655,651 804,651 953,653 1103,653 1252,654 1401,656 1550,657 1700,657 1849,659 1998,660 2147,660 2297,662 2446,662 2595,663 2744,663 2894,665 3043,665 3192,666 3341,666 3491,666"/>
+                <TextEquiv>
+                    <Unicode>waren, die zu nichts führten, wenn es auch an meiner Nachsicht und mei-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="496,812 1932,796 1932,754 1753,699 1461,739 956,681 895,723 497,705"/>
+                <Baseline points="515,779 584,780 654,780 724,780 794,782 864,782 934,782 1004,783 1074,783 1144,785 1214,785 1283,785 1353,786 1423,786 1493,786 1563,788 1633,788 1703,788 1773,788 1843,789 1913,789"/>
+                <TextEquiv>
+                    <Unicode>nem guten Willen nicht gefehlt hat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="484,926 3233,992 3467,951 3468,848 687,874 485,789"/>
+                <Baseline points="503,906 650,909 797,911 944,912 1092,914 1239,915 1386,917 1534,918 1681,920 1828,920 1976,921 2123,923 2270,923 2417,924 2565,926 2712,926 2859,926 3007,927 3154,927 3301,927 3449,929"/>
+                <TextEquiv>
+                    <Unicode>Aber ich will in diesen Zeilen jedes böse Wort vermeiden. Ich bin am Ende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="489,1048 719,1074 753,1043 902,1095 1014,1039 1182,1098 1289,1058 1481,1075 1482,1010 1398,971 1129,994 789,940 490,971"/>
+                <Baseline points="509,1035 556,1037 604,1038 651,1038 699,1040 746,1040 794,1041 841,1041 889,1041 936,1043 984,1043 1032,1043 1079,1044 1127,1044 1174,1044 1222,1046 1269,1046 1317,1047 1364,1047 1412,1047 1460,1049"/>
+                <TextEquiv>
+                    <Unicode>meiner Kraft angelangt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="482,1183 3377,1218 3378,1096 483,1091"/>
+                <Baseline points="503,1164 645,1167 788,1169 931,1170 1074,1172 1217,1173 1359,1175 1502,1176 1645,1176 1788,1178 1931,1178 2073,1179 2216,1179 2359,1179 2502,1181 2645,1181 2787,1182 2930,1184 3073,1185 3216,1187 3359,1188"/>
+                <TextEquiv>
+                    <Unicode>Ich habe dir Alles gegeben was ich konnte und wenn ich dir dabei nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="485,1344 3460,1357 3488,1258 485,1237"/>
+                <Baseline points="503,1295 651,1297 799,1299 948,1301 1096,1302 1244,1302 1393,1304 1541,1305 1689,1307 1838,1307 1986,1308 2134,1308 2283,1310 2431,1311 2579,1311 2728,1313 2876,1314 3024,1314 3173,1316 3321,1317 3470,1319"/>
+                <TextEquiv>
+                    <Unicode>mehr geworden bin, so wird wol meine Unzulänglichkeit Schuld darann sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="479,1444 3428,1494 3425,1359 480,1367"/>
+                <Baseline points="497,1422 642,1425 788,1428 933,1430 1079,1433 1224,1434 1370,1436 1515,1437 1661,1439 1806,1440 1952,1440 2098,1442 2243,1442 2389,1443 2534,1443 2680,1445 2825,1445 2971,1445 3116,1446 3262,1447 3408,1448"/>
+                <TextEquiv>
+                    <Unicode>Der kleine Raum den ich in Deinem Leben einnehm wird wol bald ausgefüllt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="493,1563 516,1564 542,1584 558,1569 580,1570 621,1609 652,1614 682,1638 698,1623 721,1624 724,1520 682,1523 648,1495 632,1506 599,1474 583,1489 541,1496 515,1468 495,1467"/>
+                <Baseline points="513,1553 540,1556 567,1557 595,1559 622,1559 650,1560 677,1560 705,1559"/>
+                <TextEquiv>
+                    <Unicode>sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="474,1713 3438,1745 3497,1630 475,1606"/>
+                <Baseline points="494,1685 643,1686 792,1688 941,1690 1090,1692 1239,1694 1388,1695 1537,1697 1686,1698 1835,1700 1985,1701 2134,1703 2283,1704 2432,1706 2581,1707 2730,1707 2879,1709 3028,1710 3177,1710 3326,1712 3476,1713"/>
+                <TextEquiv>
+                    <Unicode>Lebwol! Vielleicht wirst du mich eines Tages verstehen und im Guten meiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="484,1877 683,1828 1583,1889 1782,1829 1931,1884 2299,1860 2300,1772 1071,1728 841,1787 485,1720"/>
+                <Baseline points="503,1818 596,1820 690,1821 783,1823 877,1823 971,1824 1064,1824 1158,1824 1252,1824 1345,1826 1439,1826 1532,1826 1626,1827 1720,1827 1813,1829 1907,1829 2001,1830 2094,1832 2188,1834 2282,1836"/>
+                <TextEquiv>
+                    <Unicode>gedenken. Ich wünsche Dir alles alles Gute.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="1517,1999 1724,1974 1850,1998 1869,1983 1900,2006 2038,1977 2114,2004 2176,1989 2176,1913 2035,1881 2000,1900 1770,1898 1747,1875 1621,1862 1583,1889 1518,1885"/>
+                <Baseline points="1535,1956 1566,1958 1597,1959 1628,1960 1659,1961 1690,1962 1721,1962 1752,1962 1783,1964 1814,1964 1846,1964 1877,1964 1908,1964 1939,1964 1970,1964 2001,1962 2032,1962 2063,1962 2094,1963 2125,1964 2157,1964"/>
+                <TextEquiv>
+                    <Unicode>Clara Katharina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

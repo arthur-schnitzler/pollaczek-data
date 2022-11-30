@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:51</Creator>
+        <Created>2022-11-17T16:34:47.730+01:00</Created>
+        <LastChange>2022-11-28T22:17:11.460+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50261812" pageNr="266" tsid="105267422" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=BQIHGOPWILYNVMLNRFPEIWCG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XCTDPVISXYTPWCNJYSZIKAPJ" imageId="41049501"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0266.tif" imageWidth="3690" imageHeight="4670">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749961062" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="584,113 584,4297 3578,4297 3578,113"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="602,404 798,417 858,472 1041,428 1265,448 1298,417 1476,405 1477,323 1384,357 1178,322 1081,350 902,351 871,322 720,349 603,304"/>
+                <Baseline points="621,395 662,396 704,397 746,398 788,399 830,400 872,401 913,401 955,402 997,402 1039,404 1081,404 1123,404 1165,404 1206,405 1248,405 1290,405 1332,405 1374,405 1416,407 1458,407"/>
+                <TextEquiv>
+                    <Unicode>An A.S. nach Florenz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} date {offset:6; length:9;}">
+                <Coords points="2227,433 2473,459 2688,427 2880,466 2882,359 2821,362 2779,325 2700,356 2579,350 2553,375 2497,345 2425,365 2322,338 2229,347"/>
+                <Baseline points="2246,411 2276,413 2307,414 2338,414 2369,416 2400,417 2430,417 2461,419 2492,419 2523,420 2554,420 2584,420 2615,422 2646,422 2677,422 2708,422 2738,422 2769,422 2800,423 2831,423 2862,423"/>
+                <TextEquiv>
+                    <Unicode>Wien, 14.9.1925.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="608,603 725,609 817,644 893,613 964,626 1040,606 1041,563 970,529 891,542 806,525 684,537 610,517"/>
+                <Baseline points="627,593 653,596 679,596 706,598 732,599 759,599 785,599 811,600 838,600 864,600 891,600 917,600 943,602 970,603 996,605 1023,606"/>
+                <TextEquiv>
+                    <Unicode>Liebster,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1023,751 3197,790 3354,774 3355,681 1024,647"/>
+                <Baseline points="1040,729 1154,731 1269,732 1384,734 1499,735 1614,737 1729,738 1844,739 1959,740 2074,741 2189,743 2303,744 2418,746 2533,747 2648,749 2763,749 2878,750 2993,752 3108,753 3223,755 3338,755"/>
+                <TextEquiv>
+                    <Unicode>Samstag erhielt ich Deinen ersten Brief, heute, als ich von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="618,868 2962,933 3510,840 619,754"/>
+                <Baseline points="636,854 778,857 921,858 1064,860 1207,863 1349,864 1492,866 1635,867 1778,870 1920,872 2063,873 2206,875 2349,876 2491,879 2634,881 2777,882 2920,884 3062,885 3205,887 3348,888 3491,890"/>
+                <TextEquiv>
+                    <Unicode>der Stadt nachhause kam, dein zweites Schreiben vom 12. Ich habe eigent¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="612,1046 3454,1052 3455,967 3209,928 614,925"/>
+                <Baseline points="632,986 772,989 912,990 1052,992 1193,995 1333,996 1473,998 1614,999 1754,1001 1894,1002 2035,1004 2175,1005 2315,1007 2455,1010 2596,1011 2736,1013 2876,1014 3017,1016 3157,1017 3297,1020 3438,1022"/>
+                <TextEquiv>
+                    <Unicode>lich gar nichts zu berichten, denn die Unterhandlungen mit Tapezierern,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="609,1133 3179,1194 3461,1165 3463,1062 610,1047"/>
+                <Baseline points="629,1110 769,1113 910,1117 1051,1119 1191,1122 1332,1125 1473,1127 1613,1130 1754,1131 1895,1133 2036,1136 2176,1137 2317,1139 2458,1140 2598,1142 2739,1143 2880,1145 3020,1146 3161,1148 3302,1149 3443,1151"/>
+                <TextEquiv>
+                    <Unicode>Zimmerputzern etc., Besuche bei alten Tanten können Dich wenig interes¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="708,1259 3414,1302 3183,1192 709,1195"/>
+                <Baseline points="725,1245 858,1247 992,1249 1125,1251 1259,1253 1392,1254 1526,1257 1659,1259 1793,1260 1926,1263 2060,1265 2194,1266 2327,1268 2461,1269 2594,1271 2728,1273 2861,1275 2995,1275 3128,1277 3262,1278 3396,1280"/>
+                <TextEquiv>
+                    <Unicode>sieren. Ausserdem hatte ich beim Zahnarzt zu tun und schau täglich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} supplied {offset:52; length:1;}">
+                <Coords points="596,1390 3473,1434 3474,1338 3328,1329 597,1297"/>
+                <Baseline points="615,1374 757,1376 899,1377 1041,1380 1183,1382 1325,1383 1467,1386 1609,1388 1751,1389 1893,1391 2035,1394 2177,1395 2319,1397 2461,1400 2603,1401 2745,1403 2887,1404 3029,1406 3171,1407 3313,1409 3455,1410"/>
+                <TextEquiv>
+                    <Unicode>in das Bureau der Neuen Freien Presse. Aber auf 2 Annoncen habe ich im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="597,1529 3382,1566 3272,1454 599,1433"/>
+                <Baseline points="615,1505 752,1506 889,1509 1027,1511 1164,1512 1302,1515 1439,1517 1576,1519 1714,1521 1851,1523 1989,1524 2126,1527 2263,1529 2401,1530 2538,1532 2676,1533 2813,1535 2950,1536 3088,1538 3225,1539 3363,1541"/>
+                <TextEquiv>
+                    <Unicode>Ganzen zwei unbrauchbare Zuschriften bekommen, was mich einigermassen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="691,1642 808,1665 873,1644 1044,1667 1087,1649 1130,1675 1183,1654 1184,1583 1137,1604 1056,1563 963,1580 920,1555 863,1587 691,1563"/>
+                <Baseline points="710,1635 735,1638 760,1640 785,1640 810,1641 836,1642 861,1642 886,1641 911,1641 937,1641 962,1641 987,1640 1012,1640 1037,1640 1063,1641 1088,1641 1113,1643 1138,1645 1164,1647"/>
+                <TextEquiv>
+                    <Unicode>deprimiert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="1127,1785 3083,1838 3391,1781 2825,1692 1129,1692"/>
+                <Baseline points="1145,1769 1256,1772 1367,1775 1479,1776 1590,1779 1701,1781 1813,1782 1924,1784 2035,1785 2147,1787 2258,1788 2369,1788 2481,1790 2592,1791 2703,1791 2815,1793 2926,1794 3037,1795 3149,1797 3260,1799 3372,1800"/>
+                <TextEquiv>
+                    <Unicode>Es tut mir auch unendlich leid, dass ich hier heraus ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="612,1935 3204,1959 3280,1849 613,1846"/>
+                <Baseline points="630,1895 761,1898 893,1899 1024,1901 1156,1904 1287,1905 1419,1907 1550,1908 1682,1910 1813,1911 1945,1913 2077,1914 2208,1916 2340,1917 2471,1919 2603,1920 2734,1922 2866,1923 2997,1925 3129,1926 3261,1928"/>
+                <TextEquiv>
+                    <Unicode>zogen bin, was unter den gegebenen Umständen ganz sinnlos ist. Ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="596,2034 3137,2108 3385,1986 597,1949"/>
+                <Baseline points="615,2027 752,2030 890,2032 1027,2034 1165,2036 1302,2037 1440,2039 1577,2040 1715,2042 1852,2043 1990,2045 2127,2046 2265,2048 2402,2048 2540,2049 2677,2051 2815,2052 2952,2054 3090,2056 3227,2058 3365,2060"/>
+                <TextEquiv>
+                    <Unicode>hätte die Absage von Kremer als einen Wink des Himmels ansehen sol¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="602,2182 2911,2235 3376,2208 3420,2119 603,2074"/>
+                <Baseline points="621,2157 760,2159 899,2162 1038,2163 1177,2166 1316,2168 1455,2169 1594,2171 1733,2172 1872,2174 2011,2175 2150,2177 2289,2178 2428,2180 2567,2181 2706,2184 2845,2186 2984,2187 3123,2189 3262,2190 3402,2192"/>
+                <TextEquiv>
+                    <Unicode>len; ich friere masslos, sitze allabendlich allein in dem kleinen eis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="610,2325 3159,2346 3210,2254 611,2228"/>
+                <Baseline points="627,2286 755,2288 883,2291 1011,2292 1139,2295 1268,2297 1396,2298 1524,2300 1652,2301 1780,2303 1909,2304 2037,2306 2165,2307 2293,2309 2421,2310 2549,2312 2678,2313 2806,2315 2934,2316 3062,2318 3191,2319"/>
+                <TextEquiv>
+                    <Unicode>kalten Zimmer, muss täglich mit der Elektrischen in die Stadt und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="644,2447 3404,2474 3283,2376 646,2325"/>
+                <Baseline points="663,2420 799,2423 935,2424 1071,2426 1207,2427 1344,2429 1480,2432 1616,2433 1752,2435 1888,2436 2025,2438 2161,2440 2297,2442 2433,2444 2569,2445 2705,2447 2842,2448 2978,2450 3114,2451 3250,2453 3387,2454"/>
+                <TextEquiv>
+                    <Unicode>frage mich wozu das alles!! Wenn ich mit jemanden telefonieren will,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="645,2579 3015,2634 3294,2624 3410,2511 646,2504"/>
+                <Baseline points="662,2550 798,2552 934,2554 1071,2556 1207,2558 1343,2559 1480,2561 1616,2564 1752,2565 1889,2567 2025,2570 2161,2571 2298,2573 2434,2574 2570,2577 2707,2578 2843,2579 2979,2580 3116,2582 3252,2583 3389,2583"/>
+                <TextEquiv>
+                    <Unicode>muss ich 2 Stock hinunter und herauf laufen. "Regina" wäre viel bes¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="594,2728 3125,2756 3397,2713 3398,2624 595,2625"/>
+                <Baseline points="612,2682 750,2682 888,2684 1027,2687 1165,2688 1304,2690 1442,2691 1580,2693 1719,2696 1857,2697 1996,2699 2134,2701 2272,2703 2411,2705 2549,2706 2688,2708 2826,2709 2964,2711 3103,2712 3241,2714 3380,2714"/>
+                <TextEquiv>
+                    <Unicode>ser gewesen und wenn ich nicht Unannehmlichkeiten mit Kremer befürch¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="566,2810 722,2859 1251,2823 1325,2860 1408,2829 1665,2861 1722,2840 1723,2790 1545,2748 1291,2745 1248,2780 1031,2731 941,2765 849,2725 759,2756 567,2732"/>
+                <Baseline points="584,2808 642,2811 701,2813 760,2814 819,2816 878,2816 937,2817 996,2817 1055,2818 1114,2819 1172,2819 1231,2819 1290,2820 1349,2820 1408,2822 1467,2822 1526,2823 1585,2825 1644,2826 1703,2829"/>
+                <TextEquiv>
+                    <Unicode>tete, würde ich davon gehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="1155,2971 3308,3015 3363,2887 1157,2849"/>
+                <Baseline points="1173,2945 1281,2947 1390,2949 1498,2952 1607,2954 1715,2955 1824,2957 1932,2958 2041,2960 2149,2961 2258,2961 2367,2963 2475,2964 2584,2964 2692,2966 2801,2967 2909,2969 3018,2970 3126,2972 3235,2973 3344,2975"/>
+                <TextEquiv>
+                    <Unicode>Frieda P. ist auch noch nicht hier, wahrscheinlich war</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="604,3121 3242,3157 3399,3127 3401,3020 605,3003"/>
+                <Baseline points="621,3071 759,3072 897,3074 1035,3076 1173,3078 1311,3080 1449,3081 1587,3083 1725,3084 1863,3086 2002,3087 2140,3089 2278,3092 2416,3092 2554,3095 2692,3096 2830,3098 2968,3099 3106,3102 3244,3104 3383,3105"/>
+                <TextEquiv>
+                    <Unicode>sie rechtzeitig über Deine Reisepläne unterrichtet und bleibt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="592,3231 3123,3287 3387,3244 3388,3159 593,3135"/>
+                <Baseline points="609,3198 747,3201 885,3204 1023,3206 1161,3209 1299,3210 1437,3212 1575,3213 1713,3215 1851,3216 1989,3218 2127,3219 2265,3221 2403,3222 2541,3224 2679,3225 2817,3228 2955,3230 3093,3231 3231,3233 3369,3236"/>
+                <TextEquiv>
+                    <Unicode>länger fort. So kann ich leider auch nicht diktieren. Du siehst also,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="625,3395 815,3326 3289,3390 3433,3281 626,3281"/>
+                <Baseline points="642,3329 780,3331 919,3333 1057,3335 1196,3338 1334,3339 1473,3341 1611,3342 1750,3345 1888,3347 2027,3348 2166,3350 2304,3351 2443,3353 2581,3354 2720,3356 2858,3357 2997,3357 3135,3359 3274,3359 3413,3359"/>
+                <TextEquiv>
+                    <Unicode>dass ich bisher weder etwas Angenehmes noch etwas Heiteres zu berich¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="588,3464 2504,3545 3268,3519 3269,3419 588,3392"/>
+                <Baseline points="605,3456 737,3459 869,3462 1001,3464 1134,3467 1266,3468 1398,3470 1531,3471 1663,3473 1795,3475 1928,3477 2060,3477 2192,3480 2324,3482 2457,3482 2589,3484 2721,3486 2854,3487 2986,3489 3118,3491 3251,3492"/>
+                <TextEquiv>
+                    <Unicode>ten habe und nur von Sorgen für die nächste Zeit erfüllt bin. Aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="591,3609 2944,3632 2677,3529 592,3516"/>
+                <Baseline points="611,3594 726,3594 842,3596 958,3597 1073,3599 1189,3599 1305,3600 1420,3602 1536,3603 1652,3605 1768,3606 1883,3608 1999,3608 2115,3609 2230,3611 2346,3612 2462,3614 2577,3615 2693,3617 2809,3618 2925,3620"/>
+                <TextEquiv>
+                    <Unicode>irgendwie werde ich mir schon mein Leben zurechtdeichseln.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="1147,3763 3399,3780 3400,3680 3286,3667 1148,3674"/>
+                <Baseline points="1164,3728 1280,3729 1397,3732 1514,3734 1631,3735 1747,3737 1864,3738 1981,3740 2098,3740 2215,3741 2331,3743 2448,3744 2565,3746 2682,3747 2799,3749 2915,3750 3032,3752 3149,3753 3266,3755 3383,3756"/>
+                <TextEquiv>
+                    <Unicode>Ich danke Dir noch sehr für Deinen lieben Bericht, freue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="573,3852 2939,3925 3339,3905 3340,3827 573,3788"/>
+                <Baseline points="590,3851 726,3852 863,3855 999,3857 1136,3858 1273,3861 1409,3863 1546,3864 1683,3866 1819,3869 1956,3870 2093,3872 2229,3873 2366,3875 2503,3876 2639,3878 2776,3879 2913,3881 3049,3882 3186,3884 3323,3885"/>
+                <TextEquiv>
+                    <Unicode>mich, dass Dich der dortige Aufenthalt so vollauf befriedigt und wün¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;}">
+                <Coords points="580,4011 3175,4067 3343,4041 3344,3959 581,3918"/>
+                <Baseline points="599,3975 735,3979 871,3983 1008,3987 1144,3990 1280,3993 1417,3996 1553,3998 1689,4001 1826,4002 1962,4004 2098,4005 2235,4007 2371,4008 2507,4010 2644,4011 2780,4013 2916,4014 3053,4016 3189,4017 3326,4019"/>
+                <TextEquiv>
+                    <Unicode>sche Dir weiter viel Vergnügen und gute Heimkehr. Eine herzliche Um¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:29;}">
+                <Coords points="579,4158 623,4134 676,4153 894,4123 1115,4165 1151,4134 1305,4127 1307,4056 1157,4048 1106,4076 961,4032 853,4080 747,4037 696,4061 582,4040"/>
+                <Baseline points="599,4091 633,4098 667,4105 702,4109 736,4113 770,4115 805,4118 839,4119 873,4119 908,4119 942,4119 976,4119 1011,4119 1045,4118 1079,4118 1114,4118 1148,4118 1182,4118 1217,4120 1251,4122 1286,4125"/>
+                <TextEquiv>
+                    <Unicode>armung von Deiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:30;}">
+                <Coords points="1347,4273 1590,4275 1643,4308 1747,4267 1850,4309 2029,4291 2031,4195 1959,4222 1824,4176 1666,4209 1349,4181"/>
+                <Baseline points="1364,4251 1396,4251 1428,4253 1461,4255 1493,4256 1526,4256 1558,4257 1591,4258 1623,4259 1656,4259 1688,4260 1720,4260 1753,4261 1785,4262 1818,4262 1850,4262 1883,4263 1915,4263 1948,4264 1980,4265 2013,4265"/>
+                <TextEquiv>
+                    <Unicode>Clara Katharina.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An A.S. nach Florenz.
+Wien, 14.9.1925.
+Liebster,
+Samstag erhielt ich Deinen ersten Brief, heute, als ich von
+der Stadt nachhause kam, dein zweites Schreiben vom 12. Ich habe eigent¬
+lich gar nichts zu berichten, denn die Unterhandlungen mit Tapezierern,
+Zimmerputzern etc., Besuche bei alten Tanten können Dich wenig interes¬
+sieren. Ausserdem hatte ich beim Zahnarzt zu tun und schau täglich
+in das Bureau der Neuen Freien Presse. Aber auf 2 Annoncen habe ich im
+Ganzen zwei unbrauchbare Zuschriften bekommen, was mich einigermassen
+deprimiert.
+Es tut mir auch unendlich leid, dass ich hier heraus ge¬
+zogen bin, was unter den gegebenen Umständen ganz sinnlos ist. Ich
+hätte die Absage von Kremer als einen Wink des Himmels ansehen sol¬
+len; ich friere masslos, sitze allabendlich allein in dem kleinen eis¬
+kalten Zimmer, muss täglich mit der Elektrischen in die Stadt und
+frage mich wozu das alles!! Wenn ich mit jemanden telefonieren will,
+muss ich 2 Stock hinunter und herauf laufen. "Regina" wäre viel bes¬
+ser gewesen und wenn ich nicht Unannehmlichkeiten mit Kremer befürch¬
+tete, würde ich davon gehen.
+Frieda P. ist auch noch nicht hier, wahrscheinlich war
+sie rechtzeitig über Deine Reisepläne unterrichtet und bleibt
+länger fort. So kann ich leider auch nicht diktieren. Du siehst also,
+dass ich bisher weder etwas Angenehmes noch etwas Heiteres zu berich¬
+ten habe und nur von Sorgen für die nächste Zeit erfüllt bin. Aber
+irgendwie werde ich mir schon mein Leben zurechtdeichseln.
+Ich danke Dir noch sehr für Deinen lieben Bericht, freue
+mich, dass Dich der dortige Aufenthalt so vollauf befriedigt und wün¬
+sche Dir weiter viel Vergnügen und gute Heimkehr. Eine herzliche Um¬
+armung von Deiner
+Clara Katharina.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

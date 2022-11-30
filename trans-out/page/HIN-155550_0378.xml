@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:51</Creator>
+        <Created>2022-11-17T16:35:08.987+01:00</Created>
+        <LastChange>2022-11-25T11:51:31.896Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50263119" pageNr="378" tsid="105032267" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=OKRPCIWEWAWYQWOUILOOZHKM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=POBXVVJVZGHGWCVILZNUKNGY" imageId="41050223"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0378.tif" imageWidth="3673" imageHeight="4674">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749961775" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="597,361 597,1718 3360,1718 3360,361"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2840,471 2878,471 2913,447 2961,465 3072,438 3127,453 3151,435 3217,426 3218,325 3145,342 3114,373 3093,362 3041,369 2983,344 2958,358 2876,319 2841,326"/>
+                <Baseline points="2859,425 2885,426 2911,428 2937,428 2963,429 2989,429 3015,429 3041,429 3067,429 3093,429 3119,429 3145,429 3171,429 3198,429"/>
+                <TextEquiv>
+                    <Unicode>10.8.26.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="583,640 3288,631 3288,555 2884,523 1398,586 583,492"/>
+                <Baseline points="600,626 733,626 867,627 1000,627 1134,629 1268,629 1401,629 1535,629 1668,630 1802,630 1936,630 2069,630 2203,630 2336,632 2470,632 2604,632 2737,632 2871,631 3004,630 3138,630 3272,630"/>
+                <TextEquiv>
+                    <Unicode>Dich früner treffe. Heute möchte ich eine Dampferfahrt machen, aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="624,778 3367,783 3367,693 2656,664 624,689"/>
+                <Baseline points="641,755 776,757 911,758 1047,759 1182,761 1318,761 1453,761 1589,762 1724,762 1860,762 1995,762 2130,762 2266,762 2401,762 2537,761 2672,761 2808,762 2943,762 3079,762 3214,762 3350,764"/>
+                <TextEquiv>
+                    <Unicode>die Sonne, die ich dazu wünschte, ist leider noch nicht zu sehen. Und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="579,920 3378,891 3378,819 3005,787 580,837"/>
+                <Baseline points="597,891 735,891 873,891 1011,891 1149,891 1287,891 1425,893 1564,893 1702,893 1840,894 1978,894 2116,894 2254,894 2392,894 2531,894 2669,894 2807,894 2945,894 3083,893 3221,893 3360,891"/>
+                <TextEquiv>
+                    <Unicode>nun danke ich Dir noch für Deinen sehr lieben Brief, der gestern Vor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="580,1052 3144,1069 3261,1059 3262,931 580,966"/>
+                <Baseline points="599,1020 731,1020 863,1020 995,1020 1128,1020 1260,1022 1392,1022 1525,1023 1657,1023 1789,1025 1922,1025 2054,1026 2186,1026 2318,1026 2451,1028 2583,1028 2715,1028 2848,1028 2980,1028 3112,1026 3245,1026"/>
+                <TextEquiv>
+                    <Unicode>mittag hier eintrafmund für den heutigen Anruf und überhaupt. Und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="593,1181 2095,1198 2154,1184 2155,1098 1422,1112 1312,1063 804,1106 593,1046"/>
+                <Baseline points="609,1145 685,1148 761,1149 838,1151 914,1152 990,1152 1067,1154 1143,1154 1219,1154 1296,1154 1372,1154 1448,1154 1525,1154 1601,1154 1677,1154 1754,1154 1830,1154 1906,1155 1983,1155 2059,1155 2136,1157"/>
+                <TextEquiv>
+                    <Unicode>küsse Dich, mein Liebes, und freue mich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1588,1340 1771,1317 1847,1355 1971,1353 2020,1332 2082,1357 2083,1194 2048,1194 1965,1246 1858,1214 1737,1241 1644,1185 1589,1184"/>
+                <Baseline points="1607,1284 1632,1284 1658,1284 1683,1286 1709,1286 1734,1286 1760,1286 1785,1287 1811,1287 1836,1287 1862,1287 1887,1287 1913,1287 1938,1287 1964,1287 1989,1287 2015,1287 2040,1287 2066,1287"/>
+                <TextEquiv>
+                    <Unicode>Deine C.K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="591,1561 3327,1607 3328,1486 3031,1461 592,1440"/>
+                <Baseline points="609,1542 744,1542 879,1542 1014,1542 1149,1544 1284,1544 1419,1544 1554,1545 1689,1545 1824,1547 1960,1547 2095,1548 2230,1548 2365,1550 2500,1550 2635,1551 2770,1551 2905,1551 3040,1551 3175,1551 3311,1551"/>
+                <TextEquiv>
+                    <Unicode>Samstag war ich noch in Deinem Haus. Frau Kl. war ganz beglückt, als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="600,1689 2811,1728 3201,1705 3202,1626 600,1616"/>
+                <Baseline points="617,1673 745,1674 873,1674 1002,1674 1130,1674 1259,1676 1387,1676 1515,1676 1644,1677 1772,1677 1901,1679 2029,1679 2157,1679 2286,1680 2414,1680 2543,1682 2671,1682 2799,1683 2928,1685 3056,1685 3185,1686"/>
+                <TextEquiv>
+                    <Unicode>ich telefonisch anfrug. Es wird herrlich! Alles Nähere mündlich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

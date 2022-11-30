@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
+        <Created>2022-11-17T16:34:02.889+01:00</Created>
+        <LastChange>2022-11-29T12:59:38.487+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259000" pageNr="21" tsid="105301665" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=KROAGZPCZVEDLJVILJIQJVUV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ISUFPVQNFGRRURSRQZISMGWH" imageId="41048805"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0021.tif" imageWidth="2793" imageHeight="3358">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749959361" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="333,139 333,2058 2637,2058 2637,139"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} date {offset:0; length:10;}">
+                <Coords points="1722,422 1765,424 1849,386 1905,403 1984,389 2016,407 2069,390 2143,405 2236,391 2234,285 2200,296 2141,254 2049,303 2020,290 1983,310 1872,306 1809,338 1721,308"/>
+                <Baseline points="1734,387 1759,387 1785,386 1811,386 1836,386 1862,384 1888,384 1913,383 1939,383 1965,383 1990,381 2016,381 2042,381 2067,381 2093,381 2119,381 2144,381 2170,381 2196,381 2222,383"/>
+                <TextEquiv>
+                    <Unicode>7.III.1896.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1668710612209_571" custom="readingOrder {index:1;}">
+                <Coords points="836,661 1936,665 1935,567 1897,556 1742,587 1500,540 1389,594 1222,564 1058,606 836,584"/>
+                <Baseline points="849,648 875,650 902,651 928,652 955,653 981,653 1008,653 1035,653 1061,653 1088,653 1114,651 1141,651 1167,651 1194,651 1221,651 1458,650 1483,648 1509,647 1535,645 1561,645 1587,644 1613,644 1638,644 1664,644 1690,644 1716,644 1742,644 1768,644 1793,644 1819,644 1845,642 1871,642 1897,642 1923,642"/>
+                <TextEquiv>
+                    <Unicode>Sehr geehrter Herr Doktor!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="521,865 2251,874 2401,847 2401,794 2273,742 520,793"/>
+                <Baseline points="533,846 625,848 718,849 811,849 903,849 996,849 1089,849 1181,849 1274,848 1367,846 1460,845 1552,844 1645,843 1738,842 1830,840 1923,839 2016,839 2108,837 2201,837 2294,837 2387,837"/>
+                <TextEquiv>
+                    <Unicode>Ich war gerade bei der Arbeit als Ihr Buch mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1668710614959_577" custom="readingOrder {index:3;}">
+                <Coords points="323,1018 2389,1003 2439,907 322,928"/>
+                <Baseline points="335,983 372,983 409,981 446,981 484,981 521,980 558,980 595,980 633,980 670,980 707,980 744,980 782,980 819,980 856,980 893,981 931,981 968,981 1005,981 1042,981 1080,983 1320,977 1375,977 1430,977 1486,977 1541,977 1596,975 1652,975 1707,975 1762,975 1818,975 1873,975 1928,974 1984,974 2039,974 2094,974 2150,974 2205,974 2260,974 2316,972 2371,972 2427,972"/>
+                <TextEquiv>
+                    <Unicode>den freundlichen Grüssen kam. "Mimi" und ich haben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1668710617688_582" custom="readingOrder {index:4;}">
+                <Coords points="326,1122 2289,1144 2410,1133 2410,1051 326,1066"/>
+                <Baseline points="339,1112 369,1113 399,1113 430,1113 460,1113 491,1112 521,1112 552,1112 582,1112 613,1111 643,1110 674,1110 704,1110 735,1110 765,1110 796,1110 826,1110 857,1110 887,1110 918,1112 1292,1112 1347,1110 1402,1110 1457,1109 1512,1109 1568,1107 1623,1107 1678,1107 1733,1106 1788,1106 1844,1106 1899,1106 1954,1106 2009,1106 2064,1104 2120,1104 2175,1104 2230,1104 2285,1104 2340,1104 2396,1104"/>
+                <TextEquiv>
+                    <Unicode>uns sehr mit demselben gefreut und werde ich dieses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="336,1260 2434,1256 2434,1182 2233,1153 336,1173"/>
+                <Baseline points="350,1236 453,1239 557,1241 660,1242 764,1244 867,1244 971,1244 1074,1244 1178,1244 1281,1244 1385,1242 1488,1242 1592,1241 1695,1241 1799,1239 1902,1239 2006,1238 2109,1238 2213,1238 2316,1238 2420,1239"/>
+                <TextEquiv>
+                    <Unicode>"herzige Mäderl" mit Gegengrüssen demnächst an Sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="321,1398 2241,1399 2366,1375 2366,1306 321,1340"/>
+                <Baseline points="333,1373 439,1374 545,1374 651,1374 758,1374 864,1376 970,1376 1076,1376 1183,1376 1289,1376 1395,1376 1501,1374 1608,1374 1714,1374 1820,1373 1926,1373 2033,1371 2139,1371 2245,1370 2352,1368"/>
+                <TextEquiv>
+                    <Unicode>senden. Auf Ihren Vorschlag gehe ich natürlich mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="326,1515 2130,1540 2432,1527 2469,1442 326,1451"/>
+                <Baseline points="338,1508 443,1506 549,1506 655,1506 761,1506 867,1506 973,1506 1079,1505 1185,1505 1291,1505 1397,1506 1502,1505 1608,1505 1714,1505 1820,1505 1926,1505 2032,1505 2138,1503 2244,1503 2350,1502 2456,1502"/>
+                <TextEquiv>
+                    <Unicode>grossem Vergnügen ein und hoffe sehr bald etwas " Un¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="322,1676 1638,1649 1638,1601 1567,1567 1384,1551 1342,1585 931,1567 814,1618 722,1573 322,1565"/>
+                <Baseline points="336,1641 400,1640 465,1638 529,1637 594,1635 658,1635 723,1635 787,1635 852,1635 916,1635 981,1635 1045,1635 1110,1636 1174,1637 1239,1637 1303,1637 1368,1637 1432,1637 1497,1637 1561,1636 1626,1635"/>
+                <TextEquiv>
+                    <Unicode>gedrucktes von Ihnen zu lesen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="1043,1870 1085,1889 1141,1854 1427,1851 1493,1827 1565,1871 1687,1845 1686,1757 1461,1784 1154,1759 1043,1775"/>
+                <Baseline points="1055,1832 1085,1832 1116,1830 1147,1830 1178,1830 1209,1830 1240,1830 1271,1830 1302,1830 1333,1830 1364,1830 1394,1830 1425,1830 1456,1830 1487,1830 1518,1830 1549,1830 1580,1830 1611,1830 1642,1829 1673,1827"/>
+                <TextEquiv>
+                    <Unicode>Mit bestem Dank</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+                <Coords points="1676,1915 1767,1925 1796,1908 1891,1902 1957,1931 2029,1914 2066,1938 2098,1914 2122,1919 2121,1842 2049,1814 1973,1838 1882,1807 1845,1826 1816,1818 1766,1848 1721,1832 1676,1843"/>
+                <Baseline points="1689,1898 1715,1897 1741,1896 1767,1895 1794,1895 1820,1894 1846,1893 1872,1893 1899,1893 1925,1893 1951,1892 1977,1893 2004,1893 2030,1893 2056,1893 2082,1894 2109,1895"/>
+                <TextEquiv>
+                    <Unicode>herzlichst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+                <Coords points="1684,2037 1748,2056 1851,2054 1870,2073 1981,2037 2066,2032 2103,2048 2137,2033 2138,1972 2059,1961 2032,1979 2006,1952 1958,1947 1897,1983 1807,1974 1746,1947 1685,1981"/>
+                <Baseline points="1697,2024 1722,2024 1747,2025 1772,2025 1797,2025 1822,2025 1847,2025 1872,2026 1897,2027 1922,2027 1947,2027 1972,2027 1997,2027 2022,2027 2047,2027 2072,2027 2097,2027 2123,2027"/>
+                <TextEquiv>
+                    <Unicode>Clara Loeb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>7.III.1896.
+Sehr geehrter Herr Doktor!
+Ich war gerade bei der Arbeit als Ihr Buch mit
+den freundlichen Grüssen kam. "Mimi" und ich haben
+uns sehr mit demselben gefreut und werde ich dieses
+"herzige Mäderl" mit Gegengrüssen demnächst an Sie
+senden. Auf Ihren Vorschlag gehe ich natürlich mit
+grossem Vergnügen ein und hoffe sehr bald etwas " Un¬
+gedrucktes von Ihnen zu lesen.
+Mit bestem Dank
+herzlichst
+Clara Loeb</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

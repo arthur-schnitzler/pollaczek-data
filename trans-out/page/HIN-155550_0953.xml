@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:54</Creator>
+        <Created>2022-11-17T16:36:56.621+01:00</Created>
+        <LastChange>2022-11-25T11:54:37.366Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50264975" pageNr="953" tsid="105033058" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=FRVZMKXYHYUFSXCDQCGQYGYA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RBRQDIXSQJIBGLIQORHISKUZ" imageId="41051383"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0953.tif" imageWidth="3759" imageHeight="4670">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749965244" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="683,143 683,2184 3614,2184 3614,143"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2411,434 2592,448 2688,418 2906,457 2988,416 3142,451 3189,435 3190,302 3142,294 3098,328 2944,317 2896,344 2729,313 2412,314"/>
+                <Baseline points="2427,389 2464,391 2501,393 2539,394 2576,395 2613,396 2651,396 2688,396 2725,396 2763,396 2800,396 2837,396 2875,396 2912,396 2949,396 2987,396 3024,396 3061,396 3099,396 3136,397 3174,398"/>
+                <TextEquiv>
+                    <Unicode>12.8.1931. Bl.2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="730,600 3290,659 3390,561 2934,480 731,504"/>
+                <Baseline points="747,564 878,567 1009,570 1141,572 1272,574 1403,576 1535,578 1666,579 1797,581 1929,582 2060,584 2191,585 2323,587 2454,588 2585,590 2717,591 2848,593 2979,594 3111,596 3242,597 3374,599"/>
+                <TextEquiv>
+                    <Unicode>hier. Ich musste absagen, weil es schüttete und der Weg im Dunkeln</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="666,706 3235,787 3418,688 667,624"/>
+                <Baseline points="683,695 818,696 954,699 1090,701 1226,704 1362,706 1497,708 1633,710 1769,713 1905,714 2041,716 2176,717 2312,720 2448,722 2584,723 2720,725 2855,726 2991,729 3127,731 3263,732 3399,734"/>
+                <TextEquiv>
+                    <Unicode>zu weit war und ein Einspänner hin und zurück 12 S. gekostet hätte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="675,839 1651,848 1757,894 1945,876 2007,812 1806,755 1498,792 1359,752 676,760"/>
+                <Baseline points="692,828 756,830 821,831 886,831 951,833 1016,833 1080,834 1145,834 1210,836 1275,836 1340,836 1404,837 1469,837 1534,839 1599,839 1664,840 1728,842 1793,843 1858,845 1923,847 1988,849"/>
+                <TextEquiv>
+                    <Unicode>Aber das ist wirklich belanglos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="718,985 3459,1047 3454,893 720,883"/>
+                <Baseline points="737,957 872,959 1007,962 1143,963 1278,965 1413,968 1549,969 1684,971 1819,972 1955,975 2090,977 2225,978 2361,980 2496,981 2631,983 2767,984 2902,986 3037,987 3173,989 3308,990 3444,990"/>
+                <TextEquiv>
+                    <Unicode>Ich habe gestern zu arbeiten begonnen, aber heute fühle ich mich we-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="721,1124 3250,1154 3340,1073 722,1031"/>
+                <Baseline points="740,1086 869,1088 998,1091 1127,1092 1256,1094 1385,1096 1514,1098 1643,1100 1772,1103 1901,1106 2030,1107 2159,1109 2288,1112 2417,1113 2546,1115 2675,1116 2804,1118 2933,1119 3062,1121 3191,1121 3321,1121"/>
+                <TextEquiv>
+                    <Unicode>niger wohl und nicht arbeitslustig, obwohl die Regengünse und die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="720,1255 1038,1226 1225,1274 1382,1239 1617,1273 1731,1224 2007,1270 2008,1178 1916,1162 1599,1178 1548,1139 1363,1191 722,1125"/>
+                <Baseline points="738,1214 800,1215 863,1217 925,1218 988,1220 1050,1221 1113,1223 1175,1223 1238,1224 1300,1226 1363,1227 1426,1228 1488,1229 1551,1230 1613,1230 1676,1232 1738,1232 1801,1233 1863,1233 1926,1235 1989,1235"/>
+                <TextEquiv>
+                    <Unicode>Einsamkeit dazu geeignet wären.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="681,1344 3272,1418 3447,1321 682,1279"/>
+                <Baseline points="698,1344 834,1347 971,1350 1107,1353 1244,1355 1380,1358 1517,1359 1653,1362 1790,1364 1926,1365 2063,1367 2199,1368 2336,1371 2472,1372 2609,1374 2745,1376 2882,1377 3018,1379 3155,1380 3291,1382 3428,1383"/>
+                <TextEquiv>
+                    <Unicode>Sollte Dir ein anderer leicht erreichbarer Ort lieber sein als Salz-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="686,1495 3372,1548 3374,1449 687,1409"/>
+                <Baseline points="704,1481 836,1481 969,1482 1101,1484 1234,1485 1367,1488 1499,1490 1632,1493 1764,1494 1897,1497 2030,1499 2162,1500 2295,1503 2427,1505 2560,1506 2693,1508 2825,1509 2958,1511 3090,1511 3223,1512 3356,1511"/>
+                <TextEquiv>
+                    <Unicode>burg, dann wähle einen andern. Ich dachte nur Salzburg sei vorder -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="683,1621 2611,1701 3140,1678 3258,1594 684,1533"/>
+                <Baseline points="701,1607 827,1608 954,1611 1081,1613 1208,1615 1335,1617 1462,1619 1589,1622 1716,1623 1843,1626 1970,1628 2096,1629 2223,1632 2350,1634 2477,1635 2604,1637 2731,1638 2858,1640 2985,1640 3112,1641 3239,1641"/>
+                <TextEquiv>
+                    <Unicode>hand am bequemsten für Dich und mich, wenn Du Gastein nicht vor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="726,1787 3291,1776 3292,1677 3163,1661 729,1650"/>
+                <Baseline points="744,1737 870,1740 996,1743 1123,1745 1249,1748 1376,1749 1502,1752 1629,1754 1755,1755 1882,1758 2008,1760 2134,1761 2261,1764 2387,1766 2514,1767 2640,1769 2767,1770 2893,1773 3020,1775 3146,1776 3273,1778"/>
+                <TextEquiv>
+                    <Unicode>ziehet, wozu ich Dir gewiss nicht zureden will. Jedesfalls alles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="714,1884 1085,1949 1318,1888 1713,1936 1747,1933 1749,1855 1412,1787 1319,1833 715,1805"/>
+                <Baseline points="732,1866 784,1868 837,1869 889,1871 942,1872 994,1874 1047,1875 1100,1875 1152,1877 1205,1878 1257,1878 1310,1880 1362,1881 1415,1881 1468,1883 1520,1883 1573,1883 1625,1883 1678,1884 1731,1884"/>
+                <TextEquiv>
+                    <Unicode>Gute und Schöne für Dich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="1753,2052 1780,2054 1813,2071 1842,2056 1872,2059 1883,1937 1859,1935 1853,1927 1836,1929 1825,1938 1804,1937 1798,1929 1764,1923"/>
+                <Baseline points="1772,2013 1801,2016 1830,2018 1860,2021"/>
+                <TextEquiv>
+                    <Unicode>D.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="1855,2174 1981,2189 2111,2146 2149,2170 2514,2163 2515,2023 2389,2056 2269,2014 2184,2068 2116,2050 2037,2077 1856,2061"/>
+                <Baseline points="1872,2147 1903,2147 1934,2147 1965,2147 1996,2147 2028,2147 2059,2148 2090,2148 2121,2148 2152,2150 2184,2150 2215,2150 2246,2150 2277,2151 2308,2151 2340,2151 2371,2151 2402,2151 2433,2151 2464,2151 2496,2151"/>
+                <TextEquiv>
+                    <Unicode>Clara Katharina.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="3517,303 3544,309 3573,284 3596,297 3627,299 3642,136 3607,140 3594,135 3583,144 3570,130 3559,136 3532,133"/>
+                <Baseline points="3539,243 3564,245 3589,248 3614,249"/>
+                <TextEquiv>
+                    <Unicode>21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

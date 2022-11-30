@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:52</Creator>
+        <Created>2022-11-17T16:35:28.433+01:00</Created>
+        <LastChange>2022-11-25T11:52:26.698Z</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50263444" pageNr="483" tsid="105032435" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WHHGDBFPKQAQKMZARLEHVAGG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SQXDZXVHPIGYEHEOHPQARNMP" imageId="41050547"/>
+    </Metadata>
+    <Page imageFilename="HIN-155550_0483.tif" imageWidth="3755" imageHeight="4694">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669749962364" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="393,506 393,1340 3356,1340 3356,506"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="394,585 3011,636 3013,492 395,507"/>
+                <Baseline points="411,572 540,575 669,578 798,579 927,582 1056,584 1185,585 1314,588 1443,590 1572,591 1702,593 1831,596 1960,597 2089,599 2218,600 2347,602 2476,603 2605,605 2734,606 2863,608 2993,609"/>
+                <TextEquiv>
+                    <Unicode>Fr. Dr Menczel recht wol fühle. Ich denke Donnerstag oder Freitag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="389,743 3239,798 3377,678 390,625"/>
+                <Baseline points="407,705 554,708 701,711 849,713 996,716 1144,719 1291,720 1439,723 1586,725 1734,726 1881,729 2028,731 2176,732 2323,734 2471,736 2618,738 2766,738 2913,740 3061,741 3208,743 3356,744"/>
+                <TextEquiv>
+                    <Unicode>hier abzureisen, und mich sofort mit aller notwendiger Energie in die Ar¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="390,894 456,902 512,851 564,882 889,849 1117,867 1115,763 1044,785 894,749 779,785 739,758 590,797 392,743"/>
+                <Baseline points="408,836 442,836 476,837 511,838 545,839 580,839 614,840 649,840 683,840 718,842 752,842 786,842 821,842 855,843 890,843 924,843 959,843 993,845 1028,845 1062,845 1097,845"/>
+                <TextEquiv>
+                    <Unicode>beit zu stürzen.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="396,1032 3292,988 3175,869 398,896"/>
+                <Baseline points="414,968 556,971 699,974 842,975 985,978 1128,980 1271,983 1414,984 1557,986 1700,987 1843,987 1985,989 2128,990 2271,990 2414,992 2557,992 2700,993 2843,993 2986,995 3129,995 3272,995"/>
+                <TextEquiv>
+                    <Unicode>Vielleicht sendest du noch ein liebes Wort hierher; Ich umarme dich von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="375,1112 426,1124 452,1107 463,1118 496,1111 533,1135 610,1147 639,1167 690,1168 694,1035 657,1045 631,1019 601,1040 517,1027 502,1042 491,1030 461,1041 376,1035"/>
+                <Baseline points="393,1100 418,1101 443,1103 469,1104 494,1104 519,1105 545,1106 570,1106 595,1106 621,1106 646,1107 672,1109"/>
+                <TextEquiv>
+                    <Unicode>Herzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="631,1334 665,1327 690,1346 757,1331 827,1357 864,1335 908,1361 945,1365 945,1236 890,1210 827,1236 746,1239 684,1187 632,1187"/>
+                <Baseline points="650,1299 675,1301 700,1302 725,1302 750,1302 775,1302 800,1302 825,1301 850,1301 875,1301 900,1302 926,1305"/>
+                <TextEquiv>
+                    <Unicode>Arthur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
