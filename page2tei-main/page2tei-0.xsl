@@ -589,7 +589,7 @@
       <!--<xsl:text>&lt;p&gt;</xsl:text>-->
       <paragraph-start/>
     </xsl:if>
-    <!--<lb facs="#facs_{$numCurr}_{@id}" n="N{format-number($pos, '000')}"/>-->
+    <lb n="{format-number($pos, '00')}"/>
     <xsl:apply-templates select="$prepared/text()[not(preceding-sibling::local:m)]"/>
     <xsl:apply-templates select="
         $prepared/local:m[@pos = 's']
