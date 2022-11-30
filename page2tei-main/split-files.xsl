@@ -6,7 +6,11 @@
     <xsl:output name="xml" method="xml" indent="yes" omit-xml-declaration="yes"/>
 
     <!-- directory of new files -->
-    <xsl:param name="dir">../editions</xsl:param>
+    <xsl:param name="dir">../data/editions</xsl:param>
+    <xsl:param name="toc"
+        select="document('../data/indices/toc.xml')"/>
+    <xsl:key name="toc-title" match="item" use="@xml:id"/>
+    
 
     <!-- output xml file for each letter tag with file name according to number of xml files in output directory (+1) -->
     <xsl:param name="n" select="count(collection(concat($dir, '?select=*.xml')))"/>
@@ -37,8 +41,11 @@
                         <fileDesc>
                             <titleStmt>
                                 <title level="s">Clara Katharina Pollaczek: Arthur Schnitzler und ich</title>
-                                <title level="a">
+                                <title level="main">
                                     <xsl:text>Seite </xsl:text><xsl:value-of select="@id"/></title>
+                                <title level="a">
+                                    <xsl:value-of select="key('toc-title', $dateiname, $toc)/title"/>
+                                </title>
                                 <author ref="#12435">Pollaczek, Clara Katharina</author>
                                 <editor>
                                     <name>Müller, Martin Anton</name>
@@ -63,7 +70,6 @@
                                     <name>Müller, Martin Anton</name>
                                     <name>Untner, Laura</name>
                                 </respStmt>
-                                <idno type="ckp">ckp0<xsl:value-of select="@id"/></idno>
                             </editionStmt>
                             <publicationStmt>
                                 <publisher>Austrian Centre for Digital Humanities and Cultural
