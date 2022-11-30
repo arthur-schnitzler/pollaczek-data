@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:51</Creator>
         <Created>2022-11-17T16:35:07.659+01:00</Created>
-        <LastChange>2022-11-25T11:51:30.329Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50263111" pageNr="371" tsid="105032256" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=BPOBGGIKKAPCBRNWVEOQHGVK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QNLMEQVPDGIHILLJIFJRUZVW" imageId="41050215"/>
+        <LastChange>2022-11-29T20:59:39.499+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50263111" pageNr="371" tsid="105359606" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=BPOBGGIKKAPCBRNWVEOQHGVK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TJOAKLRUJXKMZZQFGLAAUMCO" imageId="41050215"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0371.tif" imageWidth="3759" imageHeight="4674">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669749961692" caption="Regions reading order">
+            <OrderedGroup id="ro_1669820951245" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -63,30 +63,14 @@
                     <Unicode>A.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:7;}">
-                <Coords points="1770,1262 1797,1266 1847,1247 1877,1264 1924,1239 1969,1279 2009,1287 2012,1151 1958,1166 1925,1156 1892,1172 1823,1137 1809,1147 1773,1146"/>
-                <Baseline points="1788,1226 1813,1228 1839,1230 1864,1230 1890,1232 1915,1233 1941,1232 1966,1231 1992,1229"/>
-                <TextEquiv>
-                    <Unicode>&lt;INS&gt;</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:8;}">
-                <Coords points="3483,255 3517,255 3546,275 3560,265 3576,269 3586,262 3619,279 3636,279 3636,126 3619,126 3596,139 3570,113 3540,106 3527,93 3483,103"/>
-                <Baseline points="3501,198 3531,198 3561,198 3591,198 3621,198"/>
-                <TextEquiv>
-                    <Unicode>330</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Bl. 2.
+5.8.1926
+Und nun mein Liebes, grüss und küss ich Dich tausendmal, wünsche Dir
+eine gute Reise und freu mich Dir mit Herz und Sinnen und wenn Du
+erlaubst auch mit dem Verstand innigst entgegen.
+Dein
+A.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

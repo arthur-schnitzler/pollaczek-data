@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:52</Creator>
         <Created>2022-11-17T16:35:37.145+01:00</Created>
-        <LastChange>2022-11-25T11:52:37.909Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50263570" pageNr="529" tsid="105032496" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=BHWBLTBXZDTATSDFNHIRIXEC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CPTVYOECZBUOKCGCNBJJPOCK" imageId="41050673"/>
+        <LastChange>2022-11-29T21:00:28.594+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50263570" pageNr="529" tsid="105359815" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=BHWBLTBXZDTATSDFNHIRIXEC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LBKPKTMURSCCQDINTZCTKOTI" imageId="41050673"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0529.tif" imageWidth="3770" imageHeight="4718">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669749962671" caption="Regions reading order">
+            <OrderedGroup id="ro_1669820952005" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -25,7 +25,7 @@
                 <Coords points="806,639 3246,635 3245,561 3012,485 2898,553 2675,480 805,558"/>
                 <Baseline points="821,616 933,616 1196,612 1309,612 1422,611 1535,611 1647,611 1760,609 1873,609 1986,609 2099,608 2211,607 2324,606 2437,605 2550,605 2663,605 2775,603 2888,603 3001,603 3114,603 3227,603"/>
                 <TextEquiv>
-                    <Unicode>von der Polizei das griechische Vizum vidieren lassen.-Heute</Unicode>
+                    <Unicode>von der Polizei das griechische Vizum vidieren lassen.– Heute</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l5" custom="readingOrder {index:2;}">
@@ -91,34 +91,18 @@
                     <Unicode>A.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:11;}">
-                <Coords points="1901,1907 1945,1905 1991,1927 2005,1917 2035,1915 2052,1926 2062,1916 2082,1927 2102,1924 2106,1830 2056,1818 2023,1800 1981,1829 1961,1821 1937,1837 1927,1827 1904,1826"/>
-                <Baseline points="1919,1899 1947,1898 1975,1898 2003,1899 2031,1901 2059,1902 2087,1905"/>
-                <TextEquiv>
-                    <Unicode>&lt;INS&gt;</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:12;}">
-                <Coords points="3560,213 3577,215 3598,238 3605,236 3635,270 3662,270 3680,127 3663,124 3645,132 3636,124 3626,126 3607,117 3573,116"/>
-                <Baseline points="3578,213 3614,213 3650,222"/>
-                <TextEquiv>
-                    <Unicode>104</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>17.4.1928. Bl. 3
+von der Polizei das griechische Vizum vidieren lassen.– Heute
+wurden uns allen die Pässe schon für die Türkei abgenommen. Sie
+zittern für die Dardanellen (und ich schwöre, dass niemand auf dem
+Schiff kriegerische Absichten hat, weder der Oberstleutenant noch
+der Faschist. Dieser Brief soll in Piräus ans Land gebracht und
+von dort mit der Luftpost weiterbefördert werden. So heisst es im
+Büreau.
+Für heute, mein Liebstes, sag ich Dir Adieu und umarme Dich zärtlich.
+Dein
+A.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

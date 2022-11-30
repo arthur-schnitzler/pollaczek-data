@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:52</Creator>
         <Created>2022-11-17T16:35:42.088+01:00</Created>
-        <LastChange>2022-11-25T11:52:44.722Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50263645" pageNr="554" tsid="105032529" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=XMXTPPXWGSFGRWFAURTAPRND&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YLDQBGGSGGOJMEEVGBIUVLGL" imageId="41050698"/>
+        <LastChange>2022-11-29T22:25:10.936+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50263645" pageNr="554" tsid="105363415" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=XMXTPPXWGSFGRWFAURTAPRND&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XSOABRTWMSDRIDBAAAZYZSQT" imageId="41050698"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0554.tif" imageWidth="3743" imageHeight="4634">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669749962821" caption="Regions reading order">
+            <OrderedGroup id="ro_1669820952114" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -39,14 +39,14 @@
                 <Coords points="620,815 3519,793 3435,702 620,703"/>
                 <Baseline points="638,783 781,783 924,785 1067,785 1210,785 1353,785 1496,785 1639,785 1782,785 1925,785 2069,785 2212,785 2355,785 2498,783 2641,783 2784,783 2927,783 3070,784 3213,785 3356,785 3500,785"/>
                 <TextEquiv>
-                    <Unicode>11.7. mittwoch Vormittag. A. in der Stadttgetroffen. Wundervolle Tasche</Unicode>
+                    <Unicode>11.7. mittwoch Vormittag. A. in der Stadt getroffen. Wundervolle Tasche</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+            <TextLine id="r1l5" custom="readingOrder {index:4;} supplied {offset:29; length:1;}">
                 <Coords points="595,929 3299,944 3252,803 3092,871 596,839"/>
                 <Baseline points="612,911 745,911 878,912 1012,914 1145,914 1278,915 1412,915 1545,915 1678,915 1812,915 1945,915 2078,915 2212,917 2345,917 2478,917 2612,917 2745,917 2878,918 3012,918 3145,920 3279,921"/>
                 <TextEquiv>
-                    <Unicode>o exommen. Parfum. Später mit Dchwarzkopf. Mittag Otto, Fredi, Harry.</Unicode>
+                    <Unicode>bekommen. Parfum. Später mit Schwarzkopf. Mittag Otto, Fredi, Harry.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l6" custom="readingOrder {index:5;}">
@@ -67,7 +67,7 @@
                 <Coords points="652,1346 2706,1353 2783,1251 652,1252"/>
                 <Baseline points="671,1305 775,1305 880,1304 985,1304 1090,1304 1194,1304 1299,1305 1404,1305 1509,1305 1613,1307 1718,1307 1823,1307 1928,1308 2032,1308 2137,1308 2242,1308 2347,1310 2451,1310 2556,1310 2661,1308 2766,1308"/>
                 <TextEquiv>
-                    <Unicode>3/4 1 nach Haus. Gut geschlafen. A. sehr liebzu mir.</Unicode>
+                    <Unicode>3/4 1 nach Haus. Gut geschlafen. A. sehr lieb zu mir.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l9" custom="readingOrder {index:8;}">
@@ -81,7 +81,7 @@
                 <Coords points="609,1585 3511,1614 3464,1487 3102,1453 609,1484"/>
                 <Baseline points="627,1563 770,1565 913,1565 1057,1566 1200,1566 1343,1566 1487,1566 1630,1568 1773,1568 1917,1568 2060,1568 2203,1568 2347,1568 2490,1569 2633,1569 2777,1569 2920,1569 3063,1571 3207,1571 3350,1571 3494,1572"/>
                 <TextEquiv>
-                    <Unicode>14.7. Am Abend mit A. und Heini erst im Kino, dann bei Prohaska genacht-</Unicode>
+                    <Unicode>14.7. Am Abend mit A. und Heini erst im Kino, dann bei Prohaska genacht¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l11" custom="readingOrder {index:10;}">
@@ -102,35 +102,35 @@
                 <Coords points="593,1987 1630,1957 1876,2005 2006,1969 2007,1904 593,1889"/>
                 <Baseline points="612,1959 680,1957 749,1955 818,1955 887,1953 956,1953 1024,1952 1093,1952 1162,1952 1231,1952 1300,1953 1368,1953 1437,1953 1506,1955 1575,1955 1644,1956 1712,1956 1781,1958 1850,1958 1919,1958 1988,1959"/>
                 <TextEquiv>
-                    <Unicode>j unger, deutsch-völkischer Student.</Unicode>
+                    <Unicode>junger, deutsch-völkischer Student.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l14" custom="readingOrder {index:13;}">
                 <Coords points="595,2100 2816,2125 2864,1991 595,2006"/>
                 <Baseline points="614,2085 725,2085 837,2085 948,2085 1060,2085 1172,2085 1283,2085 1395,2085 1507,2085 1618,2087 1730,2087 1842,2087 1953,2087 2065,2088 2177,2088 2288,2088 2400,2090 2512,2090 2623,2090 2735,2091 2847,2091"/>
                 <TextEquiv>
-                    <Unicode>15.7. Cary-Magdi zurück, sprach sie nur telefonisch. xxx</Unicode>
+                    <Unicode>15.7. Cary–Magdi zurück, sprach sie nur telefonisch. </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l15" custom="readingOrder {index:14;}">
                 <Coords points="616,2228 2693,2274 3312,2241 3313,2165 617,2116"/>
                 <Baseline points="636,2213 768,2213 901,2213 1034,2214 1167,2214 1300,2214 1433,2214 1566,2216 1699,2216 1832,2216 1965,2217 2097,2217 2230,2217 2363,2219 2496,2219 2629,2220 2762,2222 2895,2222 3028,2223 3161,2225 3294,2226"/>
                 <TextEquiv>
-                    <Unicode>16.7. Die Kinder senen blünend aus und sind sehr lieb. Um 1/3 holte</Unicode>
+                    <Unicode>16.7. Die Kinder sehen blühend aus und sind sehr lieb. Um 1/3 holte</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l16" custom="readingOrder {index:15;}">
                 <Coords points="587,2409 3431,2411 3432,2299 587,2282"/>
                 <Baseline points="606,2340 746,2342 886,2342 1027,2343 1167,2343 1308,2345 1448,2345 1588,2346 1729,2346 1869,2348 2010,2348 2150,2348 2290,2349 2431,2349 2571,2349 2712,2351 2852,2351 2992,2352 3133,2352 3273,2354 3414,2355"/>
                 <TextEquiv>
-                    <Unicode>m ich A. im Auto bei innen ab. Mit Heini, Frieda und Bruder wundervolle</Unicode>
+                    <Unicode>mich A. im Auto bei ihnen ab. Mit Heini, Frieda und Bruder wundervolle</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:16;}">
                 <Coords points="655,2508 3489,2529 3489,2439 3312,2401 656,2396"/>
                 <Baseline points="674,2469 813,2471 953,2472 1093,2472 1233,2474 1373,2474 1513,2475 1652,2475 1792,2477 1932,2477 2072,2477 2212,2478 2352,2478 2492,2480 2631,2481 2771,2481 2911,2483 3051,2484 3191,2486 3331,2487 3471,2490"/>
                 <TextEquiv>
-                    <Unicode>Fahrt nach Mauerbach, dann über St. Veit, Mauer zum Roten Stadl. Sehr ge</Unicode>
+                    <Unicode>Fahrt nach Mauerbach, dann über St. Veit, Mauer zum Roten Stadl. Sehr ge¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l18" custom="readingOrder {index:17;}">
@@ -144,7 +144,7 @@
                 <Coords points="675,2756 714,2774 754,2757 856,2769 892,2744 965,2738 1196,2777 1225,2767 1226,2698 1107,2653 995,2680 926,2647 846,2649 752,2684 676,2680"/>
                 <Baseline points="693,2732 718,2732 744,2733 770,2733 796,2733 822,2733 847,2733 873,2733 899,2735 925,2735 951,2735 976,2735 1002,2735 1028,2735 1054,2735 1080,2736 1105,2736 1131,2737 1157,2738 1183,2739 1209,2741"/>
                 <TextEquiv>
-                    <Unicode>und zärtlieh.</Unicode>
+                    <Unicode>und zärtlich.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l20" custom="readingOrder {index:19;}">
@@ -158,7 +158,7 @@
                 <Coords points="646,3028 3236,3081 3483,3025 3484,2927 647,2912"/>
                 <Baseline points="666,2991 813,2993 960,2994 1107,2996 1255,2997 1402,2999 1549,3000 1697,3002 1844,3002 1991,3003 2139,3005 2286,3006 2433,3006 2581,3008 2728,3009 2875,3010 3023,3011 3170,3012 3317,3014 3465,3015"/>
                 <TextEquiv>
-                    <Unicode>beste Gefährtin, die man sich nur wünschen kann - ich hätte gar keinen</Unicode>
+                    <Unicode>beste Gefährtin, die man sich nur wünschen kann – ich hätte gar keinen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l22" custom="readingOrder {index:21;}">
@@ -186,14 +186,14 @@
                 <Coords points="595,3539 2895,3592 3490,3565 3527,3446 596,3409"/>
                 <Baseline points="612,3504 756,3507 901,3509 1046,3510 1191,3512 1336,3513 1481,3515 1626,3516 1771,3518 1916,3519 2061,3520 2205,3521 2350,3522 2495,3524 2640,3525 2785,3527 2930,3528 3075,3531 3220,3533 3365,3534 3510,3536"/>
                 <TextEquiv>
-                    <Unicode>1.7. Gestern sehrb gemütlich. Das Nachtmahl im Garten, nach dem wahnsin-</Unicode>
+                    <Unicode>7.7. Gestern sehr gemütlich. Das Nachtmahl im Garten, nach dem wahnsin¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l26" custom="readingOrder {index:25;}">
                 <Coords points="646,3682 3276,3713 3336,3605 647,3544"/>
                 <Baseline points="665,3636 797,3638 930,3639 1062,3641 1195,3642 1327,3644 1460,3644 1592,3645 1725,3647 1857,3648 1990,3650 2122,3651 2255,3653 2387,3654 2520,3656 2652,3657 2785,3659 2917,3660 3050,3662 3182,3663 3315,3665"/>
                 <TextEquiv>
-                    <Unicode>nig heissen Tag sehr erholend. Es hatte Nachmittag 35 Grad Reaumur</Unicode>
+                    <Unicode>nig heissen Tag sehr erholend. Es hatte Nachmittag 35 Grad Réaumur</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l27" custom="readingOrder {index:26;}">
@@ -224,45 +224,37 @@
                     <Unicode>wieder erzählen zu können.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:30;}">
-                <Coords points="3554,277 3572,278 3590,289 3616,265 3667,267 3674,93 3634,95 3622,106 3608,101 3578,125 3560,125"/>
-                <Baseline points="3576,191 3601,191 3626,192 3651,194"/>
-                <TextEquiv>
-                    <Unicode>125</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>1928
+Befinden elend. Kongestionen und Schwindel. Mein Aussehen dabei sehr
+gut. A. besonders nett. Rundfahrt um den Ring in der Nachtkühle.
+11.7. mittwoch Vormittag. A. in der Stadt getroffen. Wundervolle Tasche
+bekommen. Parfum. Später mit Schwarzkopf. Mittag Otto, Fredi, Harry.
+Am Abend Anna.
+1.2.7. Abend Autoausflug mit A., Berta Z. und ihren Kindern. Erst um
+3/4 1 nach Haus. Gut geschlafen. A. sehr lieb zu mir.
+13.7. Hitze unbeschreiblich.
+14.7. Am Abend mit A. und Heini erst im Kino, dann bei Prohaska genacht¬
+mahlt. Sehr nett, wenn auch ein wenig Befangenheit auf allen Seiten.
+Heini sieht sehr gut aus, gar nicht wie ein Schauspieler, eher wir ein
+junger, deutsch-völkischer Student.
+15.7. Cary–Magdi zurück, sprach sie nur telefonisch. 
+16.7. Die Kinder sehen blühend aus und sind sehr lieb. Um 1/3 holte
+mich A. im Auto bei ihnen ab. Mit Heini, Frieda und Bruder wundervolle
+Fahrt nach Mauerbach, dann über St. Veit, Mauer zum Roten Stadl. Sehr ge¬
+mütlich und heiter. Bei der Heimfahrt A. vor mir gesessen, sehr lieb
+und zärtlich.
+Frieda verriet mir, dass er letzthin von mir gesagt hat, ich sei die
+beste Gefährtin, die man sich nur wünschen kann – ich hätte gar keinen
+Fehler.
+Heute Abend wieder bei den Kindern mit Egon. Er holt mich mit Auto ab
+und ich nehme das Nachtmahl mit.
+7.7. Gestern sehr gemütlich. Das Nachtmahl im Garten, nach dem wahnsin¬
+nig heissen Tag sehr erholend. Es hatte Nachmittag 35 Grad Réaumur
+an meinem Fenster. Magda erzählt mir, dass ihr Vater ihr gesagt habe,
+Hugo Hofmannsthal spräche so nett von mir. Ich gefalle ihm so gut und
+er habe eine sehr gute Meinung von mir. Ich freute mich nur, um es A.
+wieder erzählen zu können.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

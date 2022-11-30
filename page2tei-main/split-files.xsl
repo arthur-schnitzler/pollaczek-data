@@ -8,7 +8,7 @@
     <!-- directory of new files -->
     <xsl:param name="dir">../editions</xsl:param>
     <xsl:param name="toc"
-        select="document('../data/indices/toc.xml')"/>
+        select="document('../data/toc.xml')"/>
     <xsl:key name="toc-title" match="item" use="@xml:id"/>
     
 
