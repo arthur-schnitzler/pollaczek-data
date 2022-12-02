@@ -29,8 +29,9 @@
             <item>Eingegriffen wird bei Tippfehlern wie vertauschten Buchstaben (»Afpel« wird zu
                »Apfel«), so lange die Korrektur eindeutig ist.</item>
             <item>Streichungen und Überschreibungen werden getilgt.</item>
-            <item>Abstandfehler, sei es durch zu viel oder fehlenden Leerraum (übereinandergetippte
-               Buchstaben) werden stillschweigend geändert.</item>
+            <item>Typische Fehler, die sich aus der Handhabung der Schreibmaschine erklären, werden stillschweigend behoben.
+               Darunter fallen Abstandfehler, sei es durch zu viel oder fehlenden Leerraum (übereinandergetippte
+               Buchstaben) ebenso wie gedoppelte Buchstaben.</item>
             <item>Nicht getippte Buchstaben, die durch eine Lücke angedeutet sind, werden
                stillschweigend ergänzt.</item>
             <item>Eingriffe, die das einfachere Verständnis ermöglichen sollen, werden in eckigen
