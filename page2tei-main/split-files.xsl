@@ -154,7 +154,7 @@
                     <xsl:element name="facsimile" namespace="http://www.tei-c.org/ns/1.0">
                             <xsl:element name="graphic" namespace="http://www.tei-c.org/ns/1.0">
                                 <xsl:attribute name="url">
-                                    <xsl:value-of select="@id"/>
+                                    <xsl:value-of select="$dateiname"/>
                                 </xsl:attribute>
                             </xsl:element>
                     </xsl:element>
