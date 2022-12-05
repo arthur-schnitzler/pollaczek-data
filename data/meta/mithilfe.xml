@@ -1,40 +1,42 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-           <titleStmt>
-              <title type="main">Mithilfe</title>
-              <title type="sub">Clara Katharina Pollaczek – Arthur Schnitzler und ich</title>
-           </titleStmt>
-           <publicationStmt>
-              <p>Publication Information</p>
-           </publicationStmt>
-           <sourceDesc>
-              <p>Information about the source</p>
-           </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-           <p>Wer sich durch die Seiten hier liest, wird nicht lange suchen müssen,
-           bis er auf Fehler stößt. Wir möchten nicht soweit gehen, das als ›feature‹ zu
-           verkaufen, aber die Fehler sind mit ein Grund, warum es die Seite überhaupt
-           gibt. Weil wir glauben, dass die Texterkennung auch ohne eine genaue
-           Textkontrolle einen lesbaren Text erzeugt hat ist, ist die Seite freigeschalten.</p>
-           <p>Wir möchten aber auch, dass die Fehler weniger werden – und hier kommen Sie
-           ins Spiel. Wenn Sie etwas beitragen möchten, dann können Sie das jederzeit tun. Die Aufgabe 
-           sollte mit minimalem technischen Wissen bewältigbar sein. Legen Sie sich einen kostenlosen
-           Account bei <ref type="url" target="https://readcoop.eu/transkribus/?sc=Transkribus">Transkribus</ref> zu
-           und mailen Sie uns Ihren Usernamen. Wir geben Ihnen dann Zugang zum Dokument und geben
-            genauere Auskunft.</p>
-           <p/>
-           <p>Auf folgende Dinge ist bei der Durchsicht zu achten:</p>
-           <list>
-              <item>Fehlende Unterstreichungen</item>
-              <item>Trennzeichen am Ende einer Zeile mit eckigem Winkelzeichen (»¬«) statt (»-«)</item>
-              <item>Korrektur von Abstandsfehlern oder falsch erkannten Zeichen</item>
-              <item>Entfernung von gelöschten Zeichen (»xxxx«), Seitenzahlen (»S. 2«) und Seitenköpfen.</item>
-           </list>
-        </body>
-    </text>
-  </TEI>
-  
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mithilfe</title>
+            <title type="sub">Clara Katharina Pollaczek – Arthur Schnitzler und ich</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Wer sich durch diese digitale Ausgabe liest, wird nicht lange suchen müssen, um auf Fehler zu
+            stoßen. Wir glauben jedoch, dass die Texterkennung auch ohne eine genaue Textkontrolle
+            einen lesbaren Text erzeugt hat. Darum gibt es diese Ausgabe schon in der vorliegenden
+            Form.</p>
+         <p>Wir möchten nicht so weit gehen, die Fehler als ›Features‹ zu verkaufen, aber die Fehler
+            sind mit ein Grund, warum es diese Ausgabe überhaupt gibt. Wir möchten, dass die Fehler
+            weniger werden – und hier kommen Sie ins Spiel. Wenn Sie etwas beitragen möchten, dann
+            können Sie das jederzeit tun. Das sollte auch mit minimalem technischen Wissen
+            bewältigbar sein. Legen Sie sich einen kostenlosen Account bei <ref type="url"
+               target="https://readcoop.eu/transkribus/?sc=Transkribus">Transkribus</ref> zu und
+            mailen Sie uns Ihren Usernamen. Wir geben Ihnen Zugang zum Dokument und geben genauere
+            Auskunft.</p>
+         <p/>
+         <p>Auf folgende Punkte ist bei der Durchsicht besonders zu achten:</p>
+         <list>
+            <item>Fehlende Unterstreichungen</item>
+            <item>Trennzeichen am Ende einer Zeile mit eckigem Winkelzeichen (»¬«) statt
+               (»-«)</item>
+            <item>Korrektur von Abstandsfehlern oder falsch erkannten Zeichen</item>
+            <item>Entfernung von gelöschten Zeichen (»xxxx«), Seitenzahlen (»S. 2«) und
+               Seitenköpfen</item>
+         </list>
+      </body>
+   </text>
+</TEI>
