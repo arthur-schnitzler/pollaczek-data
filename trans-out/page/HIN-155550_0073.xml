@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:24</Creator>
         <Created>2022-11-17T16:34:12.427+01:00</Created>
-        <LastChange>2022-11-18T03:24:00.286Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259530" pageNr="73" tsid="104225753" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=UYPOZYXKTLTEYSTLXAGEZHTC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YBXZMSHZAGHGTJMWFMDNKFUZ" imageId="41048859"/>
+        <LastChange>2022-12-01T12:17:13.375+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259530" pageNr="73" tsid="105473915" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=UYPOZYXKTLTEYSTLXAGEZHTC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YUUVYIYTWUBPQYDAPSELVSGO" imageId="41048859"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0073.tif" imageWidth="3811" imageHeight="4791">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949442" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783521" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -18,7 +18,7 @@
                 <Coords points="1844,414 2203,455 2438,398 3133,448 3242,413 3210,271 2938,332 1845,319"/>
                 <Baseline points="1862,387 1930,388 1998,389 2066,389 2134,389 2202,389 2270,390 2338,390 2406,390 2474,392 2542,392 2610,392 2678,393 2746,393 2814,393 2882,393 2950,393 3018,393 3086,393 3154,393 3222,392"/>
                 <TextEquiv>
-                    <Unicode>Im Zug nach Häringsdorf,17.7.1923.</Unicode>
+                    <Unicode>Im Zug nach Häringsdorf, 17.7.1923.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
@@ -109,21 +109,21 @@
                 <Coords points="659,2152 3362,2237 3363,2107 3229,2088 660,2033"/>
                 <Baseline points="677,2148 810,2150 943,2151 1077,2153 1210,2154 1343,2154 1477,2156 1610,2157 1743,2159 1877,2159 2010,2160 2143,2162 2277,2162 2410,2163 2543,2165 2677,2166 2810,2168 2943,2168 3077,2169 3210,2171 3344,2172"/>
                 <TextEquiv>
-                    <Unicode>Eine Fleischspeise kostet X 75-80.000 Mark und ist lange nicht so</Unicode>
+                    <Unicode>Eine Fleischspeise kostet 75–80.000 Mark und ist lange nicht so</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l15" custom="readingOrder {index:14;}">
                 <Coords points="662,2297 2906,2377 3485,2334 3486,2200 662,2232"/>
                 <Baseline points="681,2283 820,2283 959,2283 1098,2283 1238,2285 1377,2285 1516,2286 1656,2288 1795,2289 1934,2291 2074,2292 2213,2294 2352,2295 2491,2297 2631,2297 2770,2298 2909,2300 3049,2300 3188,2301 3327,2301 3467,2301"/>
                 <TextEquiv>
-                    <Unicode>gut wie bei „Gruss“ oder beim „Auge Gottes“ der beim "Schutzengel“ -</Unicode>
+                    <Unicode>gut wie bei »Gruss« oder beim »Auge Gottes« der beim »Schutzengel« –</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+            <TextLine id="r1l16" custom="readingOrder {index:15;} structure {type:paragraph;}">
                 <Coords points="655,2429 3320,2460 3288,2318 656,2345"/>
                 <Baseline points="674,2412 805,2412 936,2412 1068,2414 1199,2415 1331,2416 1462,2417 1593,2420 1725,2421 1856,2423 1988,2424 2119,2426 2250,2427 2382,2429 2513,2430 2645,2432 2776,2433 2907,2433 3039,2435 3170,2435 3302,2433"/>
                 <TextEquiv>
-                    <Unicode>Ich hoffe sehr morgen Nachricht von Dir zu haben, idann kriegst Du</Unicode>
+                    <Unicode>Ich hoffe sehr morgen Nachricht von Dir zu haben, dann kriegst Du</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:16;}">
@@ -144,21 +144,21 @@
                 <Coords points="685,2842 3063,2894 3418,2837 3419,2761 686,2741"/>
                 <Baseline points="704,2799 838,2801 973,2804 1108,2805 1243,2808 1378,2810 1513,2811 1647,2813 1782,2814 1917,2816 2052,2817 2187,2819 2322,2820 2457,2822 2591,2823 2726,2825 2861,2825 2996,2826 3131,2828 3266,2829 3401,2829"/>
                 <TextEquiv>
-                    <Unicode>hat "Schluckerchen", - wir sagen Schnackerl in Wien und ich finde das</Unicode>
+                    <Unicode>hat »Schluckerchen«, – wir sagen Schnackerl in Wien und ich finde das</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l20" custom="readingOrder {index:19;}">
                 <Coords points="638,2947 3392,3024 3419,2886 638,2871"/>
                 <Baseline points="657,2930 794,2933 931,2934 1068,2936 1205,2937 1342,2939 1479,2941 1616,2943 1753,2945 1890,2946 2028,2948 2165,2949 2302,2950 2439,2951 2576,2952 2713,2954 2850,2955 2987,2957 3124,2958 3261,2960 3399,2961"/>
                 <TextEquiv>
-                    <Unicode>G anze berlinerisch degoutant, es geht mir direkt auf die Nerven.- Ich</Unicode>
+                    <Unicode>Ganze berlinerisch degoutant, es geht mir direkt auf die Nerven.– Ich</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l21" custom="readingOrder {index:20;}">
                 <Coords points="644,3067 3576,3113 3555,3011 645,2987"/>
                 <Baseline points="663,3057 807,3061 952,3064 1097,3066 1242,3069 1386,3071 1531,3074 1676,3075 1821,3077 1965,3078 2110,3080 2255,3081 2400,3083 2544,3084 2689,3086 2834,3087 2979,3089 3123,3090 3268,3092 3413,3093 3558,3095"/>
                 <TextEquiv>
-                    <Unicode>denke Deiner mit "einiger Herzlichkeit" (Schnitzleri che Ausdrucksweise)</Unicode>
+                    <Unicode>denke Deiner mit »einiger Herzlichkeit« (Schnitzlerische Ausdrucksweise)</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l22" custom="readingOrder {index:21;}">
@@ -193,60 +193,52 @@
                 <Coords points="684,3660 1436,3745 1585,3674 2491,3658 2877,3753 3377,3690 3378,3588 3103,3574 685,3577"/>
                 <Baseline points="701,3645 833,3647 966,3648 1099,3650 1232,3653 1365,3654 1498,3656 1631,3657 1764,3659 1897,3660 2030,3661 2162,3662 2295,3663 2428,3665 2561,3666 2694,3668 2827,3669 2960,3671 3093,3672 3226,3674 3359,3675"/>
                 <TextEquiv>
-                    <Unicode>Die Gegend, durch die wir fahren, ist reizlos- ich habe sonst Flach-</Unicode>
+                    <Unicode>Die Gegend, durch die wir fahren, ist reizlos – ich habe sonst Flach¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l27" custom="readingOrder {index:26;}">
                 <Coords points="690,3798 3412,3831 3413,3744 3178,3720 692,3693"/>
                 <Baseline points="710,3779 844,3780 978,3782 1112,3783 1247,3786 1381,3788 1515,3789 1649,3791 1784,3792 1918,3795 2052,3797 2186,3798 2321,3799 2455,3800 2589,3801 2723,3803 2858,3804 2992,3804 3126,3804 3260,3806 3395,3806"/>
                 <TextEquiv>
-                    <Unicode>land gerne, aber dieses strömt Langeweile aus. Grüss mir den Sommer-</Unicode>
+                    <Unicode>land gerne, aber dieses strömt Langeweile aus. Grüss mir den Sommer¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l28" custom="readingOrder {index:27;}">
                 <Coords points="613,3931 686,3918 707,3940 751,3933 783,3959 838,3916 907,3918 928,3936 968,3929 1000,3955 1088,3910 1089,3859 1042,3862 1002,3832 955,3853 854,3812 799,3847 782,3832 716,3857 615,3833"/>
                 <Baseline points="632,3906 657,3906 683,3906 709,3908 735,3908 760,3908 786,3909 812,3909 838,3909 863,3910 889,3911 915,3911 941,3912 966,3912 992,3912 1018,3912 1044,3912 1070,3912"/>
                 <TextEquiv>
-                    <Unicode>h aidenweg.</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:28;}">
-                <Coords points="3562,275 3591,272 3606,279 3613,272 3638,279 3653,264 3696,272 3696,116 3663,116 3645,127 3602,119 3584,134 3562,134"/>
-                <Baseline points="3579,228 3612,228 3645,228 3678,228"/>
-                <TextEquiv>
-                    <Unicode>24</Unicode>
+                    <Unicode>haidenweg.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Im Zug nach Häringsdorf, 17.7.1923.
+Mein Freund. Ich bin froh von Berlin fort zu sein, obwohl ich mich
+gar nicht auf Häringsdorf freue, höchstens auf das Meer, das ich sehr
+liebe. Die zwei Tage in Berlin waren schrecklich ermüdend, die Stadt
+ist mir sehr unsympathisch.
+Gestern Vormittag war ich bei Direktor Feilchenfeld, habe auch einen
+Gruss von Dir bestellt, obwohl Du mir keinen aufgetragen hattest. Er
+scheint sehr entzückt von Dir, was mich eher sympathisch
+berührte - - Er hat fabelhaft für mich gewirtschaftet, wenigstens
+bisher. Trotzdem habe ich mir in B. nur einen Hut gekauft, denn die
+Preise sind irrsinnig. Ein Kleid 7 bis 17 Millionen und lange nicht
+so schön wie in Wien. Ueberhaupt Wien! Wir sollten nie über Wien
+schimpfen und froh sein, dass wir dorthin gehören.
+Eine Fleischspeise kostet 75–80.000 Mark und ist lange nicht so
+gut wie bei »Gruss« oder beim »Auge Gottes« der beim »Schutzengel« –
+Ich hoffe sehr morgen Nachricht von Dir zu haben, dann kriegst Du
+gleich einen langen Brief.
+Das Schreiben hier ist sehr mühsam, der Zug wackelt sehr und ein Kind
+hat »Schluckerchen«, – wir sagen Schnackerl in Wien und ich finde das
+Ganze berlinerisch degoutant, es geht mir direkt auf die Nerven.– Ich
+denke Deiner mit »einiger Herzlichkeit« (Schnitzlerische Ausdrucksweise)
+und küsse Dich.
+Deine
+Clara Katharina.
+- - - -
+Die Gegend, durch die wir fahren, ist reizlos – ich habe sonst Flach¬
+land gerne, aber dieses strömt Langeweile aus. Grüss mir den Sommer¬
+haidenweg.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

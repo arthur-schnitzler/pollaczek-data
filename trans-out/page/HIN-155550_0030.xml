@@ -3,22 +3,22 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:04.417+01:00</Created>
-        <LastChange>2022-11-29T13:14:49.469+01:00</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259019" pageNr="30" tsid="105304155" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=DKAVFISPCSOVCOZERQZBABDW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PMBRHVIVMPLVQZASKTNCQOSL" imageId="41048815"/>
+        <LastChange>2022-11-30T22:28:59.056+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259019" pageNr="30" tsid="105444672" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=DKAVFISPCSOVCOZERQZBABDW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SAJUKNKULVOPLRZIQOGBDBTH" imageId="41048815"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0030.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949204" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783247" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="338,158 338,3213 2664,3213 2664,158"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+            <TextLine id="r1l1" custom="readingOrder {index:0;} supplied {offset:0; length:19;} date {offset:20; length:9;}">
                 <Coords points="1695,370 1868,352 1903,368 1970,356 1997,377 2037,347 2059,368 2102,346 2140,351 2139,268 2109,260 2069,277 2015,258 1999,275 1942,273 1902,295 1829,288 1780,248 1694,262"/>
                 <Baseline points="1709,351 1735,350 1761,348 1787,347 1813,347 1839,347 1865,347 1891,347 1918,347 1944,347 1970,347 1996,347 2022,346 2048,345 2074,345 2100,344 2127,342"/>
                 <TextEquiv>
-                    <Unicode>Juli 1897.</Unicode>
+                    <Unicode>zwischen 1. und 15. Juli 1897.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
@@ -123,7 +123,7 @@
                 <Coords points="370,2627 2425,2608 2422,2503 2346,2487 368,2562"/>
                 <Baseline points="383,2624 484,2622 585,2619 687,2616 788,2614 890,2612 991,2609 1092,2606 1194,2603 1295,2600 1397,2597 1498,2592 1599,2589 1701,2586 1802,2583 1904,2580 2005,2577 2106,2574 2208,2571 2309,2568 2411,2565"/>
                 <TextEquiv>
-                    <Unicode>denn von diesen Zeilen weiss bei mir natürlich nie</Unicode>
+                    <Unicode>denn von diesen Zeilen weiss bei mir natürlich nie¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:16;}">
@@ -162,7 +162,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Juli 1897.
+                <Unicode>zwischen 1. und 15. Juli 1897.
 Lieber Arthur
 Ich habe eben Ihre Ischler Adresse in der Kurliste
 gefunden und schreib Ihnen, um Ihnen zu sagen, dass
@@ -177,7 +177,7 @@ schreib viel. Nur kommt nichts Besonderes heraus!
 Bitte schön zeigen Sie mir Ihren Besuch ganz direkt
 vorher an, aber so wie wenn Sie unsern Aufenthalt
 und Adresse zufällig von jemand erfahren hätten.
-denn von diesen Zeilen weiss bei mir natürlich nie
+denn von diesen Zeilen weiss bei mir natürlich nie¬
 mand und ich möcht doch sicher zuhause sein, wenn Sie
 kommen. Also bitte bald!
 Mit vielen freundschaftlichen

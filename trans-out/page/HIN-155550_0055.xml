@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:09.079+01:00</Created>
-        <LastChange>2022-11-18T03:23:52.777Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259266" pageNr="55" tsid="104225735" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ACBFLWZMFGLDFPNJVSBRKIAW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CSDCBOJRQGDXAXKUNYEPNPLN" imageId="41048841"/>
+        <LastChange>2022-11-30T23:05:37.226+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259266" pageNr="55" tsid="105446703" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ACBFLWZMFGLDFPNJVSBRKIAW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KXQLAHNCDNABTXAELOWYXPPZ" imageId="41048841"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0055.tif" imageWidth="2777" imageHeight="3362">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949359" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783376" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -105,28 +105,20 @@
                     <Unicode>Clara Pollaczek</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:13;}">
-                <Coords points="2532,276 2553,269 2570,279 2593,266 2617,273 2641,268 2629,90 2608,94 2598,106 2582,109 2560,103 2535,123 2522,124"/>
-                <Baseline points="2544,246 2571,244 2598,243 2625,240"/>
-                <TextEquiv>
-                    <Unicode>6/3</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>9. VIII. 1916. Ischl.
+Bei gutem Wetter denke ich Sonntag nach dort
+zu kommen, möchte Mittag beim Seewirt essen und den
+Nachmittag bei Ihnen verbringen. Bitte antworten Sie
+mir postwendend, eventuell telegrafisch ob es Ihnen
+und Ihrer Frau passt. Ich bin nämlich mit meiner
+Schwester verabredet, die mit nach Aussee fährt um
+Frau von Sonnenthal zu besuchen. Ich möchte sie also
+rechtzeitig verständigen. Hoffentlich ist das Wetter
+dem Unternehmen günstig.
+Viele Grüsse für Sie und Ihre Frau
+Ihre
+Clara Pollaczek</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

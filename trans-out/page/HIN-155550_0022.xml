@@ -3,22 +3,22 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:03.069+01:00</Created>
-        <LastChange>2022-11-29T10:04:40.539+01:00</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259001" pageNr="22" tsid="105287317" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=RBZVJXKFPAIFDULLUSDKCMGG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CWXVUHNHUGPYYNKVJHCMYXRU" imageId="41048806"/>
+        <LastChange>2022-11-30T22:18:19.100+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259001" pageNr="22" tsid="105444549" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=RBZVJXKFPAIFDULLUSDKCMGG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HKWYKCEFWONRDEMWSMUHSTNR" imageId="41048806"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0022.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949164" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783191" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="341,157 341,2350 2658,2350 2658,157"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;} date {offset:0; length:4;}">
+            <TextLine id="r1l1" custom="readingOrder {index:0;} supplied {offset:0; length:5;} date {offset:6; length:4;}">
                 <Coords points="1841,484 1907,501 1993,502 2025,486 2036,494 2057,486 2084,495 2085,425 2061,430 1992,400 1943,413 1925,396 1911,404 1877,398 1842,411"/>
                 <Baseline points="1853,482 1880,482 1907,482 1935,482 1962,483 1989,483 2017,483 2044,484 2072,485"/>
                 <TextEquiv>
-                    <Unicode>1896.</Unicode>
+                    <Unicode>März? 1896.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668710648202_614" custom="readingOrder {index:1;}">
@@ -32,7 +32,7 @@
                 <Coords points="531,1023 2464,1025 2463,908 531,959"/>
                 <Baseline points="545,1004 640,1007 735,1008 830,1010 926,1010 1021,1010 1116,1010 1212,1010 1307,1010 1402,1010 1498,1008 1593,1008 1688,1007 1783,1006 1879,1005 1974,1004 2069,1004 2165,1002 2260,1002 2355,1002 2451,1002"/>
                 <TextEquiv>
-                    <Unicode>Endlich ist "Mimi "fertig und ich sende Ihnen</Unicode>
+                    <Unicode>Endlich ist »Mimi« fertig und ich sende Ihnen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:3;}">
@@ -60,14 +60,14 @@
                 <Coords points="328,1570 2496,1570 2495,1460 328,1474"/>
                 <Baseline points="341,1535 448,1536 555,1536 662,1536 769,1536 876,1536 983,1536 1090,1536 1197,1536 1304,1535 1411,1535 1518,1535 1625,1533 1732,1533 1839,1533 1946,1532 2053,1532 2160,1532 2267,1532 2374,1532 2481,1532"/>
                 <TextEquiv>
-                    <Unicode>mein kleines Buch gut finden - für druckreif erklären</Unicode>
+                    <Unicode>mein kleines Buch gut finden – für druckreif erklären</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l11" custom="readingOrder {index:7;}">
                 <Coords points="351,1685 1970,1709 2382,1690 2417,1596 351,1602"/>
                 <Baseline points="363,1661 465,1664 567,1665 669,1667 771,1668 873,1668 975,1668 1077,1668 1179,1668 1281,1667 1383,1667 1485,1665 1587,1665 1689,1664 1791,1664 1893,1663 1995,1662 2097,1662 2199,1664 2301,1664 2403,1665"/>
                 <TextEquiv>
-                    <Unicode>- so bedeutet es ja für mich ein Stückchen Freiheit</Unicode>
+                    <Unicode>– so bedeutet es ja für mich ein Stückchen Freiheit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l12" custom="readingOrder {index:8;}">
@@ -106,14 +106,14 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>1896.
+                <Unicode>März? 1896.
 Sehr geehrter Herr Doktor!
-Endlich ist "Mimi "fertig und ich sende Ihnen
+Endlich ist »Mimi« fertig und ich sende Ihnen
 dieses Sorgenkind mit den besten Grüssen. Ich erwarte
 Ihr Urteil mit der grössten Spannung und Ungeduld,
 denn es hängt ja so riesig viel davon ab. Wenn Sie
-mein kleines Buch gut finden - für druckreif erklären
-- so bedeutet es ja für mich ein Stückchen Freiheit
+mein kleines Buch gut finden – für druckreif erklären
+– so bedeutet es ja für mich ein Stückchen Freiheit
 und noch mehr - - Ich bitte Sie, mir die Antwort nur
 durch Arthur Klein zu senden und sage Ihnen im voraus
 vielen Dank.

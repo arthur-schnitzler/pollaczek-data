@@ -3,22 +3,22 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:04.258+01:00</Created>
-        <LastChange>2022-11-29T13:14:05.741+01:00</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259012" pageNr="29" tsid="105303983" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=MUVETSGUEFTXURTDMOQBVDXK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MYCYJNBRTZBWMLMNFNYSDHXO" imageId="41048814"/>
+        <LastChange>2022-11-30T22:25:12.836+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259012" pageNr="29" tsid="105444629" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=MUVETSGUEFTXURTDMOQBVDXK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VYUKGUGPROEFUCZCLWPEIDBH" imageId="41048814"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0029.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949202" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783243" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="302,158 302,2650 2657,2650 2657,158"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+            <TextLine id="r1l1" custom="readingOrder {index:0;} date {offset:0; length:9;}">
                 <Coords points="1521,490 1626,466 1922,489 2033,457 2069,468 2070,391 1959,395 1901,364 1779,404 1650,364 1522,401"/>
                 <Baseline points="1535,453 1562,453 1589,454 1616,455 1644,455 1671,456 1698,456 1726,456 1753,458 1780,458 1808,458 1835,458 1862,459 1890,459 1917,459 1944,459 1972,459 1999,458 2026,458 2054,458"/>
                 <TextEquiv>
-                    <Unicode>6. IV. 1897.</Unicode>
+                    <Unicode>6.IV.1897.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
@@ -32,7 +32,7 @@
                 <Coords points="534,924 2315,947 2453,914 2454,842 869,856 535,785"/>
                 <Baseline points="549,905 643,905 738,906 832,908 927,908 1021,909 1116,909 1210,911 1305,911 1399,911 1494,911 1588,912 1683,912 1777,912 1872,912 1966,914 2061,914 2155,914 2250,915 2344,915 2439,915"/>
                 <TextEquiv>
-                    <Unicode>Ich konnt Dir zu dem Bild nichts weiter schrei-</Unicode>
+                    <Unicode>Ich konnt Dir zu dem Bild nichts weiter schrei¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l4" custom="readingOrder {index:3;}">
@@ -74,28 +74,28 @@
                 <Coords points="301,1718 2367,1708 2367,1642 1878,1654 1740,1579 1574,1661 302,1616"/>
                 <Baseline points="314,1697 416,1697 518,1697 620,1698 722,1698 824,1698 926,1698 1028,1698 1130,1698 1232,1700 1334,1700 1436,1700 1538,1700 1640,1700 1742,1700 1844,1701 1946,1701 2048,1702 2150,1703 2252,1703 2354,1704"/>
                 <TextEquiv>
-                    <Unicode>almanach, wo "Tor und Tod" drin istund gib dem Hugo</Unicode>
+                    <Unicode>almanach, wo »Tor und Tod« drin ist und gib dem Hugo</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l10" custom="readingOrder {index:9;}">
                 <Coords points="301,1843 2405,1847 2322,1769 301,1754"/>
                 <Baseline points="315,1824 418,1826 522,1826 626,1827 730,1827 834,1829 937,1829 1041,1829 1145,1829 1249,1829 1353,1830 1456,1830 1560,1830 1664,1830 1768,1830 1872,1830 1975,1832 2079,1832 2183,1832 2287,1833 2391,1833"/>
                 <TextEquiv>
-                    <Unicode>das Manuskript seines Prologs von "Mimi" für mich,</Unicode>
+                    <Unicode>das Manuskript seines Prologs von »Mimi« für mich,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l11" custom="readingOrder {index:10;}">
                 <Coords points="295,1980 2346,1993 2457,1971 2457,1871 295,1900"/>
                 <Baseline points="308,1956 414,1958 521,1958 628,1958 735,1959 842,1959 948,1959 1055,1959 1162,1959 1269,1959 1376,1959 1482,1959 1589,1959 1696,1959 1803,1960 1910,1961 2016,1961 2123,1961 2230,1961 2337,1962 2444,1962"/>
                 <TextEquiv>
-                    <Unicode>damit er es ihn mir nächstens bringen und ich mir wieder</Unicode>
+                    <Unicode>damit er es ihn mir nächstens bringen und ich es mir wieder</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l12" custom="readingOrder {index:11;}">
                 <Coords points="292,2135 2131,2080 2532,2192 2510,2006 292,2033"/>
                 <Baseline points="306,2085 416,2087 527,2088 637,2090 748,2090 858,2091 969,2091 1079,2091 1190,2091 1300,2091 1411,2091 1522,2091 1632,2091 1743,2091 1853,2091 1964,2091 2074,2091 2185,2091 2295,2091 2406,2093 2517,2093"/>
                 <TextEquiv>
-                    <Unicode>aufheben kann. Bitt e sei nicht bös, dass ich es Dich noch</Unicode>
+                    <Unicode>aufheben kann. Bitte sei nicht bös, dass ich es Dich noch</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:12;}">
@@ -127,18 +127,18 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>6. IV. 1897.
+                <Unicode>6.IV.1897.
 Lieber Arthur!
-Ich konnt Dir zu dem Bild nichts weiter schrei-
+Ich konnt Dir zu dem Bild nichts weiter schrei¬
 ben weil ich es mit höherer Erlaubnis und Begutachtung
 abschickte und so sag ich Dir durch diese Zeilen, dass
 ich mit dem Deinen eine riesige Freude hatte und Dir
 sehr dafür danke. Und dann habe ich auch noch zwei
 Bitten. Sei so lieb und schick mir nochmal den Musen¬
-almanach, wo "Tor und Tod" drin istund gib dem Hugo
-das Manuskript seines Prologs von "Mimi" für mich,
-damit er es ihn mir nächstens bringen und ich mir wieder
-aufheben kann. Bitt e sei nicht bös, dass ich es Dich noch
+almanach, wo »Tor und Tod« drin ist und gib dem Hugo
+das Manuskript seines Prologs von »Mimi« für mich,
+damit er es ihn mir nächstens bringen und ich es mir wieder
+aufheben kann. Bitte sei nicht bös, dass ich es Dich noch
 so plag. Und nun leb wohl, ich wünsch Dir viel, viel
 Schönes und sag auf frohes Wiedersehn.
 Vergiss uns nicht!

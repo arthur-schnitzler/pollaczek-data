@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:04.580+01:00</Created>
-        <LastChange>2022-11-29T13:18:12.736+01:00</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259028" pageNr="31" tsid="105304748" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=KMOULZWZIHKIIDISGKCLKKEL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KPRIJKUHGTAILHISFNFOOTTQ" imageId="41048816"/>
+        <LastChange>2022-11-30T22:31:08.642+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259028" pageNr="31" tsid="105444701" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=KMOULZWZIHKIIDISGKCLKKEL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BBDCLLDJVSYKAEOHYHWEYTHK" imageId="41048816"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0031.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949207" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783251" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -18,7 +18,7 @@
                 <Coords points="422,619 614,600 657,618 695,600 748,628 781,606 935,594 1036,610 1036,545 983,559 890,526 859,546 748,530 708,547 627,509 423,525"/>
                 <Baseline points="434,593 463,593 492,594 522,594 551,594 581,594 610,594 639,593 669,593 698,593 728,593 757,593 786,593 816,593 845,593 875,594 904,594 933,596 963,597 992,599 1022,602"/>
                 <TextEquiv>
-                    <Unicode>Markt Aussee,</Unicode>
+                    <Unicode>Markt-Aussee,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
@@ -53,7 +53,7 @@
                 <Coords points="449,1451 2360,1470 2359,1366 2293,1359 449,1378"/>
                 <Baseline points="462,1440 556,1440 650,1440 744,1440 839,1440 933,1439 1027,1439 1122,1439 1216,1437 1310,1437 1405,1436 1499,1436 1593,1436 1687,1434 1782,1434 1876,1434 1970,1433 2065,1433 2159,1433 2253,1433 2348,1431"/>
                 <TextEquiv>
-                    <Unicode>Grund nicht kommen könden oder wollen, so bitte</Unicode>
+                    <Unicode>Grund nicht kommen können oder wollen, so bitte</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:6;}">
@@ -99,12 +99,12 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Markt Aussee,
+                <Unicode>Markt-Aussee,
 Villa Kreuzberger
 Braungasse 195
 Nachschrift
 Im Falle Sie aus irgend einem unumstosslichen
-Grund nicht kommen könden oder wollen, so bitte
+Grund nicht kommen können oder wollen, so bitte
 schreiben Sie mir bloss eine offene Ansichtskarte
 mit einem Gruss nur damit ich sicher bin, dass
 meine Zeilen zu Ihnen gelangt sind, und nicht in

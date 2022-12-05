@@ -3,16 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:51</Creator>
         <Created>2022-11-17T16:34:54.786+01:00</Created>
-        <LastChange>2022-11-25T11:51:12.849Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50262671" pageNr="303" tsid="105032176" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=GHWNXDGJJIJHMXYABUSIBKWO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SCEWKKJIJPFDVNMFNVHIWCHN" imageId="41049936">
-            <Property key="mdSetName" value="myMdSet"/>
-            <Property key="property2"/>
-            <Property key="property1"/>
-        </TranskribusMetadata>
+        <LastChange>2022-12-02T17:10:03.632+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50262671" pageNr="303" tsid="105561256" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=GHWNXDGJJIJHMXYABUSIBKWO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CSVPCBXRAHVZUWYXMVSQUELT" imageId="41049936"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0303.tif" imageWidth="3799" imageHeight="4707">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820950860" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241784722" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -22,14 +18,14 @@
                 <Coords points="1666,423 1908,429 1976,477 2075,417 2302,432 2398,403 2397,316 2258,336 2210,317 2107,349 1991,330 1876,354 1804,330 1665,351"/>
                 <Baseline points="1685,398 1719,399 1754,400 1788,401 1823,402 1858,403 1892,404 1927,404 1962,404 1996,404 2031,404 2066,402 2100,402 2135,402 2170,401 2204,401 2239,399 2274,399 2308,398 2343,398 2378,396"/>
                 <TextEquiv>
-                    <Unicode>Wien I. März1926</Unicode>
+                    <Unicode>Wien 1. März 1926</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
                 <Coords points="1669,606 3341,627 3456,586 3455,487 2791,533 2173,454 2031,539 1668,511"/>
                 <Baseline points="1689,597 1776,596 1863,594 1951,594 2038,593 2126,593 2213,591 2301,591 2388,590 2476,590 2563,590 2650,588 2738,588 2825,587 2913,587 3000,585 3088,584 3175,584 3263,582 3350,581 3438,579"/>
                 <TextEquiv>
-                    <Unicode>Ich an Arthur als er mir plötzlich telefö-</Unicode>
+                    <Unicode>Ich an Arthur als er mir plötzlich telefo¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l3" custom="readingOrder {index:2;}">
@@ -57,7 +53,7 @@
                 <Coords points="338,986 3215,980 3402,963 3402,844 337,855"/>
                 <Baseline points="357,932 508,932 659,932 811,930 962,930 1113,930 1265,930 1416,930 1567,930 1719,929 1870,929 2021,929 2173,927 2324,927 2475,926 2627,926 2778,924 2929,924 3081,923 3232,921 3384,921"/>
                 <TextEquiv>
-                    <Unicode>Wenn ich unserem heutigen Morgengespräch noch diese Zeilen nachsende so ge-</Unicode>
+                    <Unicode>Wenn ich unserem heutigen Morgengespräch noch diese Zeilen nachsende so ge¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:6;}">
@@ -71,14 +67,14 @@
                 <Coords points="318,1229 3510,1180 3271,1093 318,1110"/>
                 <Baseline points="336,1190 493,1190 651,1190 808,1190 966,1190 1124,1190 1281,1190 1439,1190 1597,1190 1754,1188 1912,1188 2070,1188 2227,1187 2385,1187 2543,1187 2700,1185 2858,1185 3016,1184 3173,1182 3331,1182 3489,1181"/>
                 <TextEquiv>
-                    <Unicode>bleibenden Entschluss trieb, für dich und mich noch einmal festzulegen und je-</Unicode>
+                    <Unicode>bleibenden Entschluss trieb, für dich und mich noch einmal festzulegen und je¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l9" custom="readingOrder {index:8;}">
                 <Coords points="329,1376 3549,1346 3501,1239 2701,1212 329,1249"/>
                 <Baseline points="347,1320 506,1320 665,1322 824,1322 983,1322 1142,1322 1301,1322 1461,1322 1620,1320 1779,1320 1938,1320 2097,1320 2256,1319 2415,1319 2575,1319 2734,1317 2893,1317 3052,1317 3211,1316 3370,1316 3530,1316"/>
                 <TextEquiv>
-                    <Unicode>de Möglichkeit eines Misverständnis für eine spätere Rückerinnerung auszuschal-</Unicode>
+                    <Unicode>de Möglichkeit eines Misverständnis für eine spätere Rückerinnerung auszuschal¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l10" custom="readingOrder {index:9;}">
@@ -92,28 +88,28 @@
                 <Coords points="323,1596 3483,1634 3411,1523 2500,1480 323,1528"/>
                 <Baseline points="341,1580 497,1581 653,1581 809,1583 965,1583 1121,1583 1277,1583 1433,1583 1589,1583 1745,1583 1901,1581 2057,1581 2213,1581 2369,1581 2525,1581 2681,1581 2837,1581 2993,1581 3149,1581 3305,1581 3462,1583"/>
                 <TextEquiv>
-                    <Unicode>Schlusspunkt.- Ich mag mit meinem Verstand mit meinen Herzen den Fall erwägen,</Unicode>
+                    <Unicode>Schlusspunkt.– Ich mag mit meinem Verstand mit meinen Herzen den Fall erwägen,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l12" custom="readingOrder {index:11;}">
                 <Coords points="333,1740 3449,1746 3449,1646 3250,1626 333,1652"/>
                 <Baseline points="353,1710 506,1712 660,1713 814,1713 968,1715 1121,1715 1275,1716 1429,1716 1583,1716 1736,1716 1890,1716 2044,1716 2198,1716 2351,1715 2505,1715 2659,1715 2813,1715 2966,1715 3120,1715 3274,1715 3428,1715"/>
                 <TextEquiv>
-                    <Unicode>- das Resultat, bleibt immer dasselbe. Du sagst, ich verhalte mich, als ob</Unicode>
+                    <Unicode>– das Resultat, bleibt immer dasselbe. Du sagst, ich verhalte mich, als ob</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:12;}">
                 <Coords points="315,1863 3443,1901 3443,1777 3225,1745 315,1764"/>
                 <Baseline points="335,1841 489,1842 644,1842 798,1844 953,1844 1107,1844 1262,1844 1416,1845 1571,1845 1725,1845 1880,1845 2034,1845 2189,1847 2343,1847 2498,1847 2652,1847 2807,1847 2961,1847 3116,1847 3270,1847 3425,1847"/>
                 <TextEquiv>
-                    <Unicode>du mit einer andern Frau, und nicht mit deiner Tochter auf Reisen gehen woll-</Unicode>
+                    <Unicode>du mit einer andern Frau, und nicht mit deiner Tochter auf Reisen gehen woll¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+            <TextLine id="r1l14" custom="readingOrder {index:13;} supplied {offset:42; length:1;}">
                 <Coords points="313,2023 3446,1995 3446,1903 2949,1878 314,1895"/>
                 <Baseline points="332,1971 486,1971 641,1973 795,1974 950,1974 1105,1975 1259,1976 1414,1976 1569,1976 1723,1976 1878,1976 2033,1976 2187,1977 2342,1977 2497,1977 2651,1977 2806,1977 2961,1979 3115,1979 3270,1980 3425,1982"/>
                 <TextEquiv>
-                    <Unicode>test. Ja, um Gotteswillen soll denn das Um- und Auf einer Beziehung darauf b</Unicode>
+                    <Unicode>test. Ja, um Gotteswillen soll denn das Um- und Auf einer Beziehung darauf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l15" custom="readingOrder {index:14;}">
@@ -123,11 +119,11 @@
                     <Unicode>beruhen, dass man sich die äussersten Grenzen der Treue hält und darf man nicht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+            <TextLine id="r1l16" custom="readingOrder {index:15;} supplied {offset:51; length:1;}">
                 <Coords points="334,2290 3406,2273 3435,2174 334,2178"/>
                 <Baseline points="353,2231 506,2232 659,2232 812,2232 965,2234 1118,2234 1271,2235 1424,2235 1577,2237 1730,2237 1883,2237 2036,2238 2189,2238 2342,2240 2495,2240 2648,2240 2801,2241 2954,2241 3107,2241 3260,2241 3413,2243"/>
                 <TextEquiv>
-                    <Unicode>anderes verlangen, oder richtiger erwarten? - Gewis würden Aussenstehende lä-</Unicode>
+                    <Unicode>anderes verlangen, oder richtiger erwarten? – Gewiss würden Aussenstehende lä¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668764702098_611" custom="readingOrder {index:16;}">
@@ -141,7 +137,7 @@
                 <Coords points="317,2497 3425,2553 3506,2438 318,2414"/>
                 <Baseline points="336,2484 377,2487 418,2487 459,2489 500,2490 541,2490 582,2492 623,2492 664,2492 705,2493 746,2493 787,2493 828,2495 869,2495 910,2495 951,2495 992,2496 1033,2496 1074,2496 1115,2496 1157,2498 1332,2495 1439,2495 1547,2495 1655,2496 1762,2496 1870,2498 1978,2499 2085,2499 2193,2501 2301,2501 2409,2502 2516,2504 2624,2504 2732,2504 2839,2505 2947,2505 3055,2505 3162,2505 3270,2504 3378,2504 3486,2502"/>
                 <TextEquiv>
-                    <Unicode>kränkung empfinde, aber doch nur solche, die den Fall, losgelöst von der gan-</Unicode>
+                    <Unicode>kränkung empfinde, aber doch nur solche, die den Fall, losgelöst von der gan¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668764710971_621" custom="readingOrder {index:18;}">
@@ -151,11 +147,11 @@
                     <Unicode>zen Situation und Allem was vorangieng zu hören bekämen.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:19;}">
+            <TextLine id="r1l23" custom="readingOrder {index:19;} textStyle {offset:41; length:3;underlined:true; fontSize:0.0; kerning:0;}">
                 <Coords points="316,2771 3504,2763 316,2640"/>
                 <Baseline points="335,2750 492,2751 650,2753 807,2753 965,2754 1122,2756 1280,2756 1437,2757 1595,2757 1752,2759 1910,2759 2067,2760 2225,2760 2382,2760 2540,2760 2697,2762 2855,2762 3012,2762 3170,2762 3327,2762 3485,2760"/>
                 <TextEquiv>
-                    <Unicode>Du hast ganz genau gewust, was du tust - mir tust, als Du diesen Reise - Ent-</Unicode>
+                    <Unicode>Du hast ganz genau gewust, was du tust – mir tust, als Du diesen Reise – Ent¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l24" custom="readingOrder {index:20;}">
@@ -172,39 +168,39 @@
                     <Unicode>Rein verstandes mässig musstest du dir sagen, dass wenn Dir noch überhaupt</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:22;}">
+            <TextLine id="r1l26" custom="readingOrder {index:22;} textStyle {offset:48; length:6;underlined:true; fontSize:0.0; kerning:0;}">
                 <Coords points="329,3170 3389,3203 3450,3060 330,3091"/>
                 <Baseline points="350,3138 504,3140 658,3143 812,3144 966,3146 1120,3147 1274,3149 1428,3150 1582,3150 1736,3152 1890,3153 2044,3153 2198,3155 2352,3155 2506,3156 2660,3156 2814,3158 2968,3158 3122,3159 3276,3160 3431,3161"/>
                 <TextEquiv>
-                    <Unicode>etwas an mir liegt, und Du mich nicht verlieren willst, Du der Kette von Le</Unicode>
+                    <Unicode>etwas an mir liegt, und Du mich nicht verlieren willst, Du der Kette von</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:23;}">
+            <TextLine id="r1l27" custom="readingOrder {index:23;} supplied {offset:56; length:1;}">
                 <Coords points="312,3282 3030,3348 3288,3334 3289,3239 312,3162"/>
                 <Baseline points="330,3270 484,3272 639,3273 794,3275 948,3276 1103,3278 1258,3279 1412,3281 1567,3281 1722,3282 1876,3284 2031,3284 2186,3285 2340,3285 2495,3287 2650,3288 2804,3288 2959,3290 3114,3291 3269,3291"/>
                 <TextEquiv>
-                    <Unicode>Lieblosigkeiten und Kränkungen, nicht auch noch diese hizugügen kannst.</Unicode>
+                    <Unicode>Lieblosigkeiten und Kränkungen, nicht auch noch diese hinzufügen kannst.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l28" custom="readingOrder {index:24;}">
                 <Coords points="318,3414 3454,3432 3228,3311 318,3342"/>
                 <Baseline points="336,3401 490,3402 645,3402 800,3404 955,3405 1110,3407 1265,3408 1420,3410 1575,3411 1730,3411 1885,3413 2039,3414 2194,3416 2349,3417 2504,3419 2659,3420 2814,3422 2969,3422 3124,3423 3279,3425 3434,3426"/>
                 <TextEquiv>
-                    <Unicode>Aber Du sagtest dir einfach,- sie hat sich schon mit so Vielem abgefunden, ist</Unicode>
+                    <Unicode>Aber Du sagtest dir einfach,– sie hat sich schon mit so Vielem abgefunden, ist</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l29" custom="readingOrder {index:25;}">
                 <Coords points="329,3577 2944,3610 3394,3593 3447,3490 330,3465"/>
                 <Baseline points="351,3527 504,3530 658,3532 812,3534 965,3536 1119,3538 1273,3540 1426,3540 1580,3542 1734,3543 1888,3545 2041,3545 2195,3546 2349,3546 2502,3548 2656,3549 2810,3549 2963,3551 3117,3552 3271,3554 3425,3555"/>
                 <TextEquiv>
-                    <Unicode>nach einer kleinen peinlichen Scene immer zur Tages-Ordnung übergegangen- es</Unicode>
+                    <Unicode>nach einer kleinen peinlichen Scene immer zur Tages-Ordnung übergegangen – es</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l30" custom="readingOrder {index:26;}">
                 <Coords points="330,3681 3366,3763 3367,3620 3264,3603 330,3593"/>
                 <Baseline points="348,3656 505,3659 663,3662 821,3663 979,3666 1137,3668 1295,3669 1452,3671 1610,3674 1768,3675 1926,3677 2084,3678 2242,3680 2399,3681 2557,3681 2715,3683 2873,3684 3031,3684 3189,3686 3347,3687"/>
                 <TextEquiv>
-                    <Unicode>wird auch diesmal so sein- nehmen wir halt ein paar unangenehme Stunden mit</Unicode>
+                    <Unicode>wird auch diesmal so sein – nehmen wir halt ein paar unangenehme Stunden mit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l31" custom="readingOrder {index:27;}">
@@ -218,7 +214,7 @@
                 <Coords points="316,3884 3356,3918 3500,3895 3501,3752 317,3788"/>
                 <Baseline points="335,3854 492,3854 649,3855 807,3858 964,3860 1121,3861 1279,3863 1436,3864 1593,3866 1751,3869 1908,3870 2065,3872 2223,3873 2380,3875 2537,3876 2695,3878 2852,3879 3009,3879 3167,3881 3324,3881 3482,3882"/>
                 <TextEquiv>
-                    <Unicode>Nicht einen Augenblick störte dich die Erwägung dass ich einen Arbeits und sor-</Unicode>
+                    <Unicode>Nicht einen Augenblick störte dich die Erwägung dass ich einen Arbeits und sor¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l33" custom="readingOrder {index:29;}">
@@ -228,45 +224,37 @@
                     <Unicode>genschweren Winter hinter mir habe, das sich eine Erholung, eine Ausspannung</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:30;}">
-                <Coords points="3499,205 3531,201 3559,177 3602,185 3602,62 3574,62 3558,78 3538,62 3526,66 3499,62"/>
-                <Baseline points="3519,146 3551,150 3584,146"/>
-                <TextEquiv>
-                    <Unicode>25</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Wien 1. März 1926
+Ich an Arthur als er mir plötzlich telefo¬
+nisch mitgeteilt hatte, dass er mit Lily
+eine Mittelmeer-Reise macht ohne vorher
+eine Silbe über dieses Project gesagt zu haben
+Wenn ich unserem heutigen Morgengespräch noch diese Zeilen nachsende so ge¬
+schieht es in dem Bedürfnis, dass was mich zu einem ebenso spontanen, wie
+bleibenden Entschluss trieb, für dich und mich noch einmal festzulegen und je¬
+de Möglichkeit eines Misverständnis für eine spätere Rückerinnerung auszuschal¬
+ten, denn hinter Allem was ich dir noch sagen könnte steht unverrückbar der
+Schlusspunkt.– Ich mag mit meinem Verstand mit meinen Herzen den Fall erwägen,
+– das Resultat, bleibt immer dasselbe. Du sagst, ich verhalte mich, als ob
+du mit einer andern Frau, und nicht mit deiner Tochter auf Reisen gehen woll¬
+test. Ja, um Gotteswillen soll denn das Um- und Auf einer Beziehung darauf
+beruhen, dass man sich die äussersten Grenzen der Treue hält und darf man nicht
+anderes verlangen, oder richtiger erwarten? – Gewiss würden Aussenstehende lä¬
+cheln, wenn sie hören würden dass ich eine Reise mit deiner Tochter als eine
+kränkung empfinde, aber doch nur solche, die den Fall, losgelöst von der gan¬
+zen Situation und Allem was vorangieng zu hören bekämen.
+Du hast ganz genau gewust, was du tust – mir tust, als Du diesen Reise – Ent¬
+schluss fasstest und ihn mir nachher mitteiltest, wie eine Belanglosigkeit.
+Rein verstandes mässig musstest du dir sagen, dass wenn Dir noch überhaupt
+etwas an mir liegt, und Du mich nicht verlieren willst, Du der Kette von
+Lieblosigkeiten und Kränkungen, nicht auch noch diese hinzufügen kannst.
+Aber Du sagtest dir einfach,– sie hat sich schon mit so Vielem abgefunden, ist
+nach einer kleinen peinlichen Scene immer zur Tages-Ordnung übergegangen – es
+wird auch diesmal so sein – nehmen wir halt ein paar unangenehme Stunden mit
+in den Kauf.
+Nicht einen Augenblick störte dich die Erwägung dass ich einen Arbeits und sor¬
+genschweren Winter hinter mir habe, das sich eine Erholung, eine Ausspannung</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

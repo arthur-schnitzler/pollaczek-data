@@ -3,16 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:53</Creator>
         <Created>2022-11-17T16:35:59.169+01:00</Created>
-        <LastChange>2022-11-25T11:53:10.818Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50264205" pageNr="649" tsid="105032650" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YFNLWLPTIAMWODFQEXSAQGCX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TIDORBWJMSHOYFMNLARPDXOG" imageId="41050801">
-            <Property key="mdSetName" value="myMdSet"/>
-            <Property key="property2"/>
-            <Property key="property1"/>
-        </TranskribusMetadata>
+        <LastChange>2022-12-02T08:55:55.062+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50264205" pageNr="649" tsid="105534555" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YFNLWLPTIAMWODFQEXSAQGCX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DMFUXWMVKNWCXJMPVPMPZENN" imageId="41050801"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0649.tif" imageWidth="3674" imageHeight="4686">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820952691" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241786801" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -29,7 +25,7 @@
                 <Coords points="2104,444 2253,411 2316,432 2378,391 2461,403 2503,379 2634,411 2683,381 2718,405 2853,382 2854,299 2812,292 2556,303 2470,257 2275,321 2168,278 2106,292"/>
                 <Baseline points="2121,357 2156,360 2192,362 2227,363 2263,365 2299,366 2334,368 2370,368 2406,369 2441,369 2477,369 2513,369 2548,369 2584,369 2620,369 2655,369 2691,369 2727,368 2762,368 2798,368 2834,366"/>
                 <TextEquiv>
-                    <Unicode>Wien, xx 13.3.1922.</Unicode>
+                    <Unicode>Wien, 13.3.1922.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l3" custom="readingOrder {index:2;}">
@@ -50,7 +46,7 @@
                 <Coords points="568,905 3286,906 2916,795 568,804"/>
                 <Baseline points="584,870 718,872 852,873 986,875 1121,875 1255,876 1389,878 1523,879 1658,879 1792,881 1926,882 2060,882 2195,884 2329,885 2463,885 2597,887 2732,888 2866,890 3000,890 3134,891 3269,893"/>
                 <TextEquiv>
-                    <Unicode>bei mir genachtmahlt haben und vorher waren Magdakl. und Elise v. G.</Unicode>
+                    <Unicode>bei mir genachtmahlt haben und vorher waren Magdakl. und Else v. G.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:5;}">
@@ -71,14 +67,14 @@
                 <Coords points="572,1270 3325,1308 3236,1196 573,1197"/>
                 <Baseline points="588,1262 724,1263 860,1265 996,1265 1132,1266 1268,1268 1404,1269 1540,1271 1676,1272 1812,1274 1948,1275 2084,1277 2220,1278 2356,1280 2492,1281 2628,1283 2764,1284 2900,1286 3036,1286 3172,1287 3308,1287"/>
                 <TextEquiv>
-                    <Unicode>hatte schon Nachmittag so arge Kopfschmerzen, dass ich Pyramidon neh-</Unicode>
+                    <Unicode>hatte schon Nachmittag so arge Kopfschmerzen, dass ich Pyramidon neh¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l10" custom="readingOrder {index:8;}">
                 <Coords points="567,1405 3250,1448 2922,1330 567,1336"/>
                 <Baseline points="584,1392 716,1394 848,1395 981,1397 1113,1398 1246,1400 1378,1401 1511,1403 1643,1404 1776,1406 1908,1407 2040,1409 2173,1410 2305,1412 2438,1413 2570,1415 2703,1416 2835,1417 2968,1418 3100,1419 3233,1419"/>
                 <TextEquiv>
-                    <Unicode>men musste und jetzt sind sie wieder da, ich weiss nicht woher. xxx</Unicode>
+                    <Unicode>men musste und jetzt sind sie wieder da, ich weiss nicht woher. </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l11" custom="readingOrder {index:9;}">
@@ -99,7 +95,7 @@
                 <Coords points="1081,1808 2999,1857 3297,1833 3298,1767 1082,1714"/>
                 <Baseline points="1100,1787 1209,1788 1318,1790 1427,1792 1536,1793 1645,1795 1754,1797 1863,1799 1972,1800 2081,1802 2190,1803 2299,1805 2408,1806 2517,1807 2626,1808 2735,1809 2844,1811 2953,1812 3062,1812 3171,1814 3281,1815"/>
                 <TextEquiv>
-                    <Unicode>Du sitzst wohl gerade mit Elisabeth B. zusammen, - wenn</Unicode>
+                    <Unicode>Du sitzst wohl gerade mit Elisabeth B. zusammen, – wenn</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l14" custom="readingOrder {index:12;}">
@@ -109,7 +105,7 @@
                     <Unicode>nur was aus den Besprechungen wird.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+            <TextLine id="r1l15" custom="readingOrder {index:13;} date {offset:0; length:5;}">
                 <Coords points="2311,2121 2335,2126 2345,2116 2359,2130 2376,2120 2400,2135 2439,2126 2459,2144 2501,2129 2573,2152 2579,1993 2561,1992 2544,2009 2503,1993 2429,2005 2382,1985 2346,2005 2315,2000"/>
                 <Baseline points="2331,2057 2356,2059 2381,2062 2407,2063 2432,2064 2457,2065 2483,2066 2508,2066 2533,2066 2559,2066"/>
                 <TextEquiv>
@@ -134,7 +130,7 @@
                 <Coords points="549,2448 3319,2522 3320,2401 3137,2364 550,2361"/>
                 <Baseline points="566,2430 702,2432 839,2435 976,2436 1113,2438 1250,2441 1386,2442 1523,2444 1660,2445 1797,2447 1934,2449 2070,2451 2207,2452 2344,2453 2481,2454 2618,2456 2754,2457 2891,2459 3028,2460 3165,2462 3302,2463"/>
                 <TextEquiv>
-                    <Unicode>bin ungewöhnlich blass. Eben tehfoniert mir Magdi, dass Cary mit Fie-</Unicode>
+                    <Unicode>bin ungewöhnlich blass. Eben telefoniert mir Magdi, dass Cary mit Fie¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l19" custom="readingOrder {index:17;}">
@@ -155,7 +151,7 @@
                 <Coords points="545,2830 1144,2890 1266,2830 2460,2867 2461,2784 2330,2768 547,2743"/>
                 <Baseline points="563,2825 657,2825 751,2826 845,2828 939,2828 1033,2829 1127,2831 1221,2832 1315,2834 1409,2835 1503,2837 1597,2838 1691,2840 1785,2841 1879,2842 1973,2843 2067,2844 2161,2846 2255,2847 2349,2849 2444,2850"/>
                 <TextEquiv>
-                    <Unicode>etwas näher. - Für heute nur einen innigen Kuss.</Unicode>
+                    <Unicode>etwas näher. – Für heute nur einen innigen Kuss.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l22" custom="readingOrder {index:20;}">
@@ -173,28 +169,28 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>An A.S. nach Berlin.
+Wien, 13.3.1922.
+Mein Liebes,
+eben 1/4 11 Uhr sind Hery und Fredi fortgegangen, die
+bei mir genachtmahlt haben und vorher waren Magdakl. und Else v. G.
+zum Thee da und ich bin furchtbar müde und fühle mich nicht recht
+wohl. Du darfst nicht böse sein, wenn es nur wenige Zeilen sind. Ich
+hatte schon Nachmittag so arge Kopfschmerzen, dass ich Pyramidon neh¬
+men musste und jetzt sind sie wieder da, ich weiss nicht woher. 
+Hoffentlich ist's morgen wieder gut, denn ich hab keine Zeit und Lust
+zum Kranksein.
+Du sitzst wohl gerade mit Elisabeth B. zusammen, – wenn
+nur was aus den Besprechungen wird.
+14.3.
+Mein Kopfschmerz ist heute gut und ich habe mit Bromural
+ganz anständig geschlafen, aber ich habe doch ein mieses Gefühl und
+bin ungewöhnlich blass. Eben telefoniert mir Magdi, dass Cary mit Fie¬
+ber liegt, da werde ich wohl Nachmittag hinschauen. Morgen Früh habe
+ich hoffentlich einen lieben langen Brief von Dir, und fühle Dich dann
+etwas näher. – Für heute nur einen innigen Kuss.
+Deine
+C.K.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

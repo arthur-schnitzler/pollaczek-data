@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_04:28</Creator>
         <Created>2022-11-17T16:34:17.465+01:00</Created>
-        <LastChange>2022-11-18T04:28:21.938Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50260063" pageNr="101" tsid="104226011" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=KIPZSQEECJSPWQSRJYWFWSCH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GOBMYYHEPGHURHNHTCRPZBDM" imageId="41048887"/>
+        <LastChange>2022-11-30T21:44:10.796+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50260063" pageNr="101" tsid="105443883" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=KIPZSQEECJSPWQSRJYWFWSCH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DLVSYIVOQSCWUGCCRGEVGLKS" imageId="41048887"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0101.tif" imageWidth="3742" imageHeight="4666">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949632" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783676" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -25,7 +25,7 @@
                 <Coords points="741,448 879,404 911,427 947,395 1036,441 1120,416 1158,445 1515,419 1515,335 1269,272 1140,265 1057,319 970,280 855,282 742,330"/>
                 <Baseline points="756,413 793,409 830,407 867,405 904,404 942,404 979,404 1016,405 1053,405 1090,407 1128,408 1165,409 1202,410 1239,411 1276,413 1314,413 1351,413 1388,411 1425,410 1462,408 1500,405"/>
                 <TextEquiv>
-                    <Unicode>An Arthuis</Unicode>
+                    <Unicode>An Arthurs</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l3" custom="readingOrder {index:2;}">
@@ -84,33 +84,17 @@
                     <Unicode>Deine Clara Katharina.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:10;}">
-                <Coords points="1659,1506 1691,1500 1729,1523 1752,1517 1758,1524 1787,1518 1800,1525 1836,1497 1887,1498 1888,1462 1843,1468 1818,1448 1786,1444 1770,1428 1734,1443 1693,1416 1661,1419"/>
-                <Baseline points="1674,1490 1702,1490 1730,1491 1758,1491 1787,1491 1815,1491 1843,1493 1872,1496"/>
-                <TextEquiv>
-                    <Unicode>- — — —</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:11;}">
-                <Coords points="3490,293 3519,287 3528,297 3576,295 3599,276 3624,302 3644,299 3647,116 3615,125 3596,115 3570,128 3519,101 3493,104"/>
-                <Baseline points="3506,210 3536,209 3567,210 3598,212 3629,210"/>
-                <TextEquiv>
-                    <Unicode>52</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Wien, 15. Mai 1924
+An Arthurs
+Geburtstag
+Guten Morgen! Ich möchte so gerne heute als Erste bei Dir sein
+und da ich nicht selbst kommen kann, schicke ich Dir einen langen
+Kuss, erfüllt von tausend zärtlichen Gedanken, guten Wünschen und
+meiner Liebe.
+Ich rufe nicht an, um Dich nicht in einem ungeeigneten Moment zu
+stören. Rufe Du mich, sobald es Dir passt.
+Deine Clara Katharina.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

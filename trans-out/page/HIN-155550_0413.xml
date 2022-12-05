@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:51</Creator>
         <Created>2022-11-17T16:35:15.305+01:00</Created>
-        <LastChange>2022-11-25T11:51:46.550Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50263154" pageNr="413" tsid="105032316" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=UXUBFMTQMFWFDEYLRIYZZBYK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ICWLZKHTIGCDSBTXBBDLQYAS" imageId="41050258"/>
+        <LastChange>2022-12-02T09:44:45.734+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50263154" pageNr="413" tsid="105535436" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=UXUBFMTQMFWFDEYLRIYZZBYK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WZVSFLTDLCCHQVCJFVKUBZKB" imageId="41050258"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0413.tif" imageWidth="3770" imageHeight="4707">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820951431" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241785336" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -18,14 +18,14 @@
                 <Coords points="2032,398 2793,422 2946,393 3084,430 3084,332 2972,273 2757,327 2677,287 2469,330 2385,304 2312,341 2250,293 2192,319 2032,289"/>
                 <Baseline points="2048,384 2098,384 2149,384 2200,384 2251,384 2302,384 2353,384 2403,384 2454,384 2505,384 2556,384 2607,384 2658,384 2709,384 2759,384 2810,384 2861,384 2912,386 2963,386 3014,387 3065,389"/>
                 <TextEquiv>
-                    <Unicode>Sonntag, 1.1.1927. Berlin,</Unicode>
+                    <Unicode>Sonntag, 1.1.1927. Berlin.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
                 <Coords points="2021,473 2203,459 2279,485 2305,463 2378,481 2447,460 2706,496 2706,384 2021,397"/>
                 <Baseline points="2039,452 2071,452 2103,450 2136,450 2168,450 2201,450 2233,450 2265,450 2298,450 2330,450 2363,450 2395,450 2427,450 2460,452 2492,452 2525,452 2557,452 2589,452 2622,452 2654,450 2687,450"/>
                 <TextEquiv>
-                    <Unicode>HotelmEsplanade.</Unicode>
+                    <Unicode>Hotel Esplanade.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l3" custom="readingOrder {index:2;}">
@@ -46,7 +46,7 @@
                 <Coords points="586,916 3318,866 3317,779 2997,762 586,781"/>
                 <Baseline points="603,848 737,849 872,849 1007,851 1142,851 1277,851 1412,851 1546,849 1681,849 1816,849 1951,848 2086,848 2221,846 2356,846 2490,845 2625,845 2760,843 2895,843 3030,843 3165,842 3300,842"/>
                 <TextEquiv>
-                    <Unicode>meine Stimmung gebessert hat. Ich will dir nur - ehe Herr Fleck er-</Unicode>
+                    <Unicode>meine Stimmung gebessert hat. Ich will dir nur – ehe Herr Fleck er¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l6" custom="readingOrder {index:5;}">
@@ -67,7 +67,7 @@
                 <Coords points="584,1274 3214,1309 3436,1276 3436,1149 584,1191"/>
                 <Baseline points="602,1239 742,1239 883,1241 1024,1241 1165,1241 1306,1241 1447,1241 1587,1241 1728,1241 1869,1241 2010,1241 2151,1241 2292,1240 2433,1239 2573,1239 2714,1239 2855,1239 2996,1239 3137,1239 3278,1239 3419,1239"/>
                 <TextEquiv>
-                    <Unicode>sehr freundschaftlich gesprochen. Er bittet dich ihm den Roman persön-</Unicode>
+                    <Unicode>sehr freundschaftlich gesprochen. Er bittet dich ihm den Roman persön¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l9" custom="readingOrder {index:8;}">
@@ -95,7 +95,7 @@
                 <Coords points="588,1803 3484,1793 3484,1698 2952,1666 588,1675"/>
                 <Baseline points="608,1763 750,1764 893,1764 1036,1764 1179,1764 1322,1764 1464,1764 1607,1766 1750,1766 1893,1766 2036,1766 2178,1766 2321,1766 2464,1764 2607,1764 2750,1764 2892,1763 3035,1763 3178,1761 3321,1761 3464,1760"/>
                 <TextEquiv>
-                    <Unicode>freie Presse zu reden und kennt die dortige Wirtschaft. Vorher ein son-</Unicode>
+                    <Unicode>freie Presse zu reden und kennt die dortige Wirtschaft. Vorher ein son¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:12;}">
@@ -109,42 +109,42 @@
                 <Coords points="588,2047 3429,2081 3429,1972 3214,1939 588,1959"/>
                 <Baseline points="605,2028 745,2028 885,2028 1025,2028 1166,2028 1306,2028 1446,2028 1586,2028 1727,2028 1867,2028 2007,2028 2147,2028 2288,2028 2428,2028 2568,2028 2708,2028 2849,2027 2989,2027 3129,2027 3269,2025 3410,2025"/>
                 <TextEquiv>
-                    <Unicode>in meinemLeben) - begegne einer Dame, die mich an Fräulein Soltau erin-</Unicode>
+                    <Unicode>in meinemLeben) – begegne einer Dame, die mich an Fräulein Soltau erin¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l15" custom="readingOrder {index:14;}">
                 <Coords points="586,2196 3165,2218 3299,2174 3299,2050 586,2086"/>
                 <Baseline points="605,2156 738,2156 872,2157 1006,2157 1140,2157 1274,2157 1408,2159 1541,2159 1675,2159 1809,2159 1943,2157 2077,2157 2211,2157 2345,2157 2478,2157 2612,2156 2746,2156 2880,2154 3014,2154 3148,2153 3282,2153"/>
                 <TextEquiv>
-                    <Unicode>nert; - meine Gedanken gehenweiter über die Schicksale der "Therese"</Unicode>
+                    <Unicode>nert; – meine Gedanken gehen weiter über die Schicksale der »Therese«</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l16" custom="readingOrder {index:15;}">
                 <Coords points="586,2313 3398,2336 3398,2238 3259,2198 586,2237"/>
                 <Baseline points="603,2289 741,2289 880,2288 1019,2288 1158,2288 1297,2289 1436,2289 1575,2289 1714,2289 1853,2289 1992,2289 2130,2289 2269,2289 2408,2291 2547,2291 2686,2291 2825,2289 2964,2289 3103,2289 3242,2288 3381,2288"/>
                 <TextEquiv>
-                    <Unicode>wieder zu Fräulein Soltau; - ich denke eben an ihr altjüngferlich ver-</Unicode>
+                    <Unicode>wieder zu Fräulein Soltau; – ich denke eben an ihr altjüngferlich ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:16;}">
                 <Coords points="596,2448 3120,2490 3324,2442 3324,2351 596,2364"/>
                 <Baseline points="615,2420 749,2420 884,2420 1018,2420 1153,2420 1287,2420 1422,2420 1556,2420 1691,2420 1825,2420 1960,2420 2095,2421 2229,2421 2364,2421 2498,2421 2633,2421 2767,2421 2902,2421 3036,2421 3171,2421 3306,2421"/>
                 <TextEquiv>
-                    <Unicode>grämtes Gesicht mit sozusagen sozial-literarischer Anteilnahme - da</Unicode>
+                    <Unicode>grämtes Gesicht mit sozusagen sozial-literarischer Anteilnahme – da</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l18" custom="readingOrder {index:17;}">
                 <Coords points="596,2616 1747,2539 1893,2615 3244,2596 3401,2491 596,2504"/>
                 <Baseline points="615,2549 753,2547 891,2549 1030,2549 1168,2549 1307,2549 1445,2549 1584,2550 1722,2550 1861,2550 1999,2551 2137,2552 2276,2552 2414,2552 2553,2552 2691,2553 2830,2553 2968,2553 3107,2552 3245,2552 3384,2552"/>
                 <TextEquiv>
-                    <Unicode>steht sie leibhaftig vor mir - zu kurzem Aufenthalt in Berlin,vor ei-</Unicode>
+                    <Unicode>steht sie leibhaftig vor mir – zu kurzem Aufenthalt in Berlin,vor ei¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l19" custom="readingOrder {index:18;}">
                 <Coords points="591,2693 2026,2758 3381,2707 3407,2609 591,2624"/>
                 <Baseline points="608,2679 747,2679 886,2679 1025,2679 1164,2679 1303,2681 1442,2681 1581,2681 1720,2681 1859,2681 1998,2682 2137,2682 2276,2682 2415,2682 2554,2684 2693,2684 2832,2684 2971,2684 3110,2684 3249,2684 3389,2685"/>
                 <TextEquiv>
-                    <Unicode>ner Stellung in Hamburg (allerdings kommen auf einen solchen Fall ei-</Unicode>
+                    <Unicode>ner Stellung in Hamburg (allerdings kommen auf einen solchen Fall ei¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l20" custom="readingOrder {index:19;}">
@@ -158,21 +158,21 @@
                 <Coords points="576,3016 3465,3000 3465,2880 2762,2840 576,2877"/>
                 <Baseline points="596,2942 738,2943 881,2943 1023,2945 1166,2945 1308,2945 1451,2945 1593,2945 1736,2945 1878,2943 2021,2943 2163,2943 2306,2943 2448,2943 2591,2942 2733,2942 2876,2943 3018,2943 3161,2943 3303,2945 3446,2945"/>
                 <TextEquiv>
-                    <Unicode>nicht begegnet). Abend bei Michaelis, wo äusser mir nur Fischer und Frau</Unicode>
+                    <Unicode>nicht begegnet). Abend bei Michaelis, wo ausser mir nur Fischer und Frau</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l22" custom="readingOrder {index:21;}">
                 <Coords points="604,3107 3416,3105 3379,3003 604,3002"/>
                 <Baseline points="620,3071 758,3071 897,3071 1036,3072 1175,3072 1314,3072 1453,3072 1592,3072 1731,3072 1870,3072 2009,3072 2147,3072 2286,3072 2425,3072 2564,3072 2703,3072 2842,3072 2981,3072 3120,3072 3259,3072 3398,3074"/>
                 <TextEquiv>
-                    <Unicode>(er würde gerne Elise und Frau des Richters, die auch er - nicht einmal</Unicode>
+                    <Unicode>(er würde gerne Else und Frau des Richters, die auch er – nicht einmal</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l23" custom="readingOrder {index:22;}">
                 <Coords points="577,3254 3466,3230 3338,3135 577,3104"/>
                 <Baseline points="596,3198 738,3201 881,3201 1023,3203 1166,3203 1308,3204 1451,3204 1593,3204 1736,3204 1878,3204 2021,3204 2164,3204 2306,3204 2449,3204 2591,3204 2734,3204 2876,3204 3019,3205 3161,3206 3304,3207 3447,3209"/>
                 <TextEquiv>
-                    <Unicode>dem Namen nach kennt!! -in seinen Verlag übernehmen). Dann noch zu Lucy,</Unicode>
+                    <Unicode>dem Namen nach kennt!! – in seinen Verlag übernehmen). Dann noch zu Lucy,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l24" custom="readingOrder {index:23;}">
@@ -186,7 +186,7 @@
                 <Coords points="587,3482 889,3525 1122,3470 1308,3528 1858,3480 1985,3531 2357,3480 2357,3403 586,3383"/>
                 <Baseline points="606,3462 692,3462 779,3464 865,3464 952,3464 1038,3465 1125,3465 1211,3465 1298,3465 1384,3465 1471,3465 1558,3465 1644,3465 1731,3465 1817,3464 1904,3464 1990,3464 2077,3462 2163,3462 2250,3461 2337,3459"/>
                 <TextEquiv>
-                    <Unicode>ins neue Jahr eingingen. Um zwei ins Bett.-</Unicode>
+                    <Unicode>ins neue Jahr eingingen. Um zwei ins Bett.–</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l26" custom="readingOrder {index:25;}">
@@ -200,77 +200,77 @@
                 <Coords points="587,3766 3100,3766 3519,3741 3519,3657 587,3672"/>
                 <Baseline points="605,3722 749,3722 894,3723 1039,3723 1184,3723 1328,3723 1473,3725 1618,3725 1763,3725 1907,3725 2052,3725 2197,3723 2342,3723 2486,3723 2631,3723 2776,3723 2921,3723 3065,3723 3210,3723 3355,3723 3500,3723"/>
                 <TextEquiv>
-                    <Unicode>und zwei Mädeln 4 und 2 Jahre alt, Barbara und Ursula.-Mit Heini im Hotel</Unicode>
+                    <Unicode>und zwei Mädeln 4 und 2 Jahre alt, Barbara und Ursula.– Mit Heini im Hotel</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l28" custom="readingOrder {index:27;}">
                 <Coords points="587,3915 3049,3905 3388,3807 586,3777"/>
                 <Baseline points="603,3858 741,3857 879,3857 1017,3857 1156,3857 1294,3855 1432,3855 1571,3855 1709,3855 1847,3855 1986,3855 2124,3855 2262,3855 2400,3855 2539,3855 2677,3855 2815,3855 2954,3855 3092,3855 3230,3854 3369,3854"/>
                 <TextEquiv>
-                    <Unicode>gegessen. St. musste (Nacumittag) Volpone spielen, er ist auch für den</Unicode>
+                    <Unicode>gegessen. St. musste (Nachmittag) Volpone spielen, er ist auch für den</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l29" custom="readingOrder {index:28;}">
                 <Coords points="575,4004 3048,4043 3478,4003 3478,3912 575,3916"/>
                 <Baseline points="593,3984 736,3984 879,3984 1023,3984 1166,3986 1310,3986 1453,3986 1596,3986 1740,3986 1883,3986 2027,3986 2170,3986 2313,3986 2457,3986 2600,3986 2744,3986 2887,3986 3030,3987 3174,3987 3317,3987 3461,3989"/>
                 <TextEquiv>
-                    <Unicode>Liebelei-Film engagiert, um - einen überflüssigen Herrn am Grabe Fritzens</Unicode>
+                    <Unicode>Liebelei-Film engagiert, um – einen überflüssigen Herrn am Grabe Fritzens</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l30" custom="readingOrder {index:29;}">
                 <Coords points="560,4135 3099,4170 3358,4054 560,4066"/>
                 <Baseline points="578,4110 716,4112 854,4112 992,4113 1130,4113 1268,4113 1406,4115 1545,4115 1683,4115 1821,4115 1959,4115 2097,4115 2235,4115 2373,4115 2512,4115 2650,4115 2788,4115 2926,4115 3064,4115 3202,4115 3341,4113"/>
                 <TextEquiv>
-                    <Unicode>zu nimen und damit er auf dem Zettel steht). Herr Schröder hat tele-</Unicode>
+                    <Unicode>zu mimen und damit er auf dem Zettel steht). Herr Schröder hat tele¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l31" custom="readingOrder {index:30;}">
                 <Coords points="586,4290 3431,4299 3431,4178 3297,4167 587,4177"/>
                 <Baseline points="605,4244 745,4243 885,4242 1026,4242 1166,4242 1307,4242 1447,4244 1587,4244 1728,4245 1868,4245 2009,4247 2149,4247 2289,4248 2430,4248 2570,4250 2711,4250 2851,4251 2991,4251 3132,4251 3272,4253 3413,4253"/>
                 <TextEquiv>
-                    <Unicode>graphiert, dass er erst Dienstag kommen kann; ich habe ihn für Dienntag</Unicode>
+                    <Unicode>graphiert, dass er erst Dienstag kommen kann; ich habe ihn für Dienstag</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l32" custom="readingOrder {index:31;}">
                 <Coords points="588,4408 3273,4439 3346,4341 589,4295"/>
                 <Baseline points="605,4368 741,4370 877,4373 1013,4374 1149,4376 1286,4377 1422,4379 1558,4379 1694,4380 1830,4382 1967,4382 2103,4383 2239,4383 2375,4383 2511,4385 2647,4385 2784,4385 2920,4386 3056,4386 3192,4386 3329,4388"/>
                 <TextEquiv>
-                    <Unicode>Vormittag bestellt. Am Abend will ich nach Wien reisen.- Heute Abend</Unicode>
+                    <Unicode>Vormittag bestellt. Am Abend will ich nach Wien reisen.– Heute Abend</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Sonntag, 1.1.1927. Berlin.
+Hotel Esplanade.
+Mein Liebes, heute Früh kam Dein verstimmter Brief, den ich gleich mit
+einer Depesche beantwortet habe, eben dein besser gelaunter, der auch
+meine Stimmung gebessert hat. Ich will dir nur – ehe Herr Fleck er¬
+scheint, mit dem ich mich über sein Liebelei-Scenarium zu unterhalten
+habe, von gestern berichten. Vormittag im Fischer-Bureau, nur mit ihm
+sehr freundschaftlich gesprochen. Er bittet dich ihm den Roman persön¬
+lich zu schicken. Er wird ihn gleich lesen (du nimmst dieses gleich
+hoffentlich nicht gar zu wörtlich). Zu Tisch war ich bei Paul Goldmann,
+Frau und Tochter, zusammen mit Paul Marx. P. G. ist übel auf die Neue
+freie Presse zu reden und kennt die dortige Wirtschaft. Vorher ein son¬
+derbarer Zufall: ich gehe durch die Kurfürstenstrasse (zum ersten Mal
+in meinemLeben) – begegne einer Dame, die mich an Fräulein Soltau erin¬
+nert; – meine Gedanken gehen weiter über die Schicksale der »Therese«
+wieder zu Fräulein Soltau; – ich denke eben an ihr altjüngferlich ver¬
+grämtes Gesicht mit sozusagen sozial-literarischer Anteilnahme – da
+steht sie leibhaftig vor mir – zu kurzem Aufenthalt in Berlin,vor ei¬
+ner Stellung in Hamburg (allerdings kommen auf einen solchen Fall ei¬
+nige Millionen andere, in denen man den Leuten, an die man eben denkt,
+nicht begegnet). Abend bei Michaelis, wo ausser mir nur Fischer und Frau
+(er würde gerne Else und Frau des Richters, die auch er – nicht einmal
+dem Namen nach kennt!! – in seinen Verlag übernehmen). Dann noch zu Lucy,
+wo Heini und Fehling. Ich spielte Walzer, Heini Bach und Händel, womit wir
+ins neue Jahr eingingen. Um zwei ins Bett.–
+Heute Vormittag mit Heini nach Zehlendorf, Steinrück, seine charmante Frau
+und zwei Mädeln 4 und 2 Jahre alt, Barbara und Ursula.– Mit Heini im Hotel
+gegessen. St. musste (Nachmittag) Volpone spielen, er ist auch für den
+Liebelei-Film engagiert, um – einen überflüssigen Herrn am Grabe Fritzens
+zu mimen und damit er auf dem Zettel steht). Herr Schröder hat tele¬
+graphiert, dass er erst Dienstag kommen kann; ich habe ihn für Dienstag
+Vormittag bestellt. Am Abend will ich nach Wien reisen.– Heute Abend</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

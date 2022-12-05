@@ -3,29 +3,29 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:12.070+01:00</Created>
-        <LastChange>2022-11-18T03:23:59.612Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259500" pageNr="71" tsid="104225751" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=FEFCGONEGPWNGPWYDZJKUZJE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HFXAFKKZGJCDVZGTWTNVRBAZ" imageId="41048857"/>
+        <LastChange>2022-12-01T12:14:19.186+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259500" pageNr="71" tsid="105473422" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=FEFCGONEGPWNGPWYDZJKUZJE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OMLYSRTOZUZHTVLGJLXFPCAP" imageId="41048857"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0071.tif" imageWidth="3811" imageHeight="4791">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949420" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783511" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="648,146 648,3110 3665,3110 3665,146"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+            <TextLine id="r1l1" custom="readingOrder {index:0;} supplied {offset:8; length:1;}">
                 <Coords points="1870,428 2890,410 3026,470 3224,425 3224,369 3068,341 2328,357 2224,304 2110,342 2044,286 1870,307"/>
                 <Baseline points="1886,407 1952,407 2018,405 2084,405 2150,405 2216,405 2282,405 2348,405 2414,407 2480,407 2546,407 2612,407 2678,408 2744,408 2810,408 2876,408 2942,408 3008,408 3074,408 3140,408 3207,408"/>
                 <TextEquiv>
-                    <Unicode>Im Schlagwagen um 10 Uhr Abends.</Unicode>
+                    <Unicode>Im Schlafwagen um 10 Uhr Abends.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
                 <Coords points="2226,548 2361,580 2479,546 2733,554 2830,610 2920,551 3181,549 3181,480 3046,465 2921,461 2872,496 2431,438 2379,473 2227,451"/>
                 <Baseline points="2243,536 2289,537 2335,537 2381,538 2427,539 2473,539 2519,539 2565,539 2611,539 2657,540 2703,540 2749,540 2795,540 2841,540 2887,540 2933,540 2979,540 3025,540 3071,541 3117,542 3164,542"/>
                 <TextEquiv>
-                    <Unicode>Nach Passau. 19.7.1923.</Unicode>
+                    <Unicode>Nach Passau. 16.7.1923.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l3" custom="readingOrder {index:2;}">
@@ -60,7 +60,7 @@
                 <Coords points="654,1253 3458,1319 3418,1187 2373,1215 2138,1108 1970,1207 655,1152"/>
                 <Baseline points="671,1241 809,1244 948,1245 1086,1247 1225,1248 1363,1251 1502,1253 1640,1253 1779,1255 1917,1256 2056,1257 2194,1259 2333,1260 2471,1262 2610,1263 2748,1264 2887,1265 3025,1266 3164,1268 3302,1269 3441,1271"/>
                 <TextEquiv>
-                    <Unicode>Wir waren bis Passau im selben Coupémit der Hofrätin Z., haben mit ihr</Unicode>
+                    <Unicode>Wir waren bis Passau im selben Coupé mit der Hofrätin Z., haben mit ihr</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l8" custom="readingOrder {index:7;}">
@@ -95,14 +95,14 @@
                 <Coords points="698,1922 3402,1948 3195,1821 1001,1856 700,1779"/>
                 <Baseline points="716,1895 849,1897 982,1899 1116,1902 1249,1904 1383,1905 1516,1907 1649,1909 1783,1910 1916,1913 2050,1913 2183,1914 2316,1916 2450,1917 2583,1919 2717,1920 2850,1923 2983,1925 3117,1926 3250,1929 3384,1931"/>
                 <TextEquiv>
-                    <Unicode>schreiben, denn es ist im Coupe verdunkelt. Mein Sohn schläft schon.</Unicode>
+                    <Unicode>schreiben, denn es ist im Coupée verdunkelt. Mein Sohn schläft schon.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:12;}">
                 <Coords points="675,2077 3442,2074 3443,1987 3294,1964 677,1946"/>
                 <Baseline points="693,2027 829,2028 966,2030 1102,2031 1239,2033 1376,2034 1512,2036 1649,2039 1785,2040 1922,2042 2059,2045 2195,2046 2332,2048 2468,2049 2605,2051 2742,2052 2878,2054 3015,2055 3151,2057 3288,2058 3425,2058"/>
                 <TextEquiv>
-                    <Unicode>Der Aufenthalt hier in Passau dreiviertel Stunden - bei der Hitze -</Unicode>
+                    <Unicode>Der Aufenthalt hier in Passau dreiviertel Stunden – bei der Hitze –</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l14" custom="readingOrder {index:13;}">
@@ -144,7 +144,7 @@
                 <Coords points="643,2873 3301,2911 3324,2787 645,2714"/>
                 <Baseline points="660,2811 792,2812 924,2813 1056,2814 1189,2816 1321,2817 1453,2819 1585,2822 1718,2823 1850,2826 1982,2828 2114,2830 2247,2832 2379,2834 2511,2837 2643,2838 2776,2840 2908,2841 3040,2843 3172,2844 3305,2846"/>
                 <TextEquiv>
-                    <Unicode>1 7 Uhr Früh. Guten Morgen! Ich habe fast gar nicht geschlafen, nur</Unicode>
+                    <Unicode>1/2 7 Uhr Früh. Guten Morgen! Ich habe fast gar nicht geschlafen, nur</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l20" custom="readingOrder {index:19;}">
@@ -154,43 +154,27 @@
                     <Unicode>eine Stunde geschlummert. Alles Liebe!</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:20;}">
-                <Coords points="1687,3084 1725,3095 1757,3085 1771,3095 1788,3085 1864,3090 1902,3108 1927,3094 1972,3113 2003,3110 2005,3006 1945,3029 1921,3018 1900,3035 1845,3027 1813,3037 1730,3008 1689,3011"/>
-                <Baseline points="1704,3071 1729,3075 1755,3077 1780,3078 1806,3078 1832,3078 1857,3078 1883,3078 1909,3078 1934,3078 1960,3079 1986,3081"/>
-                <TextEquiv>
-                    <Unicode>- - - - — —</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:21;}">
-                <Coords points="3548,322 3572,323 3581,335 3606,336 3624,320 3652,326 3659,319 3676,321 3688,158 3650,155 3618,121 3589,126 3562,117"/>
-                <Baseline points="3572,246 3603,249 3634,252 3665,252"/>
-                <TextEquiv>
-                    <Unicode>22</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Im Schlafwagen um 10 Uhr Abends.
+Nach Passau. 16.7.1923.
+Mein Freund, mein sehr lieber Freund!
+Nun liege ich hier auf meinem schmalen Lager, bin sehr
+müde und kann doch nicht schlafen. Ich denke an Dich und sende Dir
+viele liebe Grüsse und Gedanken.
+Wir waren bis Passau im selben Coupé mit der Hofrätin Z., haben mit ihr
+und ihrem sehr sympathischen Sohn soupiert und jetzt sind sie im
+Coupé nebenan. Ich habe mich über den Zufall nicht gewundert, war fast
+überzeugt, dass es so sein wird. Es ist da irgend ein Zusammenhang mit
+Dir. Dein Name ist auch öfters gefallen. Es ist ein bisl schwer zu
+schreiben, denn es ist im Coupée verdunkelt. Mein Sohn schläft schon.
+Der Aufenthalt hier in Passau dreiviertel Stunden – bei der Hitze –
+eingekeilt zwischen einer tausendköpfigen Menge war furchtbar. Es ist
+eine böswillige feindselige Menschenschinderei. Gute Nacht jetzt, denk
+an mich, wie ich an Dich.
+Deine
+Clara Katharina.
+1/2 7 Uhr Früh. Guten Morgen! Ich habe fast gar nicht geschlafen, nur
+eine Stunde geschlummert. Alles Liebe!</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

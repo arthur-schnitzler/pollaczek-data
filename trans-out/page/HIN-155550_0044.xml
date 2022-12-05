@@ -3,202 +3,186 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:06.964+01:00</Created>
-        <LastChange>2022-11-18T03:23:49.125Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259153" pageNr="44" tsid="104225723" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=THQHSPLQBAPOHYKOZXOKFSUT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BWWPUEFFFLZLQZOGJIIKHJIE" imageId="41048830"/>
+        <LastChange>2022-11-30T22:47:45.470+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259153" pageNr="44" tsid="105445367" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=THQHSPLQBAPOHYKOZXOKFSUT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SNQINVOBCEFTHGHNHKQNGHAM" imageId="41048830"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0044.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949262" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783321" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="404,142 404,3154 2670,3154 2670,142"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
-                <Coords points="1581,374 1714,391 1758,375 1832,403 2095,373 2191,409 2224,398 2225,282 2100,307 2018,276 1852,323 1686,300 1581,316"/>
-                <Baseline points="1596,363 1626,365 1657,366 1688,368 1719,368 1749,369 1780,369 1811,369 1842,369 1872,369 1903,369 1934,369 1965,369 1995,369 2026,368 2057,368 2088,368 2118,368 2149,368 2180,368 2211,368"/>
-                <TextEquiv>
-                    <Unicode>26. August 1897.</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
                 <Coords points="405,520 2319,538 2258,430 405,437"/>
                 <Baseline points="419,507 513,507 607,507 702,507 796,507 890,507 985,507 1079,507 1173,506 1268,506 1362,506 1456,504 1551,504 1645,504 1739,503 1834,503 1928,503 2022,502 2117,501 2211,501 2306,501"/>
                 <TextEquiv>
                     <Unicode>erzählt man auch in der gehässigsten Weise, ich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
                 <Coords points="390,644 2555,655 2554,570 2052,550 390,583"/>
                 <Baseline points="404,641 510,641 617,641 724,641 831,641 938,639 1044,639 1151,639 1258,638 1365,638 1472,636 1578,636 1685,636 1792,635 1899,635 2006,633 2112,633 2219,633 2326,633 2433,632 2540,632"/>
                 <TextEquiv>
                     <Unicode>hätte Dir angetragen, mir Du zu sagen und noch vieles</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
                 <Coords points="415,810 2320,786 2444,708 414,711"/>
                 <Baseline points="428,767 528,768 628,770 728,770 828,770 928,771 1028,771 1128,771 1228,770 1328,770 1429,770 1529,769 1629,768 1729,768 1829,767 1929,765 2029,765 2129,764 2229,764 2329,762 2430,762"/>
                 <TextEquiv>
-                    <Unicode>was Dich auch ärgern würde, obwohl es nur mich be-</Unicode>
+                    <Unicode>was Dich auch ärgern würde, obwohl es nur mich be¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
                 <Coords points="400,913 2468,922 2551,836 400,855"/>
                 <Baseline points="414,903 520,902 626,902 732,902 838,902 945,902 1051,902 1157,902 1263,902 1369,902 1476,902 1582,902 1688,900 1794,900 1900,900 2007,900 2113,900 2219,899 2325,899 2431,897 2538,896"/>
                 <TextEquiv>
                     <Unicode>trifft. Die dummen Leute begreifen ja gar nicht, dass</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
                 <Coords points="397,1045 2007,1071 2357,1047 2407,959 396,984"/>
                 <Baseline points="411,1032 510,1032 609,1032 708,1032 807,1032 906,1032 1005,1032 1104,1032 1203,1031 1302,1031 1402,1031 1501,1029 1600,1029 1699,1029 1798,1028 1897,1028 1996,1026 2095,1026 2194,1025 2293,1025 2393,1023"/>
                 <TextEquiv>
-                    <Unicode>man sich auch in einer harmlosen netten Art " Du "</Unicode>
+                    <Unicode>man sich auch in einer harmlosen netten Art »Du«</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
                 <Coords points="407,1169 2398,1196 2398,1102 2340,1097 407,1087"/>
                 <Baseline points="420,1164 518,1164 616,1164 714,1164 813,1164 911,1164 1009,1164 1107,1164 1206,1163 1304,1163 1402,1163 1500,1161 1599,1161 1697,1161 1795,1160 1893,1160 1992,1160 2090,1160 2188,1160 2286,1158 2385,1158"/>
                 <TextEquiv>
                     <Unicode>sagen kann. Meine Eltern wissen nichts davon. Das</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
                 <Coords points="403,1313 2472,1300 2471,1220 403,1233"/>
                 <Baseline points="417,1293 519,1293 621,1295 723,1295 825,1295 927,1295 1029,1295 1131,1293 1233,1293 1335,1293 1437,1293 1539,1292 1641,1292 1743,1292 1845,1292 1947,1290 2049,1290 2151,1290 2253,1291 2355,1292 2457,1292"/>
                 <TextEquiv>
                     <Unicode>hab ich verhütet. Aber ich seh immer mehr ein, dass</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
                 <Coords points="403,1441 2364,1442 2394,1354 403,1363"/>
                 <Baseline points="416,1425 514,1425 612,1425 710,1425 809,1425 907,1425 1005,1425 1103,1425 1202,1425 1300,1424 1398,1424 1496,1424 1595,1424 1693,1424 1791,1424 1889,1422 1988,1422 2086,1422 2184,1422 2282,1422 2381,1421"/>
                 <TextEquiv>
                     <Unicode>ich aus all dem heraus muss, denn ich werde durch</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
                 <Coords points="405,1593 2476,1562 2476,1490 2222,1477 405,1485"/>
                 <Baseline points="420,1556 522,1556 624,1556 726,1556 828,1556 930,1556 1032,1556 1135,1556 1237,1556 1339,1556 1441,1556 1543,1556 1645,1554 1747,1554 1850,1554 1952,1554 2054,1554 2156,1554 2258,1554 2360,1554 2463,1554"/>
                 <TextEquiv>
-                    <Unicode>diese unlendlichen kleinen Aufregungen so müde, und</Unicode>
+                    <Unicode>diese unendlichen kleinen Aufregungen so müde, und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
                 <Coords points="417,1717 2397,1711 2397,1628 2248,1614 417,1628"/>
                 <Baseline points="431,1689 528,1688 626,1688 723,1688 821,1686 919,1686 1016,1686 1114,1686 1212,1686 1309,1686 1407,1686 1505,1686 1602,1686 1700,1686 1798,1686 1895,1686 1993,1686 2091,1685 2188,1685 2286,1684 2384,1683"/>
                 <TextEquiv>
                     <Unicode>ganz dumm! Bist Du wirklich in Ischl? Komm doch</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
                 <Coords points="396,1846 2398,1822 2321,1734 396,1758"/>
                 <Baseline points="410,1817 508,1818 607,1818 706,1818 804,1820 903,1820 1002,1818 1100,1818 1199,1818 1298,1818 1397,1817 1495,1817 1594,1817 1693,1815 1791,1815 1890,1815 1989,1815 2087,1815 2186,1815 2285,1815 2384,1817"/>
                 <TextEquiv>
                     <Unicode>herüber. Ich radel jetzt und da können doch nicht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
                 <Coords points="409,1986 2433,1996 2433,1875 2237,1858 1445,1918 409,1884"/>
                 <Baseline points="422,1943 521,1944 621,1946 721,1947 821,1947 921,1947 1021,1947 1121,1947 1221,1947 1321,1947 1421,1947 1520,1947 1620,1946 1720,1946 1820,1946 1920,1946 2020,1947 2120,1947 2220,1947 2320,1949 2420,1950"/>
                 <TextEquiv>
                     <Unicode>so viele Leute nach, dass sie einen wieder stören,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
                 <Coords points="397,2112 2159,2102 2159,2038 2046,2013 397,2012"/>
                 <Baseline points="410,2076 496,2076 583,2078 670,2078 756,2078 843,2078 930,2078 1016,2078 1103,2078 1190,2078 1277,2078 1363,2078 1450,2078 1537,2076 1623,2076 1710,2076 1797,2076 1883,2076 1970,2076 2057,2076 2144,2076"/>
                 <TextEquiv>
                     <Unicode>und ich möcht wieder so viel mit Dir reden.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
                 <Coords points="556,2225 2229,2241 2478,2224 2478,2136 556,2142"/>
                 <Baseline points="569,2207 663,2207 758,2207 853,2208 948,2208 1043,2208 1137,2208 1232,2208 1327,2208 1422,2208 1517,2207 1611,2207 1706,2207 1801,2207 1896,2207 1991,2207 2085,2207 2180,2207 2275,2207 2370,2207 2465,2207"/>
                 <TextEquiv>
                     <Unicode>Gearbeitet hab ich fast nichts, denn ich war so</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
                 <Coords points="400,2369 1690,2351 1778,2403 2399,2347 2399,2275 2269,2267 400,2272"/>
                 <Baseline points="413,2336 511,2336 610,2337 708,2337 807,2339 906,2339 1004,2339 1103,2339 1201,2339 1300,2339 1399,2337 1497,2337 1596,2337 1694,2337 1793,2336 1892,2336 1990,2336 2089,2336 2187,2336 2286,2336 2385,2336"/>
                 <TextEquiv>
                     <Unicode>tief verstimmt, dass ich mich zu nichts aufraffen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
                 <Coords points="405,2496 2393,2494 2514,2478 2514,2384 405,2405"/>
                 <Baseline points="420,2465 524,2466 628,2466 732,2468 836,2468 940,2468 1044,2468 1148,2468 1252,2468 1356,2468 1460,2468 1564,2468 1668,2466 1772,2466 1876,2466 1980,2466 2084,2466 2188,2466 2292,2466 2396,2466 2501,2466"/>
                 <TextEquiv>
-                    <Unicode>konnte. Ich hab die Idee "Charlotte Corday" zu dra-</Unicode>
+                    <Unicode>konnte. Ich hab die Idee »Charlotte Corday« zu dra¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
                 <Coords points="409,2629 2402,2626 2458,2537 409,2544"/>
                 <Baseline points="423,2594 524,2595 625,2595 726,2597 827,2597 928,2597 1029,2598 1130,2598 1231,2598 1332,2598 1433,2598 1534,2598 1635,2598 1736,2598 1837,2597 1938,2597 2039,2597 2140,2597 2241,2598 2342,2598 2444,2598"/>
                 <TextEquiv>
                     <Unicode>matisieren und bin nun bei der Akt-Einteilung. Ich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
                 <Coords points="409,2770 624,2720 2148,2774 2319,2753 2320,2675 409,2654"/>
                 <Baseline points="422,2726 516,2727 610,2727 704,2727 798,2729 893,2729 987,2729 1081,2729 1175,2729 1269,2729 1364,2729 1458,2729 1552,2729 1646,2729 1740,2729 1835,2729 1929,2729 2023,2729 2117,2729 2211,2729 2306,2729"/>
                 <TextEquiv>
                     <Unicode>habe vorher viel über sie gelesen. Herr Heutler</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
                 <Coords points="406,2861 2585,2896 2585,2805 2163,2768 406,2800"/>
                 <Baseline points="420,2855 527,2855 635,2855 742,2856 850,2856 957,2856 1065,2856 1172,2858 1280,2858 1387,2858 1495,2859 1602,2859 1710,2859 1817,2859 1925,2859 2032,2859 2140,2858 2247,2858 2355,2856 2462,2855 2570,2853"/>
                 <TextEquiv>
-                    <Unicode>schickte mir zu dem Zweck ein sehr gutes Buch ben vor</Unicode>
+                    <Unicode>schickte mir zu dem Zweck ein sehr gutes Buch von</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
                 <Coords points="403,3014 2637,3050 2637,2934 2242,2905 403,2923"/>
                 <Baseline points="416,2984 526,2985 636,2987 747,2988 857,2990 968,2990 1078,2990 1188,2990 1299,2990 1409,2990 1520,2990 1630,2990 1740,2990 1851,2990 1961,2990 2072,2991 2182,2991 2292,2993 2403,2994 2513,2996 2624,2999"/>
                 <TextEquiv>
                     <Unicode>Lamartine das mir viel nützt wenn auch meine Auffassung</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
                 <Coords points="411,3170 2441,3134 2441,3065 2016,3032 411,3057"/>
                 <Baseline points="425,3117 525,3119 625,3120 725,3122 825,3122 925,3122 1025,3122 1125,3122 1225,3122 1325,3122 1425,3122 1525,3122 1625,3122 1725,3122 1825,3120 1925,3120 2025,3120 2125,3120 2225,3120 2325,3121 2426,3122"/>
                 <TextEquiv>
                     <Unicode>eine ganz andere ist. Ich seh nämlich in ihr keine</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:22;}">
-                <Coords points="2540,286 2612,295 2645,272 2684,277 2679,108 2660,109 2638,123 2608,110 2569,130 2551,150 2537,151"/>
-                <Baseline points="2552,251 2581,243 2611,242 2640,243 2670,246"/>
-                <TextEquiv>
-                    <Unicode>1/28</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>erzählt man auch in der gehässigsten Weise, ich
+hätte Dir angetragen, mir Du zu sagen und noch vieles
+was Dich auch ärgern würde, obwohl es nur mich be¬
+trifft. Die dummen Leute begreifen ja gar nicht, dass
+man sich auch in einer harmlosen netten Art »Du«
+sagen kann. Meine Eltern wissen nichts davon. Das
+hab ich verhütet. Aber ich seh immer mehr ein, dass
+ich aus all dem heraus muss, denn ich werde durch
+diese unendlichen kleinen Aufregungen so müde, und
+ganz dumm! Bist Du wirklich in Ischl? Komm doch
+herüber. Ich radel jetzt und da können doch nicht
+so viele Leute nach, dass sie einen wieder stören,
+und ich möcht wieder so viel mit Dir reden.
+Gearbeitet hab ich fast nichts, denn ich war so
+tief verstimmt, dass ich mich zu nichts aufraffen
+konnte. Ich hab die Idee »Charlotte Corday« zu dra¬
+matisieren und bin nun bei der Akt-Einteilung. Ich
+habe vorher viel über sie gelesen. Herr Heutler
+schickte mir zu dem Zweck ein sehr gutes Buch von
+Lamartine das mir viel nützt wenn auch meine Auffassung
+eine ganz andere ist. Ich seh nämlich in ihr keine</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

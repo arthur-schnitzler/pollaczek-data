@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:10.413+01:00</Created>
-        <LastChange>2022-11-18T03:23:55.917Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259378" pageNr="62" tsid="104225742" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=FZMZBHAUFCIKKPGJGXOKVYSW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KQDDPQSPJOFEKQPANSJHWXVB" imageId="41048848"/>
+        <LastChange>2022-11-30T23:23:14.367+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259378" pageNr="62" tsid="105449047" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=FZMZBHAUFCIKKPGJGXOKVYSW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JYZJXIMZQEVVXWILOKSCDASS" imageId="41048848"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0062.tif" imageWidth="3743" imageHeight="4674">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949395" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783401" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -25,7 +25,7 @@
                 <Coords points="639,500 3361,511 3211,435 640,393"/>
                 <Baseline points="657,492 791,494 925,494 1060,495 1194,495 1328,497 1463,497 1597,498 1731,500 1866,500 2000,501 2134,503 2269,504 2403,504 2537,506 2672,506 2806,507 2940,507 3075,509 3209,509 3344,509"/>
                 <TextEquiv>
-                    <Unicode>Seien Sie herzlichst gegrüsst von der ersten Station meiner Reise.-</Unicode>
+                    <Unicode>Seien Sie herzlichst gegrüsst von der ersten Station meiner Reise.–</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l3" custom="readingOrder {index:2;}">
@@ -53,7 +53,7 @@
                 <Coords points="1661,1040 1693,1043 1732,1065 1768,1065 1803,1044 1843,1048 1867,1073 1885,1062 1924,1062 1925,963 1875,952 1822,958 1796,983 1743,969 1725,976 1697,961 1661,968"/>
                 <Baseline points="1680,1013 1705,1013 1730,1013 1756,1014 1781,1014 1806,1014 1832,1014 1857,1014 1882,1014 1908,1014"/>
                 <TextEquiv>
-                    <Unicode>- - - - —</Unicode>
+                    <Unicode>- - - - - -</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:6;}">
@@ -81,14 +81,14 @@
                 <Coords points="577,1553 3188,1611 3428,1506 578,1474"/>
                 <Baseline points="596,1536 736,1538 877,1539 1018,1541 1158,1542 1299,1544 1440,1545 1580,1547 1721,1548 1862,1548 2003,1550 2143,1551 2284,1553 2425,1553 2565,1554 2706,1554 2847,1556 2987,1556 3128,1556 3269,1556 3410,1556"/>
                 <TextEquiv>
-                    <Unicode>Es ist eine zauberhafte Stadt. Heute wieder aufs Land. Morgen "Liebe-</Unicode>
+                    <Unicode>Es ist eine zauberhafte Stadt. Heute wieder aufs Land. Morgen »Liebe¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l11" custom="readingOrder {index:10;}">
                 <Coords points="590,1685 3315,1723 3263,1595 591,1606"/>
                 <Baseline points="609,1670 743,1670 878,1671 1012,1671 1147,1673 1281,1674 1416,1676 1550,1676 1685,1677 1819,1679 1954,1680 2088,1682 2223,1683 2357,1683 2492,1685 2626,1686 2761,1686 2895,1686 3030,1687 3164,1688 3299,1686"/>
                 <TextEquiv>
-                    <Unicode>lei" am königlichen Theater. Mittwoch Abend nach Berlin, wo ich Don-</Unicode>
+                    <Unicode>lei« am königlichen Theater. Mittwoch Abend nach Berlin, wo ich Don¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l12" custom="readingOrder {index:11;}">
@@ -109,7 +109,7 @@
                 <Coords points="1770,2061 1831,2062 1916,2117 1966,2110 1980,2125 1998,2125 1999,1986 1942,1982 1910,2003 1882,1995 1860,2006 1846,1998 1813,2016 1799,2001 1771,2008"/>
                 <Baseline points="1787,2054 1814,2055 1842,2057 1870,2057 1898,2058 1926,2058 1954,2058 1982,2055"/>
                 <TextEquiv>
-                    <Unicode>-- — — —</Unicode>
+                    <Unicode>- - - - - -</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l15" custom="readingOrder {index:14;}">
@@ -123,7 +123,7 @@
                 <Coords points="654,2307 3326,2362 3543,2355 3544,2238 654,2208"/>
                 <Baseline points="671,2295 813,2297 956,2298 1098,2300 1241,2300 1384,2301 1526,2303 1669,2303 1812,2304 1954,2304 2097,2306 2240,2306 2382,2306 2525,2307 2668,2307 2810,2307 2953,2307 3096,2307 3238,2307 3381,2309 3524,2309"/>
                 <TextEquiv>
-                    <Unicode>Gestern Abend, liebe Frau Clara Katharina, xxx in Kopenhagen angekommen-</Unicode>
+                    <Unicode>Gestern Abend, liebe Frau Clara Katharina, in Kopenhagen angekommen –</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:16;}">
@@ -137,7 +137,7 @@
                 <Coords points="600,2599 3318,2607 3319,2507 600,2496"/>
                 <Baseline points="618,2558 752,2559 886,2559 1020,2561 1154,2561 1289,2561 1423,2562 1557,2562 1691,2564 1825,2564 1960,2564 2094,2565 2228,2565 2362,2565 2496,2567 2630,2567 2765,2567 2899,2568 3033,2568 3167,2568 3302,2568"/>
                 <TextEquiv>
-                    <Unicode>es in der Erinnerung hatte. Nach einem köstlichen einsamen Spazier-</Unicode>
+                    <Unicode>es in der Erinnerung hatte. Nach einem köstlichen einsamen Spazier¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l19" custom="readingOrder {index:18;}">
@@ -158,7 +158,7 @@
                 <Coords points="604,2989 3355,2961 1722,2840 605,2892"/>
                 <Baseline points="623,2949 758,2949 894,2951 1030,2952 1166,2952 1301,2954 1437,2954 1573,2955 1709,2955 1844,2957 1980,2957 2116,2958 2252,2958 2387,2958 2523,2958 2659,2960 2795,2960 2930,2960 3066,2960 3202,2960 3338,2960"/>
                 <TextEquiv>
-                    <Unicode>will ich nach Berlin fahren. Darfich mir dort eine Nachricht erhof-</Unicode>
+                    <Unicode>will ich nach Berlin fahren. Darf ich mir dort eine Nachricht erhof¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l22" custom="readingOrder {index:21;}">
@@ -172,14 +172,14 @@
                 <Coords points="609,3224 848,3270 1059,3222 1223,3223 1280,3267 1458,3219 1583,3270 1786,3247 1787,3140 1256,3170 1053,3132 938,3167 753,3101 610,3132"/>
                 <Baseline points="626,3206 683,3207 740,3209 797,3210 854,3212 911,3212 968,3213 1026,3213 1083,3215 1140,3215 1197,3215 1254,3216 1311,3216 1368,3216 1426,3216 1483,3218 1540,3218 1597,3218 1654,3218 1711,3219 1769,3219"/>
                 <TextEquiv>
-                    <Unicode>- Hier kauft ich diese Karte.</Unicode>
+                    <Unicode>– Hier kauft ich diese Karte.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l24" custom="readingOrder {index:23;}">
                 <Coords points="1760,3377 1803,3370 1835,3395 1899,3378 1928,3399 1967,3392 1999,3425 2052,3421 2053,3272 2025,3264 1982,3293 1929,3271 1857,3267 1822,3238 1761,3241"/>
                 <Baseline points="1779,3336 1804,3336 1830,3335 1855,3335 1881,3335 1906,3336 1932,3336 1957,3336 1983,3336 2008,3337 2034,3338"/>
                 <TextEquiv>
-                    <Unicode>------</Unicode>
+                    <Unicode>- - - - - -</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l25" custom="readingOrder {index:24;}">
@@ -200,14 +200,14 @@
                 <Coords points="599,3757 3403,3784 3403,3684 2829,3648 599,3660"/>
                 <Baseline points="618,3728 756,3729 894,3731 1033,3732 1171,3734 1310,3734 1448,3735 1586,3735 1725,3737 1863,3737 2002,3737 2140,3738 2278,3738 2417,3739 2555,3740 2694,3741 2832,3741 2970,3743 3109,3744 3247,3746 3386,3747"/>
                 <TextEquiv>
-                    <Unicode>zweite Vorlesung. Schönsten Dank für die drei Karten.-Wie gerührt bin</Unicode>
+                    <Unicode>zweite Vorlesung. Schönsten Dank für die drei Karten.– Wie gerührt bin</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l28" custom="readingOrder {index:27;}">
                 <Coords points="578,3878 3122,3941 3426,3804 579,3756"/>
                 <Baseline points="597,3857 737,3860 878,3861 1018,3863 1159,3864 1299,3866 1440,3866 1580,3867 1721,3867 1861,3867 2002,3867 2142,3869 2283,3869 2423,3869 2564,3870 2704,3870 2845,3872 2985,3872 3126,3874 3266,3876 3407,3878"/>
                 <TextEquiv>
-                    <Unicode>ich erst ich - Leise Möglichkeit, dass ich nach Stockholm fahre (drin-</Unicode>
+                    <Unicode>ich erst ich – Leise Möglichkeit, dass ich nach Stockholm fahre (drin¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l29" custom="readingOrder {index:28;}">
@@ -221,7 +221,7 @@
                 <Coords points="581,4149 3342,4159 3214,4058 581,4053"/>
                 <Baseline points="599,4125 735,4127 871,4128 1008,4128 1144,4130 1280,4131 1417,4131 1553,4133 1689,4133 1826,4134 1962,4134 2098,4136 2235,4136 2371,4137 2507,4137 2644,4139 2780,4140 2916,4140 3053,4142 3189,4142 3326,4143"/>
                 <TextEquiv>
-                    <Unicode>dasskich kaum eine andere Landschaft zu schicken vermag als diese.</Unicode>
+                    <Unicode>dass ich kaum eine andere Landschaft zu schicken vermag als diese.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l31" custom="readingOrder {index:30;}">
@@ -231,54 +231,38 @@
                     <Unicode>Denken Sie meiner in Huld. Ihr A.S.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:31;}">
-                <Coords points="1602,4419 1667,4406 1692,4417 1703,4411 1727,4429 1752,4415 1777,4423 1799,4409 1817,4421 1877,4418 1880,4322 1819,4328 1801,4317 1758,4341 1723,4325 1704,4336 1683,4321 1647,4348 1604,4340"/>
-                <Baseline points="1623,4382 1649,4383 1675,4384 1702,4385 1728,4386 1754,4386 1781,4388 1807,4388 1833,4388 1860,4386"/>
-                <TextEquiv>
-                    <Unicode>- - - -</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:32;}">
-                <Coords points="3456,251 3491,256 3512,268 3538,262 3562,281 3580,282 3589,93 3567,89 3531,108 3506,100 3495,110 3463,105"/>
-                <Baseline points="3476,195 3506,200 3536,203 3566,198"/>
-                <TextEquiv>
-                    <Unicode>13</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Berlin, 8.5.1923.
+Seien Sie herzlichst gegrüsst von der ersten Station meiner Reise.–
+Meinen Berliner Aufenthalt kürze ich ab und fahre schon morgen Früh
+nach K. weiter. Ich freue mich Ihren Nachrichten entgegen, die ich in
+Terminus zu finden hoffe. Auf Wiedersehen Ihr A.S.
+- - - - - -
+Stockholm, 10.5.1923.
+Von einem schönen Ausflug Pfingstsonntag an der Küste, meine liebe
+Frau Clara Katharina, schicke ich Ihnen viele sehr herzliche Grüsse.
+Es ist eine zauberhafte Stadt. Heute wieder aufs Land. Morgen »Liebe¬
+lei« am königlichen Theater. Mittwoch Abend nach Berlin, wo ich Don¬
+nerstag Abend eintreffe. Anfang nächster Woche hoffe ich zuhaus zu
+sein. Alles Gute und Schöne. Ihr A.S.
+- - - - - -
+Gilleleje,11.5.1923.
+Gestern Abend, liebe Frau Clara Katharina, in Kopenhagen angekommen –
+und gleich heute Morgens hieher, wo es ungleich schöner ist, als ich
+es in der Erinnerung hatte. Nach einem köstlichen einsamen Spazier¬
+gang zwischen Meer und Wald, im Badehotel als einziger Gast, grüss ich
+Sie viele Mal. Die nächsten Tage werden anstrengend sein. Donnerstag
+will ich nach Berlin fahren. Darf ich mir dort eine Nachricht erhof¬
+fen u. zw. pr. Adr. Dr. Michaelis, Berlin-Dahlem, Hohenzollerndamm 96.
+– Hier kauft ich diese Karte.
+- - - - - -
+Kopenhagen, 14.5.1923.
+Herzliche Grüsse. Eben sitz ich da gestiefelt und gespront für die
+zweite Vorlesung. Schönsten Dank für die drei Karten.– Wie gerührt bin
+ich erst ich – Leise Möglichkeit, dass ich nach Stockholm fahre (drin¬
+gende Einladung), entscheidet sich morgen. Das Wetter so unfreundlich,
+dass ich kaum eine andere Landschaft zu schicken vermag als diese.
+Denken Sie meiner in Huld. Ihr A.S.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

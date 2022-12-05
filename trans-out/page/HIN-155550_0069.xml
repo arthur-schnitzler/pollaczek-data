@@ -3,22 +3,22 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:11.696+01:00</Created>
-        <LastChange>2022-11-18T03:23:58.969Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259473" pageNr="69" tsid="104225749" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ZUIXQQAUWMKPPISDTHVCKCIU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TNPVJPWHCMABZWENPCJAPWNF" imageId="41048855"/>
+        <LastChange>2022-12-01T12:07:49.366+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259473" pageNr="69" tsid="105472241" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ZUIXQQAUWMKPPISDTHVCKCIU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VRAERHGGJMBMBJYRMGFKXFYR" imageId="41048855"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0069.tif" imageWidth="3742" imageHeight="4646">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949416" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783503" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="533,89 533,2657 3555,2657 3555,89"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+            <TextLine id="r1l1" custom="readingOrder {index:0;} supplied {offset:4; length:1;}">
                 <Coords points="2060,420 2237,455 2399,417 2514,473 2626,420 2698,457 2955,414 2955,342 2700,331 2616,359 2393,320 2324,359 2223,357 2062,312"/>
                 <Baseline points="2079,399 2121,403 2164,407 2207,409 2250,410 2293,411 2336,413 2378,413 2421,414 2464,414 2507,414 2550,414 2593,414 2636,414 2678,414 2721,414 2764,414 2807,414 2850,416 2893,417 2936,419"/>
                 <TextEquiv>
-                    <Unicode>Bade-Baden.3.7.1923.</Unicode>
+                    <Unicode>Baden-Baden. 3.7.1923.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668714088727_1021" custom="readingOrder {index:1;}">
@@ -32,14 +32,14 @@
                 <Coords points="544,666 3259,717 3379,559 545,572"/>
                 <Baseline points="561,659 708,661 855,663 1002,663 1150,665 1297,666 1444,666 1592,668 1739,668 1886,669 2034,669 2181,669 2328,671 2476,671 2623,672 2770,672 2918,674 3065,674 3212,675 3360,677"/>
                 <TextEquiv>
-                    <Unicode>Bühlerhöhe, heimkam, unter manchem andern beträchtlich weniger Sympathi-</Unicode>
+                    <Unicode>Bühlerhöhe, heimkam, unter manchem andern beträchtlich weniger Sympathi¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l5" custom="readingOrder {index:3;}">
                 <Coords points="535,822 3170,858 3426,834 3427,719 536,725"/>
                 <Baseline points="554,789 696,791 839,792 982,792 1125,794 1268,795 1410,797 1553,797 1696,798 1839,800 1982,801 2124,803 2267,803 2410,804 2553,804 2696,806 2838,806 2981,807 3124,807 3267,807 3410,807"/>
                 <TextEquiv>
-                    <Unicode>schem Dein freundschaftlich-befan ener Brief, für den ich Dir minder be-</Unicode>
+                    <Unicode>schem Dein freundschaftlich-befangener Brief, für den ich Dir minder be¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l6" custom="readingOrder {index:4;}">
@@ -81,7 +81,7 @@
                 <Coords points="540,1584 3413,1633 3389,1485 541,1505"/>
                 <Baseline points="557,1572 698,1574 840,1577 982,1578 1124,1580 1266,1580 1408,1581 1550,1583 1692,1584 1834,1586 1976,1587 2117,1589 2259,1589 2401,1590 2543,1592 2685,1593 2827,1595 2969,1596 3111,1598 3253,1599 3395,1601"/>
                 <TextEquiv>
-                    <Unicode>und wohltuend. Jedenfalls bleibt diese Wahl die beste Lösung, die gefun-</Unicode>
+                    <Unicode>und wohltuend. Jedenfalls bleibt diese Wahl die beste Lösung, die gefun¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l12" custom="readingOrder {index:10;}">
@@ -123,7 +123,7 @@
                 <Coords points="519,2370 3392,2399 3354,2287 520,2276"/>
                 <Baseline points="536,2352 677,2354 819,2355 961,2357 1103,2358 1245,2360 1387,2361 1529,2363 1671,2363 1813,2364 1955,2366 2096,2367 2238,2369 2380,2369 2522,2370 2664,2372 2806,2373 2948,2375 3090,2376 3232,2378 3374,2379"/>
                 <TextEquiv>
-                    <Unicode>bleibe noch bis Ende der Woche und 3 denke Sonntag in Wien zu sein. Na-</Unicode>
+                    <Unicode>bleibe noch bis Ende der Woche und 3 denke Sonntag in Wien zu sein. Na¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l18" custom="readingOrder {index:16;}">
@@ -137,36 +137,36 @@
                 <Coords points="1277,2645 1353,2643 1375,2628 1432,2647 1512,2634 1513,2547 1444,2564 1394,2528 1373,2542 1348,2520 1308,2527 1279,2515"/>
                 <Baseline points="1296,2624 1324,2622 1352,2623 1380,2624 1409,2625 1437,2625 1465,2625 1494,2624"/>
                 <TextEquiv>
-                    <Unicode>Deine</Unicode>
+                    <Unicode>Dein</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:18;}">
-                <Coords points="3429,227 3455,229 3468,214 3479,217 3496,201 3544,209 3572,204 3566,89 3544,90 3527,102 3493,82 3483,94 3449,78 3421,79"/>
-                <Baseline points="3444,198 3471,195 3499,195 3527,194 3555,189"/>
+            <TextLine id="line_1669892823248_101" custom="readingOrder {index:18;}">
+                <Coords points="1577,2700 1653,2707 1649,2757 1573,2750"/>
+                <Baseline points="1573,2745 1649,2752"/>
                 <TextEquiv>
-                    <Unicode>20</Unicode>
+                    <Unicode>A.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Baden-Baden. 3.7.1923.
+Gestern Abend, Liebe, als ich von einer schönen Schwarzwaldwanderung,
+Bühlerhöhe, heimkam, unter manchem andern beträchtlich weniger Sympathi¬
+schem Dein freundschaftlich-befangener Brief, für den ich Dir minder be¬
+fangen die duftenden Hände und Lippen küsse.
+Mein Aufenthalt hier verläuft völlig ungetrübt. Lage, Installation
+des Hauses übertrifft meine Erwartungen. Der kleine Kreis von Menschen,
+den ich kennen gelernt, von Niveau. Die Atmosphäre der kleinen Stadt, die
+ich von meinem Fenster weit überschaue, wie die Landschaft freundlich
+und wohltuend. Jedenfalls bleibt diese Wahl die beste Lösung, die gefun¬
+den werden konnte, insbesonders mit Rücksicht auf die Kinder und eine
+beträchtliche Erleichterung aller in dieses Schicksal einbezogenen
+Existenzen.
+Meine grossen Ausflüge mache ich durchaus allein. Die Gegend ist
+entzückend und Du hast mir eigentlich viel zu wenig davon erzählt. Ich
+bleibe noch bis Ende der Woche und 3 denke Sonntag in Wien zu sein. Na¬
+türlich schreibe ich noch vorher. Auf ein gutes und schönes Wiedersehen
+Dein
+A.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

@@ -3,22 +3,22 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:07.805+01:00</Created>
-        <LastChange>2022-11-18T03:23:50.398Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259191" pageNr="48" tsid="104225727" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=XXWNJKXVOROVOEXLOBTBNUEN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FAFYQPABKZVJRFEXNROCUOCS" imageId="41048834"/>
+        <LastChange>2022-11-30T22:52:00.958+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259191" pageNr="48" tsid="105445419" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=XXWNJKXVOROVOEXLOBTBNUEN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BYAVAIXIQRBEMYSKVFLFOHDM" imageId="41048834"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0048.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949337" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783337" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="417,143 417,1970 2666,1970 2666,143"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+            <TextLine id="r1l1" custom="readingOrder {index:0;} date {offset:10; length:9;}">
                 <Coords points="1337,419 1419,453 1574,428 1722,459 2042,433 2198,461 2223,457 2225,371 2137,329 1982,376 1734,374 1651,344 1489,371 1338,335"/>
                 <Baseline points="1350,417 1393,419 1436,420 1479,422 1522,423 1565,425 1608,426 1651,427 1694,428 1737,429 1780,429 1823,431 1866,431 1909,432 1952,432 1995,432 2038,434 2081,434 2124,434 2167,435 2211,435"/>
                 <TextEquiv>
-                    <Unicode>Wien, den 31 X. 1897.</Unicode>
+                    <Unicode>Wien, den 31 X.1897.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
@@ -39,7 +39,7 @@
                 <Coords points="411,1134 2405,1169 2406,1098 1980,1061 413,1053"/>
                 <Baseline points="423,1121 521,1123 620,1125 718,1127 817,1130 915,1131 1014,1133 1112,1135 1211,1137 1309,1139 1408,1140 1506,1142 1605,1143 1703,1145 1802,1146 1900,1148 1999,1149 2097,1149 2196,1151 2294,1152 2393,1152"/>
                 <TextEquiv>
-                    <Unicode>nichts, weil die Sonne heute so gar nicht heraus-</Unicode>
+                    <Unicode>nichts, weil die Sonne heute so gar nicht heraus¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l5" custom="readingOrder {index:4;}">
@@ -81,36 +81,20 @@
                 <Coords points="1426,1942 1537,1937 1636,1955 1674,1935 1812,1969 1896,1940 1898,1875 1867,1882 1830,1863 1769,1889 1711,1858 1630,1886 1429,1836"/>
                 <Baseline points="1440,1926 1466,1926 1492,1927 1518,1928 1544,1929 1570,1929 1596,1931 1622,1931 1648,1932 1675,1932 1701,1933 1727,1934 1753,1934 1779,1935 1805,1935 1831,1935 1857,1935 1884,1935"/>
                 <TextEquiv>
-                    <Unicode>Ülara Loeb</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:10;}">
-                <Coords points="2531,196 2543,197 2565,182 2583,183 2608,209 2651,185 2678,193 2684,140 2666,136 2644,154 2639,151 2623,160 2605,142 2587,141 2571,124 2552,135 2537,133"/>
-                <Baseline points="2543,189 2573,185 2604,188 2635,194 2666,198"/>
-                <TextEquiv>
-                    <Unicode>10</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:11;}">
-                <Coords points="2621,318 2640,325 2663,326 2693,170 2680,168 2674,161 2665,165 2651,159"/>
-                <Baseline points="2642,279 2658,282"/>
-                <TextEquiv>
-                    <Unicode>2</Unicode>
+                    <Unicode>Clara Loeb</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Wien, den 31 X.1897.
+Lieber Herr Doktor!
+Aus der morgigen Partie wird wiedereinmal
+nichts, weil die Sonne heute so gar nicht heraus¬
+kam und die Eltern das Wetter zu rau und neblig
+finden.
+Auf Wiedersehen am Dienstag und herzlichen
+Gruss
+Ihre
+Clara Loeb</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp978" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">[offen]</title><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp978" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 30. August 1931</title><title type="alternative" when-iso="1931-08-30"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,25 +24,23 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><text><body><div type="writingSession" n="1"><seite id="978">
-            <lb n="01"/>17
-      <lb n="02"/>Wien 30 August 1931
-      <lb n="03"/>Liebes Kind, - Um diese nun einundeinhalbes Jahr andauernden Discussionen zu
-      <lb n="04"/>zum Abschluss zu bringen, nur ein paar Worte.
-      <lb n="05"/>Ich finde wie Du weisst seit geraumer Zeit, aus den natürlichsten Gründen
-      <lb n="06"/>dass die Beziehung zwischen dir und mir, nur auf der Basis Freundschaft und
-      <lb n="07"/>Freiheit fortgesetzt werden kann. Warum eine sache Beziehung durchaus
-      <lb n="08"/>eine " Schweinerei wein muss ist für einen logisch denkenden Menschen,
-      <lb n="09"/>durchaus nicht einzusehen, - umsomehr als ja für keinen der beiden Teile,
-      <lb n="10"/>eine Verpflichtung zu irgend welchen Beziehungen, welcher Art immer nicht b
-      <lb n="11"/>besteht. Dass sie ihm nicht verwehrt sein dürfte, ist ebenso selbstver-
-      <lb n="12"/>ständlich
-      <lb n="13"/>Im übrigen ist es und wird es immermehr, - nicht nur aus seelischen Grün-
-      <lb n="14"/>den das wichtigste für mich in relativer Ruhe arbeiten zu können; - und
-      <lb n="15"/>schon aus Selbsterhaltungstrieb bitte ich dich, auf weitere Unterhaltungen
-      <lb n="16"/>über dieses Thema nicht zu bestehen.
-      <lb n="17"/>Über gewisse äussere Voraussetzungen deiner und meiner Existenz und unseres
-      <lb n="18"/>Vekehrs sprechen wir sobald es dir genehm ist, - die inneren - es ist mein
-      <lb n="19"/>innigster Wunsch, werden sich dann von selbst ergeben
-      <lb n="20"/>Arthur.
-      <lb n="21"/>242</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="978"/></facsimile><text><body><div type="writingSession" n="1"><seite id="978">
+            <lb n="01"/>Wien 30 August 1931
+      <lb n="02"/>Liebes Kind, – Um diese nun einundeinhalbes Jahr andauernden Discussionen zu
+      <lb n="03"/>zum Abschluss zu bringen, nur ein paar Worte.
+      <lb n="04"/>Ich finde wie Du weisst seit geraumer Zeit, aus den natürlichsten Gründen
+      <lb n="05"/>dass die Beziehung zwischen dir und mir, nur auf der Basis Freundschaft und
+      <lb n="06"/>Freiheit fortgesetzt werden kann. Warum eine so<supplied>l</supplied>che Beziehung durchaus
+      <lb n="07"/>eine »Schweinerei« sein muss ist für einen logisch denkenden Menschen,
+      <lb n="08"/>durchaus nicht einzusehen, – umsomehr als ja für keinen der beiden Teile,
+      <lb n="09"/>eine Verpflichtung zu irgend welchen Beziehungen, welcher Art immer nicht 
+      <lb n="10"/>besteht. Dass sie ihm nicht verwehrt sein dürfte, ist ebenso selbstver
+      <lb n="11"/>ständlich.
+      <lb n="12"/>Im Übrigen ist es und wird es immermehr,– nicht nur aus seelischen Grün
+      <lb n="13"/>den das wichtigste für mich in relativer Ruhe arbeiten zu können; – und
+      <lb n="14"/>schon aus Selbsterhaltungstrieb bitte ich dich, auf weitere Unterhaltungen
+      <lb n="15"/>über dieses Thema nicht zu bestehen.
+      <lb n="16"/>Über gewisse äussere Voraussetzungen deiner und meiner Existenz und unseres
+      <lb n="17"/>Vekehrs sprechen wir sobald es dir genehm ist, – die inneren – es ist mein
+      <lb n="18"/>innigster Wunsch, werden sich dann von selbst ergeben
+      <lb n="19"/>Arthur.</seite></div></body></text></TEI>

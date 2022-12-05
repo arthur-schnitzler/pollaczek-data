@@ -3,186 +3,170 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:54</Creator>
         <Created>2022-11-17T16:37:00.233+01:00</Created>
-        <LastChange>2022-11-25T11:54:45.091Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50265007" pageNr="978" tsid="105033089" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YUBRQFOJPZMIWBIZOBHSZVOI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FEZRPBOWLBLIHZTDEIRPQIMP" imageId="41051415"/>
+        <LastChange>2022-12-04T17:45:22.808+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50265007" pageNr="978" tsid="105620926" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YUBRQFOJPZMIWBIZOBHSZVOI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YFTMDNRSOJJZAATAPRVZEYXY" imageId="41051415"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0978.tif" imageWidth="3759" imageHeight="4687">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820954265" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241788784" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="183,61 183,2974 3620,2974 3620,61"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
-                <Coords points="153,234 175,237 184,230 199,229 229,206 240,211 248,204 267,207 280,109 257,110 244,93 207,115 196,106 188,112 169,110"/>
-                <Baseline points="183,161 217,168 252,170"/>
-                <TextEquiv>
-                    <Unicode>17</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
                 <Coords points="631,562 730,578 809,544 836,567 957,521 1071,579 1154,537 1283,575 1442,568 1443,352 1314,390 1257,371 1151,431 1083,408 840,453 730,392 632,415"/>
                 <Baseline points="650,515 679,516 708,517 737,519 767,520 796,521 825,522 854,522 884,524 913,524 942,524 971,524 1001,524 1030,524 1059,524 1088,524 1118,523 1147,522 1176,521 1395,521 1425,519"/>
                 <TextEquiv>
                     <Unicode>Wien 30 August 1931</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1668781463474_846" custom="readingOrder {index:2;}">
+            <TextLine id="line_1668781463474_846" custom="readingOrder {index:1;}">
                 <Coords points="518,683 3561,682 3530,598 3000,545 518,584"/>
                 <Baseline points="537,647 578,649 620,651 662,653 704,654 746,654 788,654 829,654 871,654 913,654 955,654 997,653 1039,653 1081,651 1122,651 1164,651 1206,650 1248,650 1290,651 1332,651 1374,653 2000,653 2077,653 2154,653 2231,654 2308,654 2385,654 2462,654 2539,654 2616,656 2693,656 2771,656 2848,656 2925,656 3002,656 3079,656 3156,654 3233,654 3310,654 3387,653 3464,653 3542,651"/>
                 <TextEquiv>
-                    <Unicode>Liebes Kind, - Um diese nun einundeinhalbes Jahr andauernden Discussionen zu</Unicode>
+                    <Unicode>Liebes Kind, – Um diese nun einundeinhalbes Jahr andauernden Discussionen zu</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1668781468112_854" custom="readingOrder {index:3;}">
+            <TextLine id="line_1668781468112_854" custom="readingOrder {index:2;}">
                 <Coords points="531,833 2301,835 2403,805 2403,691 531,719"/>
                 <Baseline points="551,782 590,783 629,785 669,786 708,786 748,788 787,788 827,788 866,788 906,789 945,788 984,788 1024,788 1063,788 1103,788 1142,788 1182,786 1221,786 1261,786 1300,786 1340,786 1838,785 1865,785 1892,786 1920,786 1947,786 1974,786 2002,786 2029,786 2056,786 2084,786 2111,786 2138,785 2166,785 2193,785 2220,785 2248,785 2275,785 2302,785 2330,786 2357,786 2385,786"/>
                 <TextEquiv>
                     <Unicode>zum Abschluss zu bringen, nur ein paar Worte.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1668781470629_859" custom="readingOrder {index:4;}">
+            <TextLine id="line_1668781470629_859" custom="readingOrder {index:3;}">
                 <Coords points="532,935 3487,946 3487,809 532,855"/>
                 <Baseline points="552,915 593,917 634,917 675,918 716,918 757,919 798,920 839,920 880,920 921,920 962,918 1003,918 1044,918 1085,918 1126,918 1167,918 1208,918 1249,918 1290,918 1331,918 1814,915 1896,917 1979,917 2061,917 2144,918 2227,918 2309,917 2392,917 2475,917 2557,917 2640,915 2723,915 2805,915 2888,915 2971,914 3053,914 3136,914 3219,914 3301,914 3384,915 3467,915"/>
                 <TextEquiv>
                     <Unicode>Ich finde wie Du weisst seit geraumer Zeit, aus den natürlichsten Gründen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1668781476651_868" custom="readingOrder {index:5;}">
+            <TextLine id="line_1668781476651_868" custom="readingOrder {index:4;}">
                 <Coords points="524,1094 3086,1102 3574,1064 3574,988 524,1000"/>
                 <Baseline points="543,1050 590,1050 637,1052 684,1052 731,1053 779,1053 826,1053 873,1053 920,1052 967,1052 1015,1052 1062,1052 1109,1052 1156,1050 1203,1050 1251,1050 1298,1050 1345,1050 1392,1050 1439,1050 1487,1052 1530,1025 1631,1033 1732,1038 1833,1043 1935,1047 2036,1050 2137,1052 2238,1052 2340,1052 2441,1052 2542,1052 2643,1050 2745,1049 2846,1047 2947,1046 3048,1046 3150,1044 3251,1044 3352,1044 3453,1046 3555,1047"/>
                 <TextEquiv>
                     <Unicode>dass die Beziehung zwischen dir und mir, nur auf der Basis Freundschaft und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1668781480737_873" custom="readingOrder {index:6;}">
+            <TextLine id="line_1668781480737_873" custom="readingOrder {index:5;} supplied {offset:47; length:1;}">
                 <Coords points="522,1188 3417,1180 3132,1075 522,1109"/>
                 <Baseline points="543,1181 584,1181 626,1182 667,1182 709,1182 750,1184 792,1184 833,1184 875,1184 916,1184 958,1184 1000,1184 1041,1184 1083,1183 1124,1182 1166,1182 1207,1182 1249,1182 1290,1181 1332,1181 1374,1181 1733,1179 1816,1179 1899,1181 1982,1181 2066,1181 2149,1180 2232,1179 2315,1179 2399,1179 2482,1179 2565,1178 2648,1178 2732,1178 2815,1178 2898,1178 2981,1176 3065,1176 3148,1176 3231,1176 3314,1176 3398,1176"/>
                 <TextEquiv>
-                    <Unicode>Freiheit fortgesetzt werden kann. Warum eine sache Beziehung durchaus</Unicode>
+                    <Unicode>Freiheit fortgesetzt werden kann. Warum eine solche Beziehung durchaus</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1668781484423_878" custom="readingOrder {index:7;}">
+            <TextLine id="line_1668781484423_878" custom="readingOrder {index:6;}">
                 <Coords points="558,1333 3411,1373 3411,1248 2672,1184 2509,1264 558,1246"/>
                 <Baseline points="578,1316 619,1313 661,1311 703,1310 745,1308 787,1308 829,1308 871,1308 913,1308 955,1310 997,1310 1038,1311 1080,1312 1122,1313 1164,1313 1206,1313 1248,1313 1290,1313 1332,1312 1374,1311 1416,1308 1763,1310 1844,1310 1926,1311 2007,1311 2089,1311 2170,1311 2252,1311 2333,1310 2415,1310 2496,1310 2578,1310 2659,1310 2741,1310 2822,1308 2904,1308 2985,1308 3067,1308 3148,1308 3230,1308 3311,1310 3393,1310"/>
                 <TextEquiv>
-                    <Unicode>eine " Schweinerei wein muss ist für einen logisch denkenden Menschen,</Unicode>
+                    <Unicode>eine »Schweinerei« sein muss ist für einen logisch denkenden Menschen,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:8;}">
+            <TextLine id="r1l18" custom="readingOrder {index:7;}">
                 <Coords points="526,1457 3440,1462 3352,1356 526,1363"/>
                 <Baseline points="546,1443 689,1443 833,1443 977,1443 1121,1443 1265,1442 1408,1442 1552,1442 1696,1442 1840,1442 1984,1442 2127,1442 2271,1440 2415,1440 2559,1440 2703,1439 2846,1439 2990,1439 3134,1437 3278,1437 3422,1436"/>
                 <TextEquiv>
-                    <Unicode>durchaus nicht einzusehen, - umsomehr als ja für keinen der beiden Teile,</Unicode>
+                    <Unicode>durchaus nicht einzusehen, – umsomehr als ja für keinen der beiden Teile,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:9;}">
+            <TextLine id="r1l19" custom="readingOrder {index:8;}">
                 <Coords points="532,1616 3559,1655 3581,1420 3203,1516 532,1510"/>
                 <Baseline points="551,1572 701,1574 852,1574 1002,1575 1153,1575 1304,1575 1454,1575 1605,1575 1756,1574 1906,1574 2057,1574 2208,1572 2358,1572 2509,1571 2660,1571 2810,1569 2961,1569 3112,1568 3262,1566 3413,1565 3564,1565"/>
                 <TextEquiv>
-                    <Unicode>eine Verpflichtung zu irgend welchen Beziehungen, welcher Art immer nicht b</Unicode>
+                    <Unicode>eine Verpflichtung zu irgend welchen Beziehungen, welcher Art immer nicht </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:10;}">
+            <TextLine id="r1l20" custom="readingOrder {index:9;}">
                 <Coords points="533,1729 3110,1791 3458,1725 3458,1635 533,1642"/>
                 <Baseline points="552,1706 696,1706 840,1706 985,1706 1129,1706 1274,1706 1418,1706 1563,1706 1707,1704 1852,1704 1996,1704 2140,1704 2285,1703 2429,1703 2574,1701 2718,1701 2863,1700 3007,1698 3152,1697 3296,1695 3441,1694"/>
                 <TextEquiv>
-                    <Unicode>besteht. Dass sie ihm nicht verwehrt sein dürfte, ist ebenso selbstver-</Unicode>
+                    <Unicode>besteht. Dass sie ihm nicht verwehrt sein dürfte, ist ebenso selbstver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:11;}">
+            <TextLine id="r1l21" custom="readingOrder {index:10;}">
                 <Coords points="532,1856 638,1846 702,1866 729,1844 782,1852 797,1841 816,1856 880,1853 945,1839 946,1790 896,1786 833,1724 779,1761 745,1742 707,1753 674,1733 601,1759 533,1731"/>
                 <Baseline points="551,1833 576,1833 601,1835 626,1835 651,1836 676,1836 701,1836 726,1836 751,1837 776,1838 801,1838 826,1838 851,1838 876,1838 901,1838 927,1838"/>
                 <TextEquiv>
-                    <Unicode>ständlich</Unicode>
+                    <Unicode>ständlich.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:12;}">
+            <TextLine id="r1l22" custom="readingOrder {index:11;}">
                 <Coords points="529,1987 3496,2016 3412,1888 2753,1920 2396,1815 1889,1915 1207,1804 529,1893"/>
                 <Baseline points="549,1967 695,1967 841,1965 988,1965 1134,1965 1281,1965 1427,1965 1573,1964 1720,1964 1866,1964 2013,1964 2159,1964 2305,1962 2452,1962 2598,1962 2745,1961 2891,1961 3037,1959 3184,1958 3330,1958 3477,1956"/>
                 <TextEquiv>
-                    <Unicode>Im übrigen ist es und wird es immermehr, - nicht nur aus seelischen Grün-</Unicode>
+                    <Unicode>Im Übrigen ist es und wird es immermehr,– nicht nur aus seelischen Grün¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:13;}">
+            <TextLine id="r1l23" custom="readingOrder {index:12;}">
                 <Coords points="532,2098 3377,2132 3351,2019 532,2022"/>
                 <Baseline points="552,2094 692,2094 832,2094 973,2096 1113,2096 1253,2096 1394,2094 1534,2094 1674,2094 1815,2094 1955,2094 2095,2093 2236,2093 2376,2093 2516,2091 2657,2091 2797,2090 2937,2090 3078,2090 3218,2088 3359,2088"/>
                 <TextEquiv>
-                    <Unicode>den das wichtigste für mich in relativer Ruhe arbeiten zu können; - und</Unicode>
+                    <Unicode>den das wichtigste für mich in relativer Ruhe arbeiten zu können; – und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:14;}">
+            <TextLine id="r1l24" custom="readingOrder {index:13;}">
                 <Coords points="530,2269 3246,2291 3587,2268 3587,2120 530,2178"/>
                 <Baseline points="549,2226 699,2226 850,2226 1001,2226 1152,2226 1303,2226 1454,2226 1605,2226 1756,2226 1907,2226 2058,2226 2208,2226 2359,2225 2510,2225 2661,2225 2812,2225 2963,2223 3114,2223 3265,2222 3416,2222 3567,2222"/>
                 <TextEquiv>
                     <Unicode>schon aus Selbsterhaltungstrieb bitte ich dich, auf weitere Unterhaltungen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:15;}">
+            <TextLine id="r1l25" custom="readingOrder {index:14;}">
                 <Coords points="529,2399 741,2349 1162,2407 1287,2365 1453,2418 1760,2361 2007,2430 2007,2301 1912,2271 1480,2316 809,2236 529,2270"/>
                 <Baseline points="548,2354 620,2354 692,2354 764,2354 836,2355 908,2355 980,2355 1052,2355 1124,2355 1196,2355 1268,2355 1340,2355 1412,2355 1484,2355 1556,2355 1628,2355 1700,2355 1772,2355 1844,2355 1916,2355 1988,2355"/>
                 <TextEquiv>
                     <Unicode>über dieses Thema nicht zu bestehen.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:16;}">
+            <TextLine id="r1l26" custom="readingOrder {index:15;}">
                 <Coords points="541,2500 3610,2504 3466,2410 541,2398"/>
                 <Baseline points="561,2486 712,2486 864,2486 1015,2486 1167,2486 1318,2486 1470,2486 1621,2486 1773,2486 1924,2484 2076,2484 2227,2484 2379,2484 2530,2484 2682,2484 2833,2484 2985,2484 3136,2484 3288,2484 3439,2483 3591,2483"/>
                 <TextEquiv>
                     <Unicode>Über gewisse äussere Voraussetzungen deiner und meiner Existenz und unseres</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:17;}">
+            <TextLine id="r1l27" custom="readingOrder {index:16;}">
                 <Coords points="538,2683 3535,2645 3535,2558 3274,2509 539,2535"/>
                 <Baseline points="558,2610 705,2612 853,2613 1001,2613 1149,2615 1297,2615 1445,2615 1592,2616 1740,2616 1888,2616 2036,2616 2184,2616 2332,2616 2480,2616 2627,2616 2775,2616 2923,2616 3071,2616 3219,2616 3367,2616 3515,2616"/>
                 <TextEquiv>
-                    <Unicode>Vekehrs sprechen wir sobald es dir genehm ist, - die inneren - es ist mein</Unicode>
+                    <Unicode>Vekehrs sprechen wir sobald es dir genehm ist, – die inneren – es ist mein</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:18;}">
+            <TextLine id="r1l28" custom="readingOrder {index:17;}">
                 <Coords points="537,2767 2704,2755 2655,2661 537,2683"/>
                 <Baseline points="557,2742 663,2744 770,2744 876,2745 983,2745 1089,2745 1196,2747 1302,2747 1409,2747 1515,2747 1622,2747 1728,2747 1835,2747 1941,2747 2048,2747 2154,2747 2261,2747 2367,2747 2474,2747 2580,2748 2687,2748"/>
                 <TextEquiv>
                     <Unicode>innigster Wunsch, werden sich dann von selbst ergeben</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:19;}">
+            <TextLine id="r1l29" custom="readingOrder {index:18;}">
                 <Coords points="1845,2969 1966,2946 2023,2965 2061,2950 2152,2966 2186,2954 2186,2871 2152,2886 2126,2863 2080,2867 2023,2837 1997,2852 1970,2844 1932,2878 1879,2852 1845,2867"/>
                 <Baseline points="1863,2939 1888,2940 1913,2942 1939,2942 1964,2942 1990,2942 2015,2942 2040,2942 2066,2942 2091,2940 2117,2940 2142,2942 2168,2942"/>
                 <TextEquiv>
                     <Unicode>Arthur.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:20;}">
-                <Coords points="3527,292 3546,292 3561,284 3577,288 3599,277 3614,284 3637,284 3637,133 3614,136 3603,129 3580,133 3569,125 3546,136 3527,136"/>
-                <Baseline points="3548,224 3584,224 3620,224"/>
-                <TextEquiv>
-                    <Unicode>242</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Wien 30 August 1931
+Liebes Kind, – Um diese nun einundeinhalbes Jahr andauernden Discussionen zu
+zum Abschluss zu bringen, nur ein paar Worte.
+Ich finde wie Du weisst seit geraumer Zeit, aus den natürlichsten Gründen
+dass die Beziehung zwischen dir und mir, nur auf der Basis Freundschaft und
+Freiheit fortgesetzt werden kann. Warum eine solche Beziehung durchaus
+eine »Schweinerei« sein muss ist für einen logisch denkenden Menschen,
+durchaus nicht einzusehen, – umsomehr als ja für keinen der beiden Teile,
+eine Verpflichtung zu irgend welchen Beziehungen, welcher Art immer nicht 
+besteht. Dass sie ihm nicht verwehrt sein dürfte, ist ebenso selbstver¬
+ständlich.
+Im Übrigen ist es und wird es immermehr,– nicht nur aus seelischen Grün¬
+den das wichtigste für mich in relativer Ruhe arbeiten zu können; – und
+schon aus Selbsterhaltungstrieb bitte ich dich, auf weitere Unterhaltungen
+über dieses Thema nicht zu bestehen.
+Über gewisse äussere Voraussetzungen deiner und meiner Existenz und unseres
+Vekehrs sprechen wir sobald es dir genehm ist, – die inneren – es ist mein
+innigster Wunsch, werden sich dann von selbst ergeben
+Arthur.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

@@ -3,138 +3,122 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:09.810+01:00</Created>
-        <LastChange>2022-11-18T03:23:54.509Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259341" pageNr="59" tsid="104225739" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=RIKETEFSHAKEMYFMQWOLMITH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FOXBPBDZQYCSDNZTZQGMJHAX" imageId="41048845"/>
+        <LastChange>2022-11-30T23:17:46.908+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259341" pageNr="59" tsid="105448702" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=RIKETEFSHAKEMYFMQWOLMITH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HLWFVCOMNSTTYKCFBEIRUMRM" imageId="41048845"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0059.tif" imageWidth="3827" imageHeight="4678">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949386" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783390" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="519,142 519,2143 3638,2143 3638,142"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
-                <Coords points="3130,342 3153,343 3189,371 3208,357 3227,358 3232,243 3214,242 3206,249 3191,244 3180,251 3168,251 3161,258 3154,250 3135,249"/>
-                <Baseline points="3150,326 3180,323 3210,329"/>
-                <TextEquiv>
-                    <Unicode>4</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
                 <Coords points="566,564 3467,544 3467,470 2714,391 566,433"/>
                 <Baseline points="585,527 728,528 871,528 1014,528 1157,528 1300,528 1443,528 1586,528 1729,530 1872,530 2016,530 2159,530 2302,530 2445,530 2588,530 2731,530 2874,530 3017,530 3160,530 3303,530 3447,530"/>
                 <TextEquiv>
                     <Unicode>Es wurde viel darüber gesprochen, in welcher unschönen Weise sich dieses</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
                 <Coords points="524,717 3056,715 3477,672 3478,575 524,568"/>
                 <Baseline points="542,657 687,659 833,660 979,660 1125,660 1271,662 1417,662 1562,662 1708,663 1854,663 2000,663 2146,663 2292,663 2438,663 2583,663 2729,665 2875,665 3021,665 3167,665 3313,665 3459,665"/>
                 <TextEquiv>
                     <Unicode>Fortgehen vollzogen hatte und wie hässlich O. von ihrem Gatten sprach, um</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
                 <Coords points="523,811 613,848 758,800 1128,805 1236,854 1433,824 1571,858 1635,810 1728,844 1728,736 1564,713 1143,756 707,696 524,717"/>
                 <Baseline points="543,788 601,789 659,791 717,791 776,791 834,791 892,792 951,792 1009,791 1067,791 1126,791 1184,791 1242,791 1300,791 1359,791 1417,791 1475,792 1534,792 1592,794 1650,794 1709,795"/>
                 <TextEquiv>
                     <Unicode>sich selbst zu entschuldigen.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
                 <Coords points="1021,948 2703,919 3128,1001 3340,982 3341,826 1021,854"/>
                 <Baseline points="1041,921 1155,923 1269,923 1383,923 1497,924 1611,924 1725,924 1839,924 1953,924 2067,924 2181,924 2295,924 2409,924 2523,924 2637,924 2751,924 2865,924 2979,924 3093,924 3207,924 3321,924"/>
                 <TextEquiv>
-                    <Unicode>Im Jahre 1921 - es war im Trauerjahr nach dem Tode meines</Unicode>
+                    <Unicode>Im Jahre 1921 – es war im Trauerjahr nach dem Tode meines</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
                 <Coords points="519,1072 3342,1065 3204,964 519,978"/>
                 <Baseline points="537,1047 676,1049 815,1049 954,1050 1094,1050 1233,1052 1372,1052 1512,1052 1651,1053 1790,1053 1930,1053 2069,1053 2208,1055 2347,1055 2487,1055 2626,1055 2765,1055 2905,1055 3044,1056 3183,1056 3323,1056"/>
                 <TextEquiv>
-                    <Unicode>Vaters - war ich nach einem Aufenthalt in Brioni mit Deinem Sohn</Unicode>
+                    <Unicode>Vaters – war ich nach einem Aufenthalt in Brioni mit meinem Sohn</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
                 <Coords points="522,1210 3308,1192 2846,1101 523,1102"/>
                 <Baseline points="542,1182 679,1182 816,1182 953,1182 1091,1182 1228,1182 1365,1184 1503,1184 1640,1184 1777,1185 1915,1185 2052,1185 2189,1187 2326,1187 2464,1187 2601,1188 2738,1188 2876,1188 3013,1188 3150,1188 3288,1188"/>
                 <TextEquiv>
-                    <Unicode>Cary am Semmering gelandet und natte dort, durch die Klänge der neuen</Unicode>
+                    <Unicode>Cary am Semmering gelandet und hatte dort, durch die Klänge der neuen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
                 <Coords points="525,1363 2881,1374 3329,1346 3363,1249 525,1258"/>
                 <Baseline points="542,1311 682,1311 822,1313 962,1313 1102,1314 1242,1314 1382,1314 1522,1316 1662,1316 1802,1317 1943,1317 2083,1317 2223,1317 2363,1319 2503,1319 2643,1319 2783,1319 2923,1320 3063,1320 3203,1320 3344,1320"/>
                 <TextEquiv>
-                    <Unicode>rhythmischen Musik angeregt, eine Einakterfolge "Foxtrott" geschrieben.</Unicode>
+                    <Unicode>rhythmischen Musik angeregt, eine Einakterfolge »Foxtrott« geschrieben.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
                 <Coords points="534,1457 3383,1459 3211,1365 534,1367"/>
                 <Baseline points="554,1437 694,1439 834,1440 975,1442 1115,1443 1256,1443 1396,1445 1537,1445 1677,1446 1818,1446 1958,1446 2098,1448 2239,1448 2379,1448 2520,1448 2660,1449 2801,1449 2941,1451 3082,1451 3222,1452 3363,1454"/>
                 <TextEquiv>
                     <Unicode>Nach Wien zurückgekehrt, schrieb oder telefonierte ich an A.S., dass ich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
                 <Coords points="571,1591 3498,1597 2823,1482 571,1498"/>
                 <Baseline points="588,1571 732,1572 877,1572 1021,1574 1166,1574 1311,1575 1455,1575 1600,1577 1744,1577 1889,1577 2034,1578 2178,1578 2323,1580 2467,1580 2612,1581 2757,1581 2901,1582 3046,1583 3190,1583 3335,1584 3480,1584"/>
                 <TextEquiv>
                     <Unicode>ihm diese Einakter zur Begutachtung schicken möchte und da er sich sehr</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
                 <Coords points="501,1748 3521,1736 3346,1619 501,1644"/>
                 <Baseline points="519,1700 668,1701 817,1702 966,1703 1115,1704 1264,1706 1413,1706 1562,1707 1711,1709 1860,1709 2010,1710 2159,1710 2308,1712 2457,1713 2606,1713 2755,1715 2904,1715 3053,1715 3202,1716 3351,1716 3501,1718"/>
                 <TextEquiv>
                     <Unicode>freundlich dafür zu interessieren schien, eilte ich, ich sie ihm zu senden.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
                 <Coords points="510,1860 3422,1893 3352,1759 511,1752"/>
                 <Baseline points="528,1827 671,1830 815,1832 959,1833 1103,1835 1247,1836 1391,1838 1534,1839 1678,1839 1822,1839 1966,1841 2110,1841 2254,1842 2398,1842 2541,1842 2685,1844 2829,1844 2973,1845 3117,1847 3261,1848 3405,1850"/>
                 <TextEquiv>
                     <Unicode>Kurze Zeit darauf sagte er sich bei mir an und brachte sie mir, erklärte</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
                 <Coords points="563,1976 3419,1992 3062,1889 563,1901"/>
                 <Baseline points="582,1961 722,1962 863,1964 1004,1964 1145,1965 1286,1965 1427,1967 1567,1968 1708,1968 1849,1970 1990,1970 2131,1971 2272,1971 2413,1973 2553,1973 2694,1974 2835,1974 2976,1976 3117,1976 3258,1977 3399,1977"/>
                 <TextEquiv>
-                    <Unicode>sich aber gereit sie selbst ins Volkstheater zu tragen und sie dort zu</Unicode>
+                    <Unicode>sich aber bereit sie selbst ins Volkstheater zu tragen und sie dort zu</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
                 <Coords points="532,2099 3415,2138 3415,2026 3225,2010 533,2039"/>
                 <Baseline points="551,2091 693,2093 835,2094 977,2096 1120,2097 1262,2099 1404,2099 1546,2100 1689,2100 1831,2100 1973,2102 2115,2102 2258,2103 2400,2103 2542,2104 2684,2105 2827,2106 2969,2106 3111,2108 3253,2109 3396,2111"/>
                 <TextEquiv>
-                    <Unicode>empfehlen, da er sie für durchaus begabt und interessant erklärte kulte</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:14;}">
-                <Coords points="3511,261 3537,262 3555,274 3574,270 3600,290 3656,283 3660,127 3637,126 3622,141 3589,136 3554,165 3540,158 3532,165 3513,164"/>
-                <Baseline points="3530,243 3557,242 3584,242 3611,243 3638,246"/>
-                <TextEquiv>
-                    <Unicode>10</Unicode>
+                    <Unicode>empfehlen, da er sie für durchaus begabt und interessant halte.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Es wurde viel darüber gesprochen, in welcher unschönen Weise sich dieses
+Fortgehen vollzogen hatte und wie hässlich O. von ihrem Gatten sprach, um
+sich selbst zu entschuldigen.
+Im Jahre 1921 – es war im Trauerjahr nach dem Tode meines
+Vaters – war ich nach einem Aufenthalt in Brioni mit meinem Sohn
+Cary am Semmering gelandet und hatte dort, durch die Klänge der neuen
+rhythmischen Musik angeregt, eine Einakterfolge »Foxtrott« geschrieben.
+Nach Wien zurückgekehrt, schrieb oder telefonierte ich an A.S., dass ich
+ihm diese Einakter zur Begutachtung schicken möchte und da er sich sehr
+freundlich dafür zu interessieren schien, eilte ich, ich sie ihm zu senden.
+Kurze Zeit darauf sagte er sich bei mir an und brachte sie mir, erklärte
+sich aber bereit sie selbst ins Volkstheater zu tragen und sie dort zu
+empfehlen, da er sie für durchaus begabt und interessant halte.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

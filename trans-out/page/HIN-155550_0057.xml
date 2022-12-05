@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:09.433+01:00</Created>
-        <LastChange>2022-11-18T03:23:53.616Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259294" pageNr="57" tsid="104225737" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WOXYNTURHGUZVDLRNJMLPGQE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PDIYIAHAWWFHLFJFKXIFSVDW" imageId="41048843"/>
+        <LastChange>2022-11-30T23:09:14.819+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259294" pageNr="57" tsid="105447290" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WOXYNTURHGUZVDLRNJMLPGQE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VDNRCGRWGJEPAGYXGWSZLEQR" imageId="41048843"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0057.tif" imageWidth="3827" imageHeight="4678">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949364" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783383" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -18,7 +18,7 @@
                 <Coords points="2180,328 3313,322 3338,206 2179,220"/>
                 <Baseline points="2199,294 2255,296 2311,296 2367,296 2423,296 2479,296 2535,296 2591,294 2647,294 2703,294 2759,293 2815,293 2871,291 2927,291 2983,290 3039,290 3095,290 3151,288 3207,288 3263,288 3320,290"/>
                 <TextEquiv>
-                    <Unicode>Wien XVIII.Sternwartestr.71.</Unicode>
+                    <Unicode>Wien XVIII. Sternwartestr. 71.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l4" custom="readingOrder {index:1;}">
@@ -70,23 +70,15 @@
                     <Unicode>Arthur Schnitzler.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:8;}">
-                <Coords points="3571,268 3589,268 3610,286 3628,271 3646,275 3654,268 3675,268 3675,134 3650,131 3643,138 3617,134 3588,156 3570,156"/>
-                <Baseline points="3587,234 3621,237 3656,234"/>
-                <TextEquiv>
-                    <Unicode>8</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Wien XVIII. Sternwartestr. 71.
+5.12.1916.
+Liebe gnädige Frau, statt des schrecklichen (10 Jahre alten) Bildes, das
+Sie mir zur Unterschrift geschickt haben, sende ich Ihnen lieber ein
+paar bessere, für die man zu wohlthätigen Zweck auch mehr verlangen kann.
+Herzlich grüssend
+Ihr
+Arthur Schnitzler.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

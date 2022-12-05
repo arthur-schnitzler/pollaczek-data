@@ -3,123 +3,116 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:10.610+01:00</Created>
-        <LastChange>2022-11-18T03:23:56.361Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259394" pageNr="63" tsid="104225743" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=RPWKJRHOVHGCZPEPLRSUKFUZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PEHIDBTCBYGJIELBOETMUDWV" imageId="41048849"/>
+        <LastChange>2022-12-01T12:01:46.066+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259394" pageNr="63" tsid="105471086" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=RPWKJRHOVHGCZPEPLRSUKFUZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=THNXARWNNPJJVAIZWLJAFPAN" imageId="41048849"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0063.tif" imageWidth="2794" imageHeight="3362">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949399" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783404" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="404,143 404,2392 2607,2392 2607,143"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
-                <Coords points="2498,252 2537,246 2583,256 2601,247 2622,247 2618,107 2568,113 2514,149 2495,149"/>
-                <Baseline points="2511,210 2543,206 2575,206 2607,207"/>
-                <TextEquiv>
-                    <Unicode>14</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
                 <Coords points="1486,418 1576,434 1618,399 1935,415 1964,394 2096,430 2143,403 2204,413 2203,326 2124,345 1889,320 1821,345 1773,324 1734,348 1681,314 1636,343 1562,310 1486,334"/>
                 <Baseline points="1499,405 1533,405 1568,404 1602,404 1637,402 1672,402 1706,402 1741,402 1776,401 1810,401 1845,401 1880,401 1914,401 1949,401 1984,401 2018,401 2053,401 2088,399 2122,399 2157,399 2192,398"/>
                 <TextEquiv>
                     <Unicode>9. V. 1923. Wien.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
                 <Coords points="1696,550 1749,568 2031,505 2089,530 2284,503 2611,521 2610,439 2444,469 2378,441 2312,471 2082,422 1927,465 1695,458"/>
                 <Baseline points="1709,530 1753,527 1797,522 1842,520 1886,518 1931,516 1975,515 2019,513 2064,512 2108,510 2153,510 2197,510 2241,510 2286,510 2330,510 2375,510 2419,510 2463,510 2508,510 2552,510 2597,510"/>
                 <TextEquiv>
-                    <Unicode>(nah Danemach)</Unicode>
+                    <Unicode>(nach Dänemark)</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
                 <Coords points="535,751 2277,753 2427,738 2427,651 535,683"/>
                 <Baseline points="549,737 642,735 735,735 828,734 922,732 1015,732 1108,731 1202,731 1295,729 1388,729 1482,728 1575,728 1668,728 1761,726 1855,726 1948,725 2041,725 2135,725 2228,725 2321,725 2415,723"/>
                 <TextEquiv>
                     <Unicode>Ich bin heute recht verdriesslich. Man hat ein</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
                 <Coords points="395,881 2340,892 2529,806 394,807"/>
                 <Baseline points="407,867 512,866 618,866 723,866 829,866 934,864 1040,864 1145,863 1251,863 1356,861 1462,860 1567,860 1673,858 1778,858 1884,857 1989,855 2095,855 2200,854 2306,854 2411,852 2517,852"/>
                 <TextEquiv>
                     <Unicode>Zimmer bei mir angefordert, und zwar das Speisezimmer</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
                 <Coords points="393,1026 2375,1006 2424,902 392,936"/>
                 <Baseline points="405,999 505,998 605,998 706,998 806,996 906,996 1007,995 1107,995 1207,994 1308,993 1408,992 1508,992 1609,990 1709,990 1809,989 1910,989 2010,987 2110,986 2211,986 2311,984 2412,984"/>
                 <TextEquiv>
                     <Unicode>weil ich ein Kabinett zu viel habe. Wie finden Sie</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
                 <Coords points="396,1143 2470,1113 2430,1044 395,1074"/>
                 <Baseline points="408,1130 510,1128 612,1128 715,1128 817,1127 920,1127 1022,1125 1124,1125 1227,1124 1329,1124 1432,1122 1534,1122 1636,1121 1739,1121 1841,1119 1944,1119 2046,1118 2148,1118 2251,1118 2353,1116 2456,1116"/>
                 <TextEquiv>
                     <Unicode>das? Ich war heut noch gar nicht fort, denn es ist</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
                 <Coords points="394,1275 1983,1298 2352,1277 2386,1203 393,1216"/>
                 <Baseline points="407,1257 505,1259 603,1259 701,1259 800,1258 898,1257 996,1257 1094,1256 1193,1256 1291,1254 1389,1254 1487,1253 1586,1253 1684,1251 1782,1251 1880,1250 1979,1250 2077,1248 2175,1248 2273,1248 2372,1247"/>
                 <TextEquiv>
                     <Unicode>zu heiss. Gegen Abend dürfte mich Puthon besuchen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
                 <Coords points="402,1412 2384,1407 2431,1304 402,1335"/>
                 <Baseline points="414,1388 514,1388 614,1389 714,1389 814,1389 914,1389 1014,1389 1115,1388 1215,1388 1315,1386 1415,1385 1515,1385 1615,1383 1715,1382 1816,1382 1916,1380 2016,1380 2116,1380 2216,1379 2316,1379 2417,1380"/>
                 <TextEquiv>
                     <Unicode>und morgen soll ich mit Frau von Scheible zusammen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
                 <Coords points="392,1549 2054,1553 2325,1456 391,1475"/>
                 <Baseline points="405,1521 500,1521 595,1520 691,1520 786,1520 881,1520 977,1520 1072,1520 1167,1520 1263,1519 1358,1518 1453,1518 1549,1518 1644,1517 1739,1517 1835,1515 1930,1514 2025,1514 2121,1512 2216,1509 2312,1508"/>
                 <TextEquiv>
-                    <Unicode>sein. Sonst habe ich kein Vergnügungsprogramm -</Unicode>
+                    <Unicode>sein. Sonst habe ich kein Vergnügungsprogramm –</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
                 <Coords points="394,1678 2468,1678 2467,1586 2261,1568 393,1586"/>
                 <Baseline points="407,1652 509,1652 611,1652 713,1652 816,1652 918,1652 1020,1650 1123,1650 1225,1649 1327,1649 1430,1649 1532,1647 1634,1646 1736,1646 1839,1644 1941,1644 2043,1643 2146,1643 2248,1641 2350,1641 2453,1640"/>
                 <TextEquiv>
                     <Unicode>Ich hoffe die Berliner Tage haben Sie nicht zu sehr</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
                 <Coords points="397,1803 2347,1796 2415,1719 396,1721"/>
                 <Baseline points="410,1784 509,1782 609,1782 708,1782 808,1782 908,1782 1007,1782 1107,1781 1206,1781 1306,1781 1406,1781 1505,1779 1605,1779 1704,1779 1804,1778 1904,1778 2003,1776 2103,1775 2202,1775 2302,1773 2402,1772"/>
                 <TextEquiv>
-                    <Unicode>ermüdet und ich freue mich schon auf das erste Le-</Unicode>
+                    <Unicode>ermüdet und ich freue mich schon auf das erste Le¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
                 <Coords points="390,1937 1324,1924 1324,1884 1090,1837 1034,1866 900,1831 834,1866 390,1855"/>
                 <Baseline points="404,1913 449,1914 494,1914 539,1914 585,1914 630,1914 675,1914 721,1914 766,1914 811,1914 857,1914 902,1914 947,1914 992,1914 1038,1914 1083,1914 1128,1914 1174,1914 1219,1914 1264,1914 1310,1914"/>
                 <TextEquiv>
                     <Unicode>benszeichen von Ihnen.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
                 <Coords points="669,2123 1152,2144 1563,2103 1920,2145 1919,2058 1819,2019 1697,2060 1468,2011 927,2061 668,2036"/>
                 <Baseline points="683,2105 744,2106 805,2106 866,2108 927,2108 989,2108 1050,2108 1111,2108 1172,2107 1233,2106 1295,2106 1356,2105 1417,2105 1478,2104 1539,2103 1601,2103 1662,2102 1723,2102 1784,2102 1845,2102 1907,2102"/>
                 <TextEquiv>
                     <Unicode>Viele Grüsse und gute Gedanken</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
                 <Coords points="1390,2230 1427,2248 1493,2240 1530,2253 1586,2236 1628,2270 1670,2243 1689,2256 1789,2240 1788,2171 1722,2166 1664,2183 1593,2162 1527,2187 1390,2154"/>
                 <Baseline points="1404,2237 1430,2235 1457,2233 1483,2232 1510,2232 1536,2232 1563,2232 1590,2232 1616,2232 1643,2232 1669,2232 1696,2232 1722,2232 1749,2231 1776,2229"/>
                 <TextEquiv>
                     <Unicode>von Ihrer</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
                 <Coords points="1669,2378 1741,2418 1920,2365 2033,2402 2279,2368 2326,2386 2326,2331 2271,2313 2097,2315 2068,2297 2010,2320 1946,2286 1886,2286 1849,2318 1788,2320 1727,2281 1669,2294"/>
                 <Baseline points="1683,2361 1714,2361 1746,2361 1777,2361 1809,2361 1840,2360 1872,2360 1903,2361 1935,2361 1966,2361 1998,2361 2029,2361 2061,2361 2092,2361 2124,2361 2155,2361 2187,2361 2218,2361 2250,2361 2281,2361 2313,2361"/>
                 <TextEquiv>
@@ -127,22 +120,21 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>9. V. 1923. Wien.
+(nach Dänemark)
+Ich bin heute recht verdriesslich. Man hat ein
+Zimmer bei mir angefordert, und zwar das Speisezimmer
+weil ich ein Kabinett zu viel habe. Wie finden Sie
+das? Ich war heut noch gar nicht fort, denn es ist
+zu heiss. Gegen Abend dürfte mich Puthon besuchen
+und morgen soll ich mit Frau von Scheible zusammen
+sein. Sonst habe ich kein Vergnügungsprogramm –
+Ich hoffe die Berliner Tage haben Sie nicht zu sehr
+ermüdet und ich freue mich schon auf das erste Le¬
+benszeichen von Ihnen.
+Viele Grüsse und gute Gedanken
+von Ihrer
+Clara Katharina</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

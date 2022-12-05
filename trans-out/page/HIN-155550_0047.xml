@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:07.614+01:00</Created>
-        <LastChange>2022-11-18T03:23:50.095Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259182" pageNr="47" tsid="104225726" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=BWBTVZZYDZTBLCVCCJNQAGJC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LPAVMGJZKAPTWTJIYHLIJKFT" imageId="41048833"/>
+        <LastChange>2022-11-30T22:51:19.370+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259182" pageNr="47" tsid="105445400" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=BWBTVZZYDZTBLCVCCJNQAGJC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ATNEQIIQYHDZIFQJJTVGSBJB" imageId="41048833"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0047.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949332" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783333" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -39,7 +39,7 @@
                 <Coords points="363,1102 2368,1068 2316,940 362,994"/>
                 <Baseline points="375,1059 479,1059 583,1059 687,1059 791,1058 895,1056 999,1055 1104,1053 1208,1052 1312,1050 1416,1049 1520,1047 1624,1046 1729,1044 1833,1043 1937,1041 2041,1040 2145,1038 2249,1038 2354,1038"/>
                 <TextEquiv>
-                    <Unicode>Dir für die Deinen zu danken, denn zu einem wirke</Unicode>
+                    <Unicode>Dir für die Deinen zu danken, denn zu einem wirk¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l5" custom="readingOrder {index:4;}">
@@ -95,7 +95,7 @@
                 <Coords points="381,2122 2376,2099 2375,2041 2183,2009 380,2038"/>
                 <Baseline points="395,2105 493,2105 591,2105 690,2105 788,2103 887,2103 985,2102 1083,2102 1182,2100 1280,2099 1379,2097 1477,2096 1575,2095 1674,2094 1772,2093 1871,2091 1969,2090 2067,2088 2166,2087 2264,2085 2363,2084"/>
                 <TextEquiv>
-                    <Unicode>schon in Wien bin ) und da können wir eine Stunde</Unicode>
+                    <Unicode>schon in Wien bin) und da können wir eine Stunde</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:12;}">
@@ -148,25 +148,25 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Wien, 23.IX.1897.
+Lieber Arthur!
+Ich schreib Dir bloss rasch einige Zeilen um
+Dir für die Deinen zu danken, denn zu einem wirk¬
+lichen unbeobachteten Brief kann ich hier nicht
+kommen. Ich fahre Montag für etwa vierzehn Tage
+nach Berlin und möchte Dich riesig gern vorher
+noch sprechen. Es wär sehr lieb von Dir, wenn Du
+mich also heut oder morgen um 2 Uhr Nachmittag
+oder um 10 Uhr früh telefonisch anrufen würdest
+(Du kannst doch zufällig gehört haben, dass ich
+schon in Wien bin) und da können wir eine Stunde
+besprechen. Da ich nun einmal Deine Freundschaft
+habe, so darfst Du nicht böse sein, dass ich sie
+oft in Anspruch nehme. Ich hab Dir vieles zu sagen,
+Dich manches zu bitten. Es ist auch manches Wichtige
+darunter, was auch Dir wichtig sein wird.
+Ich grüsse Dich sehr herzlich
+Deine Clara</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

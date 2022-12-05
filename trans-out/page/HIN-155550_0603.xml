@@ -3,16 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:52</Creator>
         <Created>2022-11-17T16:35:50.884+01:00</Created>
-        <LastChange>2022-11-25T11:52:58.554Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50263768" pageNr="603" tsid="105032593" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=EEPITHIRHYFSNTWVKPIZQWEF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UWXMPMRILUEDACZUCZAZFQHN" imageId="41050754">
-            <Property key="mdSetName" value="myMdSet"/>
-            <Property key="property2"/>
-            <Property key="property1"/>
-        </TranskribusMetadata>
+        <LastChange>2022-12-02T09:42:09.663+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50263768" pageNr="603" tsid="105535409" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=EEPITHIRHYFSNTWVKPIZQWEF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FOIHATZUQCPZNAYNLFUBZJXW" imageId="41050754"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0603.tif" imageWidth="3787" imageHeight="4718">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820952384" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241786550" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -43,21 +39,21 @@
                 <Coords points="650,706 3548,700 3547,604 2345,547 2177,637 649,585"/>
                 <Baseline points="669,684 710,686 751,686 792,686 834,686 875,686 916,686 957,686 999,686 1040,686 1081,686 1122,686 1164,686 1205,686 1246,686 1287,686 1329,684 1370,684 1411,684 1452,684 1494,684 1854,680 1937,680 2021,680 2105,680 2189,680 2273,680 2356,680 2440,680 2524,680 2608,678 2692,678 2775,678 2859,678 2943,678 3027,678 3111,678 3194,678 3278,678 3362,679 3446,680 3530,681"/>
                 <TextEquiv>
-                    <Unicode>Mein Liebes, Dein Brief vom 7.Sonntag ist glücklicherweise heute Mittag</Unicode>
+                    <Unicode>Mein Liebes, Dein Brief vom 7. Sonntag ist glücklicherweise heute Mittag</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668772828172_4423" custom="readingOrder {index:4;}">
                 <Coords points="697,831 3370,828 3344,710 697,749"/>
                 <Baseline points="716,813 755,815 794,816 833,818 873,818 912,818 951,818 991,818 1030,818 1069,818 1109,818 1148,816 1187,816 1226,816 1266,816 1305,815 1344,815 1384,815 1423,816 1462,816 1502,818 2153,812 2212,812 2272,812 2332,812 2392,812 2452,812 2512,812 2571,812 2631,812 2691,810 2751,810 2811,810 2871,810 2931,809 2990,809 3050,809 3110,809 3170,809 3230,809 3290,809 3350,809"/>
                 <TextEquiv>
-                    <Unicode>aingelangt; so lass ich meiner Karte von Morgens in einer ruhigen</Unicode>
+                    <Unicode>angelangt; so lass ich meiner Karte von Morgens in einer ruhigen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668772832620_4428" custom="readingOrder {index:5;}">
                 <Coords points="703,983 3364,1008 3414,857 702,875"/>
                 <Baseline points="720,942 785,944 851,945 916,945 982,947 1047,947 1113,947 1178,947 1244,947 1309,945 1375,945 1441,945 1506,945 1572,944 1637,944 1703,944 1768,944 1834,944 1899,944 1965,945 2031,947 2378,939 2428,941 2479,941 2530,941 2581,941 2632,942 2683,942 2733,942 2784,944 2835,944 2886,944 2937,944 2988,944 3039,944 3089,944 3140,944 3191,944 3242,943 3293,942 3344,941 3395,941"/>
                 <TextEquiv>
-                    <Unicode>Stunde diese ausführlichen Zeilen folgen. Du weisst scheon, dass ich</Unicode>
+                    <Unicode>Stunde diese ausführlichen Zeilen folgen. Du weisst schon, dass ich</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668772838029_4434" custom="readingOrder {index:6;}">
@@ -92,14 +88,14 @@
                 <Coords points="681,1609 2717,1661 3253,1639 3364,1521 681,1541"/>
                 <Baseline points="698,1599 830,1601 962,1601 1095,1601 1227,1602 1360,1602 1492,1602 1625,1602 1757,1602 1890,1602 2022,1602 2154,1602 2287,1601 2419,1601 2552,1601 2684,1601 2817,1601 2949,1599 3082,1599 3214,1599 3347,1598"/>
                 <TextEquiv>
-                    <Unicode>in Berlinich ruhte mich im Hotel ein wenig aus, sah mir einen sehr</Unicode>
+                    <Unicode>in Berlin ich ruhte mich im Hotel ein wenig aus, sah mir einen sehr</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l18" custom="readingOrder {index:11;}">
                 <Coords points="692,1799 3411,1772 3525,1757 3525,1654 692,1677"/>
                 <Baseline points="711,1728 850,1728 990,1730 1130,1730 1270,1731 1410,1731 1549,1731 1689,1731 1829,1731 1969,1731 2109,1731 2248,1731 2388,1731 2528,1730 2668,1730 2808,1730 2947,1728 3087,1728 3227,1728 3367,1727 3507,1727"/>
                 <TextEquiv>
-                    <Unicode>apnnenden Film an, Looping the loop.in dem Werner Krauss ausserordent-</Unicode>
+                    <Unicode>spannenden Film an, Looping the loop, in dem Werner Krauss ausserordent¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l19" custom="readingOrder {index:12;}">
@@ -113,14 +109,14 @@
                 <Coords points="653,2053 3404,2033 3457,1915 653,1928"/>
                 <Baseline points="669,1991 807,1991 946,1992 1084,1992 1223,1992 1361,1992 1500,1992 1638,1992 1777,1992 1915,1992 2054,1992 2193,1992 2331,1992 2470,1992 2608,1992 2747,1992 2885,1991 3024,1991 3162,1989 3301,1989 3440,1988"/>
                 <TextEquiv>
-                    <Unicode>kleine Rolle hat und früh fertig ist. Gut geschlafen,in verhältnis-</Unicode>
+                    <Unicode>kleine Rolle hat und früh fertig ist. Gut geschlafen, in verhältnis¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l21" custom="readingOrder {index:14;}">
                 <Coords points="682,2140 3441,2152 3416,2048 2779,2012 682,2029"/>
                 <Baseline points="701,2121 837,2121 973,2121 1109,2121 1245,2121 1381,2121 1517,2121 1653,2121 1789,2121 1925,2121 2062,2121 2198,2121 2334,2121 2470,2121 2606,2121 2742,2121 2878,2121 3014,2121 3150,2123 3286,2123 3423,2123"/>
                 <TextEquiv>
-                    <Unicode>mässigem Wohlsein erwacht. 7-8 Telefongespräche. Ins Deutsche Thäter;</Unicode>
+                    <Unicode>mässigem Wohlsein erwacht. 7–8 Telefongespräche. Ins Deutsche Theater;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l22" custom="readingOrder {index:15;}">
@@ -134,28 +130,28 @@
                 <Coords points="665,2389 3487,2414 3380,2303 665,2321"/>
                 <Baseline points="683,2384 822,2384 961,2384 1101,2385 1240,2385 1380,2385 1519,2385 1658,2385 1798,2384 1937,2384 2077,2384 2216,2384 2355,2384 2495,2384 2634,2382 2774,2382 2913,2382 3052,2382 3192,2382 3331,2382 3471,2382"/>
                 <TextEquiv>
-                    <Unicode>waren anwesend; -ich liess meine Karte dort, wollte noch zu Czinner, den</Unicode>
+                    <Unicode>waren anwesend; – ich liess meine Karte dort, wollte noch zu Czinner, den</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:17;}">
+            <TextLine id="r1l24" custom="readingOrder {index:17;} supplied {offset:24; length:1;}">
                 <Coords points="691,2532 3174,2560 3406,2520 3406,2427 691,2453"/>
                 <Baseline points="710,2516 844,2516 978,2516 1112,2516 1246,2517 1380,2517 1514,2516 1648,2516 1782,2516 1916,2516 2050,2516 2184,2516 2318,2514 2452,2514 2586,2514 2720,2514 2854,2513 2988,2513 3122,2513 3256,2513 3390,2513"/>
                 <TextEquiv>
-                    <Unicode>ich gestern angerufen.</Unicode>
+                    <Unicode>ich gestern angerufen. (»Frau Elisabeth</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l25" custom="readingOrder {index:18;}">
                 <Coords points="669,2662 3520,2659 3520,2569 3266,2544 669,2569"/>
                 <Baseline points="686,2645 826,2645 967,2645 1108,2645 1249,2645 1390,2646 1531,2646 1671,2646 1812,2646 1953,2646 2094,2646 2235,2646 2376,2646 2517,2646 2657,2646 2798,2646 2939,2646 3080,2646 3221,2645 3362,2645 3503,2645"/>
                 <TextEquiv>
-                    <Unicode>B. in "Probennoth" (Julia), sehr nervös, -entzückend dass Sie mich anru-</Unicode>
+                    <Unicode>B. in ›Probennoth‹ (Julia), sehr nervös, – entzückend dass Sie mich anru¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l26" custom="readingOrder {index:19;}">
                 <Coords points="684,2805 3535,2804 3489,2697 684,2690"/>
                 <Baseline points="702,2774 842,2775 983,2775 1124,2777 1265,2777 1406,2777 1547,2777 1687,2777 1828,2777 1969,2777 2110,2777 2251,2777 2392,2777 2533,2777 2673,2777 2814,2775 2955,2775 3096,2775 3237,2775 3378,2775 3519,2777"/>
                 <TextEquiv>
-                    <Unicode>fen. Film Elise noch nicht fertig".) war aber plötzlich so hin, dass ich</Unicode>
+                    <Unicode>fen. Film Else noch nicht fertig«.) war aber plötzlich so hin, dass ich</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l27" custom="readingOrder {index:20;}">
@@ -169,35 +165,35 @@
                 <Coords points="666,3057 3535,3095 3503,2962 667,2942"/>
                 <Baseline points="683,3036 824,3036 966,3036 1107,3036 1249,3038 1391,3038 1532,3038 1674,3038 1816,3038 1957,3039 2099,3039 2241,3039 2382,3039 2524,3039 2666,3041 2807,3041 2949,3041 3091,3041 3232,3041 3374,3041 3516,3041"/>
                 <TextEquiv>
-                    <Unicode>Herr Kohner und Biro; - Hermann liess sich entschuldigen; statt seiner</Unicode>
+                    <Unicode>Herr Kohner und Biro; – Hermann liess sich entschuldigen; statt seiner</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l29" custom="readingOrder {index:22;}">
                 <Coords points="696,3203 3208,3221 3494,3179 3494,3086 696,3106"/>
                 <Baseline points="713,3165 851,3167 989,3167 1127,3167 1265,3168 1404,3168 1542,3168 1680,3168 1818,3168 1956,3168 2095,3168 2233,3168 2371,3168 2509,3168 2647,3168 2786,3168 2924,3170 3062,3170 3200,3171 3338,3171 3477,3173"/>
                 <TextEquiv>
-                    <Unicode>der Generaldirector der "Universal" Friedmann und - Lämmle junior, der</Unicode>
+                    <Unicode>der Generaldirector der »Universal« Friedmann und – Lämmle junior, der</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l30" custom="readingOrder {index:23;}">
                 <Coords points="732,3328 3380,3300 3222,3217 733,3214"/>
                 <Baseline points="749,3293 879,3294 1010,3294 1140,3296 1271,3296 1402,3296 1532,3296 1663,3297 1794,3297 1924,3297 2055,3297 2186,3297 2316,3297 2447,3297 2578,3297 2708,3297 2839,3297 2970,3297 3100,3297 3231,3299 3362,3299"/>
                 <TextEquiv>
-                    <Unicode>Neffe des Chefs - um 12 per Flugzeug aus München angelangt; vor 2</Unicode>
+                    <Unicode>Neffe des Chefs – um 12 per Flugzeug aus München angelangt; vor 2</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l31" custom="readingOrder {index:24;}">
                 <Coords points="723,3443 3023,3480 3449,3452 3489,3362 723,3364"/>
                 <Baseline points="740,3426 876,3426 1013,3426 1149,3426 1286,3428 1422,3428 1559,3428 1695,3428 1832,3428 1968,3428 2105,3428 2242,3429 2378,3429 2515,3429 2651,3429 2788,3429 2924,3431 3061,3431 3197,3431 3334,3431 3471,3431"/>
                 <TextEquiv>
-                    <Unicode>Tagen aus Amerika.- Sie wollte, meine Bedingungen wissen, gabens elbat</Unicode>
+                    <Unicode>Tagen aus Amerika.– Sie wollte, meine Bedingungen wissen, gaben selbst</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668772850756_4447" custom="readingOrder {index:25;}">
                 <Coords points="731,3597 3163,3626 3417,3555 3418,3476 731,3469"/>
                 <Baseline points="749,3552 798,3554 847,3554 896,3554 945,3554 995,3555 1044,3555 1093,3555 1142,3555 1191,3555 1241,3555 1290,3554 1339,3554 1388,3554 1437,3555 1487,3555 1536,3555 1585,3555 1634,3557 1683,3557 1733,3558 1956,3557 2028,3557 2100,3558 2172,3558 2245,3558 2317,3558 2389,3560 2461,3560 2534,3560 2606,3560 2678,3561 2750,3561 2823,3561 2895,3561 2967,3561 3039,3560 3112,3560 3184,3560 3256,3558 3328,3558 3401,3557"/>
                 <TextEquiv>
-                    <Unicode>keine an. Wünschten sichtlich mich hineinfallen zu lassen. Ich er-</Unicode>
+                    <Unicode>keine an. Wünschten sichtlich mich hineinfallen zu lassen. Ich er¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l34" custom="readingOrder {index:26;}">
@@ -218,14 +214,14 @@
                 <Coords points="727,3956 3421,3993 3564,3983 3565,3861 727,3877"/>
                 <Baseline points="744,3941 884,3942 1024,3944 1164,3944 1304,3945 1444,3945 1584,3947 1724,3947 1864,3947 2004,3947 2145,3947 2285,3947 2425,3948 2565,3948 2705,3948 2845,3948 2985,3950 3125,3950 3265,3951 3405,3953 3546,3954"/>
                 <TextEquiv>
-                    <Unicode>"Spiel im Morgengrauen", vorlegen würde.- Sie waren persönlich sehr nett,-</Unicode>
+                    <Unicode>»Spiel im Morgengrauen«, vorlegen würde.– Sie waren persönlich sehr nett,–</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l37" custom="readingOrder {index:29;}">
                 <Coords points="766,4135 3414,4132 3528,4107 3529,3996 767,4003"/>
                 <Baseline points="785,4070 921,4071 1057,4073 1193,4074 1330,4074 1466,4076 1602,4076 1738,4077 1875,4077 2011,4079 2147,4079 2283,4079 2420,4079 2556,4080 2692,4080 2828,4080 2965,4080 3101,4082 3237,4082 3373,4082 3510,4083"/>
                 <TextEquiv>
-                    <Unicode>und meinen es offenbar ernst.Heini kam zum schwarzen Kaffee, und ver-</Unicode>
+                    <Unicode>und meinen es offenbar ernst. Heini kam zum schwarzen Kaffee, und ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l38" custom="readingOrder {index:30;}">
@@ -239,50 +235,42 @@
                 <Coords points="687,4364 3481,4389 3481,4296 3306,4259 687,4264"/>
                 <Baseline points="704,4340 841,4341 979,4341 1117,4343 1255,4343 1393,4344 1531,4344 1669,4346 1807,4347 1945,4347 2083,4349 2220,4349 2358,4350 2496,4350 2634,4352 2772,4352 2910,4352 3048,4352 3186,4352 3324,4352 3462,4352"/>
                 <TextEquiv>
-                    <Unicode>in Amerika bei einem Autounfall eben vier Finger der linken Hand ver-</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l40" custom="readingOrder {index:32;}">
-                <Coords points="3516,256 3544,261 3586,295 3638,248 3656,248 3661,130 3632,133 3625,140 3601,121 3553,154 3521,149"/>
-                <Baseline points="3536,209 3562,211 3588,215 3614,215 3641,212"/>
-                <TextEquiv>
-                    <Unicode>152</Unicode>
+                    <Unicode>in Amerika bei einem Autounfall eben vier Finger der linken Hand ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>8.10.1928. Berlin.
+II. Brief.
+Hotel Esplanade.
+Mein Liebes, Dein Brief vom 7. Sonntag ist glücklicherweise heute Mittag
+angelangt; so lass ich meiner Karte von Morgens in einer ruhigen
+Stunde diese ausführlichen Zeilen folgen. Du weisst schon, dass ich
+gestern Vormittag mit Dora einen langen Spaziergang in den schönen
+Grunewaldstrassen machte und bei Michaelis zu Mittag speiste. Zwei
+Söhne und die Schwiegertochter Ilse waren anwesend, ich probirte den
+neuen Steinway, der kürzlich angeschafft wurde. Man speist so spät
+in Berlin ich ruhte mich im Hotel ein wenig aus, sah mir einen sehr
+spannenden Film an, Looping the loop, in dem Werner Krauss ausserordent¬
+lich war; nachtmahlte mit Heini, der aus den Webern kam, wo er eine
+kleine Rolle hat und früh fertig ist. Gut geschlafen, in verhältnis¬
+mässigem Wohlsein erwacht. 7–8 Telefongespräche. Ins Deutsche Theater;
+Max Reinhardt wollte dort sein. Weder er noch sein Bruder, noch Kahane
+waren anwesend; – ich liess meine Karte dort, wollte noch zu Czinner, den
+ich gestern angerufen. (»Frau Elisabeth
+B. in ›Probennoth‹ (Julia), sehr nervös, – entzückend dass Sie mich anru¬
+fen. Film Else noch nicht fertig«.) war aber plötzlich so hin, dass ich
+ins Hotel fuhr mich auf eine Stunde hinlegen. Es kommen zum Essen
+Herr Kohner und Biro; – Hermann liess sich entschuldigen; statt seiner
+der Generaldirector der »Universal« Friedmann und – Lämmle junior, der
+Neffe des Chefs – um 12 per Flugzeug aus München angelangt; vor 2
+Tagen aus Amerika.– Sie wollte, meine Bedingungen wissen, gaben selbst
+keine an. Wünschten sichtlich mich hineinfallen zu lassen. Ich er¬
+klärte dass ich ihnen Freitag nach Rücksprache mit Advokaten (alias
+Bermann) Näheres sagen werde; wo auch Biro schon seinen Filmentwurf
+»Spiel im Morgengrauen«, vorlegen würde.– Sie waren persönlich sehr nett,–
+und meinen es offenbar ernst. Heini kam zum schwarzen Kaffee, und ver¬
+stand sich gleich sehr gut mit Herrn Kohner. Der junge Herr Lämmle hat
+in Amerika bei einem Autounfall eben vier Finger der linken Hand ver¬</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

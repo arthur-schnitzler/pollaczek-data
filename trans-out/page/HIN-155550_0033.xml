@@ -3,82 +3,58 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:04.931+01:00</Created>
-        <LastChange>2022-11-18T03:23:45.540Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259044" pageNr="33" tsid="104225712" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=SCCRKYDFDYOXWRPAUDRYRUNI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LFSSNFRWLTRNYKIBTIFLKBYL" imageId="41048818"/>
+        <LastChange>2022-11-30T22:34:05.027+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259044" pageNr="33" tsid="105444804" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=SCCRKYDFDYOXWRPAUDRYRUNI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RTSXXVIXPKNTIUHXCBTAAFHL" imageId="41048818"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0033.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949213" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783258" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="303,163 303,1184 2678,1184 2678,163"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
-                <Coords points="1279,434 1312,439 1334,429 1342,437 1347,431 1355,434 1383,426 1394,437 1407,437 1407,330 1385,333 1377,328 1355,344 1350,339 1339,341 1325,330 1279,336"/>
-                <Baseline points="1292,425 1317,422 1343,420 1369,421 1395,426"/>
-                <TextEquiv>
-                    <Unicode>-2-</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l2" custom="readingOrder {index:1;}">
-                <Coords points="1810,444 1889,443 1981,476 2075,432 2156,464 2189,457 2192,372 2167,380 2095,323 2053,344 2037,335 2012,356 1927,354 1911,370 1838,346 1813,356"/>
-                <Baseline points="1824,423 1849,424 1874,425 1899,426 1924,426 1949,427 1974,428 1999,428 2024,429 2049,429 2074,431 2099,431 2124,432 2149,432 2175,434"/>
-                <TextEquiv>
-                    <Unicode>Juli 97.</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
                 <Coords points="294,679 2503,717 2504,624 2336,565 1896,643 295,608"/>
                 <Baseline points="308,677 417,678 526,678 635,678 744,680 853,681 962,681 1071,683 1180,684 1289,685 1398,686 1507,687 1616,689 1725,689 1834,690 1943,690 2052,692 2161,692 2270,693 2379,693 2489,693"/>
                 <TextEquiv>
                     <Unicode>reden. Meine Eltern lassen sich Ihnen empfehlen, meine</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
                 <Coords points="290,824 1324,822 1558,862 1559,788 1453,746 291,755"/>
                 <Baseline points="303,807 365,807 427,809 489,810 551,810 613,812 675,812 737,812 799,813 861,813 924,813 986,815 1048,815 1110,815 1172,815 1234,816 1296,816 1358,817 1420,818 1482,818 1545,819"/>
                 <TextEquiv>
                     <Unicode>Schwester Sie bestens grüssen.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
                 <Coords points="856,960 1835,992 2095,958 2068,849 1915,887 857,889"/>
                 <Baseline points="870,945 930,945 991,947 1051,947 1112,948 1173,948 1233,948 1294,948 1354,948 1415,948 1476,949 1536,950 1597,950 1657,950 1718,950 1779,950 1839,951 1900,951 1960,952 2021,953 2082,954"/>
                 <TextEquiv>
                     <Unicode>Auf baldiges Wiedersehen hofft</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
                 <Coords points="1261,1120 1286,1120 1333,1088 1349,1085 1360,1097 1371,1089 1409,1106 1437,1087 1450,1087 1451,1024 1424,1027 1405,1013 1399,1018 1372,1004 1348,1004 1334,990 1318,987 1291,1005 1263,1005"/>
                 <Baseline points="1275,1077 1302,1077 1329,1077 1356,1076 1383,1076 1410,1078 1437,1082"/>
                 <TextEquiv>
                     <Unicode>Ihre</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
                 <Coords points="1436,1173 1501,1165 1529,1179 1594,1161 1668,1186 1698,1173 1725,1184 1769,1158 1856,1170 1875,1165 1876,1091 1764,1100 1696,1072 1658,1099 1595,1068 1541,1095 1437,1083"/>
                 <Baseline points="1449,1142 1474,1143 1500,1145 1526,1145 1552,1146 1578,1146 1603,1146 1629,1146 1655,1148 1681,1148 1707,1148 1732,1148 1758,1148 1784,1148 1810,1148 1836,1148 1862,1149"/>
                 <TextEquiv>
                     <Unicode>Clara Loeb</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:7;}">
-                <Coords points="2572,316 2604,315 2613,307 2629,314 2660,299 2690,301 2697,181 2680,183 2639,150 2605,168 2580,169"/>
-                <Baseline points="2588,266 2618,263 2648,264 2678,272"/>
-                <TextEquiv>
-                    <Unicode>7/17</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-</Unicode>
+                <Unicode>reden. Meine Eltern lassen sich Ihnen empfehlen, meine
+Schwester Sie bestens grüssen.
+Auf baldiges Wiedersehen hofft
+Ihre
+Clara Loeb</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

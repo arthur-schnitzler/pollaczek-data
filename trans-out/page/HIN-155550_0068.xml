@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:11.515+01:00</Created>
-        <LastChange>2022-11-18T03:23:58.601Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259460" pageNr="68" tsid="104225748" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ZMOYCLLJMKWCBNZQEUSJGVSD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KGPHDIMLQSGXITDPUIASIVXR" imageId="41048854"/>
+        <LastChange>2022-12-01T12:05:56.837+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259460" pageNr="68" tsid="105471905" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ZMOYCLLJMKWCBNZQEUSJGVSD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YZBHSXQKSSDFGJRBGVRRKRQP" imageId="41048854"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0068.tif" imageWidth="3815" imageHeight="4787">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949413" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783497" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -18,7 +18,7 @@
                 <Coords points="1826,395 2274,386 2408,419 2568,384 2868,438 2868,314 2759,282 2642,314 2561,274 2342,323 1826,304"/>
                 <Baseline points="1845,371 1895,373 1945,375 1995,377 2045,378 2096,378 2146,380 2196,380 2246,380 2296,380 2347,380 2397,378 2447,378 2497,378 2547,378 2598,378 2648,378 2698,378 2748,378 2798,380 2849,381"/>
                 <TextEquiv>
-                    <Unicode>Wien,Sonntag 1.Juli 1923.</Unicode>
+                    <Unicode>Wien, Sonntag 1. Juli 1923.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
@@ -39,7 +39,7 @@
                 <Coords points="670,871 3306,883 3306,787 2889,744 670,754"/>
                 <Baseline points="687,834 817,834 947,836 1077,836 1207,836 1337,836 1467,837 1598,837 1728,837 1858,837 1988,839 2118,839 2248,839 2378,839 2509,839 2639,839 2769,839 2899,839 3029,839 3159,839 3290,839"/>
                 <TextEquiv>
-                    <Unicode>das Gefühl, dass Du sehr sehr fern bist. - Ich werde auch kaum mehr</Unicode>
+                    <Unicode>das Gefühl, dass Du sehr sehr fern bist. – Ich werde auch kaum mehr</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l5" custom="readingOrder {index:4;}">
@@ -53,7 +53,7 @@
                 <Coords points="671,1119 3346,1171 3487,1157 3488,1051 671,1024"/>
                 <Baseline points="690,1097 829,1097 968,1097 1107,1098 1246,1098 1385,1098 1524,1100 1663,1100 1802,1101 1941,1101 2080,1103 2219,1103 2358,1104 2497,1104 2636,1104 2775,1106 2914,1106 3053,1106 3192,1104 3331,1104 3471,1103"/>
                 <TextEquiv>
-                    <Unicode>meine Zeilen doch nicht mehr erreichen. Du hättest express oder tele-</Unicode>
+                    <Unicode>meine Zeilen doch nicht mehr erreichen. Du hättest express oder tele¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:6;}">
@@ -67,7 +67,7 @@
                 <Coords points="677,1366 3366,1397 3452,1256 678,1296"/>
                 <Baseline points="695,1356 839,1356 983,1358 1127,1359 1271,1359 1415,1361 1559,1361 1704,1362 1848,1362 1992,1362 2136,1364 2280,1364 2424,1364 2569,1364 2713,1365 2857,1365 3001,1365 3145,1365 3289,1365 3434,1365"/>
                 <TextEquiv>
-                    <Unicode>Ich habe viel zu tun, damit sich nicht alles in der letzten Woche zu-</Unicode>
+                    <Unicode>Ich habe viel zu tun, damit sich nicht alles in der letzten Woche zu¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l9" custom="readingOrder {index:8;}">
@@ -88,14 +88,14 @@
                 <Coords points="697,1781 3132,1819 3263,1791 3264,1643 698,1696"/>
                 <Baseline points="716,1746 842,1746 969,1748 1095,1748 1222,1749 1348,1749 1475,1751 1601,1751 1728,1751 1854,1752 1981,1752 2107,1753 2234,1754 2360,1754 2487,1755 2613,1755 2740,1757 2866,1757 2993,1758 3119,1760 3246,1760"/>
                 <TextEquiv>
-                    <Unicode>Karten bekam. Wir wollen heute zum "König von Paris" mit Korff.</Unicode>
+                    <Unicode>Karten bekam. Wir wollen heute zum »König von Paris« mit Korff.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l12" custom="readingOrder {index:11;}">
                 <Coords points="661,1905 3506,1931 3485,1782 662,1799"/>
                 <Baseline points="680,1875 820,1877 960,1878 1101,1880 1241,1880 1382,1881 1522,1883 1663,1883 1803,1884 1944,1884 2084,1886 2224,1886 2365,1887 2505,1887 2646,1887 2786,1889 2927,1889 3067,1890 3208,1890 3348,1892 3489,1892"/>
                 <TextEquiv>
-                    <Unicode>Dienstag bin ich mit Sektiosnchef Byk in Mödling. Ich fahre um all hi-</Unicode>
+                    <Unicode>Dienstag bin ich mit Sektiosnchef Byk in Mödling. Ich fahre um all hi¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:12;}">
@@ -123,7 +123,7 @@
                 <Coords points="664,2422 3424,2446 3393,2322 665,2327"/>
                 <Baseline points="681,2399 817,2400 953,2402 1089,2403 1225,2405 1362,2405 1498,2406 1634,2408 1770,2409 1906,2411 2043,2411 2179,2412 2315,2414 2451,2414 2587,2415 2723,2415 2860,2417 2996,2417 3132,2418 3268,2418 3405,2418"/>
                 <TextEquiv>
-                    <Unicode>Ich fahre am 14.fort und weiss noch immer nicht genau wohin. Es wird</Unicode>
+                    <Unicode>Ich fahre am 14. fort und weiss noch immer nicht genau wohin. Es wird</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:16;}">
@@ -144,7 +144,7 @@
                 <Coords points="650,2832 3328,2867 3329,2733 650,2751"/>
                 <Baseline points="669,2787 801,2790 933,2792 1065,2794 1197,2796 1329,2797 1461,2798 1593,2799 1725,2801 1857,2801 1990,2802 2122,2802 2254,2804 2386,2804 2518,2805 2650,2805 2782,2807 2914,2808 3046,2808 3178,2810 3311,2811"/>
                 <TextEquiv>
-                    <Unicode>meine Grüsse senden soll oder richtigen meine Gedanken - denn ich</Unicode>
+                    <Unicode>meine Grüsse senden soll oder richtigen meine Gedanken – denn ich</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l20" custom="readingOrder {index:19;}">
@@ -168,45 +168,29 @@
                     <Unicode>K.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:22;}">
-                <Coords points="1622,3343 1654,3350 1682,3329 1696,3343 1717,3336 1756,3350 1785,3332 1799,3343 1841,3315 1908,3336 1908,3226 1820,3255 1799,3240 1781,3244 1749,3269 1661,3248 1622,3265"/>
-                <Baseline points="1638,3306 1663,3306 1688,3306 1713,3306 1738,3306 1764,3306 1789,3306 1814,3306 1839,3306 1864,3306 1890,3306"/>
-                <TextEquiv>
-                    <Unicode>------</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:23;}">
-                <Coords points="3523,291 3548,294 3556,287 3587,291 3605,126 3580,127 3542,119"/>
-                <Baseline points="3551,207 3579,210"/>
-                <TextEquiv>
-                    <Unicode>1</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Wien, Sonntag 1. Juli 1923.
+Mein Freund,
+Ich habe noch kein Lebenszeichen von Dir, und ich habe
+das Gefühl, dass Du sehr sehr fern bist. – Ich werde auch kaum mehr
+schreiben, denn bei dem Umweg über die Sternwartestrasse würden Dich
+meine Zeilen doch nicht mehr erreichen. Du hättest express oder tele¬
+graphisch Nachrichten senden müssen.
+Ich habe viel zu tun, damit sich nicht alles in der letzten Woche zu¬
+sammendrängt. Besorgungen, Abschiedsbesuche, Passvisum etc. Gestern war
+ich leider nicht im Wintermärchen, da Carly, der den Auftrag hatte, keine
+Karten bekam. Wir wollen heute zum »König von Paris« mit Korff.
+Dienstag bin ich mit Sektiosnchef Byk in Mödling. Ich fahre um all hi¬
+naus und bin vor 8 Uhr wieder zuhause. Donnerstag bist Du wohl zurück!!
+Hoffentlich bringt die morgige Frühpost einen Bericht von Dir oder
+wenigstens ein paar Zeilen.
+Ich fahre am 14. fort und weiss noch immer nicht genau wohin. Es wird
+wohl Heringsdorf sein.
+Glückliche Heimkehr und auf Wiedersehen! Ich weiss nicht, wohin ich
+meine Grüsse senden soll oder richtigen meine Gedanken – denn ich
+weiss nicht wo Du bist. Jedenfalls sehr weit - -
+Deine
+K.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

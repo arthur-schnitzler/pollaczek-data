@@ -3,22 +3,22 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:03.607+01:00</Created>
-        <LastChange>2022-11-29T13:02:59.152+01:00</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259004" pageNr="25" tsid="105302242" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=LFFOYBNOAJVSHVACROYPITOH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YFDXDXSFMEYAETJKQEZDESZR" imageId="41048809"/>
+        <LastChange>2022-11-30T22:20:37.468+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259004" pageNr="25" tsid="105444575" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=LFFOYBNOAJVSHVACROYPITOH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DXKVYGZHCVBVWBHGEFVOMBWE" imageId="41048809"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0025.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949187" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783203" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="317,358 317,3255 2697,3255 2697,358"/>
-            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;} date {offset:0; length:7;}">
                 <Coords points="1742,430 1782,424 1834,451 1901,448 1917,431 1952,444 2103,430 2141,451 2225,437 2224,329 2176,345 2151,335 2081,365 2016,344 1884,353 1741,309"/>
                 <Baseline points="1755,423 1780,423 1805,423 1831,423 1856,422 1881,421 1907,420 1932,419 1957,419 1983,417 2008,416 2033,416 2059,416 2084,416 2109,417 2135,419 2160,420 2185,422 2211,425"/>
                 <TextEquiv>
-                    <Unicode>8. II. 97.</Unicode>
+                    <Unicode>8.II.97.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l3" custom="readingOrder {index:1;}">
@@ -81,10 +81,10 @@
                 <Coords points="324,1977 643,1940 1053,1987 1120,1944 1679,1968 1679,1884 1441,1858 324,1882"/>
                 <Baseline points="339,1938 405,1937 471,1937 537,1937 604,1937 670,1937 736,1937 803,1937 869,1937 935,1937 1002,1937 1068,1937 1134,1937 1200,1937 1267,1935 1333,1935 1399,1934 1466,1934 1532,1932 1598,1931 1665,1929"/>
                 <TextEquiv>
-                    <Unicode>den und bis Sonntag ist so lang -</Unicode>
+                    <Unicode>den und bis Sonntag ist so lang –</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+            <TextLine id="r1l12" custom="readingOrder {index:10;} structure {type:paragraph;}">
                 <Coords points="443,2109 2521,2073 2480,1979 915,2031 443,1974"/>
                 <Baseline points="456,2066 558,2066 661,2066 763,2066 866,2066 969,2066 1071,2066 1174,2064 1276,2064 1379,2064 1482,2064 1584,2064 1687,2063 1789,2063 1892,2063 1995,2061 2097,2061 2200,2060 2302,2059 2405,2058 2508,2057"/>
                 <TextEquiv>
@@ -116,7 +116,7 @@
                 <Coords points="325,2581 2358,2620 2452,2595 2452,2509 325,2538"/>
                 <Baseline points="338,2592 443,2592 548,2592 653,2592 758,2591 863,2591 968,2591 1073,2591 1178,2591 1283,2589 1388,2589 1493,2588 1598,2588 1703,2586 1808,2586 1913,2585 2018,2585 2123,2583 2228,2582 2333,2581 2439,2580"/>
                 <TextEquiv>
-                    <Unicode>treffen könnten. Vielleicht ist diese Bitte sehr un-</Unicode>
+                    <Unicode>treffen könnten. Vielleicht ist diese Bitte sehr un¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l18" custom="readingOrder {index:15;}">
@@ -130,7 +130,7 @@
                 <Coords points="316,2865 2443,2869 2443,2780 316,2781"/>
                 <Baseline points="329,2850 434,2850 539,2850 644,2852 749,2852 854,2852 959,2852 1064,2852 1169,2850 1274,2850 1379,2850 1484,2850 1589,2849 1694,2849 1799,2847 1904,2847 2009,2847 2114,2846 2219,2846 2324,2846 2429,2846"/>
                 <TextEquiv>
-                    <Unicode>Hofmannsthal scheint noch nicht zu wissen dass "Wir"</Unicode>
+                    <Unicode>Hofmannsthal scheint noch nicht zu wissen dass »Wir«</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l20" custom="readingOrder {index:17;}">
@@ -162,7 +162,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>8. II. 97.
+                <Unicode>8.II.97.
 Lieber Herr Doktor!
 Ich konnt Ihnen am Telefon gar nicht recht sagen,
 wie froh ich bin denn erstens bracht ich vor Auf¬
@@ -171,14 +171,14 @@ Angst, dass jemand vorbeikommen könnte.
 Ich bin sehr, sehr glücklich und es war von Ihnen
 riesig lieb, dass Sie mir gleich die Mitteilung mach¬
 ten. ich möcht nur so gern, viel, viel mit Ihnen re¬
-den und bis Sonntag ist so lang -
+den und bis Sonntag ist so lang –
 Könnten wir uns nicht heut am Spaziergang treffen?
 Das wär wohl schön. Ich bin von drei bis halb fünf
 frei. Wenn Ihnen die Zeit passt, so rufen Sie mich
 vor halb drei Uhr an um mir zu sagen, wo wir uns
-treffen könnten. Vielleicht ist diese Bitte sehr un-
+treffen könnten. Vielleicht ist diese Bitte sehr un¬
 bescheiden von mir, aber ich sehe heute nicht so klar.
-Hofmannsthal scheint noch nicht zu wissen dass "Wir"
+Hofmannsthal scheint noch nicht zu wissen dass »Wir«
 gedruckt werden, sonst hätt er mir wol eine Zeile ge¬
 schrieben.
 Nochmals vielen Dank und viele Grüsse

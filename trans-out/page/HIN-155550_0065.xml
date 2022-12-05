@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:10.974+01:00</Created>
-        <LastChange>2022-11-18T03:23:57.281Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259415" pageNr="65" tsid="104225745" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YUPVUSCYVHUAIQKNFFMYNEJT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EVDAAVJQXKAYJODGYASGJQGR" imageId="41048851"/>
+        <LastChange>2022-12-01T12:02:45.627+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259415" pageNr="65" tsid="105471154" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YUPVUSCYVHUAIQKNFFMYNEJT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QAHKTWZOYFSYIKLGBJEGMOGF" imageId="41048851"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0065.tif" imageWidth="3811" imageHeight="4783">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949404" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783412" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -32,14 +32,14 @@
                 <Coords points="651,753 3038,780 3290,755 3290,641 651,667"/>
                 <Baseline points="668,726 798,728 928,728 1058,729 1188,729 1319,729 1449,729 1579,729 1709,729 1839,729 1970,729 2100,729 2230,729 2360,729 2490,728 2620,728 2751,728 2881,728 3011,726 3141,726 3272,726"/>
                 <TextEquiv>
-                    <Unicode>vom 16. Ich habe es mühsam entziffert, freue mich sehr über xxx</Unicode>
+                    <Unicode>vom 16. Ich habe es mühsam entziffert, freue mich sehr über </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l4" custom="readingOrder {index:3;}">
                 <Coords points="639,867 3453,924 3400,757 639,796"/>
                 <Baseline points="656,855 802,857 948,858 1094,860 1241,860 1387,861 1533,861 1679,861 1826,861 1972,860 2118,860 2264,860 2411,860 2557,858 2703,858 2849,858 2996,858 3142,860 3288,860 3435,861"/>
                 <TextEquiv>
-                    <Unicode>Ihre Erfolge und hoffe, dass Sie in guter Stimmung heimkommen. Mässen</Unicode>
+                    <Unicode>Ihre Erfolge und hoffe, dass Sie in guter Stimmung heimkommen. Müssen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l5" custom="readingOrder {index:4;}">
@@ -63,11 +63,11 @@
                     <Unicode>es allerdings recht kalt und ich friere sehr. Man sollte vom Frühling,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+            <TextLine id="r1l8" custom="readingOrder {index:7;} supplied {offset:47; length:1;}">
                 <Coords points="643,1412 3069,1440 3456,1406 3457,1324 643,1323"/>
                 <Baseline points="660,1380 798,1380 937,1380 1076,1382 1215,1382 1354,1382 1493,1383 1631,1383 1770,1385 1909,1385 2048,1385 2187,1386 2326,1386 2465,1386 2603,1388 2742,1388 2881,1388 3020,1386 3159,1386 3298,1386 3437,1385"/>
                 <TextEquiv>
-                    <Unicode>von den Dichtern und überhaupt nie zu viel erwaten, man ist dann immer</Unicode>
+                    <Unicode>von den Dichtern und überhaupt nie zu viel erwarten, man ist dann immer</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l9" custom="readingOrder {index:8;}">
@@ -116,7 +116,7 @@
                 <Coords points="606,2333 3480,2360 3481,2225 3214,2203 607,2226"/>
                 <Baseline points="623,2297 765,2298 907,2298 1049,2298 1191,2300 1333,2300 1475,2301 1617,2301 1759,2303 1901,2303 2043,2303 2185,2304 2327,2304 2469,2306 2611,2306 2753,2306 2895,2306 3037,2306 3179,2306 3321,2306 3464,2304"/>
                 <TextEquiv>
-                    <Unicode>F eiertage ist noch nicht feststehend, hängt nach vom Wetter ab. Ich re-</Unicode>
+                    <Unicode>Feiertage ist noch nicht feststehend, hängt nach vom Wetter ab. Ich re¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l16" custom="readingOrder {index:15;}">
@@ -130,7 +130,7 @@
                 <Coords points="632,2583 2437,2557 2746,2651 3023,2560 3332,2615 3507,2502 633,2472"/>
                 <Baseline points="651,2558 792,2558 934,2559 1076,2559 1218,2561 1360,2561 1502,2562 1643,2562 1785,2564 1927,2565 2069,2565 2211,2567 2353,2567 2495,2568 2636,2570 2778,2570 2920,2570 3062,2571 3204,2571 3346,2571 3488,2571"/>
                 <TextEquiv>
-                    <Unicode>zu hören, der ich mit einiger Spannung u.s.w. entgegensehe.- Ich grüsse</Unicode>
+                    <Unicode>zu hören, der ich mit einiger Spannung u.s.w. entgegensehe.– Ich grüsse</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l18" custom="readingOrder {index:17;}">
@@ -154,43 +154,27 @@
                     <Unicode>Clara Katharina P.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:20;}">
-                <Coords points="1609,3164 1680,3171 1715,3196 1761,3196 1783,3182 1797,3189 1818,3168 1861,3179 1896,3161 1925,3162 1925,3101 1886,3097 1840,3072 1744,3076 1712,3047 1652,3068 1609,3068"/>
-                <Baseline points="1628,3135 1653,3137 1678,3138 1704,3140 1729,3141 1755,3141 1780,3143 1806,3143 1831,3141 1857,3140 1882,3137 1908,3134"/>
-                <TextEquiv>
-                    <Unicode>- - - - —</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:21;}">
-                <Coords points="3549,302 3609,302 3641,309 3656,320 3684,313 3684,131 3648,121 3595,156 3581,156 3570,167 3549,167"/>
-                <Baseline points="3567,224 3600,225 3633,225 3666,224"/>
-                <TextEquiv>
-                    <Unicode>16</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Wien, 19.5.1923.
+Gestern erhielt ich Ihre Karte mit dem geänderten Reiseprogramm
+vom 16. Ich habe es mühsam entziffert, freue mich sehr über 
+Ihre Erfolge und hoffe, dass Sie in guter Stimmung heimkommen. Müssen
+Sie aber so lange in Berlin bleiben? Ich wollte eigentlich am 27. nach
+Gösing fahren, wenn Sonne und Wärme mich dahinlocken. Vorläufig ist
+es allerdings recht kalt und ich friere sehr. Man sollte vom Frühling,
+von den Dichtern und überhaupt nie zu viel erwarten, man ist dann immer
+irgendwie enttäuscht und ernüchtert.
+Meine Expresskarte vom 16. haben Sie wohl vorgefunden? Ich
+dachte sie mir damals als die letzte dieser seltsamen Korrespondenz, da
+ich Sie zu Pfingsten in Wien glaubte. Nun wird wohl diese den Abschluss
+bilden.
+Heute Abend habe ich Gäste. Das Vergnügungsprogramm für die
+Feiertage ist noch nicht feststehend, hängt nach vom Wetter ab. Ich re¬
+feriere dann mündlich. Ich hoffe noch Genaueres über Ihre Ankunft hier
+zu hören, der ich mit einiger Spannung u.s.w. entgegensehe.– Ich grüsse
+Sie herzlich und sage auf Wiedersehen.
+Ihre
+Clara Katharina P.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

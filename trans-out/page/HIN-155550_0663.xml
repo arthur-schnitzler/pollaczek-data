@@ -3,16 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:53</Creator>
         <Created>2022-11-17T16:36:01.515+01:00</Created>
-        <LastChange>2022-11-25T11:53:14.662Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50264399" pageNr="663" tsid="105032671" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ACAIATPHYWRQQEFBISCZOWEB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VTOKNSPKBGHGQDXHGLTMIZUZ" imageId="41050815">
-            <Property key="mdSetName" value="myMdSet"/>
-            <Property key="property2"/>
-            <Property key="property1"/>
-        </TranskribusMetadata>
+        <LastChange>2022-12-02T09:31:07.059+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50264399" pageNr="663" tsid="105535212" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ACAIATPHYWRQQEFBISCZOWEB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XSZMSNBALOMQBODRSBHGQYVE" imageId="41050815"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0663.tif" imageWidth="3786" imageHeight="4691">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820952772" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241786911" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -36,7 +32,7 @@
                 <Coords points="620,665 3292,704 3397,568 621,565"/>
                 <Baseline points="638,636 681,638 725,639 769,639 813,641 857,641 901,642 944,642 988,643 1032,644 1076,644 1120,645 1164,645 1208,645 1251,647 1295,647 1339,647 1383,647 1427,648 1471,648 1515,648 1787,651 1866,650 1946,650 2025,650 2105,651 2184,651 2264,651 2343,652 2423,653 2502,654 2582,654 2661,656 2741,656 2820,657 2900,657 2979,659 3059,659 3138,660 3218,660 3297,660 3377,660"/>
                 <TextEquiv>
-                    <Unicode>Mein Liebes, ich habe Dir gestern Früh nur einen flüchtigen Gruss ge-</Unicode>
+                    <Unicode>Mein Liebes, ich habe Dir gestern Früh nur einen flüchtigen Gruss ge¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668774192052_5195" custom="readingOrder {index:3;}">
@@ -64,7 +60,7 @@
                 <Coords points="625,1180 3290,1232 3505,1212 3506,1119 626,1083"/>
                 <Baseline points="642,1160 784,1161 926,1163 1068,1164 1211,1166 1353,1167 1495,1169 1638,1170 1780,1172 1922,1173 2065,1175 2207,1175 2349,1176 2491,1178 2634,1179 2776,1179 2918,1181 3061,1182 3203,1182 3345,1184 3488,1185"/>
                 <TextEquiv>
-                    <Unicode>über Eleefilm und Bühnenangelegenheiten, Tempo, Jakob, X-Lothar (sie waren</Unicode>
+                    <Unicode>über Elsefilm und Bühnenangelegenheiten, Tempo, Jakob, Lothar (sie waren</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l10" custom="readingOrder {index:7;}">
@@ -85,14 +81,14 @@
                 <Coords points="646,1558 3382,1609 3383,1519 2877,1478 647,1479"/>
                 <Baseline points="665,1548 800,1551 935,1553 1070,1554 1205,1556 1340,1557 1475,1559 1610,1560 1745,1562 1880,1563 2015,1565 2150,1566 2285,1566 2420,1568 2555,1569 2690,1569 2825,1571 2960,1572 3095,1573 3230,1574 3365,1575"/>
                 <TextEquiv>
-                    <Unicode>Kellermann, Hermann, - die Elisabeth.Die Angelegenheit Strnad; - die Un-</Unicode>
+                    <Unicode>Kellermann, Hermann, – die Elisabeth. Die Angelegenheit Strnad; – die Un¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:10;}">
                 <Coords points="611,1755 3409,1732 3303,1612 613,1611"/>
                 <Baseline points="629,1679 767,1682 905,1683 1043,1686 1181,1688 1320,1689 1458,1691 1596,1692 1734,1694 1872,1695 2011,1695 2149,1697 2287,1698 2425,1699 2563,1700 2702,1701 2840,1703 2978,1704 3116,1706 3254,1707 3393,1709"/>
                 <TextEquiv>
-                    <Unicode>begreiflichkeit meines Plans, ja sein ganzes Verhalten xxxzüg verzögert</Unicode>
+                    <Unicode>begreiflichkeit meines Plans, ja sein ganzes Verhalten  verzögert</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l14" custom="readingOrder {index:11;}">
@@ -106,183 +102,167 @@
                 <Coords points="616,1953 3406,1985 3386,1877 617,1874"/>
                 <Baseline points="633,1940 770,1943 908,1944 1046,1946 1184,1947 1322,1949 1459,1951 1597,1953 1735,1955 1873,1956 2011,1958 2148,1958 2286,1959 2424,1961 2562,1962 2700,1964 2837,1965 2975,1965 3113,1967 3251,1967 3389,1968"/>
                 <TextEquiv>
-                    <Unicode>entschlossen!) und sie wird, will ihre Frühjahrareise nicht früher an-</Unicode>
+                    <Unicode>entschlossen!) und sie wird, will ihre Frühjahrareise nicht früher an¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668774163933_5165" custom="readingOrder {index:13;}">
                 <Coords points="621,2097 3263,2161 3480,2034 622,2011"/>
                 <Baseline points="639,2070 713,2072 787,2073 861,2075 935,2075 1010,2076 1084,2078 1158,2078 1232,2079 1306,2079 1381,2080 1455,2081 1529,2082 1603,2082 1677,2084 1752,2084 1826,2085 1900,2086 1974,2087 2048,2088 2123,2090 2574,2091 2618,2093 2662,2093 2707,2093 2751,2094 2796,2094 2840,2096 2884,2096 2929,2097 2973,2097 3018,2099 3062,2099 3106,2100 3151,2100 3195,2100 3240,2100 3284,2100 3328,2100 3373,2100 3417,2100 3462,2100"/>
                 <TextEquiv>
-                    <Unicode>treten, als wir hier zu einem Abschluss gelangt sind. Sollte Strnad mei-</Unicode>
+                    <Unicode>treten, als wir hier zu einem Abschluss gelangt sind. Sollte Strnad mei¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668774168692_5170" custom="readingOrder {index:14;}">
                 <Coords points="612,2212 3367,2240 3368,2147 2768,2119 613,2133"/>
                 <Baseline points="632,2199 691,2200 750,2201 809,2202 869,2202 928,2204 987,2205 1046,2205 1106,2207 1165,2208 1224,2208 1283,2210 1343,2211 1402,2211 1461,2213 1520,2213 1580,2213 1639,2214 1698,2214 1757,2214 1817,2214 2510,2222 2551,2222 2593,2223 2635,2223 2677,2225 2719,2225 2761,2226 2803,2226 2845,2226 2887,2226 2929,2227 2970,2228 3012,2228 3054,2228 3096,2228 3138,2226 3180,2226 3222,2226 3264,2226 3306,2225 3348,2225"/>
                 <TextEquiv>
-                    <Unicode>nen Vorschlag oder meine Anregung die Masse zu ändern zustimmen - so</Unicode>
+                    <Unicode>nen Vorschlag oder meine Anregung die Masse zu ändern zustimmen – so</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:15;}">
-                <Coords points="3138,2319 3163,2312 3181,2323 3217,2306 3282,2317 3339,2307 3382,2315 3404,2333 3440,2330 3441,2229 3333,2246 3265,2234 3247,2245 3175,2244 3139,2233"/>
-                <Baseline points="3158,2297 3184,2296 3210,2295 3237,2295 3263,2296 3290,2297 3316,2298 3342,2298 3369,2298 3395,2298 3422,2297"/>
-                <TextEquiv>
-                    <Unicode>spricht</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="line_1668774173964_5175" custom="readingOrder {index:16;}">
+            <TextLine id="line_1668774173964_5175" custom="readingOrder {index:15;}">
                 <Coords points="611,2367 2646,2424 3402,2311 612,2274"/>
                 <Baseline points="629,2328 693,2330 757,2330 821,2331 886,2333 950,2334 1014,2336 1078,2336 1143,2337 1207,2339 1271,2339 1335,2340 1400,2342 1464,2342 1528,2343 1592,2343 1657,2345 1721,2345 1785,2346 1849,2348 1914,2348 2561,2355 2602,2355 2643,2355 2684,2355 2725,2355 2766,2355 2807,2355 2849,2357 2890,2357 2931,2358 2972,2358 3013,2360 3054,2360 3095,2361 3137,2361 3178,2361 3219,2363 3260,2363 3301,2363 3342,2362 3384,2361"/>
                 <TextEquiv>
-                    <Unicode>müssten wir das heute oder morgen erfahren; in jedem Falle aber xxx</Unicode>
+                    <Unicode>müssten wir das heute oder morgen erfahren; in jedem Falle aber spricht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1668774178397_5180" custom="readingOrder {index:17;}">
+            <TextLine id="line_1668774178397_5180" custom="readingOrder {index:16;}">
                 <Coords points="614,2475 3354,2537 3355,2429 3201,2416 615,2389"/>
                 <Baseline points="632,2457 700,2459 768,2460 836,2462 904,2462 972,2463 1040,2465 1109,2465 1177,2466 1245,2468 1313,2468 1381,2469 1449,2469 1517,2471 1586,2471 1654,2472 1722,2474 1790,2474 1858,2475 1926,2477 1995,2477 2619,2484 2654,2484 2690,2484 2726,2484 2762,2486 2798,2486 2834,2486 2869,2487 2905,2487 2941,2488 2977,2489 3013,2490 3049,2490 3085,2492 3120,2492 3156,2493 3192,2493 3228,2495 3264,2495 3300,2496 3336,2496"/>
                 <TextEquiv>
-                    <Unicode>sie xxxxx xxx noch vorher mit dem schon öfters erwähnten Neppach,</Unicode>
+                    <Unicode>sie noch vorher mit dem schon öfters erwähnten Neppach,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1668774183004_5185" custom="readingOrder {index:18;}">
+            <TextLine id="line_1668774183004_5185" custom="readingOrder {index:17;}">
                 <Coords points="617,2619 3422,2668 3445,2550 619,2493"/>
                 <Baseline points="635,2586 711,2588 788,2589 864,2591 941,2592 1017,2594 1094,2595 1170,2597 1247,2597 1323,2598 1400,2600 1477,2601 1553,2601 1630,2603 1706,2604 1783,2604 1859,2606 1936,2606 2012,2607 2089,2607 2166,2607 2418,2613 2468,2613 2518,2613 2569,2613 2619,2615 2670,2615 2720,2615 2770,2615 2821,2616 2871,2616 2922,2618 2972,2618 3022,2618 3073,2619 3123,2619 3174,2621 3224,2621 3274,2622 3325,2622 3375,2622 3426,2622"/>
                 <TextEquiv>
-                    <Unicode>der - angeblich einen fertigen Plan zur Elise ausgearbeitet hat - womit</Unicode>
+                    <Unicode>der – angeblich einen fertigen Plan zur Else ausgearbeitet hat – womit</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:19;}">
+            <TextLine id="r1l27" custom="readingOrder {index:18;}">
                 <Coords points="654,2742 3375,2806 3377,2684 655,2648"/>
                 <Baseline points="672,2717 806,2720 940,2723 1074,2724 1209,2727 1343,2729 1477,2731 1611,2733 1746,2735 1880,2736 2014,2739 2148,2741 2283,2742 2417,2744 2551,2745 2685,2747 2820,2748 2954,2750 3088,2750 3222,2751 3357,2753"/>
                 <TextEquiv>
                     <Unicode>wir übrigens in keinem Fall an Barnowsky gebunden wären; wieder nach</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:20;}">
+            <TextLine id="r1l28" custom="readingOrder {index:19;}">
                 <Coords points="609,2885 3241,2930 3436,2825 610,2759"/>
                 <Baseline points="626,2847 765,2850 905,2852 1044,2853 1184,2856 1324,2858 1463,2859 1603,2862 1743,2864 1882,2865 2022,2868 2162,2870 2301,2871 2441,2873 2581,2876 2720,2877 2860,2878 3000,2879 3139,2880 3279,2882 3419,2883"/>
                 <TextEquiv>
-                    <Unicode>wie vor frei entscheiden könnten. Samstag hatte sie mit Klein gespro-</Unicode>
+                    <Unicode>wie vor frei entscheiden könnten. Samstag hatte sie mit Klein gespro¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:21;}">
+            <TextLine id="r1l29" custom="readingOrder {index:20;}">
                 <Coords points="614,3018 3484,3037 3463,2936 616,2917"/>
                 <Baseline points="632,2976 773,2979 915,2981 1056,2984 1198,2985 1340,2987 1481,2990 1623,2991 1765,2993 1906,2994 2048,2996 2190,2997 2331,2999 2473,3000 2615,3002 2756,3005 2898,3006 3040,3009 3181,3011 3323,3014 3465,3017"/>
                 <TextEquiv>
-                    <Unicode>chen, so dass uns Reinhardt-Barnowsky-Klein zur Wahl stünden. Mit diesem</Unicode>
+                    <Unicode>chen, so dass uns Reinhardt–Barnowsky–Klein zur Wahl stünden. Mit diesem</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1668774198036_5200" custom="readingOrder {index:22;}">
+            <TextLine id="line_1668774198036_5200" custom="readingOrder {index:21;}">
                 <Coords points="576,3118 3082,3194 3199,3067 577,3032"/>
                 <Baseline points="594,3107 695,3109 796,3110 898,3111 999,3113 1101,3114 1202,3116 1303,3117 1405,3119 1506,3120 1608,3122 1709,3123 1810,3125 1912,3126 2013,3128 2115,3129 2216,3131 2317,3131 2419,3132 2520,3134 2622,3135 2720,3135 2745,3135 2771,3137 2796,3137 2822,3137 2847,3137 2873,3137 2898,3137 2924,3138 2949,3138 2975,3138 3000,3139 3026,3140 3051,3140 3077,3141 3102,3141 3128,3141 3153,3141 3179,3143"/>
                 <TextEquiv>
-                    <Unicode>letzteren kämen wir gewiss am geschwindesten zu einem Resultat; -</Unicode>
+                    <Unicode>letzteren kämen wir gewiss am geschwindesten zu einem Resultat; –</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:23;}">
+            <TextLine id="r1l32" custom="readingOrder {index:22;}">
                 <Coords points="604,3251 3085,3319 3322,3301 3323,3226 605,3165"/>
                 <Baseline points="621,3237 755,3239 889,3242 1023,3243 1157,3246 1292,3248 1426,3249 1560,3251 1694,3252 1828,3254 1963,3257 2097,3258 2231,3260 2365,3261 2499,3263 2633,3264 2768,3266 2902,3267 3036,3270 3170,3272 3305,3273"/>
                 <TextEquiv>
-                    <Unicode>er ist klug und - nach allgemeinem Urtheil - der verlässlichste. Du</Unicode>
+                    <Unicode>er ist klug und – nach allgemeinem Urtheil – der verlässlichste. Du</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:24;}">
+            <TextLine id="r1l33" custom="readingOrder {index:23;}">
                 <Coords points="584,3409 3440,3403 3219,3296 586,3294"/>
                 <Baseline points="602,3369 743,3372 884,3374 1025,3377 1166,3378 1307,3381 1448,3383 1589,3384 1730,3386 1871,3389 2012,3390 2153,3392 2294,3393 2435,3395 2576,3396 2717,3398 2858,3400 2999,3402 3140,3404 3281,3405 3422,3407"/>
                 <TextEquiv>
-                    <Unicode>begreifst, dass ich nach meinen bisherigen Erfahrungen inder</Unicode>
+                    <Unicode>begreifst, dass ich nach meinen bisherigen Erfahrungen in der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:25;}">
+            <TextLine id="r1l34" custom="readingOrder {index:24;}">
                 <Coords points="622,3528 3423,3575 3425,3478 624,3421"/>
                 <Baseline points="642,3498 780,3501 918,3504 1056,3506 1195,3509 1333,3510 1471,3513 1609,3515 1748,3516 1886,3518 2024,3521 2162,3522 2301,3524 2439,3525 2577,3527 2715,3529 2854,3531 2992,3533 3130,3534 3268,3537 3407,3539"/>
                 <TextEquiv>
-                    <Unicode>Sache mich nicht zu prophezeien getraue - und es ist gar nicht unmög-</Unicode>
+                    <Unicode>Sache mich nicht zu prophezeien getraue – und es ist gar nicht unmög¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:26;}">
+            <TextLine id="r1l35" custom="readingOrder {index:25;}">
                 <Coords points="636,3658 3448,3706 3449,3624 3256,3578 638,3569"/>
                 <Baseline points="653,3630 791,3633 930,3635 1069,3638 1208,3639 1347,3641 1486,3643 1625,3645 1764,3647 1903,3648 2042,3650 2180,3651 2319,3654 2458,3656 2597,3657 2736,3660 2875,3662 3014,3665 3153,3668 3292,3671 3431,3674"/>
                 <TextEquiv>
-                    <Unicode>lich, dass ich unverrichteter Dinge nach Wien zurückfahren muss; jeden-</Unicode>
+                    <Unicode>lich, dass ich unverrichteter Dinge nach Wien zurückfahren muss; jeden¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:27;}">
+            <TextLine id="r1l36" custom="readingOrder {index:26;}">
                 <Coords points="586,3780 3368,3847 3395,3733 587,3694"/>
                 <Baseline points="603,3758 741,3760 880,3762 1018,3765 1157,3768 1296,3770 1434,3773 1573,3774 1711,3777 1850,3779 1989,3781 2127,3783 2266,3785 2404,3786 2543,3789 2682,3791 2820,3792 2959,3794 3097,3797 3236,3798 3375,3800"/>
                 <TextEquiv>
                     <Unicode>falls, was an mir liegt, so werd ich alles dransetzen, dass wir vor Ende</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:28;}">
+            <TextLine id="r1l37" custom="readingOrder {index:27;}">
                 <Coords points="565,3913 3089,3994 3409,3956 3411,3873 567,3827"/>
                 <Baseline points="584,3885 724,3888 864,3891 1005,3894 1145,3897 1286,3899 1426,3902 1567,3905 1707,3906 1848,3908 1988,3911 2128,3913 2269,3915 2409,3917 2550,3919 2690,3921 2831,3923 2971,3926 3112,3927 3252,3930 3393,3932"/>
                 <TextEquiv>
-                    <Unicode>dieser Woche zu einem Ende kommen. Ich bitte Dich Liebes - werde nicht</Unicode>
+                    <Unicode>dieser Woche zu einem Ende kommen. Ich bitte Dich Liebes – werde nicht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:29;}">
+            <TextLine id="r1l38" custom="readingOrder {index:28;}">
                 <Coords points="589,4048 3471,4152 3499,4031 590,3987"/>
                 <Baseline points="608,4034 751,4037 895,4040 1038,4042 1182,4044 1326,4047 1469,4050 1613,4053 1756,4056 1900,4059 2044,4061 2187,4064 2331,4067 2474,4070 2618,4071 2762,4074 2905,4077 3049,4080 3192,4082 3336,4085 3480,4088"/>
                 <TextEquiv>
-                    <Unicode>ungeduldig - Du hast ja einen Einblick und siehst, mit welchen sachlichen</Unicode>
+                    <Unicode>ungeduldig – Du hast ja einen Einblick und siehst, mit welchen sachlichen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l39" custom="readingOrder {index:30;}">
+            <TextLine id="r1l39" custom="readingOrder {index:29;}">
                 <Coords points="590,4188 3300,4251 3342,4147 591,4098"/>
                 <Baseline points="608,4167 743,4170 879,4173 1015,4175 1151,4178 1286,4181 1422,4183 1558,4185 1694,4187 1829,4190 1965,4191 2101,4194 2237,4196 2372,4199 2508,4202 2644,4203 2780,4206 2915,4209 3051,4212 3187,4215 3323,4218"/>
                 <TextEquiv>
                     <Unicode>und persönlichen Schwierigkeiten man zu kämpfen hat. Reise ich jetzt</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l41" custom="readingOrder {index:31;}">
+            <TextLine id="r1l41" custom="readingOrder {index:30;}">
                 <Coords points="622,4347 3257,4408 3259,4289 624,4221"/>
                 <Baseline points="639,4296 769,4302 899,4306 1029,4310 1159,4314 1289,4317 1419,4320 1549,4322 1679,4324 1809,4326 1939,4328 2069,4329 2199,4331 2329,4334 2459,4335 2589,4337 2719,4340 2849,4343 2979,4346 3109,4350 3239,4355"/>
                 <TextEquiv>
                     <Unicode>(vor Erledigung) ab, so stelle ich damit das Ganze wieder in Frage.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l42" custom="readingOrder {index:32;}">
-                <Coords points="3527,272 3556,271 3569,283 3580,283 3596,270 3609,279 3621,269 3671,273 3681,151 3659,149 3633,162 3598,148 3537,143"/>
-                <Baseline points="3548,234 3574,237 3601,237 3627,239 3654,245"/>
-                <TextEquiv>
-                    <Unicode>213</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Berlin, 18.3.1929.
+Hotel Esplanade.
+Mein Liebes, ich habe Dir gestern Früh nur einen flüchtigen Gruss ge¬
+sandt und berichte nun das Nähere, wie der Sonntag verlief. Am Vormittag
+war ein echtes Frühlingswetter, durch den Tiergarten zu Viki und Mimi,
+die beide einigermassen Patienten sind; anderthalbstündiges Gespräch,
+über Elsefilm und Bühnenangelegenheiten, Tempo, Jakob, Lothar (sie waren
+durch Emmy W. unterrichtet), Journalismus, Betrieb, Eitelkeiten u.a. Zu
+Fischers Grunewald Mittag essen. Dort O., Heini, Jakob (ohne Martha),
+Kellermann, Hermann, – die Elisabeth. Die Angelegenheit Strnad; – die Un¬
+begreiflichkeit meines Plans, ja sein ganzes Verhalten  verzögert
+wohl die Angelegenheit; doch bleibt E. ehrlich entschlossen (absolut?
+entschlossen!) und sie wird, will ihre Frühjahrareise nicht früher an¬
+treten, als wir hier zu einem Abschluss gelangt sind. Sollte Strnad mei¬
+nen Vorschlag oder meine Anregung die Masse zu ändern zustimmen – so
+müssten wir das heute oder morgen erfahren; in jedem Falle aber spricht
+sie noch vorher mit dem schon öfters erwähnten Neppach,
+der – angeblich einen fertigen Plan zur Else ausgearbeitet hat – womit
+wir übrigens in keinem Fall an Barnowsky gebunden wären; wieder nach
+wie vor frei entscheiden könnten. Samstag hatte sie mit Klein gespro¬
+chen, so dass uns Reinhardt–Barnowsky–Klein zur Wahl stünden. Mit diesem
+letzteren kämen wir gewiss am geschwindesten zu einem Resultat; –
+er ist klug und – nach allgemeinem Urtheil – der verlässlichste. Du
+begreifst, dass ich nach meinen bisherigen Erfahrungen in der
+Sache mich nicht zu prophezeien getraue – und es ist gar nicht unmög¬
+lich, dass ich unverrichteter Dinge nach Wien zurückfahren muss; jeden¬
+falls, was an mir liegt, so werd ich alles dransetzen, dass wir vor Ende
+dieser Woche zu einem Ende kommen. Ich bitte Dich Liebes – werde nicht
+ungeduldig – Du hast ja einen Einblick und siehst, mit welchen sachlichen
+und persönlichen Schwierigkeiten man zu kämpfen hat. Reise ich jetzt
+(vor Erledigung) ab, so stelle ich damit das Ganze wieder in Frage.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

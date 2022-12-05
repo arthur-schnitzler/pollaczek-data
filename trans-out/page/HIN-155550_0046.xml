@@ -3,170 +3,146 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:07.365+01:00</Created>
-        <LastChange>2022-11-18T03:23:49.767Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259172" pageNr="46" tsid="104225725" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=GJNOHUQXIXYCPWBHLFXFPQSL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CJYTQKZRNNKVNWGFUQLXCTFA" imageId="41048832"/>
+        <LastChange>2022-11-30T22:50:40.144+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259172" pageNr="46" tsid="105445394" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=GJNOHUQXIXYCPWBHLFXFPQSL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CXHSTABXXQTVJPUKFESRKEMO" imageId="41048832"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0046.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949329" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783329" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="368,288 368,2495 2517,2495 2517,288"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
-                <Coords points="1079,366 1097,364 1112,379 1123,377 1151,400 1186,381 1210,385 1217,283 1180,283 1150,289 1142,296 1129,290 1110,302 1083,303"/>
-                <Baseline points="1092,347 1119,349 1146,352 1173,354 1200,353"/>
-                <TextEquiv>
-                    <Unicode>-5 -</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l2" custom="readingOrder {index:1;}">
-                <Coords points="1511,380 1643,378 1698,416 1791,387 1857,409 1947,396 1968,415 2026,399 2070,437 2097,429 2098,284 2066,273 1910,314 1826,287 1731,313 1644,275 1512,285"/>
-                <Baseline points="1523,368 1549,368 1642,368 1668,368 1694,368 1720,368 1746,368 1772,368 1798,368 1824,368 1850,368 1876,368 1902,368 1928,369 1954,369 1980,370 2006,371 2032,371 2058,372 2085,374"/>
-                <TextEquiv>
-                    <Unicode>6. August 1897.</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
                 <Coords points="372,553 2416,598 2417,495 2132,466 1886,519 373,487"/>
                 <Baseline points="386,549 486,549 587,551 688,552 789,554 890,555 991,557 1091,557 1192,558 1293,560 1394,560 1495,561 1596,563 1697,563 1797,564 1898,566 1999,566 2100,567 2201,567 2302,569 2403,569"/>
                 <TextEquiv>
-                    <Unicode>Frankenstein sagte, schreibt Hugo an einem Puppen-</Unicode>
+                    <Unicode>Frankenstein sagte, schreibt Hugo an einem Puppen¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
                 <Coords points="371,701 2334,705 2334,644 2195,633 372,627"/>
                 <Baseline points="384,680 480,681 577,683 674,684 771,685 868,686 965,687 1061,687 1158,689 1255,689 1352,690 1449,690 1546,692 1643,692 1739,693 1836,693 1933,695 2030,696 2127,696 2224,698 2321,701"/>
                 <TextEquiv>
                     <Unicode>spiel, in dem der Kaiser von China vorkommt. Was</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
                 <Coords points="400,826 2529,855 2530,770 2253,754 401,747"/>
                 <Baseline points="413,810 518,811 623,812 728,814 833,815 939,816 1044,818 1149,819 1254,821 1359,822 1465,824 1570,824 1675,825 1780,827 1885,828 1991,828 2096,830 2201,830 2306,831 2411,831 2517,833"/>
                 <TextEquiv>
                     <Unicode>soll das? Hirschfeld (Georg ) schreibt mir öfters.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
                 <Coords points="365,957 2502,1008 2503,910 2358,864 1855,922 462,837 366,886"/>
                 <Baseline points="378,941 483,942 589,944 694,945 800,946 906,948 1011,948 1117,950 1222,951 1328,953 1434,954 1539,955 1645,956 1750,957 1856,957 1962,959 2067,959 2173,960 2278,960 2384,962 2490,962"/>
                 <TextEquiv>
-                    <Unicode>Er war in Münshen, ist nun schon lang wieder in Berlin</Unicode>
+                    <Unicode>Er war in München, ist nun schon lang wieder in Berlin</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
                 <Coords points="372,1103 2329,1128 2429,1103 2430,1032 373,992"/>
                 <Baseline points="384,1070 485,1071 587,1074 688,1076 790,1077 891,1079 993,1080 1094,1082 1196,1082 1297,1083 1399,1083 1501,1085 1602,1086 1704,1086 1805,1088 1907,1088 2008,1089 2110,1089 2211,1091 2313,1092 2415,1094"/>
                 <TextEquiv>
-                    <Unicode>und sehr fleissig. Ich möcht's auch wieder sein! -</Unicode>
+                    <Unicode>und sehr fleissig. Ich möcht's auch wieder sein! –</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
                 <Coords points="373,1224 2316,1256 2406,1233 2407,1156 374,1140"/>
                 <Baseline points="386,1203 486,1204 586,1205 687,1206 787,1208 888,1209 988,1209 1088,1211 1189,1212 1289,1214 1390,1215 1490,1217 1590,1217 1691,1218 1791,1220 1892,1220 1992,1221 2092,1221 2193,1221 2293,1223 2394,1223"/>
                 <TextEquiv>
                     <Unicode>Ich bitt Dich, schreib mir nur gleich und viel und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
                 <Coords points="365,1345 1978,1343 2081,1391 2295,1362 2296,1304 1966,1250 1754,1301 365,1287"/>
                 <Baseline points="378,1332 473,1334 568,1335 663,1337 759,1338 854,1339 949,1340 1044,1341 1140,1341 1235,1343 1330,1343 1425,1344 1521,1346 1616,1346 1711,1347 1806,1347 1902,1349 1997,1349 2092,1350 2187,1352 2283,1352"/>
                 <TextEquiv>
-                    <Unicode>deutlicher 1 Ja? Ich hab mich mit dem Lesen so</Unicode>
+                    <Unicode>deutlicher! Ja? Ich hab mich mit dem Lesen so</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
                 <Coords points="373,1473 2288,1518 2252,1411 374,1389"/>
                 <Baseline points="387,1469 481,1467 575,1467 670,1467 764,1469 858,1470 953,1470 1047,1472 1141,1473 1236,1475 1330,1477 1424,1478 1519,1481 1613,1481 1707,1482 1802,1484 1896,1485 1990,1485 2085,1485 2179,1485 2274,1484"/>
                 <TextEquiv>
-                    <Unicode>plagen müssen. Ich möcht auch sog gern über Dein</Unicode>
+                    <Unicode>plagen müssen. Ich möcht auch so gern über Dein</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
                 <Coords points="355,1613 714,1641 783,1605 936,1647 1361,1602 1559,1647 1639,1613 1640,1545 356,1513"/>
                 <Baseline points="368,1593 430,1594 493,1595 556,1596 619,1598 682,1598 745,1599 808,1599 871,1601 934,1601 997,1602 1059,1602 1122,1604 1185,1604 1248,1605 1311,1605 1374,1607 1437,1607 1500,1608 1563,1608 1626,1610"/>
                 <TextEquiv>
                     <Unicode>Stück von Dir hören. Sei nett!</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
                 <Coords points="477,1730 2379,1765 2351,1669 478,1659"/>
                 <Baseline points="491,1725 584,1727 678,1728 772,1730 866,1731 960,1733 1053,1734 1147,1736 1241,1736 1335,1737 1429,1739 1522,1740 1616,1740 1710,1742 1804,1742 1898,1743 1991,1743 2085,1745 2179,1745 2273,1746 2367,1746"/>
                 <TextEquiv>
                     <Unicode>Wenn Du herüberkommst, so nur nicht zwischen 4</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
                 <Coords points="365,1869 2362,1918 2363,1812 2125,1793 366,1814"/>
                 <Baseline points="378,1859 476,1860 575,1862 673,1862 772,1863 870,1863 969,1865 1067,1865 1166,1866 1264,1866 1363,1868 1462,1869 1560,1870 1659,1871 1757,1872 1856,1874 1954,1877 2053,1878 2151,1881 2250,1884 2349,1886"/>
                 <TextEquiv>
-                    <Unicode>und 8, denn da haben wir Verwandte hier, und zeig</Unicode>
+                    <Unicode>und 8. denn da haben wir Verwandte hier, und zeig</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:13;}">
-                <Coords points="1156,1922 1174,1929 1188,1922 1239,1954 1321,1950 1325,1882 1280,1879 1267,1870 1232,1882 1220,1873 1201,1883 1180,1873 1159,1875"/>
-                <Baseline points="1170,1922 1197,1928 1225,1929 1252,1929 1280,1930 1308,1934"/>
-                <TextEquiv>
-                    <Unicode>Wici</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
                 <Coords points="379,2018 635,1986 675,2027 870,2000 1284,2058 1689,2026 1690,1949 380,1938"/>
                 <Baseline points="392,1989 456,1989 520,1989 584,1991 649,1991 713,1992 777,1994 841,1994 906,1995 970,1996 1034,1997 1098,1998 1163,1998 1227,2000 1291,2000 1355,2001 1420,2001 1484,2002 1548,2003 1612,2003 1677,2003"/>
                 <TextEquiv>
-                    <Unicode>es mir jedenfalls öffentlich an.</Unicode>
+                    <Unicode>es mir jedenfalls officiel an.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+            <TextLine id="r1l16" custom="readingOrder {index:12;}">
                 <Coords points="485,2158 2319,2163 2320,2060 487,2042"/>
                 <Baseline points="498,2118 588,2120 678,2121 769,2123 859,2124 950,2124 1040,2126 1130,2126 1221,2127 1311,2127 1402,2129 1492,2130 1582,2130 1673,2132 1763,2133 1854,2133 1944,2135 2034,2136 2125,2138 2215,2139 2306,2142"/>
                 <TextEquiv>
                     <Unicode>Ich freu mich schon sehr auf Deinen Brief und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+            <TextLine id="r1l17" custom="readingOrder {index:13;}">
                 <Coords points="366,2291 543,2255 1430,2302 1903,2253 1903,2195 1753,2176 366,2188"/>
                 <Baseline points="378,2246 453,2247 529,2249 604,2250 680,2252 756,2253 831,2255 907,2256 982,2258 1058,2259 1134,2259 1209,2261 1285,2261 1360,2261 1436,2259 1512,2259 1587,2258 1663,2255 1738,2252 1814,2247 1890,2243"/>
                 <TextEquiv>
-                    <Unicode>schick Dir viele schöne Briefe Günsche</Unicode>
+                    <Unicode>schick Dir viele schöne  Grüße</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+            <TextLine id="r1l18" custom="readingOrder {index:14;}">
                 <Coords points="1624,2360 1693,2367 1831,2327 1912,2357 2082,2344 2083,2283 2051,2270 2001,2285 1877,2251 1840,2277 1763,2281 1726,2259 1665,2287 1626,2273"/>
                 <Baseline points="1637,2327 1662,2327 1687,2327 1713,2327 1738,2327 1764,2328 1789,2328 1814,2328 1840,2328 1865,2330 1891,2330 1916,2331 1941,2331 1967,2331 1992,2332 2018,2333 2043,2333 2069,2333"/>
                 <TextEquiv>
                     <Unicode>Deine Clara</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+            <TextLine id="r1l19" custom="readingOrder {index:15;}">
                 <Coords points="374,2492 635,2469 809,2509 1113,2470 1242,2513 1369,2471 1441,2505 1520,2474 1520,2392 950,2369 773,2377 720,2416 543,2368 374,2399"/>
                 <Baseline points="387,2466 443,2461 499,2456 555,2453 611,2451 667,2450 723,2449 779,2450 835,2450 891,2451 947,2453 1003,2454 1059,2456 1115,2457 1171,2459 1227,2460 1283,2460 1339,2459 1395,2457 1451,2455 1508,2451"/>
                 <TextEquiv>
-                    <Unicode>S chreib wieder an Hary Graf</Unicode>
+                    <Unicode>Schreib wieder an Hary Graf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Frankenstein sagte, schreibt Hugo an einem Puppen¬
+spiel, in dem der Kaiser von China vorkommt. Was
+soll das? Hirschfeld (Georg ) schreibt mir öfters.
+Er war in München, ist nun schon lang wieder in Berlin
+und sehr fleissig. Ich möcht's auch wieder sein! –
+Ich bitt Dich, schreib mir nur gleich und viel und
+deutlicher! Ja? Ich hab mich mit dem Lesen so
+plagen müssen. Ich möcht auch so gern über Dein
+Stück von Dir hören. Sei nett!
+Wenn Du herüberkommst, so nur nicht zwischen 4
+und 8. denn da haben wir Verwandte hier, und zeig
+es mir jedenfalls officiel an.
+Ich freu mich schon sehr auf Deinen Brief und
+schick Dir viele schöne  Grüße
+Deine Clara
+Schreib wieder an Hary Graf</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

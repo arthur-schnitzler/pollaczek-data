@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:02.889+01:00</Created>
-        <LastChange>2022-11-29T12:59:38.487+01:00</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259000" pageNr="21" tsid="105301665" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=KROAGZPCZVEDLJVILJIQJVUV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ISUFPVQNFGRRURSRQZISMGWH" imageId="41048805"/>
+        <LastChange>2022-11-30T22:08:57.168+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259000" pageNr="21" tsid="105444484" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=KROAGZPCZVEDLJVILJIQJVUV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QBQMAPEBRXVHJKZJGSUVWPSJ" imageId="41048805"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0021.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949161" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783188" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -39,7 +39,7 @@
                 <Coords points="323,1018 2389,1003 2439,907 322,928"/>
                 <Baseline points="335,983 372,983 409,981 446,981 484,981 521,980 558,980 595,980 633,980 670,980 707,980 744,980 782,980 819,980 856,980 893,981 931,981 968,981 1005,981 1042,981 1080,983 1320,977 1375,977 1430,977 1486,977 1541,977 1596,975 1652,975 1707,975 1762,975 1818,975 1873,975 1928,974 1984,974 2039,974 2094,974 2150,974 2205,974 2260,974 2316,972 2371,972 2427,972"/>
                 <TextEquiv>
-                    <Unicode>den freundlichen Grüssen kam. "Mimi" und ich haben</Unicode>
+                    <Unicode>den freundlichen Grüssen kam. »Mimi« und ich haben</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668710617688_582" custom="readingOrder {index:4;}">
@@ -67,14 +67,14 @@
                 <Coords points="326,1515 2130,1540 2432,1527 2469,1442 326,1451"/>
                 <Baseline points="338,1508 443,1506 549,1506 655,1506 761,1506 867,1506 973,1506 1079,1505 1185,1505 1291,1505 1397,1506 1502,1505 1608,1505 1714,1505 1820,1505 1926,1505 2032,1505 2138,1503 2244,1503 2350,1502 2456,1502"/>
                 <TextEquiv>
-                    <Unicode>grossem Vergnügen ein und hoffe sehr bald etwas " Un¬</Unicode>
+                    <Unicode>grossem Vergnügen ein und hoffe sehr bald etwas »Un¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l12" custom="readingOrder {index:8;}">
                 <Coords points="322,1676 1638,1649 1638,1601 1567,1567 1384,1551 1342,1585 931,1567 814,1618 722,1573 322,1565"/>
                 <Baseline points="336,1641 400,1640 465,1638 529,1637 594,1635 658,1635 723,1635 787,1635 852,1635 916,1635 981,1635 1045,1635 1110,1636 1174,1637 1239,1637 1303,1637 1368,1637 1432,1637 1497,1637 1561,1636 1626,1635"/>
                 <TextEquiv>
-                    <Unicode>gedrucktes von Ihnen zu lesen.</Unicode>
+                    <Unicode>gedrucktes« von Ihnen zu lesen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:9;}">
@@ -102,12 +102,12 @@
                 <Unicode>7.III.1896.
 Sehr geehrter Herr Doktor!
 Ich war gerade bei der Arbeit als Ihr Buch mit
-den freundlichen Grüssen kam. "Mimi" und ich haben
+den freundlichen Grüssen kam. »Mimi« und ich haben
 uns sehr mit demselben gefreut und werde ich dieses
 "herzige Mäderl" mit Gegengrüssen demnächst an Sie
 senden. Auf Ihren Vorschlag gehe ich natürlich mit
-grossem Vergnügen ein und hoffe sehr bald etwas " Un¬
-gedrucktes von Ihnen zu lesen.
+grossem Vergnügen ein und hoffe sehr bald etwas »Un¬
+gedrucktes« von Ihnen zu lesen.
 Mit bestem Dank
 herzlichst
 Clara Loeb</Unicode>

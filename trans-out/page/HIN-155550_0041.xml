@@ -3,46 +3,39 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:06.432+01:00</Created>
-        <LastChange>2022-11-29T08:23:44.922+01:00</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259123" pageNr="41" tsid="105283080" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=EULDIOGPROYXUTIDOCTESZMG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MPZGBIXVDDESKDIZXTYVTQDQ" imageId="41048827"/>
+        <LastChange>2022-11-30T22:43:09.856+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259123" pageNr="41" tsid="105445184" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=EULDIOGPROYXUTIDOCTESZMG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BCLIWCQXEOLYNJWXXQNIFXJU" imageId="41048827"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0041.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949254" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783310" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="314,145 314,1073 2667,1073 2667,145"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;} date {offset:4; length:9;}">
-                <Coords points="1242,390 1323,406 1386,368 1584,365 1688,416 1791,391 1903,410 2055,387 2055,281 1954,273 1823,312 1693,263 1592,318 1241,303"/>
-                <Baseline points="1254,372 1293,376 1332,378 1372,381 1411,382 1451,383 1490,383 1529,383 1569,383 1608,383 1648,381 1687,381 1726,380 1766,380 1805,378 1845,378 1884,377 1923,377 1963,377 2002,377 2042,378"/>
-                <TextEquiv>
-                    <Unicode>-6- 30.VII.97.</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
                 <Coords points="315,603 2366,606 2477,593 2476,496 314,524"/>
                 <Baseline points="329,590 435,590 542,588 648,587 755,587 862,585 968,584 1075,582 1182,581 1288,579 1395,578 1502,576 1608,575 1715,574 1822,573 1928,572 2035,570 2142,569 2248,569 2355,567 2462,567"/>
                 <TextEquiv>
                     <Unicode>es ist gleich zwölf Uhr und ich will den Brief morgen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
                 <Coords points="312,729 2466,754 2514,639 1415,658 1173,592 1054,667 311,661"/>
                 <Baseline points="326,720 434,720 543,719 652,718 761,717 869,716 978,716 1087,714 1196,713 1304,711 1413,711 1522,710 1631,708 1739,707 1848,707 1957,705 2066,704 2174,703 2283,702 2392,701 2501,701"/>
                 <TextEquiv>
                     <Unicode>Früh nicht mehr lesen sonst zerreiss ich ihn vielleicht</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
                 <Coords points="300,856 1756,859 1754,737 1393,798 300,788"/>
                 <Baseline points="314,852 385,854 456,854 528,854 599,854 671,852 742,852 813,852 885,851 956,851 1028,849 1099,849 1170,848 1242,846 1313,846 1385,845 1456,843 1527,842 1599,842 1670,840 1742,839"/>
                 <TextEquiv>
                     <Unicode>Leb wohl,in herzlicher Freundschaft</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
                 <Coords points="1714,1046 1907,1073 1954,1041 2046,1046 2062,1062 2095,1046 2204,1049 2204,964 2177,959 2090,989 2011,962 1970,978 1902,962 1856,989 1769,959 1714,967"/>
                 <Baseline points="1728,1034 1753,1034 1779,1034 1805,1035 1830,1035 1856,1034 1882,1034 1907,1034 1933,1034 1959,1034 1984,1033 2010,1032 2036,1032 2061,1032 2087,1034 2113,1034 2138,1034 2164,1035 2190,1037"/>
                 <TextEquiv>
@@ -50,8 +43,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>-6- 30.VII.97.
-es ist gleich zwölf Uhr und ich will den Brief morgen
+                <Unicode>es ist gleich zwölf Uhr und ich will den Brief morgen
 Früh nicht mehr lesen sonst zerreiss ich ihn vielleicht
 Leb wohl,in herzlicher Freundschaft
 Deine Clara</Unicode>

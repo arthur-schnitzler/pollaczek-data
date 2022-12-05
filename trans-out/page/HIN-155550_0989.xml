@@ -3,36 +3,36 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:54</Creator>
         <Created>2022-11-17T16:37:01.854+01:00</Created>
-        <LastChange>2022-11-25T14:22:53.831+01:00</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50265018" pageNr="989" tsid="105038851" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YNHMPSOCVADHFXAKBTKIOZPM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TEENZSBULQHMXFJZKRLNDOSN" imageId="41051426"/>
+        <LastChange>2022-12-02T09:58:46.849+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50265018" pageNr="989" tsid="105536062" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YNHMPSOCVADHFXAKBTKIOZPM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VZVTHHXDCCHDVKRXPJBBVZRO" imageId="41051426"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0989.tif" imageWidth="3673" imageHeight="4687">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820954306" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241788821" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="480,350 480,4418 3587,4418 3587,350"/>
-            <TextLine id="line_1668781880345_1288" custom="readingOrder {index:0;}">
+            <TextLine id="line_1668781880345_1288" custom="readingOrder {index:0;} supplied {offset:68; length:1;}">
                 <Coords points="462,633 2939,658 3432,613 3431,455 461,518"/>
                 <Baseline points="480,602 525,603 570,603 615,603 661,605 706,605 751,605 796,604 842,603 887,603 932,603 977,602 1023,602 1068,602 1113,600 1158,600 1204,600 1249,600 1294,600 1339,600 1385,600 1955,597 2027,597 2100,597 2173,597 2246,596 2319,596 2391,595 2464,594 2537,594 2610,593 2683,593 2755,592 2828,591 2901,591 2974,590 3047,590 3119,590 3192,590 3265,590 3338,590 3411,591"/>
                 <TextEquiv>
-                    <Unicode>Nachher mit Herr und Frau Dr Kapper, die auch im Theater waren bei Meisel</Unicode>
+                    <Unicode>Nachher mit Herr und Frau Dr Kapper, die auch im Theater waren, bei »Meisel</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668781886817_1297" custom="readingOrder {index:1;}">
                 <Coords points="470,780 3544,748 3135,615 470,664"/>
                 <Baseline points="488,734 532,734 577,734 622,734 667,734 712,734 757,734 801,734 846,734 891,732 936,732 981,732 1026,732 1071,732 1115,732 1160,732 1205,732 1250,734 1295,734 1340,735 1385,737 1881,729 1906,729 1931,729 1956,728 1981,728 2006,728 2031,728 2056,728 2081,728 2106,729 2131,728 2156,728 2181,728 2206,728 2231,728 2256,726 2281,726 2307,723 2520,726 2570,725 2620,725 2670,723 2720,723 2771,723 2821,722 2871,722 2921,722 2971,722 3022,722 3072,722 3122,722 3172,722 3222,722 3273,722 3323,722 3373,722 3423,722 3473,722 3524,722"/>
                 <TextEquiv>
-                    <Unicode>und Schaden "genachtmahlt. Recht gemütlich und A. nachdem er etwas gegessen</Unicode>
+                    <Unicode>und Schaden« genachtmahlt. Recht gemütlich und A. nachdem er etwas gegessen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l8" custom="readingOrder {index:2;}">
                 <Coords points="475,918 3168,911 3464,783 474,779"/>
                 <Baseline points="495,866 642,866 789,864 937,863 1084,861 1232,861 1379,860 1527,860 1674,860 1822,858 1969,858 2116,857 2264,857 2411,857 2559,855 2706,854 2854,854 3001,852 3149,851 3296,849 3444,848"/>
                 <TextEquiv>
-                    <Unicode>hatte wieder in besserer Verfassung und gesprächig nachden er sich im The¬</Unicode>
+                    <Unicode>hatte wieder in besserer Verfassung und gesprächig nachdem er sich im The¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668781889819_1303" custom="readingOrder {index:3;}">
@@ -49,7 +49,7 @@
                     <Unicode>Mich meidet er. Was für ein schlechtes Gewissen muss er mir gegenüber haben.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+            <TextLine id="r1l12" custom="readingOrder {index:5;} structure {type:paragraph;}">
                 <Coords points="658,1283 3290,1284 3312,1137 658,1210"/>
                 <Baseline points="678,1257 808,1256 939,1254 1070,1254 1201,1253 1332,1251 1462,1251 1593,1250 1724,1250 1855,1248 1986,1248 2116,1248 2247,1247 2378,1247 2509,1245 2640,1245 2770,1244 2901,1244 3032,1242 3163,1242 3294,1241"/>
                 <TextEquiv>
@@ -60,14 +60,14 @@
                 <Coords points="481,1392 2858,1454 3401,1405 3447,1304 480,1307"/>
                 <Baseline points="500,1383 646,1383 792,1383 939,1383 1085,1383 1232,1382 1378,1382 1524,1380 1671,1380 1817,1379 1964,1379 2110,1377 2256,1377 2403,1376 2549,1374 2696,1374 2842,1373 2988,1373 3135,1371 3281,1371 3428,1371"/>
                 <TextEquiv>
-                    <Unicode>(nämlich Dr. K) "nichts sagen " Später animirte conversation. A sagte:</Unicode>
+                    <Unicode>(nämlich Dr. K) »nichts sagen« Später animirte Conversation. A sagte:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l14" custom="readingOrder {index:7;}">
                 <Coords points="483,1561 3550,1515 3222,1410 483,1457"/>
                 <Baseline points="504,1517 655,1517 806,1517 958,1515 1109,1515 1260,1514 1412,1512 1563,1512 1714,1511 1866,1509 2017,1508 2168,1506 2320,1506 2471,1505 2622,1503 2774,1503 2925,1502 3076,1502 3228,1502 3379,1502 3531,1503"/>
                 <TextEquiv>
-                    <Unicode>Das Leben ist doch schön und interessant - ich möchte um der schönen Stunden</Unicode>
+                    <Unicode>Das Leben ist doch schön und interessant – ich möchte um der schönen Stunden</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l15" custom="readingOrder {index:8;}">
@@ -84,11 +84,11 @@
                     <Unicode>Wir Frauen meinten, wir hätten mit einem Mal genug-</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:10;}">
+            <TextLine id="r1l17" custom="readingOrder {index:10;} structure {type:paragraph;}">
                 <Coords points="480,1970 3461,1952 3553,1759 479,1816"/>
                 <Baseline points="498,1910 649,1908 801,1907 953,1905 1105,1905 1257,1904 1408,1904 1560,1904 1712,1902 1864,1902 2016,1902 2167,1902 2319,1901 2471,1901 2623,1899 2775,1899 2926,1898 3078,1896 3230,1895 3382,1893 3534,1890"/>
                 <TextEquiv>
-                    <Unicode>Heimfahrt still aber nicht unfreundlich. A. sagte, er habe mich heute Vor-</Unicode>
+                    <Unicode>Heimfahrt still aber nicht unfreundlich. A. sagte, er habe mich heute Vor¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l18" custom="readingOrder {index:11;}">
@@ -102,7 +102,7 @@
                 <Coords points="486,2202 3387,2202 3595,2171 3595,2071 486,2109"/>
                 <Baseline points="504,2168 657,2166 811,2166 964,2166 1118,2166 1272,2165 1425,2165 1579,2165 1732,2163 1886,2163 2040,2162 2193,2162 2347,2160 2500,2160 2654,2159 2808,2159 2961,2159 3115,2157 3268,2157 3422,2157 3576,2157"/>
                 <TextEquiv>
-                    <Unicode>Heute rief A. mich schon um gö an. Er hat sich in der Nacht nicht wol gefühlt</Unicode>
+                    <Unicode>Heute rief A. mich schon um 1/2 8 an. Er hat sich in der Nacht nicht wol gefühlt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l20" custom="readingOrder {index:13;}">
@@ -112,32 +112,32 @@
                     <Unicode>Üblichkeiten. Ich riet ihm Vormittag zu Hause zu bleiben.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:14;}">
+            <TextLine id="r1l21" custom="readingOrder {index:14;} date {offset:0; length:13;}">
                 <Coords points="477,2458 762,2443 878,2493 1039,2422 1228,2466 1312,2423 1382,2453 1466,2410 1466,2345 1361,2319 815,2378 741,2336 549,2368 476,2346"/>
                 <Baseline points="497,2424 544,2424 592,2424 639,2424 687,2424 734,2424 782,2424 829,2424 877,2424 924,2424 972,2424 1020,2424 1067,2424 1115,2423 1162,2423 1210,2421 1257,2420 1305,2418 1352,2417 1400,2415 1448,2412"/>
                 <TextEquiv>
-                    <Unicode>22ten Oktober - Vorbei--</Unicode>
+                    <Unicode>22ten Oktober – Vorbei – –</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:15;}">
+            <TextLine id="r1l22" custom="readingOrder {index:15;} date {offset:0; length:5;}">
                 <Coords points="481,2571 547,2573 573,2601 616,2575 658,2588 686,2573 728,2575 730,2502 704,2493 650,2495 642,2503 615,2482 592,2493 566,2469 530,2499 519,2491 484,2494"/>
                 <Baseline points="500,2553 526,2553 552,2554 578,2555 604,2556 630,2558 656,2558 682,2558 708,2558"/>
                 <TextEquiv>
                     <Unicode>23ten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:16;}">
+            <TextLine id="r1l23" custom="readingOrder {index:16;} date {offset:3; length:10;}">
                 <Coords points="477,2695 3590,2694 3454,2595 476,2610"/>
                 <Baseline points="494,2684 647,2684 801,2684 955,2684 1109,2684 1263,2684 1416,2684 1570,2682 1724,2682 1878,2681 2032,2681 2185,2679 2339,2679 2493,2678 2647,2678 2801,2676 2954,2676 3108,2675 3262,2675 3416,2675 3570,2673"/>
                 <TextEquiv>
-                    <Unicode>Am 21ten Okt. gegen 12 rief Frieda mich hinüber - sie hat ihn als sie zum Dik-</Unicode>
+                    <Unicode>Am 21ten Okt. gegen 12 rief Frieda mich hinüber – sie hat ihn als sie zum Dik¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l24" custom="readingOrder {index:17;}">
                 <Coords points="485,2830 3509,2807 485,2738"/>
                 <Baseline points="504,2810 653,2811 802,2811 952,2811 1101,2811 1250,2811 1400,2811 1549,2811 1698,2810 1848,2810 1997,2810 2146,2810 2296,2808 2445,2808 2594,2807 2744,2807 2893,2807 3042,2805 3192,2805 3341,2804 3491,2804"/>
                 <TextEquiv>
-                    <Unicode>tat kam am Boden seines Zimmers gefunden. Er soll ganz kurze Zeit fortge-</Unicode>
+                    <Unicode>tat kam am Boden seines Zimmers gefunden. Er soll ganz kurze Zeit fortge¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l25" custom="readingOrder {index:18;}">
@@ -151,7 +151,7 @@
                 <Coords points="488,3082 3528,3103 3451,2987 488,3013"/>
                 <Baseline points="509,3069 659,3069 809,3069 959,3069 1109,3069 1259,3069 1409,3069 1559,3069 1709,3069 1859,3069 2009,3069 2159,3069 2309,3069 2459,3069 2609,3071 2759,3071 2909,3071 3059,3071 3209,3069 3359,3069 3509,3069"/>
                 <TextEquiv>
-                    <Unicode>heiter heimgekommen. - Aderlass tiefe Bewustlosigkeit. Ich hielt seinen Kopf</Unicode>
+                    <Unicode>heiter heimgekommen. – Aderlass tiefe Bewustlosigkeit. Ich hielt seinen Kopf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l27" custom="readingOrder {index:20;}">
@@ -165,35 +165,35 @@
                 <Coords points="554,3333 3451,3375 3451,3271 2762,3228 554,3264"/>
                 <Baseline points="572,3327 722,3329 872,3329 1023,3330 1173,3330 1324,3330 1474,3330 1625,3332 1775,3332 1926,3332 2076,3332 2227,3332 2377,3332 2528,3332 2678,3332 2829,3332 2979,3332 3130,3332 3280,3332 3431,3332"/>
                 <TextEquiv>
-                    <Unicode>Jetzt bin ich heingekehrt. Die Nacht nach seinem Tod durfte ich bei ihm</Unicode>
+                    <Unicode>Jetzt bin ich heimgekehrt. Die Nacht nach seinem Tod durfte ich bei ihm</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l29" custom="readingOrder {index:22;}">
                 <Coords points="483,3507 3446,3489 3446,3404 2914,3372 483,3399"/>
                 <Baseline points="504,3456 650,3458 796,3459 942,3461 1088,3462 1234,3464 1380,3464 1526,3464 1672,3464 1818,3464 1965,3464 2111,3464 2257,3464 2403,3464 2549,3464 2695,3464 2841,3464 2987,3464 3133,3464 3279,3464 3426,3465"/>
                 <TextEquiv>
-                    <Unicode>bleiben. Gestern zwischen Bund 7 war es vorbei. Und das Lebån soll weiter</Unicode>
+                    <Unicode>bleiben. Gestern zwischen 6 und 7 war es vorbei. Und das Leben soll weiter</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l30" custom="readingOrder {index:23;}">
                 <Coords points="494,3634 568,3642 613,3621 676,3641 720,3604 786,3613 812,3589 870,3586 867,3521 787,3536 751,3518 721,3539 679,3537 608,3501 559,3531 490,3545"/>
                 <Baseline points="512,3587 538,3589 564,3590 590,3590 616,3588 642,3588 668,3585 695,3583 721,3581 747,3579 773,3578 799,3578 825,3578 852,3579"/>
                 <TextEquiv>
-                    <Unicode>gehen - -</Unicode>
+                    <Unicode>gehen – –</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:24;}">
+            <TextLine id="r1l31" custom="readingOrder {index:24;} date {offset:0; length:6;}">
                 <Coords points="489,3765 3313,3763 3483,3656 489,3646"/>
                 <Baseline points="510,3717 657,3717 805,3717 952,3719 1100,3719 1248,3719 1395,3720 1543,3720 1690,3720 1838,3720 1986,3722 2133,3722 2281,3722 2428,3723 2576,3723 2724,3723 2871,3725 3019,3725 3166,3725 3314,3726 3462,3726"/>
                 <TextEquiv>
-                    <Unicode>23ten. Heute wurde er begraben. - Ich stand an seinen Sarg in seinem Zimmer</Unicode>
+                    <Unicode>23ten. Heute wurde er begraben. – Ich stand an seinen Sarg in seinem Zimmer</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l32" custom="readingOrder {index:25;}">
                 <Coords points="489,3892 2654,3916 2739,3881 2739,3762 489,3765"/>
                 <Baseline points="507,3845 617,3845 728,3845 839,3845 949,3846 1060,3846 1171,3846 1281,3848 1392,3848 1503,3849 1614,3849 1724,3849 1835,3849 1946,3851 2056,3851 2167,3851 2278,3849 2388,3849 2499,3848 2610,3847 2721,3846"/>
                 <TextEquiv>
-                    <Unicode>bis man ihn forttrug. Die Kinder fuhren mit mir hinaus-</Unicode>
+                    <Unicode>bis man ihn forttrug. Die Kinder fuhren mit mir hinaus –</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l33" custom="readingOrder {index:26;}">
@@ -217,44 +217,44 @@
                     <Unicode>um den Hals.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:29;}">
+            <TextLine id="r1l36" custom="readingOrder {index:29;} structure {type:paragraph;} supplied {offset:0; length:1;}">
                 <Coords points="485,4426 3205,4442 3606,4410 3607,4322 486,4275"/>
                 <Baseline points="506,4367 660,4368 814,4370 968,4371 1122,4371 1276,4373 1430,4374 1584,4374 1738,4376 1892,4376 2046,4377 2200,4377 2354,4379 2508,4380 2662,4380 2816,4382 2970,4382 3124,4383 3278,4385 3432,4386 3587,4388"/>
                 <TextEquiv>
-                    <Unicode>als ich getern drünen fortgieng kam Frau Cl. Grau im Gesicht starrte sie mich</Unicode>
+                    <Unicode>Als ich gestern drüben fortgieng kam Frau Cl. Grau im Gesicht starrte sie mich</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Nachher mit Herr und Frau Dr Kapper, die auch im Theater waren bei Meisel
-und Schaden "genachtmahlt. Recht gemütlich und A. nachdem er etwas gegessen
-hatte wieder in besserer Verfassung und gesprächig nachden er sich im The¬
+                <Unicode>Nachher mit Herr und Frau Dr Kapper, die auch im Theater waren, bei »Meisel
+und Schaden« genachtmahlt. Recht gemütlich und A. nachdem er etwas gegessen
+hatte wieder in besserer Verfassung und gesprächig nachdem er sich im The¬
 ater wieder elend gefühlt und sehr geklagt hatte. Ich versteh Dr. D. nicht.
 Mich meidet er. Was für ein schlechtes Gewissen muss er mir gegenüber haben.
 A. Liess sich von Dr Kapper den Puls fühlen. Ich flüsterte ihm zu
-(nämlich Dr. K) "nichts sagen " Später animirte conversation. A sagte:
-Das Leben ist doch schön und interessant - ich möchte um der schönen Stunden
+(nämlich Dr. K) »nichts sagen« Später animirte Conversation. A sagte:
+Das Leben ist doch schön und interessant – ich möchte um der schönen Stunden
 willen gleich noch einmal Leben. Dr K. nahm einen ähnlichen Standpunkt ein.
 Wir Frauen meinten, wir hätten mit einem Mal genug-
-Heimfahrt still aber nicht unfreundlich. A. sagte, er habe mich heute Vor-
+Heimfahrt still aber nicht unfreundlich. A. sagte, er habe mich heute Vor¬
 mittag in der Stadt gesucht, sei über den Graben gegangen.
-Heute rief A. mich schon um gö an. Er hat sich in der Nacht nicht wol gefühlt
+Heute rief A. mich schon um 1/2 8 an. Er hat sich in der Nacht nicht wol gefühlt
 Üblichkeiten. Ich riet ihm Vormittag zu Hause zu bleiben.
-22ten Oktober - Vorbei--
+22ten Oktober – Vorbei – –
 23ten
-Am 21ten Okt. gegen 12 rief Frieda mich hinüber - sie hat ihn als sie zum Dik-
-tat kam am Boden seines Zimmers gefunden. Er soll ganz kurze Zeit fortge-
+Am 21ten Okt. gegen 12 rief Frieda mich hinüber – sie hat ihn als sie zum Dik¬
+tat kam am Boden seines Zimmers gefunden. Er soll ganz kurze Zeit fortge¬
 wesen sein (Minna glaubt nur an der Post oder beim Postkasten und ist sehr
-heiter heimgekommen. - Aderlass tiefe Bewustlosigkeit. Ich hielt seinen Kopf
+heiter heimgekommen. – Aderlass tiefe Bewustlosigkeit. Ich hielt seinen Kopf
 in meinen Händen bis zu seinem letzten Athemzug.
-Jetzt bin ich heingekehrt. Die Nacht nach seinem Tod durfte ich bei ihm
-bleiben. Gestern zwischen Bund 7 war es vorbei. Und das Lebån soll weiter
-gehen - -
-23ten. Heute wurde er begraben. - Ich stand an seinen Sarg in seinem Zimmer
-bis man ihn forttrug. Die Kinder fuhren mit mir hinaus-
+Jetzt bin ich heimgekehrt. Die Nacht nach seinem Tod durfte ich bei ihm
+bleiben. Gestern zwischen 6 und 7 war es vorbei. Und das Leben soll weiter
+gehen – –
+23ten. Heute wurde er begraben. – Ich stand an seinen Sarg in seinem Zimmer
+bis man ihn forttrug. Die Kinder fuhren mit mir hinaus –
 Die O. und Heini seit gestern hier. O. und ich reichten einander an seiner
 Leiche die Hand. Sie ist geschminkt thränenlos komödiantisch. Heini fiel mir
 um den Hals.
-als ich getern drünen fortgieng kam Frau Cl. Grau im Gesicht starrte sie mich</Unicode>
+Als ich gestern drüben fortgieng kam Frau Cl. Grau im Gesicht starrte sie mich</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

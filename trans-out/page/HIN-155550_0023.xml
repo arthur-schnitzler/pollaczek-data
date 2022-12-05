@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:03.251+01:00</Created>
-        <LastChange>2022-11-29T13:00:18.665+01:00</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259002" pageNr="23" tsid="105301832" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=QDRYLGTXELNDQFWTENINRZPL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GSYLTWCEYTOYERRJTTZKGVFG" imageId="41048807"/>
+        <LastChange>2022-11-30T22:19:15.371+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259002" pageNr="23" tsid="105444554" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=QDRYLGTXELNDQFWTENINRZPL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SMCEEUQKOSFKWDSICJPMZKGC" imageId="41048807"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0023.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949181" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783195" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -39,7 +39,7 @@
                 <Coords points="321,1125 2398,1117 2373,1019 321,1024"/>
                 <Baseline points="335,1085 437,1085 540,1085 642,1085 745,1085 847,1085 950,1085 1052,1085 1155,1085 1257,1083 1360,1083 1462,1083 1565,1083 1667,1083 1770,1083 1872,1083 1975,1082 2077,1082 2180,1082 2282,1080 2385,1079"/>
                 <TextEquiv>
-                    <Unicode>lassen aber Ihre Antwort hat mich für diese Geduld-</Unicode>
+                    <Unicode>lassen aber Ihre Antwort hat mich für diese Geduld¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l5" custom="readingOrder {index:4;}">
@@ -88,14 +88,14 @@
                 <Coords points="331,2047 2027,2043 2232,1982 2354,2032 2481,1995 2481,1913 331,1957"/>
                 <Baseline points="345,1998 451,2000 557,2000 663,2001 769,2001 875,2001 981,2001 1088,2001 1194,2001 1300,2001 1406,2001 1512,2001 1618,2001 1724,2001 1831,2001 1937,2001 2043,2001 2149,2001 2255,2001 2361,2001 2468,2003"/>
                 <TextEquiv>
-                    <Unicode>neue Szenen einfügen und den alten notwendige "Lich-</Unicode>
+                    <Unicode>neue Szenen einfügen und den alten notwendige »Lich-</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l12" custom="readingOrder {index:11;}">
                 <Coords points="348,2140 2408,2164 2408,2092 2074,2044 972,2101 348,2053"/>
                 <Baseline points="360,2130 461,2130 563,2130 665,2130 766,2130 868,2132 970,2132 1071,2132 1173,2132 1275,2132 1377,2132 1478,2132 1580,2132 1682,2132 1783,2132 1885,2132 1987,2132 2088,2132 2190,2132 2292,2133 2394,2133"/>
                 <TextEquiv>
-                    <Unicode>ter " aufsetzen. Auch die kleinen Aeusserlichkeiten</Unicode>
+                    <Unicode>ter« aufsetzen. Auch die kleinen Aeusserlichkeiten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:12;}">
@@ -151,22 +151,22 @@
                 <Coords points="1903,3007 1927,3009 1943,2993 1962,3009 2004,2996 2068,3017 2134,3020 2156,3001 2201,2993 2201,2903 2140,2898 2108,2922 2073,2916 2057,2930 2023,2932 1986,2906 1903,2927"/>
                 <Baseline points="1916,2981 1943,2983 1970,2984 1997,2984 2024,2984 2051,2982 2078,2982 2105,2982 2132,2982 2159,2983 2187,2985"/>
                 <TextEquiv>
-                    <Unicode>C. Beol</Unicode>
+                    <Unicode>C. Beól</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>4. 4. 96.
 Verehrter Herr Doktor!
 Endlich! Sie haben mich riesig lange warten
-lassen aber Ihre Antwort hat mich für diese Geduld-
+lassen aber Ihre Antwort hat mich für diese Geduld¬
 probe reichlich entschädigt und ich kann Ihnen gar
 nicht sagen wie aufrichtig dankbar ich Ihnen für das
 Interesse bin, dass Sie meiner Schreiberei entgegen-
 bringen und für die Ausführlichkeit mit der Sie mich
 auf die Fehler und Schwächen derselben aufmerksam
 machen. Ich werde Ihren Rat selbstredend befolgen,
-neue Szenen einfügen und den alten notwendige "Lich-
-ter " aufsetzen. Auch die kleinen Aeusserlichkeiten
+neue Szenen einfügen und den alten notwendige »Lich-
+ter« aufsetzen. Auch die kleinen Aeusserlichkeiten
 werde ich ändern. Ist dann die Sache soweit fertig
 so lasse ich sie abschreiben und sende sie wieder zu
 Ihnen.
@@ -174,7 +174,7 @@ Ich bin übrigens optimistischer wie sie und hoffe
 noch auf eine mündliche Rücksprache.
 Indessen nochmals vielen vielen Dank und Gruss
 von
-C. Beol</Unicode>
+C. Beól</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:54</Creator>
         <Created>2022-11-17T16:37:01.988+01:00</Created>
-        <LastChange>2022-11-25T14:22:13.347+01:00</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50265019" pageNr="990" tsid="105038799" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=LIJNODEOQKRUVBBNNQVHOATX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LYYUSWIREYWWJPUKEFTTSMJR" imageId="41051427"/>
+        <LastChange>2022-12-02T09:59:09.853+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50265019" pageNr="990" tsid="105536085" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=LIJNODEOQKRUVBBNNQVHOATX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EYOGQUXXDOMUWFFLAROARVIR" imageId="41051427"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0990.tif" imageWidth="3673" imageHeight="4687">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820954309" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241788825" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -35,18 +35,18 @@
                     <Unicode>Kraft aufbrachte.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:3;} structure {type:paragraph;}">
                 <Coords points="325,1112 598,1186 711,1118 980,1177 1166,1137 1543,1170 1545,1047 739,1065 327,993"/>
                 <Baseline points="344,1112 406,1113 468,1113 530,1115 592,1115 654,1116 716,1118 778,1119 840,1121 902,1122 964,1124 1026,1125 1088,1125 1150,1127 1212,1127 1274,1128 1336,1128 1398,1128 1460,1128 1523,1127"/>
                 <TextEquiv>
-                    <Unicode>Und heute wurde er begraben--</Unicode>
+                    <Unicode>Und heute wurde er begraben – –</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>an. Ich reichte auch ihr die Hand – aber ich hoffe dass sie nie mehr meine
 Wege kreuzen wird. Es war eine Gebärde die ich nur mit übermenschlicher Zeit
 Kraft aufbrachte.
-Und heute wurde er begraben--</Unicode>
+Und heute wurde er begraben – –</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

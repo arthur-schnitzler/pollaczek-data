@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:05.108+01:00</Created>
-        <LastChange>2022-11-18T03:23:45.874Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259053" pageNr="34" tsid="104225713" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=OBQDTAOKBJUEVEQIBZNAERLN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DSOJPKYFFITLZJUZODIOPXMB" imageId="41048820"/>
+        <LastChange>2022-11-30T22:34:38.185+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259053" pageNr="34" tsid="105444817" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=OBQDTAOKBJUEVEQIBZNAERLN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TTACBNMUNSFJPWXCOKLNPNVL" imageId="41048820"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0034.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949215" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783261" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -147,34 +147,26 @@
                     <Unicode>Rudolfshöhe. Von dem Brief darfst Du natürlich nichts</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:19;}">
-                <Coords points="2553,296 2570,295 2591,275 2602,283 2660,278 2654,134 2624,144 2588,118 2571,118 2560,108 2546,108"/>
-                <Baseline points="2567,270 2593,267 2619,266 2645,267"/>
-                <TextEquiv>
-                    <Unicode>4/18</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>19. Juli 1897.
+Lieber Arthur!
+Ich will Dir vor allem noch für Deinen lieben
+Besuch danken, der mir viel zu kurz war, denn in den
+wenigen Stunden, wo man doch nicht eine viertel Stunde
+ganz ruhig und ungestört ist, kommt man doch eigentlich
+nicht dazu so zu sein und zu reden wie man eigentlich
+möcht und man verschluckt die Hälfte von dem was man
+sich Tage vorher fest sorgenommen, dass es gesagt wer-
+den muss.
+Dann will ich Dir sagen dass wir fast sicher
+Dienstag bei gutem Wetter mit einem Frühzug nach Ischl
+kommen. Es ist am besten du frägst morgen früh gar
+harmlos Frau Z. die wir sicher verständigen werden ob
+sie Nachricht von uns hat und bittest sie, sich von
+derselben zu verständigen, im Fall sie eine bekommt.
+Wir sind jedenfalls zur Musikzeit am Vormittag auf der
+Esplanade und speisen um ein Uhr bei Frau Z. auf der
+Rudolfshöhe. Von dem Brief darfst Du natürlich nichts</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

@@ -3,16 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:51</Creator>
         <Created>2022-11-17T16:34:54.236+01:00</Created>
-        <LastChange>2022-11-25T11:51:12.097Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50262632" pageNr="300" tsid="105032173" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=CMJTXTNGNJPMVTIIYILEQFKU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SSKSJLHKTHQAHALSZWKEBOUO" imageId="41049933">
-            <Property key="mdSetName" value="myMdSet"/>
-            <Property key="property2"/>
-            <Property key="property1"/>
-        </TranskribusMetadata>
+        <LastChange>2022-12-02T16:59:07.173+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50262632" pageNr="300" tsid="105560742" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=CMJTXTNGNJPMVTIIYILEQFKU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RDVXZNYSTXRHVLVOJFJMNJOH" imageId="41049933"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0300.tif" imageWidth="3690" imageHeight="4682">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820950727" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241784710" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -43,7 +39,7 @@
                 <Coords points="975,881 3122,888 3262,859 3263,760 2732,790 2110,699 1952,779 976,752"/>
                 <Baseline points="993,828 1041,828 1090,830 1138,830 1187,831 1236,831 1284,831 1333,831 1381,833 1430,833 1479,833 1527,833 1576,834 1624,834 1673,834 1722,834 1770,834 1819,836 1867,836 1916,836 1965,836 2102,834 2159,834 2216,836 2273,836 2330,837 2387,837 2444,837 2502,837 2559,839 2616,839 2673,839 2730,839 2787,839 2844,839 2902,839 2959,839 3016,839 3073,840 3130,840 3187,840 3245,840"/>
                 <TextEquiv>
-                    <Unicode>heute kam Dein vorgestriger Bericht Nr.3,für den ich Dir</Unicode>
+                    <Unicode>heute kam Dein vorgestriger Bericht Nr.3, für den ich Dir</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668764582860_536" custom="readingOrder {index:4;}">
@@ -71,35 +67,35 @@
                 <Coords points="561,1381 3363,1417 3363,1332 3180,1290 561,1297"/>
                 <Baseline points="579,1349 717,1350 855,1352 993,1353 1132,1353 1270,1355 1408,1356 1547,1356 1685,1358 1823,1359 1962,1359 2100,1361 2238,1361 2376,1362 2515,1364 2653,1364 2791,1365 2930,1367 3068,1368 3206,1369 3345,1371"/>
                 <TextEquiv>
-                    <Unicode>Mund mauschelt, ehe sie ihn aufmacht und auch sonst ist sie eher miez.</Unicode>
+                    <Unicode>Mund mauschelt, ehe sie ihn aufmacht und auch sonst ist sie eher mies.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l11" custom="readingOrder {index:8;}">
                 <Coords points="790,1507 3397,1557 3464,1458 790,1404"/>
                 <Baseline points="807,1490 938,1488 1070,1488 1202,1488 1334,1488 1466,1488 1598,1488 1729,1488 1861,1490 1993,1490 2125,1491 2257,1493 2389,1494 2521,1496 2652,1496 2784,1497 2916,1499 3048,1500 3180,1500 3312,1502 3444,1502"/>
                 <TextEquiv>
-                    <Unicode>Dass die "else" -Aufführung mit der Bergner ein Ereignis wäre,</Unicode>
+                    <Unicode>Dass die »Else«-Aufführung mit der Bergner ein Ereignis wäre,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l12" custom="readingOrder {index:9;}">
                 <Coords points="570,1632 2098,1705 3387,1659 3447,1557 571,1547"/>
                 <Baseline points="590,1613 739,1614 888,1616 1038,1616 1187,1617 1337,1619 1486,1620 1635,1620 1785,1622 1934,1623 2084,1624 2233,1625 2383,1626 2532,1628 2681,1628 2831,1629 2980,1631 3130,1631 3279,1632 3429,1634"/>
                 <TextEquiv>
-                    <Unicode>habe ich Dir gesagt, wie Du mir die wovelle vorgelesen hast. Ob Barnows-</Unicode>
+                    <Unicode>habe ich Dir gesagt, wie Du mir die Novelle vorgelesen hast. Ob Barnows¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:10;}">
                 <Coords points="579,1780 3340,1806 3341,1710 579,1677"/>
                 <Baseline points="597,1745 733,1745 869,1745 1005,1746 1142,1746 1278,1748 1414,1749 1551,1751 1687,1752 1823,1754 1960,1755 2096,1756 2232,1757 2368,1758 2505,1760 2641,1761 2777,1761 2914,1761 3050,1763 3186,1763 3323,1763"/>
                 <TextEquiv>
-                    <Unicode>ky das zu inszenieren versteht, darüber fehlt mir natürlich jedes Ur-</Unicode>
+                    <Unicode>ky das zu inszenieren versteht, darüber fehlt mir natürlich jedes Ur¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l14" custom="readingOrder {index:11;}">
                 <Coords points="559,1897 3413,1925 3355,1817 2876,1795 559,1824"/>
                 <Baseline points="579,1875 719,1876 860,1877 1001,1878 1142,1880 1283,1880 1424,1881 1564,1883 1705,1884 1846,1886 1987,1886 2128,1887 2269,1889 2410,1890 2550,1891 2691,1892 2832,1893 2973,1895 3114,1896 3255,1896 3396,1898"/>
                 <TextEquiv>
-                    <Unicode>teil. Schade, wenn sich Reinhardt das entgehen lässt, obgleich der viel-</Unicode>
+                    <Unicode>teil. Schade, wenn sich Reinhardt das entgehen lässt, obgleich der viel¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l15" custom="readingOrder {index:12;}">
@@ -113,7 +109,7 @@
                 <Coords points="561,2175 2638,2221 3423,2185 3424,2071 562,2076"/>
                 <Baseline points="581,2135 722,2136 863,2138 1004,2139 1145,2141 1287,2142 1428,2144 1569,2145 1710,2147 1851,2148 1993,2150 2134,2151 2275,2153 2416,2154 2557,2156 2699,2157 2840,2159 2981,2161 3122,2163 3263,2165 3405,2168"/>
                 <TextEquiv>
-                    <Unicode>Vorlesung ("Elze") unter dem Titel "Schnitzler-Abend in Berlin", die ich</Unicode>
+                    <Unicode>Vorlesung (»Else«) unter dem Titel »Schnitzler-Abend in Berlin«, die ich</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:14;}">
@@ -141,76 +137,60 @@
                 <Coords points="571,2665 3241,2723 3243,2561 2667,2632 572,2577"/>
                 <Baseline points="591,2657 722,2658 854,2660 985,2661 1117,2662 1249,2664 1380,2664 1512,2666 1644,2667 1775,2669 1907,2670 2039,2672 2170,2673 2302,2675 2434,2676 2565,2678 2697,2679 2829,2681 2960,2682 3092,2684 3224,2685"/>
                 <TextEquiv>
-                    <Unicode>leid, dass Heinig Unpässlichkeit gerade in die Zeit Deines dortigen</Unicode>
+                    <Unicode>leid, dass Heinis Unpässlichkeit gerade in die Zeit Deines dortigen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:18;}">
-                <Coords points="1991,2759 2010,2759 2021,2748 2039,2763 2061,2744 2117,2755 2135,2751 2142,2759 2183,2740 2205,2744 2205,2682 2164,2689 2146,2678 2128,2689 2109,2678 2098,2685 2080,2678 2065,2689 2032,2678 1991,2681"/>
-                <Baseline points="2010,2742 2035,2740 2060,2739 2085,2738 2111,2738 2136,2739 2161,2740 2187,2742"/>
-                <TextEquiv>
-                    <Unicode>Dich</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+            <TextLine id="r1l22" custom="readingOrder {index:18;}">
                 <Coords points="552,2816 3535,2807 1971,2691 553,2724"/>
                 <Baseline points="570,2787 717,2789 864,2790 1011,2792 1159,2793 1306,2795 1453,2796 1600,2798 1748,2799 1895,2801 2042,2804 2189,2805 2337,2807 2484,2808 2631,2810 2778,2811 2926,2813 3073,2814 3220,2816 3367,2816 3515,2817"/>
                 <TextEquiv>
-                    <Unicode>Aufenthaltes fällt. Hoffentlich habe Du die so vielseitige Inanspruchsah-</Unicode>
+                    <Unicode>Aufenthaltes fällt. Hoffentlich hat Dich Du die so vielseitige Inanspruchsnah¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+            <TextLine id="r1l23" custom="readingOrder {index:19;}">
                 <Coords points="553,2927 3160,3007 3279,2906 554,2828"/>
                 <Baseline points="570,2915 704,2916 839,2918 973,2921 1108,2922 1242,2924 1377,2925 1511,2927 1646,2928 1780,2931 1915,2933 2050,2934 2184,2936 2319,2937 2453,2939 2588,2940 2722,2942 2857,2943 2991,2945 3126,2946 3261,2948"/>
                 <TextEquiv>
                     <Unicode>me dort nicht zu sehr ermüdet und Du fühlst Dich frisch und munter.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:21;}">
+            <TextLine id="r1l24" custom="readingOrder {index:20;}">
                 <Coords points="550,3097 3092,3092 3041,2995 552,2983"/>
                 <Baseline points="570,3045 695,3048 820,3050 945,3052 1071,3054 1196,3056 1321,3057 1446,3059 1572,3060 1697,3062 1822,3063 1947,3065 2073,3066 2198,3068 2323,3069 2448,3071 2574,3072 2699,3074 2824,3075 2949,3077 3075,3078"/>
                 <TextEquiv>
                     <Unicode>Weiter alles Gute und Schöne und eine herzliche Umarmung. Deine</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:22;}">
+            <TextLine id="r1l25" custom="readingOrder {index:21;}">
                 <Coords points="2994,3240 3027,3238 3041,3250 3124,3218 3163,3242 3179,3228 3208,3234 3214,3120 3185,3118 3158,3139 3132,3133 3106,3147 3099,3139 3054,3148 3047,3140 2999,3137"/>
                 <Baseline points="3015,3209 3044,3204 3073,3204 3102,3207 3131,3211 3160,3213 3189,3212"/>
                 <TextEquiv>
                     <Unicode>C.K.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:23;}">
-                <Coords points="3434,279 3474,279 3485,291 3526,261 3574,262 3575,122 3538,114 3523,125 3494,110 3468,128 3435,121"/>
-                <Baseline points="3452,194 3478,191 3504,192 3530,192 3557,194"/>
-                <TextEquiv>
-                    <Unicode>280</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Wien, 13.2.1926.
+An A.S. nach Berlin.
+Liebster,
+heute kam Dein vorgestriger Bericht Nr.3, für den ich Dir
+herzlich danke. Hoffentlich finden alle Deine Berliner Verhandlungen
+den gewünschten Abschluss und Du fährst nach jeder Richtung befriedigt
+fort. Die Fein halte ich allerdings für eine unmögliche Aurelie, ihr
+Mund mauschelt, ehe sie ihn aufmacht und auch sonst ist sie eher mies.
+Dass die »Else«-Aufführung mit der Bergner ein Ereignis wäre,
+habe ich Dir gesagt, wie Du mir die Novelle vorgelesen hast. Ob Barnows¬
+ky das zu inszenieren versteht, darüber fehlt mir natürlich jedes Ur¬
+teil. Schade, wenn sich Reinhardt das entgehen lässt, obgleich der viel¬
+leicht ein Zuviel täte. Gestern war in der Presse eine Notiz über die
+Vorlesung (»Else«) unter dem Titel »Schnitzler-Abend in Berlin«, die ich
+Dir aufhebe und die sehr begeistert lautet.
+Ueber Dein weiteres Programm höre ich wohl erst Montag, da
+ja morgen nur Expresspost ausgetragen wird. Es tut mir wirklich sehr
+leid, dass Heinis Unpässlichkeit gerade in die Zeit Deines dortigen
+Aufenthaltes fällt. Hoffentlich hat Dich Du die so vielseitige Inanspruchsnah¬
+me dort nicht zu sehr ermüdet und Du fühlst Dich frisch und munter.
+Weiter alles Gute und Schöne und eine herzliche Umarmung. Deine
+C.K.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

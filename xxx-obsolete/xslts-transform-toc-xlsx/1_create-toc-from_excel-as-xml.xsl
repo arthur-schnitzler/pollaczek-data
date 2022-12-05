@@ -44,6 +44,7 @@
                     </xsl:otherwise>
                 </xsl:choose>
                 <xsl:choose>
+                    <xsl:when test="TYP='x'"/>
                     <xsl:when test="empty($datum1)"/>
                     <xsl:when test="$datum-schluss = $datum1">
                         <xsl:text>, </xsl:text>

@@ -3,274 +3,250 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_04:28</Creator>
         <Created>2022-11-17T16:34:18.280+01:00</Created>
-        <LastChange>2022-11-18T04:28:23.544Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50260135" pageNr="106" tsid="104226016" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=FGIMLBQMACNTJZDNPRZPJOEU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XFDLLCVPLYPJYHTFCROYOECI" imageId="41048892"/>
+        <LastChange>2022-11-30T21:58:37.913+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50260135" pageNr="106" tsid="105444417" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=FGIMLBQMACNTJZDNPRZPJOEU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BGFDQTIJYFHTLALYYWMOZHSE" imageId="41048892"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0106.tif" imageWidth="3742" imageHeight="4666">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949645" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783696" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="846,110 846,4316 3603,4316 3603,110"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
-                <Coords points="1711,369 1738,370 1744,377 1762,367 1772,374 1792,371 1812,389 1832,389 1835,304 1811,300 1804,304 1784,289 1764,289 1757,282 1733,295 1713,294"/>
-                <Baseline points="1728,341 1757,341 1786,341 1815,344"/>
-                <TextEquiv>
-                    <Unicode>5</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l2" custom="readingOrder {index:1;}">
-                <Coords points="834,528 861,528 885,552 902,552 953,507 973,504 1004,527 1044,527 1044,429 952,436 891,409 867,426 833,423"/>
-                <Baseline points="852,494 881,496 910,497 939,495 968,494 997,494 1026,497"/>
-                <TextEquiv>
-                    <Unicode>Tgb.</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
                 <Coords points="840,671 3388,634 3410,528 838,528"/>
                 <Baseline points="858,624 984,623 1111,621 1238,620 1365,618 1492,617 1619,615 1745,614 1872,612 1999,611 2126,609 2253,608 2380,606 2507,604 2633,602 2760,600 2887,599 3014,596 3141,594 3268,593 3395,590"/>
                 <TextEquiv>
                     <Unicode>ses Buch geschrieben hätte. Zwei Monate, die sehr reich waren an</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
                 <Coords points="828,790 3494,711 3404,627 827,685"/>
                 <Baseline points="846,752 977,752 1109,752 1240,752 1372,750 1503,749 1635,749 1766,747 1898,746 2029,744 2161,741 2293,740 2424,737 2556,735 2687,734 2819,731 2950,729 3082,726 3213,725 3345,722 3477,720"/>
                 <TextEquiv>
-                    <Unicode>Gutem und Bösem. Das Böse, das sind die trostlosen pekuniären Ver-</Unicode>
+                    <Unicode>Gutem und Bösem. Das Böse, das sind die trostlosen pekuniären Ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
                 <Coords points="845,902 3536,877 3504,779 844,814"/>
                 <Baseline points="861,884 993,882 1126,881 1259,879 1392,878 1525,876 1658,875 1791,873 1924,872 2057,870 2190,869 2322,867 2455,864 2588,863 2721,861 2854,860 2987,858 3120,857 3253,855 3386,854 3519,854"/>
                 <TextEquiv>
                     <Unicode>hältnisse. Manchmal wird mir schwarz vor den Augen, wenn ich an die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
                 <Coords points="839,1032 3407,1011 3328,917 838,927"/>
                 <Baseline points="857,1011 983,1011 1110,1011 1236,1010 1363,1010 1490,1008 1616,1007 1743,1007 1870,1005 1996,1004 2123,1002 2250,1001 2376,999 2503,998 2630,996 2756,994 2883,992 3010,990 3136,989 3263,987 3390,986"/>
                 <TextEquiv>
                     <Unicode>Zukunft denke. Es bleibt mir nicht übrig, als Silber und Schmuck</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
                 <Coords points="839,1149 3475,1160 3474,1072 3294,1043 839,1098"/>
                 <Baseline points="857,1143 987,1143 1117,1142 1247,1142 1377,1140 1507,1139 1637,1139 1767,1137 1897,1136 2027,1134 2157,1133 2287,1131 2417,1130 2547,1128 2677,1127 2807,1125 2937,1124 3067,1124 3197,1122 3327,1121 3458,1121"/>
                 <TextEquiv>
                     <Unicode>zu verkaufen und so weiter zu wursteln bis bessere Zeiten kommen.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
                 <Coords points="837,1302 3252,1255 3524,1327 3523,1199 3295,1163 836,1210"/>
                 <Baseline points="852,1274 984,1274 1117,1274 1250,1272 1382,1272 1515,1271 1648,1270 1780,1269 1913,1268 2046,1266 2179,1265 2311,1263 2444,1262 2577,1260 2709,1259 2842,1257 2975,1256 3107,1254 3240,1254 3373,1253 3506,1253"/>
                 <TextEquiv>
                     <Unicode>Meine Nerven sind recht angegriffen und ich fühl mich sehr elend.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
                 <Coords points="844,1417 3161,1434 3415,1347 843,1319"/>
                 <Baseline points="861,1404 987,1406 1114,1406 1241,1406 1368,1404 1495,1404 1622,1403 1749,1401 1876,1401 2003,1400 2130,1398 2256,1397 2383,1395 2510,1394 2637,1392 2764,1391 2891,1389 3018,1388 3145,1388 3272,1388 3399,1388"/>
                 <TextEquiv>
                     <Unicode>Dabei arbeite ich viel. Ich habe bereits alle Gedichte Géraldys</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
                 <Coords points="843,1557 3449,1537 3305,1426 843,1473"/>
                 <Baseline points="861,1536 989,1535 1118,1535 1246,1535 1375,1533 1503,1533 1632,1532 1760,1532 1889,1530 2017,1529 2146,1529 2274,1527 2403,1526 2531,1526 2660,1524 2788,1523 2917,1521 3045,1520 3174,1518 3302,1517 3431,1517"/>
                 <TextEquiv>
                     <Unicode>übersetzt. Die Neue Freie Presse hat zweimal je 2 lange Gedichte</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
                 <Coords points="858,1700 3504,1679 3503,1601 3106,1557 857,1578"/>
                 <Baseline points="875,1670 1005,1668 1136,1667 1266,1667 1397,1665 1527,1664 1658,1662 1788,1661 1919,1661 2049,1659 2180,1658 2311,1657 2441,1656 2572,1655 2702,1655 2833,1653 2963,1653 3094,1652 3224,1651 3355,1650 3486,1650"/>
                 <TextEquiv>
                     <Unicode>gebracht und Géraldy hat mir das Uebersetzungsrecht für das ganze</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
                 <Coords points="846,1816 3448,1799 3393,1705 846,1718"/>
                 <Baseline points="863,1796 991,1796 1119,1796 1248,1796 1376,1796 1505,1796 1633,1794 1761,1794 1890,1793 2018,1793 2147,1791 2275,1790 2403,1788 2532,1788 2660,1787 2789,1785 2917,1785 3045,1784 3174,1784 3302,1782 3431,1782"/>
                 <TextEquiv>
-                    <Unicode>Buch "Toi et moi" gegeben. Jetzt heisst's einen Verleger finden.</Unicode>
+                    <Unicode>Buch »Toi et moi« gegeben. Jetzt heisst's einen Verleger finden.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
                 <Coords points="864,1938 3242,1954 3354,1939 3354,1858 863,1854"/>
                 <Baseline points="882,1929 1004,1928 1127,1928 1250,1926 1372,1926 1495,1925 1618,1923 1740,1923 1863,1922 1986,1922 2109,1920 2231,1920 2354,1919 2477,1919 2599,1917 2722,1917 2845,1916 2967,1916 3090,1914 3213,1914 3336,1914"/>
                 <TextEquiv>
                     <Unicode>In der Neuen Freien Presse erscheint jetzt auch meine Novelle</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
                 <Coords points="872,2082 3331,2105 3619,2080 3619,1971 871,1987"/>
                 <Baseline points="890,2054 1025,2054 1161,2055 1296,2055 1432,2055 1568,2055 1703,2055 1839,2055 1975,2054 2110,2054 2246,2052 2382,2051 2517,2049 2653,2049 2789,2048 2924,2046 3060,2046 3196,2046 3331,2045 3467,2045 3603,2045"/>
                 <TextEquiv>
-                    <Unicode>"Der Abhang" und die Leute glauben, dass A. mir dabei behißflich ist.</Unicode>
+                    <Unicode>»Der Abhang» und die Leute glauben, dass A. mir dabei behilflich ist.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
                 <Coords points="853,2197 3068,2234 3495,2191 3495,2120 852,2130"/>
                 <Baseline points="869,2189 999,2187 1130,2186 1260,2186 1391,2184 1521,2184 1652,2184 1782,2183 1913,2183 2043,2181 2174,2181 2304,2181 2435,2180 2565,2180 2696,2178 2826,2178 2957,2177 3087,2177 3218,2175 3348,2175 3479,2174"/>
                 <TextEquiv>
                     <Unicode>Ich weiss, dass er mir nie in dieser Richtung helfen würde und ich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
                 <Coords points="861,2370 3293,2368 3462,2228 860,2248"/>
                 <Baseline points="876,2318 1004,2318 1133,2318 1261,2318 1390,2316 1518,2316 1647,2315 1775,2315 1904,2315 2032,2313 2161,2313 2289,2312 2418,2312 2546,2310 2675,2310 2803,2309 2932,2309 3060,2307 3189,2307 3317,2306 3446,2306"/>
                 <TextEquiv>
-                    <Unicode>es auch gar nicht möchte. Er hilft mir in einer andern Art - da-</Unicode>
+                    <Unicode>es auch gar nicht möchte. Er hilft mir in einer andern Art – da¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
                 <Coords points="848,2456 3383,2469 3382,2330 848,2368"/>
                 <Baseline points="867,2447 991,2447 1116,2447 1241,2447 1366,2447 1491,2447 1616,2445 1741,2445 1866,2445 1991,2444 2116,2444 2240,2442 2365,2442 2490,2441 2615,2441 2740,2439 2865,2439 2990,2439 3115,2439 3240,2439 3365,2439"/>
                 <TextEquiv>
-                    <Unicode>durch,dass er mich lieb hat und dadurch, dass er sich für meine</Unicode>
+                    <Unicode>durch, dass er mich lieb hat und dadurch, dass er sich für meine</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
                 <Coords points="855,2624 3393,2579 3314,2502 2554,2476 855,2529"/>
                 <Baseline points="872,2577 997,2577 1122,2577 1247,2577 1373,2577 1498,2577 1623,2576 1748,2576 1874,2576 1999,2576 2124,2576 2249,2574 2375,2574 2500,2574 2625,2574 2750,2573 2876,2573 3001,2573 3126,2571 3251,2571 3377,2571"/>
                 <TextEquiv>
                     <Unicode>Arbeit interestiert und mir Mut macht. Aber das verstehen die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+            <TextLine id="r1l19" custom="readingOrder {index:16;}">
                 <Coords points="857,2728 1783,2715 1783,2630 1593,2664 1379,2630 1115,2657 857,2626"/>
                 <Baseline points="875,2706 919,2706 964,2706 1008,2708 1053,2708 1097,2708 1142,2708 1186,2708 1231,2708 1275,2708 1320,2708 1365,2708 1409,2708 1454,2708 1498,2708 1543,2708 1587,2708 1632,2708 1676,2708 1721,2706 1766,2706"/>
                 <TextEquiv>
                     <Unicode>dummen Menschen nicht.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+            <TextLine id="r1l20" custom="readingOrder {index:17;}">
                 <Coords points="843,2890 3398,2883 3397,2768 2481,2714 2033,2791 842,2761"/>
                 <Baseline points="861,2838 993,2840 1126,2840 1258,2840 1391,2840 1523,2838 1656,2838 1789,2838 1921,2837 2054,2837 2186,2835 2319,2835 2451,2834 2584,2833 2717,2832 2849,2832 2982,2832 3114,2832 3247,2832 3380,2832"/>
                 <TextEquiv>
-                    <Unicode>A. war 10 Tage fort - er hat seine Tochter nach Baden-Baden zu</Unicode>
+                    <Unicode>A. war 10 Tage fort – er hat seine Tochter nach Baden-Baden zu</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+            <TextLine id="r1l21" custom="readingOrder {index:18;}">
                 <Coords points="844,2993 3354,3006 3493,2914 843,2891"/>
                 <Baseline points="860,2970 990,2970 1121,2970 1252,2970 1383,2970 1514,2970 1644,2970 1775,2970 1906,2970 2037,2969 2168,2969 2298,2969 2429,2967 2560,2967 2691,2966 2822,2966 2952,2966 3083,2964 3214,2964 3345,2963 3476,2963"/>
                 <TextEquiv>
                     <Unicode>seiner Frau gebracht, ist ein paar Tage dort gewesen und dann nach</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
                 <Coords points="866,3122 3475,3126 3474,3004 865,3033"/>
                 <Baseline points="882,3101 1010,3101 1139,3101 1268,3102 1396,3102 1525,3102 1654,3101 1782,3101 1911,3101 2040,3099 2169,3099 2297,3099 2426,3098 2555,3098 2683,3096 2812,3096 2941,3095 3069,3095 3198,3095 3327,3095 3456,3093"/>
                 <TextEquiv>
-                    <Unicode>Salzburg, wo er mit Heinrich Mann und seinem Sohn Heini zusammen-</Unicode>
+                    <Unicode>Salzburg, wo er mit Heinrich Mann und seinem Sohn Heini zusammen¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
                 <Coords points="852,3253 902,3253 940,3284 984,3274 1025,3243 1055,3247 1075,3226 1092,3226 1092,3175 1045,3179 960,3138 913,3155 902,3145 852,3145"/>
                 <Baseline points="867,3231 892,3231 918,3231 944,3231 970,3231 996,3231 1022,3231 1048,3231 1074,3231"/>
                 <TextEquiv>
                     <Unicode>traf.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+            <TextLine id="r1l24" custom="readingOrder {index:21;}">
                 <Coords points="851,3377 3399,3373 3398,3268 851,3286"/>
                 <Baseline points="867,3359 992,3359 1118,3359 1244,3359 1369,3360 1495,3359 1621,3359 1746,3359 1872,3359 1998,3359 2124,3359 2249,3357 2375,3357 2501,3357 2626,3356 2752,3356 2878,3356 3003,3356 3129,3356 3255,3356 3381,3356"/>
                 <TextEquiv>
                     <Unicode>Der Aufenthalt in Baden-Baden muss nicht sehr angenehm gewesen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+            <TextLine id="r1l25" custom="readingOrder {index:22;}">
                 <Coords points="852,3506 3013,3532 3380,3518 3420,3423 852,3445"/>
                 <Baseline points="870,3489 996,3489 1123,3489 1249,3489 1376,3489 1503,3489 1629,3489 1756,3489 1882,3489 2009,3488 2136,3488 2262,3488 2389,3487 2515,3486 2642,3486 2769,3486 2895,3485 3022,3485 3148,3485 3275,3485 3402,3485"/>
                 <TextEquiv>
-                    <Unicode>sein. Seiner Frau scheinen unsere Beziehungen nicht zu passen -</Unicode>
+                    <Unicode>sein. Seiner Frau scheinen unsere Beziehungen nicht zu passen –</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+            <TextLine id="r1l26" custom="readingOrder {index:23;}">
                 <Coords points="846,3631 3164,3691 3462,3646 3462,3507 846,3550"/>
                 <Baseline points="864,3620 993,3620 1122,3620 1251,3620 1380,3620 1509,3620 1638,3618 1767,3618 1896,3618 2025,3618 2155,3617 2284,3617 2413,3617 2542,3617 2671,3617 2800,3615 2929,3615 3058,3615 3187,3615 3316,3615 3446,3617"/>
                 <TextEquiv>
                     <Unicode>sie war vollkommen orientiert und äusserte ihre Empörung. Aber er</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+            <TextLine id="r1l27" custom="readingOrder {index:24;}">
                 <Coords points="841,3762 3416,3766 3389,3678 2863,3651 841,3680"/>
                 <Baseline points="857,3749 984,3749 1111,3749 1238,3749 1365,3749 1492,3749 1619,3749 1746,3749 1873,3749 2000,3749 2127,3748 2254,3747 2381,3747 2508,3747 2635,3747 2762,3747 2889,3747 3016,3747 3143,3747 3270,3749 3398,3749"/>
                 <TextEquiv>
                     <Unicode>hat ihr den Standpunkt klar gemacht und ihr gesagt, sie sei wohl</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+            <TextLine id="r1l28" custom="readingOrder {index:25;}">
                 <Coords points="851,3918 3355,3916 3419,3807 851,3829"/>
                 <Baseline points="869,3876 995,3878 1122,3879 1248,3881 1375,3881 1502,3882 1628,3882 1755,3882 1882,3881 2008,3881 2135,3879 2262,3879 2388,3879 2515,3878 2642,3878 2768,3878 2895,3878 3022,3878 3148,3878 3275,3879 3402,3881"/>
                 <TextEquiv>
                     <Unicode>verrückt gewesen zu glauben, dass er als Eremit leben würde, weil</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+            <TextLine id="r1l29" custom="readingOrder {index:26;}">
                 <Coords points="859,4057 3231,4050 3417,4030 3417,3958 859,3962"/>
                 <Baseline points="876,4007 1002,4008 1128,4010 1254,4010 1380,4010 1506,4010 1632,4010 1759,4010 1885,4010 2011,4010 2137,4010 2263,4008 2389,4008 2515,4008 2642,4008 2768,4008 2894,4008 3020,4008 3146,4010 3272,4010 3399,4011"/>
                 <TextEquiv>
                     <Unicode>sie ihn verlassen habe und sie sollte sich eher darüber freuen,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+            <TextLine id="r1l30" custom="readingOrder {index:27;}">
                 <Coords points="851,4181 3487,4165 3341,4070 851,4079"/>
                 <Baseline points="869,4136 999,4137 1129,4139 1259,4139 1389,4139 1519,4140 1649,4140 1779,4140 1909,4140 2039,4140 2170,4140 2300,4140 2430,4140 2560,4140 2690,4140 2820,4140 2950,4140 3080,4142 3210,4142 3340,4143 3471,4145"/>
                 <TextEquiv>
                     <Unicode>dass er mich gefunden hat. Sie ärgert sich, wie er sagt, besonders,</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+            <TextLine id="r1l31" custom="readingOrder {index:28;}">
                 <Coords points="848,4296 3542,4310 3542,4232 3250,4205 849,4211"/>
                 <Baseline points="867,4278 999,4280 1132,4280 1265,4281 1398,4281 1531,4281 1664,4281 1797,4283 1930,4283 2063,4283 2196,4283 2328,4283 2461,4283 2594,4283 2727,4283 2860,4283 2993,4283 3126,4283 3259,4283 3392,4284 3525,4284"/>
                 <TextEquiv>
                     <Unicode>dass er jetzt wieder so gut arbeiten kann. Mir ist diese Frau ganz</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:31;}">
-                <Coords points="3542,298 3559,296 3577,307 3589,295 3593,298 3606,289 3622,287 3600,119 3567,127 3559,121 3544,137 3520,140"/>
-                <Baseline points="3549,216 3594,210"/>
-                <TextEquiv>
-                    <Unicode>57</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>ses Buch geschrieben hätte. Zwei Monate, die sehr reich waren an
+Gutem und Bösem. Das Böse, das sind die trostlosen pekuniären Ver¬
+hältnisse. Manchmal wird mir schwarz vor den Augen, wenn ich an die
+Zukunft denke. Es bleibt mir nicht übrig, als Silber und Schmuck
+zu verkaufen und so weiter zu wursteln bis bessere Zeiten kommen.
+Meine Nerven sind recht angegriffen und ich fühl mich sehr elend.
+Dabei arbeite ich viel. Ich habe bereits alle Gedichte Géraldys
+übersetzt. Die Neue Freie Presse hat zweimal je 2 lange Gedichte
+gebracht und Géraldy hat mir das Uebersetzungsrecht für das ganze
+Buch »Toi et moi« gegeben. Jetzt heisst's einen Verleger finden.
+In der Neuen Freien Presse erscheint jetzt auch meine Novelle
+»Der Abhang» und die Leute glauben, dass A. mir dabei behilflich ist.
+Ich weiss, dass er mir nie in dieser Richtung helfen würde und ich
+es auch gar nicht möchte. Er hilft mir in einer andern Art – da¬
+durch, dass er mich lieb hat und dadurch, dass er sich für meine
+Arbeit interestiert und mir Mut macht. Aber das verstehen die
+dummen Menschen nicht.
+A. war 10 Tage fort – er hat seine Tochter nach Baden-Baden zu
+seiner Frau gebracht, ist ein paar Tage dort gewesen und dann nach
+Salzburg, wo er mit Heinrich Mann und seinem Sohn Heini zusammen¬
+traf.
+Der Aufenthalt in Baden-Baden muss nicht sehr angenehm gewesen
+sein. Seiner Frau scheinen unsere Beziehungen nicht zu passen –
+sie war vollkommen orientiert und äusserte ihre Empörung. Aber er
+hat ihr den Standpunkt klar gemacht und ihr gesagt, sie sei wohl
+verrückt gewesen zu glauben, dass er als Eremit leben würde, weil
+sie ihn verlassen habe und sie sollte sich eher darüber freuen,
+dass er mich gefunden hat. Sie ärgert sich, wie er sagt, besonders,
+dass er jetzt wieder so gut arbeiten kann. Mir ist diese Frau ganz</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

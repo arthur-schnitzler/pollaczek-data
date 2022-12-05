@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp700" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">[offen], 23. Mai 1929</title><title type="alternative" when-iso="1929-05-23"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp700" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 23.–26. Mai 1929</title><title type="alternative" when-iso="1929-05-23"/><title type="alternative" when-iso="1929-05-24"/><title type="alternative" when-iso="1929-05-25"/><title type="alternative" when-iso="1929-05-26"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,36 +24,33 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><text><body><div type="writingSession" n="1"><seite id="700">
-            <lb n="01"/>Tgb. 23.5.1929.
-      <lb n="02"/>A. hinüber den Arnoldo erwarten. Und morgen die O.! Sie wird diesmal
-      <lb n="03"/>im Cottagesanatorium wohnen. Es war nirgends sonst ein Zimmer zu haben.
-      <lb n="04"/>Angeblich bleibt sie höchstens 5 Tage. Wärensie nur schon vorbei!
-      <lb n="05"/>24.5. Vormittag Stadt. Nachmittag kam A. herüber, da ich auf seinen
-      <lb n="06"/>Wunsch verschiedene Radiotypen herbestellt hatte. Er will einen An-
-      <lb n="07"/>schluss in meiner Wohnung. Ich persönlich habe für Radio nichts übrig.
-      <lb n="08"/>Die O. glücklich eingetroffen. A. behauptet ganz harmlose Gespräche.
-      <lb n="09"/>Am Abend Egon und Emmi bei mir. Zum ersten Mal auf der Terrasse genacht-
-      <lb n="10"/>mault. Morgen beginnt meine Novelle in der Neuen Freien Presse.
-      <lb n="11"/>25.5. Vormittag Stadt und bei Hedwig im Bureau. Zu Tisch Hanry und
-      <lb n="12"/>Fredi, um 4 Tante Clara. Um 6 zur Eröffnung des Hagenbundes, wo Fredi
-      <lb n="13"/>8 Bilder ausgestellt hat. Ich hoffe, er wird diesmal eine gute Kritik
-      <lb n="14"/>haben. Viele Leute gesprochen und selbst gut ausgesehen.
-      <lb n="15"/>Sonntag, 26.5. Eben ½12 ist A. mit der O. im Auto vorbeigefahren. Arnoldo
-      <lb n="16"/>scheint neben dem Chauffeur gesessen zu sein. Ich konnte es in der
-      <lb n="17"/>Aufregung des Augenblicks nichtfeststellen. Trotzdem ich eigentlich
-      <lb n="18"/>die Veranlassung dieser Spazierfahrt war wurde mir momentan fast übel.
-      <lb n="19"/>Als A. mir gestern sagte, dass er bei gutem Wetter mit mir einen kleinen
-      <lb n="20"/>paar
-      <lb n="21"/>Spaziergang machen will, meinte ich, er soll sich die Tage nicht mei-
-      <lb n="22"/>netwegen den Kopf zerbrechen und mit Arnoldo und O. spazieren fahren.
-      <lb n="23"/>Er antwortete: "Du hast vielleicht recht, daran hab ich noch gar nicht
-      <lb n="24"/>gedacht." Sie sieht übrigens mies und jüdisch aus trotz der schwarzen
-      <lb n="25"/>Kleidung, provinzlerisch und als er heute Früh um ½10 bei mir war, war
-      <lb n="26"/>er von stürmischer Zärtlichkeit und sagte, er möchte am liebsten schon
-      <lb n="27"/>im Juni eine Reise mit mir machen. Wieschwer und verworren ist das
-      <lb n="28"/>alles.
-      <lb n="29"/>Am Abend A. eine halbe Stunde bei mir, weil "Freiwild" im Radio war.Er
-      <lb n="30"/>fand das Stück sehr schlecht und sagte, er schäme sich, dass es so viele
-      <lb n="31"/>Menschen eben misanhören
-      <lb n="32"/>242</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="700"/></facsimile><text><body><div type="writingSession" n="1"><seite id="700">
+            <lb n="01"/>A. hinüber den Arnoldo erwarten. Und morgen die O.! Sie wird diesmal
+      <lb n="02"/>im Cottagesanatorium wohnen. Es war nirgends sonst ein Zimmer zu haben.
+      <lb n="03"/>Angeblich bleibt sie höchstens 5 Tage. Wären sie nur schon vorbei!
+      <lb n="04"/>24.5. Vormittag Stadt. Nachmittag kam A. herüber, da ich auf seinen
+      <lb n="05"/>Wunsch verschiedene Radiotypen herbestellt hatte. Er will einen An
+      <lb n="06"/>schluss in meiner Wohnung. Ich persönlich habe für Radio nichts übrig.
+      <lb n="07"/>Die O. glücklich eingetroffen. A. behauptet ganz harmlose Gespräche.
+      <lb n="08"/>Am Abend Egon und Emmi bei mir. Zum ersten Mal auf der Terrasse genacht
+      <lb n="09"/>mahlt. Morgen beginnt meine Novelle in der Neuen Freien Presse.
+      <lb n="10"/>25.5. Vormittag Stadt und bei Hedwig im Bureau. Zu Tisch Hanry und
+      <lb n="11"/>Fredi, um 4 Tante Clara. Um 6 zur Eröffnung des Hagenbundes, wo Fredi
+      <lb n="12"/>8 Bilder ausgestellt hat. Ich hoffe, er wird diesmal eine gute Kritik
+      <lb n="13"/>haben. Viele Leute gesprochen und selbst gut ausgesehen.
+      <lb n="14"/>Sonntag, 26.5. Eben ½12 ist A. mit der O. im Auto vorbeigefahren. Arnoldo
+      <lb n="15"/>scheint neben dem Chauffeur gesessen zu sein. Ich konnte es in der
+      <lb n="16"/>Aufregung des Augenblicks nicht feststellen. Trotzdem ich eigentlich
+      <lb n="17"/>die Veranlassung dieser Spazierfahrt war wurde mir momentan fast übel.
+      <lb n="18"/>Als A. mir gestern sagte, dass er bei gutem Wetter mit mir einen kleinen
+      <lb n="19"/>Spaziergang machen will, meinte ich, er soll sich die paar Tage nicht mei
+      <lb n="20"/>netwegen den Kopf zerbrechen und mit Arnoldo und O. spazieren fahren.
+      <lb n="21"/>Er antwortete: »Du hast vielleicht recht, daran hab ich noch gar nicht
+      <lb n="22"/>gedacht.« Sie sieht übrigens mies und jüdisch aus trotz der schwarzen
+      <lb n="23"/>Kleidung, provinzlerisch und als er heute Früh um ½10 bei mir war, war
+      <lb n="24"/>er von stürmischer Zärtlichkeit und sagte, er möchte am liebsten schon
+      <lb n="25"/>im Juni eine Reise mit mir machen. Wie schwer und verworren ist das
+      <lb n="26"/>alles.
+      <lb n="27"/>Am Abend A. eine halbe Stunde bei mir, weil »Freiwild« im Radio war. Er
+      <lb n="28"/>fand das Stück sehr schlecht und sagte, er schäme sich, dass es so viele
+      <lb n="29"/>Menschen eben mitanhören</seite></div></body></text></TEI>

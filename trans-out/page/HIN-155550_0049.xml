@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:08.016+01:00</Created>
-        <LastChange>2022-11-18T03:23:50.735Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259199" pageNr="49" tsid="104225728" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=XMMPVDDGHVGLRUMXNKOCAVHL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YOYIASLUMCSIRSQXKNKLSQZB" imageId="41048835"/>
+        <LastChange>2022-11-30T22:54:21.761+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259199" pageNr="49" tsid="105445659" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=XMMPVDDGHVGLRUMXNKOCAVHL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OQYLRZJAQGEWMBKNWBZBCZAY" imageId="41048835"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0049.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949340" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783340" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -49,126 +49,112 @@
                     <Unicode>Eltern vorbereitete Begegnung, die über die Firma</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:5;}">
-                <Coords points="582,1139 605,1139 624,1149 668,1120 695,1126 710,1118 776,1115 776,1049 726,1052 700,1042 668,1057 642,1044 600,1076 582,1076"/>
-                <Baseline points="596,1098 623,1100 651,1098 679,1098 706,1098 734,1098 762,1100"/>
-                <TextEquiv>
-                    <Unicode>ihnen</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
                 <Coords points="358,1192 2180,1180 2117,1106 1965,1088 819,1089 633,1142 358,1098"/>
                 <Baseline points="371,1167 460,1167 550,1166 640,1166 730,1166 819,1166 909,1166 999,1166 1089,1166 1178,1165 1268,1164 1358,1164 1448,1164 1537,1164 1627,1164 1717,1164 1807,1164 1896,1164 1986,1166 2076,1166 2166,1166"/>
                 <TextEquiv>
-                    <Unicode>I.Z.P. genügende Auskünfte eingezogen hatten.</Unicode>
+                    <Unicode>I.Z.P. ihnen genügende Auskünfte eingezogen hatten.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
                 <Coords points="347,1331 1810,1296 2161,1354 2219,1335 2219,1212 347,1229"/>
                 <Baseline points="359,1296 451,1296 543,1296 635,1296 728,1296 820,1296 912,1296 1005,1296 1097,1298 1189,1298 1282,1298 1374,1298 1466,1298 1558,1298 1651,1298 1743,1296 1835,1296 1928,1295 2020,1295 2112,1293 2205,1292"/>
                 <TextEquiv>
-                    <Unicode>Dass der noch nicht 24 jährige junge Mann sich</Unicode>
+                    <Unicode>Dass der noch nicht 24jährige junge Mann sich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
                 <Coords points="344,1455 2229,1440 2169,1351 344,1363"/>
                 <Baseline points="357,1428 454,1428 552,1428 650,1428 748,1428 846,1430 944,1430 1041,1430 1139,1430 1237,1430 1335,1430 1433,1430 1531,1430 1628,1430 1726,1428 1824,1428 1922,1428 2020,1427 2118,1427 2216,1425"/>
                 <TextEquiv>
                     <Unicode>keines besonderen Rufes erfreute, schien durch</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
                 <Coords points="350,1570 1889,1590 2303,1571 2303,1492 350,1494"/>
                 <Baseline points="362,1559 458,1559 554,1560 651,1560 747,1560 843,1560 940,1560 1036,1560 1132,1560 1229,1560 1325,1559 1421,1559 1518,1559 1614,1559 1710,1559 1807,1557 1903,1557 1999,1559 2096,1559 2192,1559 2289,1560"/>
                 <TextEquiv>
                     <Unicode>das Ansehen, das die Familie und die Firma (die</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+            <TextLine id="r1l11" custom="readingOrder {index:9;} supplied {offset:25; length:1;}">
                 <Coords points="351,1711 1075,1768 1263,1702 2260,1700 2175,1617 351,1614"/>
                 <Baseline points="365,1689 459,1691 553,1691 647,1692 741,1692 835,1692 929,1692 1023,1692 1117,1692 1211,1692 1305,1691 1399,1691 1493,1691 1587,1691 1681,1689 1775,1689 1869,1689 1963,1689 2057,1689 2151,1689 2246,1691"/>
                 <TextEquiv>
-                    <Unicode>100 Jahre bestand ) genoss hinlänglich gedeckt.</Unicode>
+                    <Unicode>100 Jahre bestand) genoss, hinlänglich gedeckt.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
                 <Coords points="352,1855 2234,1828 2200,1755 352,1758"/>
                 <Baseline points="366,1821 458,1821 551,1823 644,1823 737,1823 830,1823 922,1823 1015,1823 1108,1823 1201,1823 1294,1823 1386,1823 1479,1821 1572,1821 1665,1821 1758,1821 1850,1820 1943,1820 2036,1820 2129,1820 2222,1818"/>
                 <TextEquiv>
                     <Unicode>Nach dieser ersten Begegnung äusserte ich mich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
                 <Coords points="352,1958 2126,1978 2223,1965 2223,1881 352,1895"/>
                 <Baseline points="366,1950 458,1950 550,1952 642,1953 735,1953 827,1953 919,1953 1011,1953 1104,1953 1196,1952 1288,1952 1380,1952 1473,1950 1565,1950 1657,1950 1749,1950 1842,1950 1934,1950 2026,1950 2118,1950 2211,1950"/>
                 <TextEquiv>
                     <Unicode>zu meinem Vater, der mich über meinen Eindruck</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
                 <Coords points="353,2122 796,2061 1156,2115 2474,2084 2474,2021 2351,2010 353,1997"/>
                 <Baseline points="366,2081 470,2082 575,2084 680,2084 785,2085 890,2085 994,2084 1099,2084 1204,2084 1309,2084 1414,2082 1518,2082 1623,2081 1728,2081 1833,2081 1938,2079 2042,2079 2147,2079 2252,2081 2357,2081 2462,2082"/>
                 <TextEquiv>
-                    <Unicode>befragte, " der junge Mann habe unmögliche Ansichten</Unicode>
+                    <Unicode>befragte, »der junge Mann habe unmögliche Ansichten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
                 <Coords points="349,2228 2454,2251 2454,2154 2325,2146 349,2125"/>
                 <Baseline points="362,2210 471,2211 580,2211 690,2213 799,2213 909,2213 1018,2213 1127,2213 1237,2213 1346,2213 1456,2213 1565,2213 1675,2213 1784,2211 1893,2211 2003,2211 2112,2210 2222,2210 2331,2208 2441,2208"/>
                 <TextEquiv>
                     <Unicode>Er hatte mir nämlich gesagt, dass wenn er von seiner</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
                 <Coords points="351,2351 566,2406 967,2345 2432,2373 2432,2289 2227,2258 351,2278"/>
                 <Baseline points="363,2339 465,2340 568,2342 671,2342 774,2343 876,2343 979,2343 1082,2343 1185,2343 1287,2343 1390,2343 1493,2343 1596,2342 1698,2342 1801,2342 1904,2342 2007,2340 2109,2340 2212,2340 2315,2340 2418,2340"/>
                 <TextEquiv>
-                    <Unicode>Frau verlangen würde, sie soll eine Hand beim Fens-</Unicode>
+                    <Unicode>Frau verlangen würde, sie soll eine Hand beim Fens¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
                 <Coords points="362,2500 2278,2503 2278,2409 362,2416"/>
                 <Baseline points="375,2471 469,2472 564,2472 658,2472 753,2472 847,2472 942,2472 1036,2474 1131,2474 1225,2474 1320,2474 1414,2472 1509,2472 1603,2472 1698,2472 1792,2472 1887,2471 1981,2471 2076,2471 2170,2469 2265,2469"/>
                 <TextEquiv>
                     <Unicode>ter hinausstrecken, so müsse sie es tun ohne zu</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
                 <Coords points="365,2619 2347,2628 2347,2537 2263,2531 365,2540"/>
                 <Baseline points="378,2601 475,2601 573,2601 671,2601 769,2601 866,2601 964,2601 1062,2601 1160,2601 1257,2601 1355,2601 1453,2601 1551,2601 1648,2601 1746,2601 1844,2601 1942,2601 2039,2601 2137,2600 2235,2600 2333,2600"/>
                 <TextEquiv>
                     <Unicode>fragen warum und wenn es ihr auch noch so sinnlos</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:18;}">
-                <Coords points="513,2666 562,2670 573,2681 589,2668 638,2683 693,2674 824,2680 826,2623 679,2621 635,2607 588,2618 580,2610 514,2616"/>
-                <Baseline points="527,2661 552,2663 578,2663 604,2664 630,2664 656,2666 682,2666 708,2667 734,2667 760,2669 786,2669 812,2670"/>
-                <TextEquiv>
-                    <Unicode>chineux.</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+            <TextLine id="r1l20" custom="readingOrder {index:17;} supplied {offset:8; length:1;}">
                 <Coords points="367,2749 2314,2756 2291,2661 367,2668"/>
                 <Baseline points="381,2730 477,2732 573,2732 669,2732 765,2733 861,2733 957,2733 1053,2732 1149,2732 1245,2732 1341,2732 1437,2732 1533,2732 1629,2730 1725,2730 1821,2730 1917,2730 2013,2730 2109,2732 2205,2732 2301,2732"/>
                 <TextEquiv>
-                    <Unicode>ersehenst. Mein Vater antwortete komischer Weise</Unicode>
+                    <Unicode>schiene.« Mein Vater antwortete komischer Weise</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+            <TextLine id="r1l21" custom="readingOrder {index:18;} supplied {offset:49; length:1;}">
                 <Coords points="359,2888 2424,2868 2343,2798 359,2791"/>
                 <Baseline points="372,2862 474,2862 576,2864 678,2864 780,2864 882,2864 984,2864 1086,2864 1188,2864 1290,2864 1392,2864 1494,2864 1596,2864 1698,2864 1800,2864 1902,2862 2004,2862 2106,2862 2208,2862 2310,2862 2412,2862"/>
                 <TextEquiv>
-                    <Unicode>darauf: Es kann nicht jeder die Ansichten von Artur</Unicode>
+                    <Unicode>darauf: Es kann nicht jeder die Ansichten von Arthur</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
                 <Coords points="358,3001 2384,3010 2334,2939 358,2904"/>
                 <Baseline points="372,2993 472,2994 572,2996 672,2996 772,2996 872,2997 972,2997 1072,2997 1172,2997 1272,2997 1372,2997 1472,2997 1572,2997 1672,2996 1772,2996 1872,2996 1972,2996 2072,2996 2172,2996 2272,2996 2372,2997"/>
                 <TextEquiv>
                     <Unicode>Schnitzler haben. Man mass offenbar meinem Verkehr</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
                 <Coords points="346,3168 2435,3167 2435,3068 2246,3047 346,3064"/>
                 <Baseline points="360,3125 463,3126 566,3128 669,3128 772,3128 875,3129 978,3129 1081,3128 1184,3128 1287,3128 1390,3128 1493,3126 1596,3126 1699,3126 1802,3125 1905,3125 2008,3125 2111,3125 2214,3125 2317,3125 2421,3125"/>
                 <TextEquiv>
@@ -176,29 +162,27 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Am 17. Oktober 1897 hatte ich meinen zukünftigen
+Mann, Otto P. kennengelernt. Er war mir durch
+seinen Freund Richard Stein vorgestellt worden,
+aber es war dies eine von langer Hand durch meine
+Eltern vorbereitete Begegnung, die über die Firma
+I.Z.P. ihnen genügende Auskünfte eingezogen hatten.
+Dass der noch nicht 24jährige junge Mann sich
+keines besonderen Rufes erfreute, schien durch
+das Ansehen, das die Familie und die Firma (die
+100 Jahre bestand) genoss, hinlänglich gedeckt.
+Nach dieser ersten Begegnung äusserte ich mich
+zu meinem Vater, der mich über meinen Eindruck
+befragte, »der junge Mann habe unmögliche Ansichten
+Er hatte mir nämlich gesagt, dass wenn er von seiner
+Frau verlangen würde, sie soll eine Hand beim Fens¬
+ter hinausstrecken, so müsse sie es tun ohne zu
+fragen warum und wenn es ihr auch noch so sinnlos
+schiene.« Mein Vater antwortete komischer Weise
+darauf: Es kann nicht jeder die Ansichten von Arthur
+Schnitzler haben. Man mass offenbar meinem Verkehr
+mit A. S. eine Bedeutung bei, die mir damals völlig</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

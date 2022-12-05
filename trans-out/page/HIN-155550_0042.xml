@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:06.594+01:00</Created>
-        <LastChange>2022-11-18T03:23:48.464Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259133" pageNr="42" tsid="104225721" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JZNSHNETGXCDRBTFHXCSORNI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DTUIWQHWNLNLZJYGHASXZBQQ" imageId="41048828"/>
+        <LastChange>2022-11-30T22:44:18.165+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259133" pageNr="42" tsid="105445208" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JZNSHNETGXCDRBTFHXCSORNI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PIGSLPCXTRVAXKEJFFXNLJCL" imageId="41048828"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0042.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949256" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783314" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -25,7 +25,7 @@
                 <Coords points="1629,531 1760,543 1805,526 1893,555 1942,530 2053,548 2078,528 2164,538 2195,529 2196,470 1723,474 1630,448"/>
                 <Baseline points="1643,519 1669,519 1696,519 1723,519 1750,519 1777,519 1804,519 1831,519 1858,521 1885,521 1912,521 1938,521 1965,521 1992,522 2019,522 2046,522 2073,522 2100,522 2127,522 2154,522 2181,522"/>
                 <TextEquiv>
-                    <Unicode>Markt - Aussee</Unicode>
+                    <Unicode>Markt-Aussee</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l3" custom="readingOrder {index:2;}">
@@ -88,21 +88,21 @@
                 <Coords points="231,1910 2393,1906 2234,1817 231,1828"/>
                 <Baseline points="246,1889 352,1890 459,1892 565,1893 672,1895 779,1895 885,1896 992,1896 1099,1896 1205,1896 1312,1898 1419,1898 1525,1898 1632,1898 1739,1899 1845,1899 1952,1899 2059,1901 2165,1902 2272,1904 2379,1905"/>
                 <TextEquiv>
-                    <Unicode>hab Dir nun wenigstens viel zu erzählen. - Jener lie-</Unicode>
+                    <Unicode>hab Dir nun wenigstens viel zu erzählen. – Jener lie¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668710892766_792" custom="readingOrder {index:11;}">
                 <Coords points="231,2038 1954,2071 2344,2039 2345,1982 231,1956"/>
                 <Baseline points="246,2019 280,2019 314,2019 348,2019 382,2019 416,2019 450,2019 485,2021 519,2021 553,2022 587,2022 621,2024 655,2024 689,2025 724,2026 758,2027 792,2027 826,2027 860,2027 894,2027 929,2027 1163,2024 1221,2024 1279,2025 1338,2025 1396,2025 1454,2027 1513,2027 1571,2028 1629,2028 1688,2028 1746,2030 1804,2030 1863,2030 1921,2030 1979,2030 2038,2031 2096,2031 2154,2031 2213,2031 2271,2031 2330,2031"/>
                 <TextEquiv>
-                    <Unicode>benswürdige junge Mann hat sich nämlich in mich ver-</Unicode>
+                    <Unicode>benswürdige junge Mann hat sich nämlich in mich ver¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l14" custom="readingOrder {index:12;}">
                 <Coords points="229,2155 2041,2203 2237,2162 2238,2105 229,2104"/>
                 <Baseline points="243,2150 342,2150 441,2150 540,2151 639,2151 738,2153 837,2153 936,2154 1035,2154 1134,2156 1233,2156 1332,2157 1431,2157 1530,2159 1629,2159 1728,2159 1827,2159 1926,2160 2025,2160 2124,2160 2223,2159"/>
                 <TextEquiv>
-                    <Unicode>liebt und bereits um mich angehalten. -ich hab nur</Unicode>
+                    <Unicode>liebt und bereits um mich angehalten. Ich hab nur</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l15" custom="readingOrder {index:13;}">
@@ -123,7 +123,7 @@
                 <Coords points="235,2551 1982,2615 2278,2562 2279,2494 236,2462"/>
                 <Baseline points="251,2543 351,2543 452,2544 552,2544 653,2546 754,2546 854,2547 955,2547 1056,2549 1156,2549 1257,2550 1358,2550 1458,2552 1559,2552 1660,2552 1760,2553 1861,2553 1962,2553 2062,2553 2163,2553 2264,2553"/>
                 <TextEquiv>
-                    <Unicode>Neigungen wie Schreiben und Theaterspielen einver-</Unicode>
+                    <Unicode>Neigungen wie Schreiben und Theaterspielen einver¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l18" custom="readingOrder {index:16;}">
@@ -161,44 +161,28 @@
                     <Unicode>aber gegen eine Abneigung derselben für die Sache</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:21;}">
-                <Coords points="2606,195 2625,192 2631,195 2644,184 2656,183 2652,152 2635,154 2620,150 2615,154 2600,156"/>
-                <Baseline points="2622,204 2645,201"/>
-                <TextEquiv>
-                    <Unicode>1.</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:22;}">
-                <Coords points="2535,319 2583,320 2611,308 2646,312 2651,306 2686,314 2681,180 2616,199 2564,161 2530,171"/>
-                <Baseline points="2549,288 2579,281 2609,279 2639,281 2669,282"/>
-                <TextEquiv>
-                    <Unicode>7/26</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>26. August 1897.
+Markt-Aussee
+Lieber Arthur!
+Ich hätt Dir eigentlich schon sehr gerne früher
+geschrieben, aber ich hielt mich absichtlich zurück,
+weil ich nicht möcht, dass Dir meine Briefe, vielmehr
+die Beantwortung derselben lästig wird, denn die muss
+ich immer gleich kriegen, sonst geh ich in einer grossen
+Aufregung herum und glaub gleich, es ist was vorgefallen.
+Diese drei Wochen waren übrigens sehr bewegt und ich
+hab Dir nun wenigstens viel zu erzählen. – Jener lie¬
+benswürdige junge Mann hat sich nämlich in mich ver¬
+liebt und bereits um mich angehalten. Ich hab nur
+Sympathie für ihn, nicht mehr und glaub bloss er wäre
+als Mann für mich sehr angenehm, da er mit all meinen
+Neigungen wie Schreiben und Theaterspielen einver¬
+standen ist. Dergleichen sogar protegieren würde,
+auch äusserlich hübsch ist, sehr gut zu sein scheint
+gute Manieren hat und sehr soigniert ist. Wenn meine
+Eltern dafür wären, könnte ich ja wohl ruhig ja sagen,
+aber gegen eine Abneigung derselben für die Sache</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

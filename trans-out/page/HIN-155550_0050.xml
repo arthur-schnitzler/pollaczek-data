@@ -3,116 +3,109 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:08.208+01:00</Created>
-        <LastChange>2022-11-18T03:23:51.100Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259209" pageNr="50" tsid="104225729" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=SKKDPZCQTTFAAIYNHALAHRHT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YNORKFKSMYHEUXXYNTXVFDFT" imageId="41048836"/>
+        <LastChange>2022-11-30T22:55:41.009+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259209" pageNr="50" tsid="105445756" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=SKKDPZCQTTFAAIYNHALAHRHT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BTEIQLUMFLDFGHIGUKLPJELD" imageId="41048836"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0050.tif" imageWidth="2793" imageHeight="3358">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949343" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783343" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="372,378 372,2373 2525,2373 2525,378"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
-                <Coords points="1095,465 1111,465 1130,447 1138,447 1143,441 1157,441 1157,378 1130,380 1119,375 1114,380 1095,380"/>
-                <Baseline points="1110,441 1143,441"/>
-                <TextEquiv>
-                    <Unicode>2.</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
                 <Coords points="380,657 412,642 569,663 628,638 696,659 742,647 776,661 779,555 717,577 622,555 537,577 452,540 383,562"/>
                 <Baseline points="395,624 421,626 447,626 474,627 500,627 526,629 553,629 579,630 605,630 632,632 658,633 684,633 711,633 737,635 764,635"/>
                 <TextEquiv>
                     <Unicode>fern lag.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+            <TextLine id="r1l3" custom="readingOrder {index:1;} structure {type:paragraph;}">
                 <Coords points="381,776 2239,821 2348,791 2349,719 382,688"/>
                 <Baseline points="395,756 464,756 534,758 604,759 674,759 744,761 813,762 883,762 953,764 1023,765 1093,765 1162,767 1232,768 1302,768 1372,770 1442,771 1511,771 1581,773 1651,774 2265,779 2335,781"/>
                 <TextEquiv>
                     <Unicode>Da ich aber durchaus heiraten wollte gewöhnte ich</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
                 <Coords points="386,896 2215,928 2216,864 1839,813 387,835"/>
                 <Baseline points="399,887 489,888 579,890 669,891 759,893 849,894 939,896 1029,897 1119,899 1209,900 1300,900 1390,902 1480,903 1570,905 1660,905 1750,906 1840,908 1930,909 2020,911 2110,912 2201,914"/>
                 <TextEquiv>
-                    <Unicode>mich langsam an O.P. der schliesslich jung und</Unicode>
+                    <Unicode>mich langsam an O.P. der schliesslich jung war und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+            <TextLine id="r1l6" custom="readingOrder {index:3;} supplied {offset:23; length:1;}">
                 <Coords points="387,1032 2450,1079 2475,994 388,955"/>
                 <Baseline points="401,1020 509,1021 617,1022 726,1023 834,1025 942,1026 1051,1028 1159,1029 1267,1031 1376,1032 1484,1034 1593,1035 1701,1037 1809,1039 1918,1040 2026,1041 2134,1043 2243,1044 2351,1046 2460,1047"/>
                 <TextEquiv>
-                    <Unicode>einen unleugbaren Charm hatte, trotz seiner grossen</Unicode>
+                    <Unicode>einen unleugbaren Charme hatte, trotz seiner grossen</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
                 <Coords points="382,1161 2333,1194 2334,1103 383,1068"/>
                 <Baseline points="395,1149 491,1151 587,1152 683,1154 779,1155 876,1157 972,1158 1068,1160 1164,1160 1260,1161 1357,1163 1453,1163 1549,1164 1645,1166 1741,1167 1838,1167 1934,1169 2030,1170 2126,1172 2222,1173 2319,1175"/>
                 <TextEquiv>
                     <Unicode>Ungezogenheiten. Meine Schwester und ich machten</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
                 <Coords points="386,1297 1377,1341 1699,1289 1949,1350 2404,1324 2426,1261 387,1185"/>
                 <Baseline points="398,1278 498,1281 599,1284 700,1286 800,1287 901,1289 1002,1290 1102,1292 1203,1292 1304,1293 1405,1295 1505,1295 1606,1296 1707,1298 1807,1298 1908,1299 2009,1301 2109,1302 2210,1303 2311,1305 2412,1307"/>
                 <TextEquiv>
                     <Unicode>noch ein paar Radfahrpartien mit Arthur Schnitzler</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
                 <Coords points="386,1430 1893,1481 2539,1468 2540,1405 387,1345"/>
                 <Baseline points="399,1410 505,1413 611,1415 717,1416 824,1419 930,1421 1036,1422 1143,1424 1249,1425 1355,1427 1462,1428 1568,1430 1674,1431 1780,1433 1887,1433 1993,1434 2099,1436 2206,1436 2312,1436 2418,1437 2525,1437"/>
                 <TextEquiv>
                     <Unicode>und Felix Salten, aber im ganzen liess ich aus einem</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
                 <Coords points="375,1555 1346,1563 1475,1621 1683,1567 2372,1591 2373,1517 376,1472"/>
                 <Baseline points="390,1544 488,1545 587,1547 685,1548 784,1550 882,1551 981,1553 1079,1554 1178,1554 1276,1556 1375,1557 1473,1559 1572,1560 1670,1560 1769,1562 1867,1563 1966,1563 2064,1565 2163,1565 2261,1566 2360,1566"/>
                 <TextEquiv>
-                    <Unicode>inneren Reinlichkeitsgefühl selbst diese so harm-</Unicode>
+                    <Unicode>inneren Reinlichkeitsgefühl selbst diese so harm¬</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
                 <Coords points="383,1691 2094,1737 2302,1719 2303,1642 384,1598"/>
                 <Baseline points="395,1674 489,1676 584,1677 679,1679 773,1680 868,1682 963,1683 1057,1685 1152,1686 1247,1688 1342,1689 1436,1691 1531,1692 1626,1694 1720,1694 1815,1695 1910,1697 2004,1698 2099,1698 2194,1700 2289,1701"/>
                 <TextEquiv>
                     <Unicode>lose Freundschaft langsam einschlafen, sah A. S.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
                 <Coords points="375,1824 2178,1865 2324,1825 2325,1766 376,1757"/>
                 <Baseline points="389,1806 485,1808 581,1809 677,1811 773,1812 869,1814 965,1815 1062,1817 1158,1818 1254,1820 1350,1821 1446,1821 1542,1823 1638,1824 1735,1824 1831,1826 1927,1827 2023,1829 2119,1829 2215,1830 2312,1832"/>
                 <TextEquiv>
                     <Unicode>nur hie und da einmal im Hause meine Eltern oder</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
                 <Coords points="379,1968 2288,2013 2335,1897 380,1880"/>
                 <Baseline points="392,1938 488,1940 584,1940 681,1941 777,1943 874,1944 970,1946 1067,1947 1163,1949 1260,1950 1356,1950 1452,1952 1549,1953 1645,1955 1742,1956 1838,1958 1935,1959 2031,1961 2128,1962 2224,1964 2321,1965"/>
                 <TextEquiv>
                     <Unicode>in andern Gesellschaften und zum letzten Mal auf</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
                 <Coords points="367,2100 2137,2136 2236,2121 2238,1996 1657,2052 1257,1990 368,1999"/>
                 <Baseline points="380,2070 472,2072 564,2072 656,2073 748,2075 840,2075 932,2076 1025,2078 1117,2079 1209,2081 1301,2082 1393,2084 1485,2084 1577,2085 1670,2087 1762,2088 1854,2090 1946,2091 2038,2093 2130,2094 2223,2096"/>
                 <TextEquiv>
                     <Unicode>lange hinaus bei meiner Trauung am 10. Mai 98.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
                 <Coords points="363,2225 1935,2228 2327,2308 2329,2162 364,2127"/>
                 <Baseline points="378,2199 474,2201 571,2202 668,2204 765,2205 862,2206 959,2208 1056,2210 1153,2211 1250,2213 1347,2214 1443,2216 1540,2217 1637,2219 1734,2220 1831,2222 1928,2222 2025,2223 2122,2223 2219,2223 2316,2222"/>
                 <TextEquiv>
                     <Unicode>wo er neben Georg Hirschfeld im Tempel stand und</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
                 <Coords points="357,2368 464,2343 700,2380 748,2359 912,2415 1131,2351 1250,2392 1251,2304 1114,2260 933,2266 893,2300 813,2272 358,2275"/>
                 <Baseline points="372,2331 415,2331 458,2333 502,2333 545,2334 588,2334 632,2336 675,2336 718,2336 762,2337 805,2337 848,2337 892,2339 935,2339 978,2339 1022,2339 1065,2340 1108,2340 1152,2340 1195,2342 1239,2342"/>
                 <TextEquiv>
@@ -120,21 +113,20 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>fern lag.
+Da ich aber durchaus heiraten wollte gewöhnte ich
+mich langsam an O.P. der schliesslich jung war und
+einen unleugbaren Charme hatte, trotz seiner grossen
+Ungezogenheiten. Meine Schwester und ich machten
+noch ein paar Radfahrpartien mit Arthur Schnitzler
+und Felix Salten, aber im ganzen liess ich aus einem
+inneren Reinlichkeitsgefühl selbst diese so harm¬
+lose Freundschaft langsam einschlafen, sah A. S.
+nur hie und da einmal im Hause meine Eltern oder
+in andern Gesellschaften und zum letzten Mal auf
+lange hinaus bei meiner Trauung am 10. Mai 98.
+wo er neben Georg Hirschfeld im Tempel stand und
+mir die Hand drückte.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

@@ -41,7 +41,7 @@
                         <fileDesc>
                             <titleStmt>
                                 <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title>
-                                <xsl:variable name="inhalt-nachschlagen" select="key('toc-title', $dateiname, $toc)" as="node()"/>
+                                <xsl:variable name="inhalt-nachschlagen" select="key('toc-title', $dateiname, $toc)[1]" as="node()"/>
                                 <title level="a">
                                     <xsl:value-of select="$inhalt-nachschlagen/title"/>
                                 </title>
@@ -151,6 +151,13 @@
                             <change who="LU" when="2022-12-25">Angelegt</change>
                         </revisionDesc>
                     </teiHeader>
+                    <xsl:element name="facsimile" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:element name="graphic" namespace="http://www.tei-c.org/ns/1.0">
+                                <xsl:attribute name="url">
+                                    <xsl:value-of select="@id"/>
+                                </xsl:attribute>
+                            </xsl:element>
+                    </xsl:element>
                     <text>
                         <body>
                             <xsl:element name="div" namespace="http://www.tei-c.org/ns/1.0">

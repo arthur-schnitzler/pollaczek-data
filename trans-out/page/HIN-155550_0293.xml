@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:51</Creator>
         <Created>2022-11-17T16:34:53.050+01:00</Created>
-        <LastChange>2022-11-29T08:06:07.437+01:00</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50262479" pageNr="293" tsid="105282014" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=SAJKSXUXRDFKHGYFHTXLNNGZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HTHDZBRBPQVNETBUDHVATOJO" imageId="41049869"/>
+        <LastChange>2022-12-02T09:07:12.948+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50262479" pageNr="293" tsid="105534652" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=SAJKSXUXRDFKHGYFHTXLNNGZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KWOUBGAVMHSDTQMYJBXVNCTG" imageId="41049869"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0293.tif" imageWidth="3798" imageHeight="4598">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820950643" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241784673" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -25,7 +25,7 @@
                 <Coords points="2040,474 2292,507 2827,480 2997,516 2998,417 2930,396 2041,421"/>
                 <Baseline points="2057,470 2103,470 2149,468 2195,468 2241,468 2288,468 2334,468 2380,468 2426,468 2472,468 2519,470 2565,470 2611,470 2657,470 2703,470 2750,471 2796,471 2842,471 2888,471 2934,470 2981,470"/>
                 <TextEquiv>
-                    <Unicode>(nach Wien,Pregegring.)</Unicode>
+                    <Unicode>(nach Wien, Pregegring.)</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l4" custom="readingOrder {index:2;}">
@@ -46,7 +46,7 @@
                 <Coords points="678,885 3142,900 3294,886 3294,744 678,793"/>
                 <Baseline points="696,861 825,861 954,861 1083,861 1212,861 1341,861 1470,861 1599,861 1728,861 1857,861 1986,861 2115,861 2244,861 2373,860 2502,860 2631,860 2760,860 2889,858 3018,858 3147,858 3276,857"/>
                 <TextEquiv>
-                    <Unicode>meine innigsten Grüsse (Küsze nach Schluss) und erstatte Bericht</Unicode>
+                    <Unicode>meine innigsten Grüsse (Küsse nach Schluss) und erstatte Bericht</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:5;}">
@@ -67,7 +67,7 @@
                 <Coords points="645,1308 3421,1308 3421,1201 3173,1109 2914,1209 645,1198"/>
                 <Baseline points="662,1245 799,1248 936,1248 1073,1250 1210,1251 1347,1251 1484,1251 1621,1251 1758,1251 1895,1251 2032,1250 2169,1250 2306,1250 2443,1248 2580,1248 2717,1248 2854,1248 2991,1248 3128,1250 3265,1250 3402,1251"/>
                 <TextEquiv>
-                    <Unicode>vergessen, will ich chronistisch vorgehn, eine Gewohnheit. Samstagalso</Unicode>
+                    <Unicode>vergessen, will ich chronistisch vorgehn, eine Gewohnheit. Samstag also</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l10" custom="readingOrder {index:8;}">
@@ -81,14 +81,14 @@
                 <Coords points="631,1521 3463,1561 3417,1419 631,1432"/>
                 <Baseline points="650,1511 789,1511 929,1511 1069,1511 1209,1511 1349,1512 1489,1512 1628,1512 1768,1512 1908,1512 2048,1512 2188,1512 2328,1512 2468,1512 2607,1512 2747,1512 2887,1512 3027,1512 3167,1512 3307,1511 3447,1511"/>
                 <TextEquiv>
-                    <Unicode>Die Bergner (zu der wir hätten fahren sollen) kam zu uns, -eben von Bar¬</Unicode>
+                    <Unicode>Die Bergner (zu der wir hätten fahren sollen) kam zu uns, – eben von Bar¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l12" custom="readingOrder {index:10;}">
                 <Coords points="634,1702 3349,1650 3055,1547 634,1581"/>
                 <Baseline points="653,1641 786,1643 920,1643 1054,1643 1188,1643 1322,1644 1456,1644 1589,1644 1723,1644 1857,1644 1991,1644 2125,1644 2259,1644 2393,1644 2526,1644 2660,1644 2794,1644 2928,1644 3062,1644 3196,1644 3330,1644"/>
                 <TextEquiv>
-                    <Unicode>nowsky, der ihr die Elise eben noch von 2½ Stunden auf 1 zusammenge¬</Unicode>
+                    <Unicode>nowsky, der ihr die Else eben noch von 2½ Stunden auf 1 zusammenge¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:11;}">
@@ -102,7 +102,7 @@
                 <Coords points="631,1940 3183,1966 3223,1856 631,1827"/>
                 <Baseline points="647,1904 781,1904 916,1904 1051,1905 1185,1905 1320,1905 1455,1905 1589,1905 1724,1905 1859,1907 1993,1907 2128,1907 2263,1907 2397,1907 2532,1907 2667,1908 2801,1908 2936,1908 3071,1908 3206,1908"/>
                 <TextEquiv>
-                    <Unicode>fügte sich meiner Reihenfolge (Elze-Gustl) ohnewelters.-Ich ins</Unicode>
+                    <Unicode>fügte sich meiner Reihenfolge (Else-Gustl) ohneweiters.– Ich ins</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l15" custom="readingOrder {index:13;}">
@@ -123,35 +123,35 @@
                 <Coords points="668,2324 3327,2319 3327,2227 2987,2194 668,2199"/>
                 <Baseline points="687,2297 818,2295 949,2295 1080,2295 1211,2295 1342,2295 1473,2297 1604,2297 1735,2297 1866,2298 1997,2298 2128,2299 2259,2300 2390,2300 2521,2300 2652,2300 2783,2300 2914,2300 3045,2300 3176,2300 3308,2298"/>
                 <TextEquiv>
-                    <Unicode>und Olga "nach Hause"; - ich mit Heini Esplanade; er auf den "Bösen</Unicode>
+                    <Unicode>und Olga »nach Hause«; – ich mit Heini Esplanade; er auf den »Bösen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l20" custom="readingOrder {index:16;}">
                 <Coords points="599,2436 3332,2465 3332,2345 599,2334"/>
                 <Baseline points="618,2426 752,2427 887,2427 1022,2427 1157,2427 1292,2427 1427,2428 1561,2429 1696,2429 1831,2429 1966,2429 2101,2430 2236,2430 2371,2430 2505,2430 2640,2430 2775,2430 2910,2430 3045,2430 3180,2430 3315,2430"/>
                 <TextEquiv>
-                    <Unicode>Buben-Ball" (der jetzt auch in Berlin). Ich um 12 Uhr ins Bett und</Unicode>
+                    <Unicode>Buben-Ball« (der jetzt auch in Berlin). Ich um 12 Uhr ins Bett und</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l21" custom="readingOrder {index:17;}">
                 <Coords points="636,2579 3064,2612 3362,2563 3362,2457 636,2462"/>
                 <Baseline points="654,2550 788,2552 923,2553 1057,2555 1192,2556 1326,2558 1461,2558 1595,2559 1730,2559 1864,2559 1999,2559 2134,2559 2268,2559 2403,2559 2537,2559 2672,2559 2806,2558 2941,2558 3075,2559 3210,2559 3345,2559"/>
                 <TextEquiv>
-                    <Unicode>nach guter Reiseart fast 8 Stunden "glatt", wie man hier ununterbro-</Unicode>
+                    <Unicode>nach guter Reiseart fast 8 Stunden »glatt«, wie man hier ununterbro¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l22" custom="readingOrder {index:18;}">
                 <Coords points="677,2703 3549,2686 3482,2597 677,2607"/>
                 <Baseline points="695,2685 836,2687 978,2687 1120,2687 1262,2688 1403,2688 1545,2688 1687,2690 1829,2690 1970,2690 2112,2691 2254,2691 2396,2691 2537,2691 2679,2691 2821,2691 2963,2693 3104,2693 3246,2693 3388,2693 3530,2693"/>
                 <TextEquiv>
-                    <Unicode>chen sagt, durchgeschlafen.-Den Sonntag Vormittag mit Telefongesprächen</Unicode>
+                    <Unicode>chen sagt, durchgeschlafen.– Den Sonntag Vormittag mit Telefongesprächen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l23" custom="readingOrder {index:19;}">
                 <Coords points="637,2842 3300,2874 3300,2778 3027,2738 638,2761"/>
                 <Baseline points="657,2813 788,2814 919,2814 1050,2816 1182,2816 1313,2817 1444,2817 1575,2819 1707,2819 1838,2820 1969,2820 2100,2820 2232,2822 2363,2822 2494,2822 2625,2822 2757,2822 2888,2823 3019,2823 3150,2823 3282,2823"/>
                 <TextEquiv>
-                    <Unicode>und Gustl-Versuchen verbracht.- Nach Dahlem, bei Dora M. und ihren</Unicode>
+                    <Unicode>und Gustl-Versuchen verbracht.– Nach Dahlem, bei Dora M. und ihren</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l24" custom="readingOrder {index:20;}">
@@ -172,14 +172,14 @@
                 <Coords points="669,3218 3378,3270 3350,3138 1152,3163 670,3086"/>
                 <Baseline points="689,3206 822,3209 956,3210 1089,3212 1223,3213 1356,3213 1490,3215 1623,3215 1757,3216 1890,3216 2024,3216 2157,3216 2291,3216 2424,3216 2558,3216 2691,3216 2825,3216 2958,3218 3092,3218 3225,3219 3359,3221"/>
                 <TextEquiv>
-                    <Unicode>französischen Stück von K.... "la nuit est å nous" (theilweise</Unicode>
+                    <Unicode>französischen Stück von K.... »la nuit est å nous« (theilweise</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l27" custom="readingOrder {index:23;}">
                 <Coords points="638,3368 3272,3396 3438,3372 3439,3280 638,3247"/>
                 <Baseline points="654,3335 792,3338 930,3341 1068,3342 1207,3343 1345,3344 1483,3345 1621,3345 1760,3345 1898,3345 2036,3347 2174,3347 2313,3347 2451,3347 2589,3348 2727,3348 2866,3350 3004,3351 3142,3353 3280,3354 3419,3357"/>
                 <TextEquiv>
-                    <Unicode>hübsch) gelesen. In den Reichstag. Elisaheth Bergner mit Barmowsky;</Unicode>
+                    <Unicode>hübsch) gelesen. In den Reichstag. Elisabeth Bergner mit Barmowsky;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l28" custom="readingOrder {index:24;}">
@@ -200,7 +200,7 @@
                 <Coords points="635,3747 3234,3800 3185,3655 636,3690"/>
                 <Baseline points="654,3728 782,3728 910,3729 1038,3729 1166,3731 1294,3731 1422,3731 1550,3732 1678,3732 1806,3734 1935,3734 2063,3734 2191,3735 2319,3735 2447,3737 2575,3737 2703,3738 2831,3740 2959,3740 3087,3741 3216,3743"/>
                 <TextEquiv>
-                    <Unicode>eine Freundin); - Georg Engel (der Präsident des Erzählverbandes)</Unicode>
+                    <Unicode>eine Freundin); – Georg Engel (der Präsident des Erzählverbandes)</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l31" custom="readingOrder {index:27;}">
@@ -228,41 +228,41 @@
                 <Coords points="636,4273 3386,4370 3441,4218 636,4206"/>
                 <Baseline points="653,4253 791,4254 930,4257 1068,4259 1207,4260 1345,4262 1484,4263 1622,4263 1761,4265 1899,4266 2038,4267 2176,4268 2315,4269 2453,4269 2592,4271 2730,4272 2869,4272 3007,4274 3146,4275 3284,4275 3423,4277"/>
                 <TextEquiv>
-                    <Unicode>scher Kultur (oder so), die heute  etc. etc... in diesen Hallen.</Unicode>
+                    <Unicode>scher Kultur (oder so), die heute  etc. etc.…in diesen Hallen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>Berlin, 8.2.1926. Hotel Esplanade.
-(nach Wien,Pregegring.)
+(nach Wien, Pregegring.)
 Mein Liebes, zur Zeit, da ich Dir sonst telefoniere, setze ich mich,
 während daneben die Badewanne rauscht, an den Tisch und sende Dir
-meine innigsten Grüsse (Küsze nach Schluss) und erstatte Bericht
+meine innigsten Grüsse (Küsse nach Schluss) und erstatte Bericht
 über das gestrige Ereignis, das mir in dem selben Augenblick schon
 lächerlich erscheint, da ich es Ereighis nenne. Um aber nichts zu
-vergessen, will ich chronistisch vorgehn, eine Gewohnheit. Samstagalso
+vergessen, will ich chronistisch vorgehn, eine Gewohnheit. Samstag also
 6 Uhr zu Georg Engel, woselbst schon der Vereinsekretär Birkenfeld.
-Die Bergner (zu der wir hätten fahren sollen) kam zu uns, -eben von Bar¬
-nowsky, der ihr die Elise eben noch von 2½ Stunden auf 1 zusammenge¬
+Die Bergner (zu der wir hätten fahren sollen) kam zu uns, – eben von Bar¬
+nowsky, der ihr die Else eben noch von 2½ Stunden auf 1 zusammenge¬
 strichen hatte. Sie tat oder war höchst aufgeregt wegen morgen und
-fügte sich meiner Reihenfolge (Elze-Gustl) ohnewelters.-Ich ins
+fügte sich meiner Reihenfolge (Else-Gustl) ohneweiters.– Ich ins
 Schillertheater, Jugend, Heini spielte den Hans sehr gut; die Gesamt¬
 vorstellung etwas laut und nicht ohne provinzielle Atmosphäre. Lili
-und Olga "nach Hause"; - ich mit Heini Esplanade; er auf den "Bösen
-Buben-Ball" (der jetzt auch in Berlin). Ich um 12 Uhr ins Bett und
-nach guter Reiseart fast 8 Stunden "glatt", wie man hier ununterbro-
-chen sagt, durchgeschlafen.-Den Sonntag Vormittag mit Telefongesprächen
-und Gustl-Versuchen verbracht.- Nach Dahlem, bei Dora M. und ihren
+und Olga »nach Hause«; – ich mit Heini Esplanade; er auf den »Bösen
+Buben-Ball« (der jetzt auch in Berlin). Ich um 12 Uhr ins Bett und
+nach guter Reiseart fast 8 Stunden »glatt«, wie man hier ununterbro¬
+chen sagt, durchgeschlafen.– Den Sonntag Vormittag mit Telefongesprächen
+und Gustl-Versuchen verbracht.– Nach Dahlem, bei Dora M. und ihren
 zwei Söhnen gegessen (der Gatte ist nach Wien in der Sache Jakob –
 Julie) (der älteste in Hamburg, Secundararzt); dann in Hotel; ein
-französischen Stück von K.... "la nuit est å nous" (theilweise
-hübsch) gelesen. In den Reichstag. Elisaheth Bergner mit Barmowsky;
+französischen Stück von K.... »la nuit est å nous« (theilweise
+hübsch) gelesen. In den Reichstag. Elisabeth Bergner mit Barmowsky;
 in einem entzückenden Else-Kleid; und voll echtem und gespieltem Aber¬
 glauben; von einer Freundin umgeben (jede Schauspielerin hat so
-eine Freundin); - Georg Engel (der Präsident des Erzählverbandes)
+eine Freundin); – Georg Engel (der Präsident des Erzählverbandes)
 eitel, vereinmeierisch und nicht sehr gescheidt; die nette
 blonde beflissene Sekretärin Birkenfeld. Saal überfüllt. Engel hält
 eine kleine ein- (und an-) führende Rede über die Blüten österreichi¬
-scher Kultur (oder so), die heute  etc. etc... in diesen Hallen.</Unicode>
+scher Kultur (oder so), die heute  etc. etc.…in diesen Hallen.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

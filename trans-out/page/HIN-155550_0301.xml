@@ -3,16 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:51</Creator>
         <Created>2022-11-17T16:34:54.408+01:00</Created>
-        <LastChange>2022-11-25T11:51:12.330Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50262646" pageNr="301" tsid="105032174" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WZZWGIRDHTWUNSSWPSDGMNEM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DSLVJGDOCXRECPIAFXTTSBOU" imageId="41049934">
-            <Property key="mdSetName" value="myMdSet"/>
-            <Property key="property2"/>
-            <Property key="property1"/>
-        </TranskribusMetadata>
+        <LastChange>2022-12-02T17:02:26.893+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50262646" pageNr="301" tsid="105560863" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WZZWGIRDHTWUNSSWPSDGMNEM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PEHJTSYGGNTHQGNHEPDFVIUZ" imageId="41049934"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0301.tif" imageWidth="3690" imageHeight="4682">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820950730" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241784714" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -22,7 +18,7 @@
                 <Coords points="575,479 618,462 709,487 798,456 918,475 978,447 1239,485 1241,333 1036,359 923,334 891,365 778,315 742,346 576,362"/>
                 <Baseline points="594,428 625,429 657,429 688,430 720,431 751,431 783,432 814,432 846,432 877,432 909,434 940,434 972,434 1003,434 1035,434 1066,434 1098,434 1129,434 1161,434 1192,434 1224,434"/>
                 <TextEquiv>
-                    <Unicode>An A.S., Berlin.</Unicode>
+                    <Unicode>An A. S., Berlin.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
@@ -36,7 +32,7 @@
                 <Coords points="570,694 659,730 807,706 899,734 1026,710 1065,724 1146,700 1147,636 1023,590 981,625 920,632 878,617 776,631 716,603 571,620"/>
                 <Baseline points="588,690 615,690 642,692 669,693 696,693 723,695 750,695 777,696 804,696 831,696 858,696 885,696 912,696 939,696 966,696 993,696 1020,695 1047,694 1074,693 1101,692 1128,690"/>
                 <TextEquiv>
-                    <Unicode>Mein Liebes -</Unicode>
+                    <Unicode>Mein Liebes –</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l4" custom="readingOrder {index:3;}">
@@ -50,14 +46,14 @@
                 <Coords points="584,967 3124,1013 3372,972 3372,866 584,875"/>
                 <Baseline points="602,953 739,954 877,955 1014,956 1152,957 1290,957 1427,959 1565,959 1702,959 1840,960 1978,960 2115,960 2253,960 2390,960 2528,962 2666,962 2803,962 2941,962 3078,962 3216,962 3354,962"/>
                 <TextEquiv>
-                    <Unicode>Gespräch hat die Entfernung, die ich nicht nur äusserlich empfand, ent-</Unicode>
+                    <Unicode>Gespräch hat die Entfernung, die ich nicht nur äusserlich empfand, ent¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l6" custom="readingOrder {index:5;}">
                 <Coords points="589,1091 3388,1130 3357,1034 2933,994 590,1031"/>
                 <Baseline points="608,1086 746,1086 884,1086 1022,1086 1160,1088 1298,1088 1436,1088 1575,1089 1713,1089 1851,1089 1989,1091 2127,1091 2265,1092 2403,1092 2542,1093 2680,1094 2818,1094 2956,1094 3094,1095 3232,1095 3371,1095"/>
                 <TextEquiv>
-                    <Unicode>schieden vermindert.-Könntest Du nicht manchmal so nette Einfälle ha-</Unicode>
+                    <Unicode>schieden vermindert.– Könntest Du nicht manchmal so nette Einfälle ha¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:6;}">
@@ -71,7 +67,7 @@
                 <Coords points="1138,1349 3265,1392 3346,1379 3347,1269 1138,1278"/>
                 <Baseline points="1154,1353 1262,1352 1371,1352 1479,1352 1588,1352 1697,1352 1805,1352 1914,1353 2023,1353 2131,1353 2240,1353 2349,1355 2457,1355 2566,1356 2675,1358 2783,1358 2892,1359 3001,1361 3109,1361 3218,1362 3327,1364"/>
                 <TextEquiv>
-                    <Unicode>Ja - ich habe in meinen letzten Briefen wenig oder gar</Unicode>
+                    <Unicode>Ja – ich habe in meinen letzten Briefen wenig oder gar</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l9" custom="readingOrder {index:8;}">
@@ -92,7 +88,7 @@
                 <Coords points="559,1767 3305,1785 3369,1712 560,1653"/>
                 <Baseline points="576,1734 714,1736 853,1737 992,1739 1131,1740 1269,1742 1408,1743 1547,1743 1686,1743 1824,1745 1963,1745 2102,1745 2241,1746 2379,1746 2518,1746 2657,1748 2796,1748 2934,1749 3073,1751 3212,1751 3351,1754"/>
                 <TextEquiv>
-                    <Unicode>bist auf nichts eingegangen, was ich erwählte und - Du kennst mich ja</Unicode>
+                    <Unicode>bist auf nichts eingegangen, was ich erwählte und – Du kennst mich ja</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l12" custom="readingOrder {index:11;}">
@@ -106,7 +102,7 @@
                 <Coords points="590,2042 3452,2064 3428,1919 591,1943"/>
                 <Baseline points="608,1995 749,1998 890,2000 1031,2001 1173,2003 1314,2004 1455,2006 1597,2006 1738,2007 1879,2007 2021,2009 2162,2009 2303,2009 2444,2009 2586,2010 2727,2010 2868,2010 3010,2012 3151,2012 3292,2012 3434,2013"/>
                 <TextEquiv>
-                    <Unicode>schon im "Abhang" zu lesen ist. Nun lasse ich schon alles für den münd-</Unicode>
+                    <Unicode>schon im »Abhang« zu lesen ist. Nun lasse ich schon alles für den münd¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l14" custom="readingOrder {index:13;}">
@@ -127,7 +123,7 @@
                 <Coords points="576,2406 3414,2423 3414,2334 3104,2311 577,2329"/>
                 <Baseline points="594,2388 734,2390 874,2391 1014,2391 1154,2393 1295,2393 1435,2394 1575,2394 1715,2396 1855,2396 1996,2397 2136,2397 2276,2399 2416,2399 2556,2400 2697,2400 2837,2402 2977,2403 3117,2403 3257,2405 3398,2406"/>
                 <TextEquiv>
-                    <Unicode>mir versprach die "Redoute" womöglich nächsten Sonntag zu beginnen und</Unicode>
+                    <Unicode>mir versprach die »Redoute« womöglich nächsten Sonntag zu beginnen und</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:16;}">
@@ -141,7 +137,7 @@
                 <Coords points="582,2687 3306,2713 3307,2625 583,2577"/>
                 <Baseline points="600,2648 734,2649 868,2651 1003,2652 1137,2654 1272,2655 1406,2656 1540,2657 1675,2658 1809,2660 1944,2660 2078,2661 2212,2663 2347,2663 2481,2664 2616,2666 2750,2666 2884,2667 3019,2669 3153,2670 3288,2672"/>
                 <TextEquiv>
-                    <Unicode>charmant, äusserte sich begeistert über die "Anastasia" und sagte, er</Unicode>
+                    <Unicode>charmant, äusserte sich begeistert über die »Anastasia« und sagte, er</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668764651394_580" custom="readingOrder {index:18;}">
@@ -155,28 +151,28 @@
                 <Coords points="1274,2931 3472,2977 3405,2871 2455,2868 2254,2796 1995,2872 1275,2867"/>
                 <Baseline points="1292,2918 1400,2918 1508,2919 1616,2919 1724,2921 1832,2921 1940,2921 2049,2922 2157,2922 2265,2924 2373,2924 2481,2925 2589,2925 2697,2925 2806,2927 2914,2928 3022,2928 3130,2930 3238,2930 3346,2931 3455,2933"/>
                 <TextEquiv>
-                    <Unicode>e Verhandlungen mit Barnowsky sind mir unverständlich.</Unicode>
+                    <Unicode>Diee Verhandlungen mit Barnowsky sind mir unverständlich.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668764603546_545" custom="readingOrder {index:20;}">
                 <Coords points="563,3093 3284,3117 3286,3000 565,2966"/>
                 <Baseline points="584,2996 599,2993 912,3005 936,3008 1025,3045 1137,3047 1249,3048 1361,3048 1473,3050 1586,3050 1698,3051 1810,3051 1922,3053 2034,3053 2147,3053 2259,3054 2371,3054 2483,3056 2595,3056 2708,3057 2820,3057 2932,3059 3044,3060 3156,3060 3269,3062"/>
                 <TextEquiv>
-                    <Unicode>Die Zusammenstellung "Else" und "literatur" eine Lächerlichkeit. Er</Unicode>
+                    <Unicode>Die Zusammenstellung »Else« und »Literatur« eine Lächerlichkeit. Er</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668764610827_551" custom="readingOrder {index:21;}">
                 <Coords points="583,3180 3260,3263 3301,3126 583,3099"/>
                 <Baseline points="600,3128 633,3131 636,3173 661,3171 687,3170 712,3168 738,3168 763,3168 789,3168 814,3167 840,3167 1547,3179 1633,3179 1720,3180 1807,3181 1894,3182 1980,3183 2067,3183 2154,3185 2241,3185 2327,3186 2414,3186 2501,3188 2588,3188 2674,3188 2761,3189 2848,3189 2935,3189 3021,3191 3108,3191 3195,3191 3282,3191"/>
                 <TextEquiv>
-                    <Unicode>voll, da die Bergner so zieht, einen Abend die "Else" geben und einen</Unicode>
+                    <Unicode>soll, da die Bergner so zieht, einen Abend die »Else« geben und einen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668764618395_557" custom="readingOrder {index:22;}">
                 <Coords points="706,3366 3421,3333 2913,3220 707,3246"/>
                 <Baseline points="726,3299 762,3302 1086,3308 1201,3308 1317,3309 1433,3310 1549,3311 1665,3312 1780,3312 1896,3313 2012,3314 2128,3315 2244,3315 2359,3317 2475,3317 2591,3318 2707,3318 2823,3320 2938,3320 3054,3321 3170,3323 3286,3323 3402,3324"/>
                 <TextEquiv>
-                    <Unicode>eiten mit "literatur" und einem kleinen Strindberg-Stück. Letztere</Unicode>
+                    <Unicode>zweiten mit »Literatur« und einem kleinen Strindberg-Stück. Letztere</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l30" custom="readingOrder {index:23;}">
@@ -186,18 +182,18 @@
                     <Unicode>Zusammenstellung war vor drei Jahren hier mit der Constantin. So hätte</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:24;}">
+            <TextLine id="r1l31" custom="readingOrder {index:24;} supplied {offset:47; length:1;}">
                 <Coords points="694,3590 3160,3649 3408,3612 3409,3531 695,3487"/>
                 <Baseline points="713,3560 846,3563 980,3564 1114,3566 1248,3568 1382,3570 1516,3572 1649,3573 1783,3575 1917,3576 2051,3576 2185,3578 2319,3579 2453,3581 2586,3581 2720,3582 2854,3583 2988,3584 3122,3585 3256,3585 3390,3587"/>
                 <TextEquiv>
-                    <Unicode>zwei Abende mit sicheren Einnahmen. Die Berger könnte übrigens auch</Unicode>
+                    <Unicode>er zwei Abende mit sicheren Einnahmen. Die Bergner könnte übrigens auch</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1668764627291_563" custom="readingOrder {index:25;}">
                 <Coords points="585,3729 1059,3696 1849,3766 1995,3715 2100,3748 2101,3674 1268,3603 773,3657 586,3602"/>
                 <Baseline points="603,3653 623,3650 627,3692 653,3693 680,3694 706,3695 733,3696 759,3698 786,3699 812,3699 839,3700 865,3701 892,3699 918,3699 945,3696 1229,3690 1271,3693 1314,3695 1356,3696 1399,3698 1442,3699 1484,3701 1527,3701 1570,3701 1612,3702 1655,3702 1698,3702 1740,3702 1783,3702 1826,3703 1868,3704 1911,3704 1954,3705 1996,3707 2039,3708 2082,3710"/>
                 <TextEquiv>
-                    <Unicode>sehr gut in den "Schwestern" spielen.</Unicode>
+                    <Unicode>sehr gut in den »Schwestern« spielen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l35" custom="readingOrder {index:26;}">
@@ -207,90 +203,74 @@
                     <Unicode>Den heutigen Zeitungen nach scheint die Burgtheater-Krise</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l36" custom="readingOrder {index:27;}">
-                <Coords points="569,3951 594,3951 604,3958 622,3940 640,3940 640,3735 618,3735 611,3742 601,3739 590,3749 569,3749"/>
-                <Baseline points="585,3915 623,3915"/>
-                <TextEquiv>
-                    <Unicode>W</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:28;}">
+            <TextLine id="r1l37" custom="readingOrder {index:27;}">
                 <Coords points="603,3989 3247,3991 3247,3916 2591,3867 604,3918"/>
                 <Baseline points="620,3954 750,3954 880,3956 1011,3956 1141,3957 1272,3959 1402,3960 1532,3962 1663,3963 1793,3965 1924,3966 2054,3968 2184,3969 2315,3971 2445,3972 2576,3974 2706,3974 2836,3975 2967,3975 3097,3977 3228,3977"/>
                 <TextEquiv>
-                    <Unicode>wieder im Abflauen. Nächsten Sonntag um 4 Uhr ist die "Komödie der</Unicode>
+                    <Unicode>wieder im Abflauen. Nächsten Sonntag um 4 Uhr ist die »Komödie der</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l38" custom="readingOrder {index:29;}">
+            <TextLine id="r1l38" custom="readingOrder {index:28;}">
                 <Coords points="543,4115 627,4130 836,4079 1122,4146 1306,4094 1476,4131 1529,4114 1530,4015 1420,3990 1271,4048 1191,3998 1155,4026 1081,3993 1042,4032 809,4008 671,4035 544,3988"/>
                 <Baseline points="561,4085 608,4085 656,4086 703,4086 751,4088 798,4088 846,4088 893,4088 941,4088 988,4089 1036,4089 1084,4089 1131,4089 1179,4089 1226,4091 1274,4091 1321,4092 1369,4092 1416,4094 1464,4095 1512,4097"/>
                 <TextEquiv>
-                    <Unicode>Worte" im Volkstheater.</Unicode>
+                    <Unicode>Worte« im Volkstheater.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l39" custom="readingOrder {index:30;}">
+            <TextLine id="r1l39" custom="readingOrder {index:29;}">
                 <Coords points="1124,4234 3297,4284 3298,4157 3055,4115 2570,4188 1125,4132"/>
                 <Baseline points="1143,4215 1249,4220 1356,4222 1463,4224 1570,4227 1677,4229 1783,4230 1890,4232 1997,4232 2104,4233 2211,4233 2317,4235 2424,4235 2531,4235 2638,4236 2745,4236 2851,4238 2958,4238 3065,4239 3172,4241 3279,4244"/>
                 <TextEquiv>
                     <Unicode>Gute Heimfahrt, mein Kind, bringe guten Willen und gute</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1668764635252_568" custom="readingOrder {index:31;}">
+            <TextLine id="line_1668764635252_568" custom="readingOrder {index:30;}">
                 <Coords points="621,4383 3250,4434 3251,4300 2993,4270 622,4277"/>
                 <Baseline points="639,4356 669,4349 867,4355 985,4357 1103,4358 1221,4359 1339,4361 1458,4361 1576,4362 1694,4362 1812,4364 1930,4364 2049,4365 2167,4365 2285,4367 2403,4367 2521,4368 2640,4368 2758,4370 2876,4370 2994,4371 3112,4371 3231,4373"/>
                 <TextEquiv>
-                    <Unicode>edanken mit und lass unser Wiedersehen ein gutes und frohes sein.</Unicode>
+                    <Unicode>Gedanken mit und lass unser Wiedersehen ein gutes und frohes sein.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="line_1668764642866_574" custom="readingOrder {index:32;}">
+            <TextLine id="line_1668764642866_574" custom="readingOrder {index:31;}">
                 <Coords points="572,4494 1880,4627 1892,4543 1377,4439 1256,4480 975,4411 801,4443 585,4371"/>
                 <Baseline points="591,4472 654,4475 718,4479 782,4484 846,4489 910,4494 974,4500 1038,4506 1102,4512 1166,4519 1230,4525 1293,4532 1357,4539 1421,4546 1485,4552 1549,4558 1613,4565 1677,4571 1741,4577 1805,4581 1869,4587 824,4449 848,4449"/>
                 <TextEquiv>
-                    <Unicode>Es Immehrt Dich 100 M Nr Nachricht, als nicht von</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l44" custom="readingOrder {index:33;}">
-                <Coords points="3436,247 3453,252 3472,278 3489,283 3531,118 3506,116 3500,110 3488,115 3471,110"/>
-                <Baseline points="3465,201 3489,207"/>
-                <TextEquiv>
-                    <Unicode>25</Unicode>
+                    <Unicode>Es umarmt Dich innid Deine C.K.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>An A. S., Berlin.
+Wien, 14.2.1926.
+Mein Liebes –
+wir sprachen uns vor einer Stunde telefonisch und das
+Gespräch hat die Entfernung, die ich nicht nur äusserlich empfand, ent¬
+schieden vermindert.– Könntest Du nicht manchmal so nette Einfälle ha¬
+ben, wie viel leichter wäre das Leben!
+Ja – ich habe in meinen letzten Briefen wenig oder gar
+nichts von mir gesprochen, denn Du hast in Deinen Briefen, die nur
+Berichte waren, nicht ein einziges Mal gefragt, was ich tue oder denke,
+bist auf nichts eingegangen, was ich erwählte und – Du kennst mich ja
+da hab ich mich gleich in mein Schneckenhaus zurückgezogen, von dem
+schon im »Abhang« zu lesen ist. Nun lasse ich schon alles für den münd¬
+lichen Bericht.
+Vorgestern sprach ich u.A. den Benedikt telefonisch, der
+mir versprach die »Redoute« womöglich nächsten Sonntag zu beginnen und
+auf zweimal zu bringen. Aber ich glaub nicht recht daran. Er war sehr
+charmant, äusserte sich begeistert über die »Anastasia« und sagte, er
+würde mich gern wieder einmal sehen.
+Diee Verhandlungen mit Barnowsky sind mir unverständlich.
+Die Zusammenstellung »Else« und »Literatur« eine Lächerlichkeit. Er
+soll, da die Bergner so zieht, einen Abend die »Else« geben und einen
+zweiten mit »Literatur« und einem kleinen Strindberg-Stück. Letztere
+Zusammenstellung war vor drei Jahren hier mit der Constantin. So hätte
+er zwei Abende mit sicheren Einnahmen. Die Bergner könnte übrigens auch
+sehr gut in den »Schwestern« spielen.
+Den heutigen Zeitungen nach scheint die Burgtheater-Krise
+wieder im Abflauen. Nächsten Sonntag um 4 Uhr ist die »Komödie der
+Worte« im Volkstheater.
+Gute Heimfahrt, mein Kind, bringe guten Willen und gute
+Gedanken mit und lass unser Wiedersehen ein gutes und frohes sein.
+Es umarmt Dich innid Deine C.K.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

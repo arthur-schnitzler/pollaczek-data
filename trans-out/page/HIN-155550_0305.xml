@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=25_11_2022_11:51</Creator>
         <Created>2022-11-17T16:34:55.174+01:00</Created>
-        <LastChange>2022-11-25T11:51:13.346Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50262700" pageNr="305" tsid="105032178" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WNAEAFFPUCAHKCPACGTMXCVK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AIHZDCGSRDMTRVYEAAUYCSRA" imageId="41049938"/>
+        <LastChange>2022-12-02T17:15:57.955+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50262700" pageNr="305" tsid="105561627" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WNAEAFFPUCAHKCPACGTMXCVK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PIYTLAREVMUFDRLMAORTNVJZ" imageId="41049938"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0305.tif" imageWidth="3799" imageHeight="4707">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820950867" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241784730" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -18,14 +18,14 @@
                 <Coords points="485,538 3587,563 3587,445 3442,425 485,446"/>
                 <Baseline points="503,518 656,519 809,521 962,522 1115,524 1268,524 1421,525 1575,525 1728,525 1881,525 2034,525 2187,527 2340,527 2493,527 2647,527 2800,527 2953,528 3106,528 3259,530 3412,530 3566,531"/>
                 <TextEquiv>
-                    <Unicode>Wozu wiederholen, womit unzühlige zwecklose und quählende Gespräche erfüllt</Unicode>
+                    <Unicode>Wozu wiederholen, womit unzählige zwecklose und quählende Gespräche erfüllt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
                 <Coords points="486,669 3508,695 3482,595 2433,547 487,608"/>
                 <Baseline points="506,650 655,651 804,651 953,653 1103,653 1252,654 1401,656 1550,657 1700,657 1849,659 1998,660 2147,660 2297,662 2446,662 2595,663 2744,663 2894,665 3043,665 3192,666 3341,666 3491,666"/>
                 <TextEquiv>
-                    <Unicode>waren, die zu nichts führten, wenn es auch an meiner Nachsicht und mei-</Unicode>
+                    <Unicode>waren, die zu nichts führten, wenn es auch an meiner Nachsicht und mei¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l3" custom="readingOrder {index:2;}">
@@ -60,7 +60,7 @@
                 <Coords points="485,1344 3460,1357 3488,1258 485,1237"/>
                 <Baseline points="503,1295 651,1297 799,1299 948,1301 1096,1302 1244,1302 1393,1304 1541,1305 1689,1307 1838,1307 1986,1308 2134,1308 2283,1310 2431,1311 2579,1311 2728,1313 2876,1314 3024,1314 3173,1316 3321,1317 3470,1319"/>
                 <TextEquiv>
-                    <Unicode>mehr geworden bin, so wird wol meine Unzulänglichkeit Schuld darann sein.</Unicode>
+                    <Unicode>mehr geworden bin, so wird wol meine Unzulänglichkeit Schuld daran sein.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l8" custom="readingOrder {index:7;}">
@@ -99,18 +99,18 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>Wozu wiederholen, womit unzählige zwecklose und quählende Gespräche erfüllt
+waren, die zu nichts führten, wenn es auch an meiner Nachsicht und mei¬
+nem guten Willen nicht gefehlt hat.
+Aber ich will in diesen Zeilen jedes böse Wort vermeiden. Ich bin am Ende
+meiner Kraft angelangt.
+Ich habe dir Alles gegeben was ich konnte und wenn ich dir dabei nicht
+mehr geworden bin, so wird wol meine Unzulänglichkeit Schuld daran sein.
+Der kleine Raum den ich in Deinem Leben einnehm wird wol bald ausgefüllt
+sein.
+Lebwol! Vielleicht wirst du mich eines Tages verstehen und im Guten meiner
+gedenken. Ich wünsche Dir alles alles Gute.
+Clara Katharina</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

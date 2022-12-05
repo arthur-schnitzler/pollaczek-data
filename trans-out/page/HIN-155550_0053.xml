@@ -3,29 +3,29 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=TrHtr:version=0.0.6:model_id=44522:date=18_11_2022_03:23</Creator>
         <Created>2022-11-17T16:34:08.747+01:00</Created>
-        <LastChange>2022-11-18T03:23:52.188Z</LastChange>
-        <TranskribusMetadata docId="1233893" pageId="50259254" pageNr="53" tsid="104225733" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JSIZVFWSDGWCPQTFRIPWOKFG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OQFUQONCCPEVOZGRIVBDZEIR" imageId="41048839"/>
+        <LastChange>2022-11-30T23:04:34.030+01:00</LastChange>
+        <TranskribusMetadata docId="1233893" pageId="50259254" pageNr="53" tsid="105446548" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JSIZVFWSDGWCPQTFRIPWOKFG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IHBHWADQRAYPIHOIQHPCDNKW" imageId="41048839"/>
     </Metadata>
     <Page imageFilename="HIN-155550_0053.tif" imageWidth="2777" imageHeight="1578">
         <ReadingOrder>
-            <OrderedGroup id="ro_1669820949351" caption="Regions reading order">
+            <OrderedGroup id="ro_1670241783369" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="r1" custom="readingOrder {index:0;}">
             <Coords points="450,158 450,1465 2607,1465 2607,158"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+            <TextLine id="r1l1" custom="readingOrder {index:0;} date {offset:0; length:11;}">
                 <Coords points="1229,415 1273,435 1370,401 1635,490 1834,403 2187,406 2187,344 2022,308 1787,342 1743,311 1600,336 1228,315"/>
                 <Baseline points="1242,396 1288,396 1335,395 1381,395 1428,395 1475,394 1521,393 1568,393 1614,392 1661,392 1708,392 1754,390 1801,390 1847,389 1894,389 1941,387 1987,387 2034,387 2080,386 2127,386 2174,386"/>
                 <TextEquiv>
-                    <Unicode>27. VII. 1915. Dresden.</Unicode>
+                    <Unicode>27.VII.1915. Dresden.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
                 <Coords points="673,741 2479,709 2449,597 2027,662 672,647"/>
                 <Baseline points="687,729 780,728 874,726 967,725 1061,725 1155,723 1248,722 1342,722 1436,720 1529,719 1623,717 1716,716 1810,716 1904,714 1997,713 2091,711 2185,710 2278,707 2372,705 2466,704"/>
                 <TextEquiv>
-                    <Unicode>Nach einer kleinen Rundreise, München, Nürn-</Unicode>
+                    <Unicode>Nach einer kleinen Rundreise, München, Nürn¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l3" custom="readingOrder {index:2;}">
@@ -39,7 +39,7 @@
                 <Coords points="458,1016 2307,955 2471,1015 2470,923 2360,898 457,924"/>
                 <Baseline points="471,993 570,993 669,992 768,990 868,989 967,987 1066,987 1166,986 1265,984 1364,984 1464,983 1563,981 1662,981 1761,980 1861,978 1960,977 2059,975 2159,974 2258,972 2357,969 2457,968"/>
                 <TextEquiv>
-                    <Unicode>(Habsburgerhof ) zurück. Kommen Sie mit Ihrer Fa-</Unicode>
+                    <Unicode>(Habsburgerhof ) zurück. Kommen Sie mit Ihrer Fa¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l5" custom="readingOrder {index:4;}">
@@ -53,7 +53,7 @@
                 <Coords points="758,1272 1016,1264 1096,1293 1175,1254 1391,1287 1465,1258 1672,1266 1648,1187 1215,1184 1175,1211 757,1187"/>
                 <Baseline points="770,1253 814,1253 858,1253 903,1253 947,1253 992,1253 1036,1253 1080,1253 1125,1252 1169,1251 1214,1251 1258,1251 1302,1250 1347,1250 1391,1250 1436,1248 1480,1247 1524,1247 1569,1244 1613,1243 1658,1241"/>
                 <TextEquiv>
-                    <Unicode>Mit einem schönen Grus</Unicode>
+                    <Unicode>Mit einem schönen Gruss</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:6;}">
@@ -70,23 +70,15 @@
                     <Unicode>Clara Pollaczek</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:8;}">
-                <Coords points="2508,320 2542,315 2549,323 2560,318 2582,331 2590,326 2618,332 2622,104 2593,106 2583,100 2578,106 2560,105 2537,123 2511,123"/>
-                <Baseline points="2522,264 2550,258 2578,261 2607,263"/>
-                <TextEquiv>
-                    <Unicode>6/1</Unicode>
-                </TextEquiv>
-            </TextLine>
             <TextEquiv>
-                <Unicode>
-
-
-
-
-
-
-
-</Unicode>
+                <Unicode>27.VII.1915. Dresden.
+Nach einer kleinen Rundreise, München, Nürn¬
+berg, Dresden, fahre ich jetzt über Wien nach Ischl
+(Habsburgerhof ) zurück. Kommen Sie mit Ihrer Fa¬
+milie auch in diese Gegend?
+Mit einem schönen Gruss
+Ihre
+Clara Pollaczek</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>
