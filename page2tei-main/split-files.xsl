@@ -2,29 +2,24 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
     exclude-result-prefixes="#all" version="3.0">
-
     <xsl:output name="xml" method="xml" indent="yes" omit-xml-declaration="yes"/>
-
     <!-- directory of new files -->
     <xsl:param name="dir">../editions</xsl:param>
-    <xsl:param name="toc"
-        select="document('../data/toc.xml')"/>
+    <xsl:param name="toc" select="document('../data/toc.xml')"/>
     <xsl:key name="toc-title" match="item" use="@xml:id"/>
-    
-
     <!-- output xml file for each letter tag with file name according to number of xml files in output directory (+1) -->
     <xsl:param name="n" select="count(collection(concat($dir, '?select=*.xml')))"/>
     <xsl:template match="/*">
         <xsl:for-each select="//tei:seite">
             <xsl:variable name="dateiname" as="xs:string">
                 <xsl:choose>
-                    <xsl:when test="string-length(@id)=1">
+                    <xsl:when test="string-length(@id) = 1">
                         <xsl:value-of select="concat('ckp00', @id)"/>
                     </xsl:when>
-                    <xsl:when test="string-length(@id)=2">
+                    <xsl:when test="string-length(@id) = 2">
                         <xsl:value-of select="concat('ckp0', @id)"/>
                     </xsl:when>
-                    <xsl:when test="string-length(@id)=3">
+                    <xsl:when test="string-length(@id) = 3">
                         <xsl:value-of select="concat('ckp', @id)"/>
                     </xsl:when>
                     <xsl:otherwise>
@@ -34,26 +29,49 @@
             </xsl:variable>
             <xsl:result-document href="../../../data/editions/{$dateiname}.xml">
                 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                    xml:id="{$dateiname}"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="{$dateiname}"
                     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
                     <teiHeader>
                         <fileDesc>
                             <titleStmt>
-                                <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title>
-                                <xsl:variable name="inhalt-nachschlagen" select="key('toc-title', $dateiname, $toc)[1]" as="node()"/>
+                                <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+                                <xsl:variable name="inhalt-nachschlagen"
+                                    select="key('toc-title', $dateiname, $toc)[1]" as="node()"/>
                                 <title level="a">
-                                    <xsl:value-of select="$inhalt-nachschlagen/title"/>
+                                    <xsl:choose>
+                                        <!-- es gibt drei fälle, wo mehrere objekte auf einer seite. hier manuell gelöst -->
+                                        <xsl:when
+                                            test="$dateiname = 'ckp478' and (position() mod 2) != 1">
+                                            <xsl:text>Clara Katharina Pollaczek an Arthur Schnitzler, 6.&#160;9.&#160;1927</xsl:text>
+                                        </xsl:when>
+                                        <xsl:when test="$dateiname = 'ckp478'">
+                                            <xsl:text>Clara Katharina Pollaczek an Arthur Schnitzler, 9.&#160;9.&#160;1927</xsl:text>
+                                        </xsl:when>
+                                        <xsl:when
+                                            test="$dateiname = 'ckp727' and (position() mod 2) != 1">
+                                            <xsl:text>Clara Katharina Pollaczek an Arthur Schnitzler, 12.&#160;9.&#160;1929</xsl:text>
+                                        </xsl:when>
+                                        <xsl:when test="$dateiname = 'ckp946'">
+                                            <xsl:text>Clara Katharina Pollaczek an Arthur Schnitzler, 5.&#160;8.&#160;1931</xsl:text>
+                                        </xsl:when>
+                                        <xsl:when test="$dateiname = 'ckp946'">
+                                            <xsl:text>Clara Katharina Pollaczek an Arthur Schnitzler, 6.&#160;8.&#160;1931</xsl:text>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="$inhalt-nachschlagen/title"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
                                 </title>
                                 <xsl:for-each select="$inhalt-nachschlagen/date/@when">
-                                    <xsl:element name="title" namespace="http://www.tei-c.org/ns/1.0">
+                                    <xsl:element name="title"
+                                        namespace="http://www.tei-c.org/ns/1.0">
                                         <xsl:attribute name="type">
                                             <xsl:text>alternative</xsl:text>
                                         </xsl:attribute>
                                         <xsl:attribute name="when-iso">
                                             <xsl:value-of select="."/>
                                         </xsl:attribute>
-                                        
                                     </xsl:element>
                                 </xsl:for-each>
                                 <author ref="#12435">Pollaczek, Clara Katharina</author>
@@ -120,8 +138,7 @@
                                             beschränken.</p>
                                     </licence>
                                 </availability>
-                                <idno type="handle"
-                                    ></idno>
+                                <idno type="handle"/>
                             </publicationStmt>
                             <seriesStmt>
                                 <p>Machine-Readable Transcriptions of the Correspondences of Arthur
@@ -152,11 +169,11 @@
                         </revisionDesc>
                     </teiHeader>
                     <xsl:element name="facsimile" namespace="http://www.tei-c.org/ns/1.0">
-                            <xsl:element name="graphic" namespace="http://www.tei-c.org/ns/1.0">
-                                <xsl:attribute name="url">
-                                    <xsl:value-of select="$dateiname"/>
-                                </xsl:attribute>
-                            </xsl:element>
+                        <xsl:element name="graphic" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:attribute name="url">
+                                <xsl:value-of select="$dateiname"/>
+                            </xsl:attribute>
+                        </xsl:element>
                     </xsl:element>
                     <text>
                         <body>
@@ -175,5 +192,4 @@
             </xsl:result-document>
         </xsl:for-each>
     </xsl:template>
-
 </xsl:stylesheet>
