@@ -27,7 +27,7 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:variable>
-            <xsl:result-document href="../../../data/editions/{$dateiname}.xml">
+            <xsl:result-document href="../files/{$dateiname}.xml">
                 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="{$dateiname}"
                     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
