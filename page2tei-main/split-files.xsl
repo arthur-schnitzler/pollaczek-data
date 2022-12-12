@@ -6,7 +6,7 @@
     <!-- directory of new files -->
     <xsl:param name="dir">../editions</xsl:param>
     <xsl:param name="toc" select="document('../data/toc.xml')"/>
-    <xsl:key name="toc-title" match="item" use="@xml:id"/>
+    <xsl:key name="toc-title" match="*:item" use="@xml:id"/>
     <!-- output xml file for each letter tag with file name according to number of xml files in output directory (+1) -->
     <xsl:param name="n" select="count(collection(concat($dir, '?select=*.xml')))"/>
     <xsl:template match="/*">
@@ -51,7 +51,7 @@
                                 <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
                                     ich«</title>
                                 <xsl:variable name="inhalt-nachschlagen"
-                                    select="key('toc-title', $dateiname, $toc)[1]" as="node()"/>
+                                    select="key('toc-title', 'ckp001', $toc)[1]" as="node()"/>
                                 <title level="a">
                                     <xsl:choose>
                                         <!-- es gibt drei fälle, wo mehrere objekte auf einer seite. hier manuell gelöst -->
