@@ -78,7 +78,6 @@
                                             </xsl:otherwise>
                                         </xsl:choose>
                                     </title>
-                                </xsl:if>
                                 <xsl:for-each select="$inhalt-nachschlagen/date/@when">
                                     <xsl:element name="title"
                                         namespace="http://www.tei-c.org/ns/1.0">
@@ -90,6 +89,7 @@
                                         </xsl:attribute>
                                     </xsl:element>
                                 </xsl:for-each>
+                                </xsl:if>
                                 <author ref="#12435">Pollaczek, Clara Katharina</author>
                                 <editor>
                                     <name>Müller, Martin Anton</name>
