@@ -9,4 +9,6 @@
         <xsl:value-of select="translate(., '¬', '')" disable-output-escaping="yes"/>
     </xsl:template>
     
+    <xsl:template match="//tei:p"/>
+    
 </xsl:stylesheet>
