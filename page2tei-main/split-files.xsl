@@ -12,7 +12,7 @@
     <xsl:template match="/*">
         <xsl:for-each select="//tei:seite">
             <xsl:variable name="dateiname" as="xs:string">
-                <xsl:choose>
+                <!--<xsl:choose>
                     <xsl:when test="string-length(@id) = 1">
                         <xsl:value-of select="concat('ckp00', @id)"/>
                     </xsl:when>
@@ -24,6 +24,20 @@
                     </xsl:when>
                     <xsl:otherwise>
                         <xsl:value-of select="@id"/>
+                    </xsl:otherwise>
+                </xsl:choose>-->
+                <xsl:choose>
+                    <xsl:when test="string-length(position()) = 1">
+                        <xsl:value-of select="concat('ckp00', position())"/>
+                    </xsl:when>
+                    <xsl:when test="string-length(position()) = 2">
+                        <xsl:value-of select="concat('ckp0', position())"/>
+                    </xsl:when>
+                    <xsl:when test="string-length(position()) = 3">
+                        <xsl:value-of select="concat('ckp', position())"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="position()"/>
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:variable>
@@ -37,7 +51,7 @@
                                 <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
                                     ich«</title>
                                 <xsl:variable name="inhalt-nachschlagen"
-                                    select="key('toc-title', 'ckp001', $toc)[1]" as="node()"/>
+                                    select="key('toc-title', $dateiname, $toc)[1]" as="node()"/>
                                 <title level="a">
                                     <xsl:choose>
                                         <!-- es gibt drei fälle, wo mehrere objekte auf einer seite. hier manuell gelöst -->
