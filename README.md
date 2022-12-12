@@ -5,13 +5,13 @@ This repository is pulled by https://github.com/arthur-schnitzler/pollaczek-stat
 
 The data presented here is taken from the Transkribus-Collection 1233893. If you want access please drop me a note. 
 
-The Transkribus-export is exported into the folder /trans-out and processed with the xslts in page2main. The resulting xml-files are stored in editions. 
+The Transkribus-export is done by the GitHub Action "Download and process" (see below). The resulting xml-files are stored in editions. 
 
 So basically for the text of the pages the one and only source is found within Transkribus. Changes made in this repository will be overwritten.
 
 The folder indices will – at some point – include a file listing the type and the dates of individual pages.
 
-# trans2tei-action
+# GitHub Action "Download and process"
 
 The GitHub Action exports Pollaczek-METS from Transkribus and converts them to XML/TEI.
 
