@@ -68,11 +68,11 @@
         </fileset>
         <mapper type="glob" from="*.xml" to="*.xml"/>
     </xslt>
-    <move todir="${data}">
+    <!--<move todir="${data}">
         <fileset dir="${tmpDir}"/>
     </move>
     <delete dir="${tmpDir}"/>
-    <mkdir dir="${tmpDir}"/>
+    <mkdir dir="${tmpDir}"/>-->
 
     <xslt style="./page2tei-main/strip-letter.xsl" destdir="${tmpDir}"
         basedir="${data}">
