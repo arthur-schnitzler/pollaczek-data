@@ -21,6 +21,7 @@
         <param name="col-id" expression="${collection.id}"/>
         <fileset dir="${source.dir}">
             <include name="*.xml"/>
+            <exclude name="*_tei.xml"/>
         </fileset>
         <mapper type="glob" from="*_mets.xml" to="*_tei.xml"/>
     </xslt>
@@ -41,6 +42,7 @@
         <param name="col-id" expression="${collection.id}"/>
         <fileset dir="${tei.dir}">
             <include name="*.xml"/>
+            <exclude name="*_tei.xml"/>
         </fileset>
         <mapper type="glob" from="*.xml" to="*.xml"/>
     </xslt>
