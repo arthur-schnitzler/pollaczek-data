@@ -1,103 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp405"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 29. Dezember 1926</title>
-            <title type="alternative" when-iso="1926-12-29"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp405"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="405">
-               <lb n="01"/>2
-      <lb n="02"/>29.12.1926.
-      <lb n="03"/>Arthur Kl. war vor wenigen Tagen in Berlin und erzählte mir, dass er
-      <lb n="04"/>trotz der furchtbaren Stimmung, in der er sich befand, einige Fortsetzun-
-      <lb n="05"/>gen vom "Spiel im Morgengrauen" las und dass es ein Meisterwerk ist
-      <lb n="06"/>und er sehr ungeduldig es im Ganzen zu lesen. Warum schiebt S.F. die
-      <lb n="07"/>Buchausgabe so hinaus? Vergiss bitte nicht mit Wiegler in meiner Ange-
-      <lb n="08"/>legenheit zu sprechen. Vielleicht auch mit Viki Baum, wenn Du sie per-
-      <lb n="09"/>sönlich kennst und es sich leicht machen lässt. Aber Du wirst besser
-      <lb n="10"/>wissen, ob es einen Sinn hat. So, mein Liebes, jetzt heisst es aufste-
-      <lb n="11"/>hen. Ich erfriere bei dem Gedanken und umarme Dich rasch, um mich zu
-      <lb n="12"/>erwärmen.
-      <lb n="13"/>Anbei ein Kalenderblatt für Deine Brieftasche. Es ist das
-      <lb n="14"/>nicht als Geschenk aufzufassen, aber es ist praktischer als ein Ta-
-      <lb n="15"/>schenkalender und ich wünsche jeden Tag darauf alles Gute für Dich.
-      <lb n="16"/>Herzlichst Deine
-      <lb n="17"/>C.K.
-      <lb n="18"/> Schrifs</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp405" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp405"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Wien, 29. Dezember1926,8,Uhr Früh.
+      <lb n="02"/>An A.S. Berlin.
+      <lb n="03"/>Guten Morgen, mein sehr Liebes. Der Regen prasselt an die Fenster-
+      <lb n="04"/>scheiben. Es ist grauenhaft draussen und ich kann mich noch nicht
+      <lb n="05"/>entschliessen aufzustehen, schreibe Dir lieber so lange ich in der
+      <lb n="06"/>Wärme meines Bettes bin. Gestern Früh kam Dein lieber Brief vom
+      <lb n="07"/>26., den ich Dir schon bestätigt habe, am späten Nachmittag Karte und
+      <lb n="08"/>Brief vom 27. Es war also ein ausgesprochen angenehmer Tag. Aber
+      <lb n="09"/>ich fürchte heute wird "nix" kommen. Gestern Vormittag war ich wie-
+      <lb n="10"/>der einmal in der Stadt, aber nur ganz kurz. Dann bei der Manikür am
+      <lb n="11"/>Schottenring, Mittag mit Cary zuhause gegessen, Nachmittag "Komödie der
+      <lb n="12"/>Verführung" übersetzt. Es ging besonders gut und ich habe nur mehr
+      <lb n="13"/>zehnSeiten vom ersten Akt. Dann will ich es mit irgend einem gebore-
+      <lb n="14"/>eine
+      <lb n="15"/>nen Franzosen oder Französin durchgehen und dann von Frieda abschrei-
+      <lb n="16"/>ben lassen. In längstens 14 Tage hoffe ich istkes absendungsbereit.
+      <lb n="17"/>Am Abend nachtmahlten Otto und Cary bei mir. Otto ist so ein lieber
+      <lb n="18"/>Kerl,ich bin immer von Zärtlichkeit für ihn erfüllt. Heute Vormit-
+      <lb n="19"/>tag erwarte ich Frieda, um das geänderte Jo-Kapitel zu Ende zu dik-
+      <lb n="20"/>tieren, am Nachmittag Emmy Erl. und Lotte M. zum Thee.Heute will
+      <lb n="21"/>ich mir auch die "Treppe" wieder ansehen. In 14 Tagen möchte ich
+      <lb n="22"/>mit was Neuem beginnen, wahrscheinlich mit den Vorarbeiten für die
+      <lb n="23"/>"Charlotte". Ich bin schon begierig zu hören, zu was Du Dich ent-
+      <lb n="24"/>schlossen hast. Warum gibst Du den Filmmenschen nicht einfach die
+      <lb n="25"/>"Else" und die "Traumnovelle" in die Hand und sagst, sie sollen lesen.
+      <lb n="26"/>Die Leute sind ja so faul, man muss es ihnen benuem machen und beim
+      <lb n="27"/>Film, der ja doch hauptsächlich eine materielle Angelegenheit Mist,
+      <lb n="28"/>tät ich es schon. Wie stehen die Fil verhandlungen wegen des "Spiel
+      <lb n="29"/>im Morgengrauen“? - Ich begreife nicht, dass dem Brief aus Henedig,
+      <lb n="30"/>wie Du schreibst, so gar nichts zu entnehmen ist. Hast Du das Ge-
+      <lb n="31"/>fühl einer Enttäuschung bei Lili? Ich bin neugierig,ob Dora M.
+      <lb n="32"/>meine beiden Novellen gefallen haben und was sie Dir darüber sagt.
+      <lb n="33"/>963</seite></div></body></text></TEI>

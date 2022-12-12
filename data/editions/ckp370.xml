@@ -1,117 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp370"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 5. August 1926</title>
-            <title type="alternative" when-iso="1926-08-05"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp370"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="370">
-               <lb n="01"/>Adel boden, 5.8.1926.
-      <lb n="02"/>(nach Wien)
-      <lb n="03"/>Mein Liebes, dies ist wohl der letzte Brief nach Wien - den nächten,
-      <lb n="04"/>wenn indess keine andere Nachricht kommt, adressiere ich Zürich poste
-      <lb n="05"/>restante. - Ich selbst verlasse mit Heini wahrscheinlich am 11.8.
-      <lb n="06"/>Mittwoch Adelboden, und fahre mit ihm entweder nach Bern oder (was
-      <lb n="07"/>von einem telefonischen Gespräch mit Julius abhängen wird) nach Kan-
-      <lb n="08"/>dersteg. Am Samstag kannst Du jedesfalls noch einen Brief express hie-
-      <lb n="09"/>her schicken. Die nächste Adresse theile ich eventuell telegraphisch
-      <lb n="10"/>mit. Wenn nicht bitte ich Dich jedesfalls Montag xxx nach Bern poste
-      <lb n="11"/>restante zu schreiben. Wo wir, Du und ich zusammentreffen, resp. zusammend
-      <lb n="12"/>bleiben werden, machen wir wohl am besten vom Wetter abhängig: - indes
-      <lb n="13"/>habe ich mich bei mehr oder minder Eingeborenen erkundigt - und insbe
-      <lb n="14"/>sondere von gewissen Orten am Thunersee ("unsere Riviera") - und von
-      <lb n="15"/>Montana gehört. Auch das ist in wenigen Stunden von Bern zu erreichen.
-      <lb n="16"/>Gegen Deine Kopfschmerzen versuch doch Algocratin, das mir gegen die
-      <lb n="17"/>neuralgischen Ischiasschmerzen geholfen hat, wenn Eyramidon versagte.
-      <lb n="18"/>Könnte nicht auch die nicht mehr ganz korrekte Brille schuld sein?
-      <lb n="19"/>Das oft überraschend wirkende Hausmittel der heissen Fussbäder hast
-      <lb n="20"/>Du wohl schon versucht? -
-      <lb n="21"/>Nach ein paar schönen Tagen wieder Regen, Nebel u.s.w. Gestern auf dem
-      <lb n="22"/>Weg zum "Hahnenmoos" die erste Bergpartie (sehr milder Art), die ich
-      <lb n="23"/>wagen wollte, 2 1/4 Stunden - mus ist ich wieder umkehren. - Umso besser
-      <lb n="24"/>gehts an dem Roman weiter; den ich Seite für Seite durchfeile.
-      <lb n="25"/>Sämtliche Damen reisen zugleich von hier ab; - Frau K. und Tochter
-      <lb n="26"/>nach Silz Maria; O. und Lili nach Venedig, wenn, wie nicht zu bezeifeln,
-      <lb n="27"/>günstige Antwort von dort eintrifft.- Hast Du Deine liebe Absicht
-      <lb n="28"/>ausgeführt und Dir den Stand der Arbeiten in meiner Wohnung angesehen.
-      <lb n="29"/>Frau v.Kl. schreibt, die Ungemüthlichkeit übersteige alle Erwartungen.
-      <lb n="30"/>Also schau Birs lieber gar nicht an, damit Du einen nicht zu schlimmen
-      <lb n="31"/>Eindruck mitbringst.-Dass es mit der Grinzinger Alle nichts war wundert
-      <lb n="32"/>mich nicht.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp370" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp370"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>3.8.26.
+      <lb n="02"/>was soll ich vom 25. bis 4. allein anfangen und wie
+      <lb n="03"/>sinnlos wäre ein solches Programm. Ich hoffe
+      <lb n="04"/>sehr, dass Du das eingesehen hast und dass sich
+      <lb n="05"/>alles auf das Beste fügen wird, wenn nur das Wet-
+      <lb n="06"/>ter ein Einsehen hätte. Vielleicht will die
+      <lb n="07"/>onne erst wirklich scheinen, wenn wir beisammen
+      <lb n="08"/>sind und Vollmond ist auch am 23.1 Liebes - ich
+      <lb n="09"/>freue mich! Mein Kopf fängt wieder ein wenig an
+      <lb n="10"/>zu schmerzen. Gute Nacht. Ich küsse Dich innig.
+      <lb n="11"/>Deine C.K.
+      <lb n="12"/>War von mir gar nicht die Rede? Warum haben Lili
+      <lb n="13"/>und O.gestritten? Ich möchte Lili gerne grüssen
+      <lb n="14"/>lassen, aber bestelle es nur, wenn Du es für richtig
+      <lb n="15"/>hältst.
+      <lb n="16"/>328</seite></div></body></text></TEI>

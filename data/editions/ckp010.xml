@@ -1,95 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp010"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Hugo von Hofmannsthal an Marianne Benedikt, 16. April 1897</title>
-            <title type="alternative" when-iso="1897-04-16"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp010"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="10">
-               <lb n="01"/>An Fr. Marianne Benedikt
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp010" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp010"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>An Fr. Marianne Benedikt
       <lb n="02"/>Hofmannsthal.
       <lb n="03"/>Charfreitag.
       <lb n="04"/>Verehrte gnädige Frau, verzeihen Sie wenn ich
       <lb n="05"/>Ihnen doch antworte, obwohl Sie es mir verboten
-      <lb n="06"/>haben. Ich habe Ihre Karte zuerst zweimal gele
-      <lb n="07"/>sen und absolut den Zusammenhang nicht verstan
-      <lb n="08"/>den. Jetzt verstehe ich ihn natürlich schliess
+      <lb n="06"/>haben. Ich habe Ihre Karte zuerst zweimal gele¬
+      <lb n="07"/>sen und absolut den Zusammenhang nicht verstan¬
+      <lb n="08"/>den. Jetzt verstehe ich ihn natürlich schliess¬
       <lb n="09"/>lich, aber das Ganze kommt mir so widersinnig
       <lb n="10"/>vor, glücklicherweise ebenso unwahrscheinlich
-      <lb n="11"/>als es unangenehm zu besprechen ist. Der Zusammen
+      <lb n="11"/>als es unangenehm zu besprechen ist. Der Zusammen¬
       <lb n="12"/>hang ist, dass Ihr Fräulein Tochter Minnie heisst
       <lb n="13"/>und die Person in dem Buch <hi rend="underline" n="">Minni</hi>, denn dass ich
       <lb n="14"/>für Ihr Fräulein Tochter ein Gelegenheitsstück
@@ -99,11 +46,11 @@
       <lb n="18"/>ein complet Verrückter sein oder jemand der mit
       <lb n="19"/>dem Fräulein Minnie nie eine Silbe geredet hat,
       <lb n="20"/>es widerspricht doch so vollkommen ihrer Art, jedes
-      <lb n="21"/>Wort davon; dann hat sie doch überhaupt nie et
+      <lb n="21"/>Wort davon; dann hat sie doch überhaupt nie et¬
       <lb n="22"/>was geschrieben. Dass das Buch Minni heisst ist
       <lb n="23"/>weder dem Arthur noch mir je aufgefallen und ich
       <lb n="24"/>weiss bestimmt dass wir es vor dem Fräulein Minni
-      <lb n="25"/>einmal erwähnt haben und dass es ihr nicht im ge
+      <lb n="25"/>einmal erwähnt haben und dass es ihr nicht im ge¬
       <lb n="26"/>ringsten aufgefallen ist, obwohl ich nachher bemerkt
       <lb n="27"/>habe dass die Frau v. Sachssie so nennt. Aber eben
       <lb n="28"/>eine solche Aehnlichkeit würde man doch zuerst
@@ -114,13 +61,9 @@
       <lb n="33"/>ist. Was die Sache selbst betrifft, so will ich
       <lb n="34"/>aush etwas sagen, weil Sie auch davon sprechen.
       <lb n="35"/>Ich habe die Vorrede geschrieben aus demselben
-      <lb n="36"/>Grund, den man angeführt hat wie man mich darum ge
-      <lb n="37"/>beten hat: nämlich weil das Buch eine Art Nachah
+      <lb n="36"/>Grund, den man angeführt hat wie man mich darum ge¬
+      <lb n="37"/>beten hat: nämlich weil das Buch eine Art Nachah¬
       <lb n="38"/>mung von dem "Anatol" ist und vor diesem auch ein
       <lb n="39"/>Prolog von mir steht. Ich habe damals, im Dezem-
       <lb n="40"/>ber, die Clara Loeb vielleicht 6 oder 10 mal ge-
-      <lb n="41"/>schen gehabt und gerad so gut gekannt wie 100</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+      <lb n="41"/>schen gehabt und gerad so gut gekannt wie 100</seite></div></body></text></TEI>

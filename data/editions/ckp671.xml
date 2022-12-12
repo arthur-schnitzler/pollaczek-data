@@ -1,94 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp671"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 22. März 1929</title>
-            <title type="alternative" when-iso="1929-03-22"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp671"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="671">
-               <lb n="01"/>bitte Dich, mein Kind, sich die Dinge wie sie sind; - an unserer
-      <lb n="02"/>Beziehungs kann nichts - etwas ändern; - und kränkend empfind ich nur
-      <lb n="03"/>was Du von der materiellen Seite der Frage magst.-Was hat das mit
-      <lb n="04"/>dem wesentlichen zu thun.-
-      <lb n="05"/>Ich sag Dir jetzt Adieu, mein Liebstes. Montag Früh ruf ich an - ich
-      <lb n="06"/>trau mich nicht zu sagen, dass ich dann schon den definitiven Abreise-
-      <lb n="07"/>tag feststellen kann, Schlafwagen hab ich für Mittwoch genommen.
-      <lb n="08"/>Ich umarme Dich in aller Zärtlichkeit.
-      <lb n="09"/>Dein A.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp671" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp671"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>trottel Angst habe, so wolle sies aufgeben. - Nicht um die Welt... es
+      <lb n="02"/>sei und bleibe ihr das wichtigste; und wenn sie wolle würde es auch
+      <lb n="03"/>Klein spielen,- trotzdem er ihr 25 andere Stücke vorschläge... Und
+      <lb n="04"/>so ging das weiter. Ich sass mit ihr allein in einem Zimmer; - spä-
+      <lb n="05"/>ter kamen Heini und Viki dazu. Heute Vormittag um 12 kommt sie, sowie
+      <lb n="06"/>Herald (der Exponent des Deutschen Theaters) zu mir ins Hotel; um
+      <lb n="07"/>1 ruft Neppach an, worauf eine Zusammenkunft für den Nachmittag oder
+      <lb n="08"/>Abend verabredet werden soll.
+      <lb n="09"/>Die Schwierigkeit liegt thatsächlich nur in dem Einen: in ihrer pa-
+      <lb n="10"/>thologischenAngst vor dem letzten Gesindel der Kritik; - gesteigert
+      <lb n="11"/>durch ihren Echec als Julia. Kett sagte mir: Auch wenn die Verträge
+      <lb n="12"/>unterzeichnet - die Proben erledigt und die Première
+      <lb n="13"/>festgesetzt ist - sind Sie noch nicht sicher, dass sie auftritt. Nun
+      <lb n="14"/>scheint die Feindseligkeit gegen mich in einer gewissen Clique noch
+      <lb n="15"/>schlimmer zu sein als ich gedacht; und auch die Directoren sind feig.
+      <lb n="16"/>Glaub mir, es ist recht enervant und wenn Elisabeth
+      <lb n="17"/>sich auch immer wieder geniert, dass sie an diesem Angstzustand lei-
+      <lb n="18"/>det; - wenn man ihr den Rücken dreht sind sie wieder da.- Ich habe auch
+      <lb n="19"/>in diesem Moment keineswegs die Ueberzeugung, dass es zu einem Ab-
+      <lb n="20"/>schluss kommt; - wegen eines Tages werde ich natürlich die Sache
+      <lb n="21"/>nicht aus der Hand geben; - aber ich bin es müde mich weiter hinziehen
+      <lb n="22"/>zu lassen und habe Sehnsucht heim und zu Dir zu kommen. Wassermann
+      <lb n="23"/>erlebt jetzt ähnliches mit dem Mauriziusfilm. Die Angelegenheit war
+      <lb n="24"/>so gut wie abgeschlossen - seit vier Tagen - lassen die Leute nichts
+      <lb n="25"/>von sich hören.-Ich hatte übrigens gestern - den Anruf - - von Conrad
+      <lb n="26"/>Veidt zu erwarten wegen Casanovas Heimfahrt (voraussichtlich durch
+      <lb n="27"/>Hans Jacob) - natürlich kam nichts.-
+      <lb n="28"/>Eben kam Dein Expressbrief - ich verstehe natürlich Deine Verstimmung-
+      <lb n="29"/>und könnte nichts erwidern als was Du hundertmal gehör hast. Ich</seite></div></body></text></TEI>

@@ -1,121 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp127"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 8. August 1924</title>
-            <title type="alternative" when-iso="1924-08-08"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp127"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="127">
-               <lb n="01"/>Celerina (nach Selisberg)
-      <lb n="02"/>8.8.1924. Früh.
-      <lb n="03"/>Mein sehr Liebes, alles verlief bisher programmgemäss. In Chur, Stein-
-      <lb n="04"/>bock, Forelle und Omelette. Zimmerschwierigkeiten. Nach Thusis tele-
-      <lb n="05"/>foniert; desgleichen. Nach ½6 kam der Zug aus Baden-Baden an brachte
-      <lb n="06"/>nur 0.; - Lili war aus gewissen technischen Gründen mit Salzens vor
-      <lb n="07"/>drei Tagen vorausgefahren; - O. war sehr einverstanden gleich weiter
-      <lb n="08"/>zu reisen; - trotz erheblicher Rekonvalescentenmattigkeit Gespräch
-      <lb n="09"/>über die Erkrankung und alles was damit zusammenhängt; über die Kinder.
-      <lb n="10"/>Keine Frage (und auch nicht das geringste Interesse) woher ich kam
-      <lb n="11"/>kam
-      <lb n="12"/>der Fahrt. So kann ich denn für meinen Teil mit einstündiger Verspä-
-      <lb n="13"/>tung in Celerina an; - ein Zimmer war bereit (das Hotel Überfüllt) -
-      <lb n="14"/>ihn
-      <lb n="15"/>ganz nach meinem Geschmack; der Direktor (ich könnte) nicht schöner
-      <lb n="16"/>eichten) hatte sogar für einen zweiten Tisch gesorgt.- Beiläufige Toi
-      <lb n="17"/>jr
-      <lb n="18"/>lette - im Speisesaal ganz allein (zur Abwechslung) eine Forelle (1)
-      <lb n="19"/>eine Familie ausreichend, aber ich erledigte sie spielend - es waren
-      <lb n="20"/>übrigens zwei Forellen); und ein Emmenthaler in Schweizerhaus-Vor-
-      <lb n="21"/>trefflichkeit - die Bar - (auch das gibts) -wo Smokings wimmeln,- ein
-      <lb n="22"/>junger Herr aus Prag bestellt mir xxx einen Gruss seiner Mutter, die in
-      <lb n="23"/>Cresta Kulm wohnt (Bekannte von circa dreissig Jahren her, Direktor
-      <lb n="24"/>Ziegler). Ich blättere in dem (übrigens völlig leeren) Lesesaal in
-      <lb n="25"/>französischen Zeitungen, entdecke, dass in der Illustation der Roman
-      <lb n="26"/>von Paul Zifferer..Kaiserstadt, übersetzt von Marcel Dunan erscheint
-      <lb n="27"/>(Z. Presseattache unserer Gesandtschaft in Paris..an der Quelle sass
-      <lb n="28"/>der Knabe...) und lese einen chauvenistischen Artikel des alten
-      <lb n="29"/>Paul Bourget, der kaum mehr in den Krieg wird müssen) über ein
-      <lb n="30"/>Kriegstagebuch des jungen Barres. Hoffnungslos.
-      <lb n="31"/>Ganz gut geschlafen, allzu viel etwas wirr geträumt, von Beer-Hofmann;
-      <lb n="32"/>fremder Stadt, Gersthof, Traumway-Nachlaufen u.s.w.-
-      <lb n="33"/>Regen, auffallend warm. Köstliches Frühstück in dem neuen getäfelten
-      <lb n="34"/>Frühstücksaal. Aber ich bin gar nicht so gefrässig, als es nach diesen
-      <lb n="35"/>Brief den Anschein hat.
-      <lb n="36"/>77</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp127" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp127"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Und erst aus unserem Briefwechsel, während meines Aufenthaltes in Wei-
+      <lb n="02"/>mar und Baden-Baden, ist das Aufblühen eines starken Gefühls zu spüren</seite></div></body></text></TEI>

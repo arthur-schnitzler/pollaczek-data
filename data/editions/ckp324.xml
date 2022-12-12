@@ -1,116 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp324"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 21. April 1926</title>
-            <title type="alternative" when-iso="1926-04-21"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp324"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="324">
-               <lb n="01"/>Wien, 21.4.1926.
-      <lb n="02"/>An A.S. (Mittelmeer)
-      <lb n="03"/>Liebster,
-      <lb n="04"/>Morgen wird es eine Woche, dass Du fort bist und ich weiss
-      <lb n="05"/>noch nichts von Dir. Vielleicht hättest Du doch einen telegrafischen
-      <lb n="06"/>Gruss von Palermo oder Neapel absenden können.-
-      <lb n="07"/>Einen Brief werde ich wohl erst am 23. erhalten. Zuverzählen
-      <lb n="08"/>ist nicht viel. Sonntag Nachmittag waren programngemäss Byk und Emmy Erl.
-      <lb n="09"/>da und später gingen Emmy und ich noch ins Kino zum "Generaldirektor"
-      <lb n="10"/>mit Bassermann, da Byk in einen Vortrag musste. Ganz guter Film, Basser-
-      <lb n="11"/>ann fabelhaft wie immer. Der Montag Abend mit Frieda,Otto und Frau und
-      <lb n="12"/>meinem Sohn Karl war besonders nett und gemütlich. Gestern Vormittag
-      <lb n="13"/>war ich in der Stadt. Nachmittag versuchte ich zu arbeiten (an der
-      <lb n="14"/>"Treppe"). aber es geht noch nicht. Heute Vormittag wieder in der Stadt,
-      <lb n="15"/>Begegnung mit Siegfried Trebitach, der auf mich zu kam und mir sagte,
-      <lb n="16"/>dass er das Gedicht in der Neuen Freien Presse das Schönste von allem
-      <lb n="17"/>finde, was ich je geschrieben. Wie von einer ganz grossen Lyrikerin".
-      <lb n="18"/>Schad, dass man das nicht als Orden im Knopfloch tragen kann. Ich war
-      <lb n="19"/>kühl-liebenswürdig.-Letzthin traf und sprach ich in der Stadt auch
-      <lb n="20"/>Paula Beer-Hofmann, aber das Referat dieses längeren Gesprächs lasse
-      <lb n="21"/>ich mir fürs Mündliche.-Jetzt eben erwarte ich eben Baron P.- Das
-      <lb n="22"/>Wetter ist kuhl, regnerisch, unsicher. Mittag ist sogar ein Gewitter nie-
-      <lb n="23"/>dergegangen.
-      <lb n="24"/>Abend 19.
-      <lb n="25"/>P. war 2 Stunden hier. Wir tranken Tee und plauschten sehr gut.Seine
-      <lb n="26"/>arme Herzlichkeit hat etwas Wohltuendes. Ich gehe zeitlich zu Bett
-      <lb n="27"/>und werde mich noch mit der "Treppe" beschäftigen. Während P. da war,
-      <lb n="28"/>gab es ein zweiten, kurzes Gewitter, mit Regen, Donner und Blitz und da-
-      <lb n="29"/>bei brannte das Feuer in meinen Kamin, weil es so kalt in dem Zimmer ist.
-      <lb n="30"/>Lebwohl für heute, ich bin müd.
-      <lb n="31"/>283</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp324" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp324"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>2.5.1926 Bl.4.
+      <lb n="02"/>weise noch Kost empfinde ich als mir gemäss. Meine Skzzen habe ich
+      <lb n="03"/>alle durchgesehn und bin nun bei der Badner Novelle, deren Schluss
+      <lb n="04"/>ich mir eben vornehmen will. Ich übleibe zu diesem Zweck an dem
+      <lb n="05"/>(einzigen) Schreibtisch des Drawingroms sitzen; (mit dem Seiten-
+      <lb n="06"/>blick aufs Meer). Der Himmel ist bedeckt und es ist eher kühl. -
+      <lb n="07"/>Ich werde diesen Brief wohl nach Lissabon mitnehmen und dort auf-
+      <lb n="08"/>geben; er wirdkaum früher bei Dir sein als ich in Hamburg anlan-
+      <lb n="09"/>ge (am 10. oder 11.-das Schiff hat von Südamerika her wegen Wind
+      <lb n="10"/>eine 8 Stunden Verspätung, wie gemeldet wird (vom Schiff aus, Radio). -
+      <lb n="11"/>In Berlin werden wir uns circa 6 Tage aufhalten; kurz nach dem
+      <lb n="12"/>15. Hoff ich daheim zu sein.
+      <lb n="13"/>Berlin wohn ich voraussichtlich wieder im Esplanade; bis dahin
+      <lb n="14"/>hast Du natürlich noch weitere Nachricht-
+      <lb n="15"/>Du hast hoffentlich regelmässig geschrieben, so dass ich in Lissa-
+      <lb n="16"/>bon eine Art Tagebuch von Dir in Briefform erhalte; ich sehne
+      <lb n="17"/>mich sehr nach Deinen Schriftzügen, Deinen Worten,- und andern
+      <lb n="18"/>Zeichen Deines Daseins und Deiner Empfindungen, auf die ich frei-
+      <lb n="19"/>lich noch geraume Zeit werde verzichten müssen. So sei denn in
+      <lb n="20"/>die Ferne hin zärtlichst umarmt von Deinem
+      <lb n="21"/>A.
+      <lb n="22"/>--
+      <lb n="23"/>282</seite></div></body></text></TEI>

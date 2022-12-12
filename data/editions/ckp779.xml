@@ -1,119 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp779"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Tagebuch von Clara Katharina Pollaczek, 15.–30. Mai 1930</title>
-            <title type="alternative" when-iso="1930-05-15"/>
-            <title type="alternative" when-iso="1930-05-20"/>
-            <title type="alternative" when-iso="1930-05-23"/>
-            <title type="alternative" when-iso="1930-05-24"/>
-            <title type="alternative" when-iso="1930-05-27"/>
-            <title type="alternative" when-iso="1930-05-29"/>
-            <title type="alternative" when-iso="1930-05-30"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp779"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="779">
-               <lb n="01"/>15.5. Der Brief ein Schlag ins Wasser. Er kam zu mir, sagt: "Soll ich
-      <lb n="02"/>mir vielleicht jetzt den Kopf zerbrechen, was daraus entsteht, wenn ich die
-      <lb n="03"/>O. im Sommer irgendwo treffe, wenn ich mit Heini zusammen bin? Ich kann
-      <lb n="04"/>ihr nicht sagen, du darfst nicht auf zwei Tage zu mir kommen, Frau Clara
-      <lb n="05"/>erlaubt es nicht". Dabei ist er entstellt vor Wut und Aufregung. Was
-      <lb n="06"/>bleibt übrig - als kuschen. Sein Geburtstag! Mittag die O.-abends ich -
-      <lb n="07"/>heiter!
-      <lb n="08"/>20.5. Immer freudloser. 0. am 16. nach Berlin zurück. Es ändert nichts
-      <lb n="09"/>mehr.
-      <lb n="10"/>Zahnarzt, Sorgen wegen Harry, ich arbeiteviel.
-      <lb n="11"/>23.5. Kino,Theater, Autofahrten ohne jede Freude oder Zürtichkeit.oft
-      <lb n="12"/>glaube ich ess steckt noch etwas anderes hiner seinem Wesen. - Versuch
-      <lb n="13"/>einer Auseinandersetzung und zun Schluss wieder Verkrampfung. Ich ar-
-      <lb n="14"/>beite und meine Arbeit gedeiht, das ist der einzige Weg, den ich sehe.
-      <lb n="15"/>Am 27. heiratet Harry.
-      <lb n="16"/>24.5. VormittagAutofahrt mit A., Mittag bei ihm, Abend Kino, "Kuss" mit Garbo
-      <lb n="17"/>und - zuhause in meinem Zimmer vor Erbitterung geweint.
-      <lb n="18"/>27.5. Harrys Frau äusserlich entzückend. Gott gebe, dass es ein Glück
-      <lb n="19"/>wind!
-      <lb n="20"/>Am Abend mit A. vor meiner Gartentür ein langes Gespräch. Er behauptet
-      <lb n="21"/>mich um nichts weniger zu lieben als früher. Bezsere Stimmung, - vielleicht,
-      <lb n="22"/>vielleicht -
-      <lb n="23"/>29.5. Mit A. Vormittag im Prater. Im Auto schiebe ich meine Hand unter
-      <lb n="24"/>die seine, er drückt meine Hand freundlich, dann lässt er sie wieder los.
-      <lb n="25"/>Ich ermüde.
-      <lb n="26"/>30.5. Abend Nachtmahl bei Strasser mit A. Ich anfangs heiter, gesprächig,
-      <lb n="27"/>herzlich, später trostlos, traurig.
-      <lb n="28"/>Sehr liebe Briefe von Harry und Sina aus Heiligenkreuz. Harry schreibt:</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp779" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp779"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>verzichte auf mich.- Der Zustand dieses Winters darf keine Fort-
+      <lb n="02"/>setzung haben. Wenn wir uns jetzt wiedersehen, so muss es mit Liebe
+      <lb n="03"/>sein und nicht böse und nicht verkrampft.
+      <lb n="04"/>Entscheidest Du gegen mich, dann rufe mich eben nicht
+      <lb n="05"/>an und Du wirst lange, sehr lange nichts mehr von mir hören und wissen.
+      <lb n="06"/>Was das für mich heisst, geht nur mich allein an und
+      <lb n="07"/>keinesfalls werden Dir Unzukömmlichkeiten daraus erwachsen.
+      <lb n="08"/>Vielleicht ist es meinen armen Worten gelungen bis
+      <lb n="09"/>zu jener Stelle zu dringen, wo Dein Herz ist. Dann kann noch alles
+      <lb n="10"/>gut werden. Wenn nicht - bin ich eben mit diesen Zeilen Deinen Wün-
+      <lb n="11"/>schen entgegengekommen. Ich bin heute ab 4 Uhr zuhause, morgen Don-
+      <lb n="12"/>nerstag, wenn ich heute nichts von Dir höre, nicht mehr hier.
+      <lb n="13"/>Wie immer Du wählts, es soll gut für Dich sein. Ich
+      <lb n="14"/>wünsche Dir vom Herzen immer nur das Beste.
+      <lb n="15"/>Deine
+      <lb n="16"/>C.K.</seite></div></body></text></TEI>

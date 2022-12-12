@@ -1,120 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp887"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Tagebuch von Clara Katharina Pollaczek, 7.–13. Februar 1931</title>
-            <title type="alternative" when-iso="1931-02-07"/>
-            <title type="alternative" when-iso="1931-02-08"/>
-            <title type="alternative" when-iso="1931-02-09"/>
-            <title type="alternative" when-iso="1931-02-10"/>
-            <title type="alternative" when-iso="1931-02-12"/>
-            <title type="alternative" when-iso="1931-02-13"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp887"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="887">
-               <lb n="01"/>sind. -Voriges Jahr war ich an diesem Tag in seinem Schlafzimmer-
-      <lb n="02"/>als Geliebte - heute soll ich, wenn ich Lust habe, zum Nachtmahl hinüber-
-      <lb n="03"/>kommen, weil Frieda zum Diktat drüben ist. Nein, -ich habe keine Lust.
-      <lb n="04"/>8.2.1931. Er rief gestern um 9/4 Uhr an, warum ich nicht komme, er erwar-
-      <lb n="05"/>te mich doch. So ging ich also hinüber. Frieda war da und das Zusam-
-      <lb n="06"/>mensein daher harmlos.
-      <lb n="07"/>9.2.1931. Im Kino bei Danton und nachher Meisl. Schrecklicher Abend.
-      <lb n="08"/>Als ich aus meiner Erbitterung heraus über Dora Michaelis eine Be-
-      <lb n="09"/>merkung machte (über ihre seinerzeitige Intervention) strampelte er
-      <lb n="10"/>im Auto mit den Füssen vor Wut. Und doch, wäre sie nicht gewesen -
-      <lb n="11"/>Mittag Cary, Magdi. Dann ermattet am Diwan gelegen. Habe A. erklärt,
-      <lb n="12"/>dass ich abend zuhause bleibe. Ich bin müde.
-      <lb n="13"/>10.2.1931. An ein paar Aphorismen geschrieben. A. bat mich am Abend
-      <lb n="14"/>zu ihm zu kommen. Ich kann mich nicht mehr freuen.
-      <lb n="15"/>12.2.1931.Kostümprobe im Burgtheater (Gang zum Weiher). Unerhörte
-      <lb n="16"/>Schönheiten in diesem Stück, aber Peinlichkeiten, über die man schwer
-      <lb n="17"/>hinweg kommt. Sprach Wildgans und war bei Wohlgemut in der Garderobe,
-      <lb n="18"/>da ich an einem ihrer Kleider etwas auszusetzen fand. Sie ist eine
-      <lb n="19"/>liebe Person, Wirklich gut in ihren Rollen nur Hennings (Konrad).
-      <lb n="20"/>teilweime Johannsen (Leonilda), Wohlgemut (Anselma). Onno (Sylvester
-      <lb n="21"/>Thorn) kaum zu ertragen. Balser reizlos. (Aslan wär am Blatz).Heine
-      <lb n="22"/>(Sekretär) banal.
-      <lb n="23"/>Gestern Abend mit Frieda bei A. genachtmahlt, der recht heiter war.
-      <lb n="24"/>13.2.1931. Vormittag von A. abgeholt indie Generalprobe. Auch Anna
-      <lb n="25"/>kam hin. Ich fand die Aufführung heute besser als gestern, wenn auch
-      <lb n="26"/>noch viele auszusetzen wäre. Ich fürchte doch die morgige Première.
-      <lb n="27"/>Es ist viel verworren, viel peinlich und ob das Publikum die Gewalt
-      <lb n="28"/>der Sprache, die Schönheiten dieses Stückes als solches würdigen wird--
-      <lb n="29"/>Trotzdem ich A. riet heute zuhaus zurbleiben, will er mich ins Kino
-      <lb n="30"/>holen und nachher soupleren gehen. Wie soll man sich da in ihm aus-</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp887" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp887"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Der Komponist Hiller war bei mir. Typus eines soignierten Gymnasial-
+      <lb n="02"/>professors, hat mir das Lied vorgespielt, aber ich habe keine Ahnung,
+      <lb n="03"/>ob es gut ist, da er sehr schlecht spielt. Angeblich Aufführung am 28.
+      <lb n="04"/>mit Orchester und einer Sängerin Munk, dann Indrucklegung als Orchetter-
+      <lb n="05"/>stück und Beteiligung an den Tantièmen. Schlafmittel und zu
+      <lb n="06"/>Bett.
+      <lb n="07"/>6.2.1931. Vormittag Friedhof bei argem Sonneefall, Sterbetag meiner
+      <lb n="08"/>Mutter gestern gewesen. Ich bin mit sehr trüben Gedanken an diesem
+      <lb n="09"/>Grab gestanden.
+      <lb n="10"/>Abends
+      <lb n="11"/>Eben 27 Uhr Anruf A.'s, der zurück ist. Ich gehe 8 Uhr hinüber. Mein
+      <lb n="12"/>guter Gott, lege mir die richtigen Worte indem Mund, denn so kann es
+      <lb n="13"/>nicht weitergehen.
+      <lb n="14"/>6.2.1931. Spät Abend. Iamer dasselbe. Er will absolut keine Trennung,
+      <lb n="15"/>niemand stehe ihn so nah, Ferry habe falsch verstand,er brauche nur
+      <lb n="16"/>ein bescheidenes Mass von Freiheit (als ob ich es ihm jemals streitig
+      <lb n="17"/>machte), seine Kälte nur Unzulänglichkeit, durch sein physisches Befin-
+      <lb n="18"/>den ausgelöst, keinerlei anderes Interesse vorhanden. Neue ich meinen
+      <lb n="19"/>Mantel und gehe zur Tür, schreit er wie wahnsinnig: "Bleib, bleib"
+      <lb n="20"/>Komm ich zurück, liegt er mit geschlossenen Augen da und ist stumm.
+      <lb n="21"/>7.2.1931. Infolge von Schlafmitteln fast den ganzen Tag geschlafen. Mit-
+      <lb n="22"/>tag Harry, der jetzt wieder einmal nach Argentinien auswandern will. Als
+      <lb n="23"/>er fortging war ich so müde, dass ich mich hinlegen musste.
+      <lb n="24"/>Heute Früh telefonisches Gespräch mit Graf Thun-Wohlgemut, weil es ges-
+      <lb n="25"/>tern hiess, dass sie krank ist und nicht im "Gang zum Weiher" spielen
+      <lb n="26"/>wird. Er sagte, sie spiele bestimmt und schien über meine Teilnahme sehr
+      <lb n="27"/>erfreut.
+      <lb n="28"/>7.2.1931. Heute sind es 8 Jahre!! Im vorigen Jahr schickte er mir noch
+      <lb n="29"/>Blumen mit einer Karte: "Tausend Küsse Arthur". Heuer nichts, obwohl wir
+      <lb n="30"/>bei der gestrigen Auseinandersetzung davon sprachen, dass es 8 Jahre</seite></div></body></text></TEI>

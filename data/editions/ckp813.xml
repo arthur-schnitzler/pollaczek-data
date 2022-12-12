@@ -1,108 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp813"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 28. Juli 1930</title>
-            <title type="alternative" when-iso="1930-07-28"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp813"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="813">
-               <lb n="01"/>28.7.1930. Bl.2.
-      <lb n="02"/>Zug hier gelesen und einige kluge Einfälle dazu gehabt; unter an-
-      <lb n="03"/>derm schlägt er vor, dass das 8. Bild (auch während der Première) in
-      <lb n="04"/>der Garderobe der Franzi spielt, was mir ziemlich einleuchtet.-
-      <lb n="05"/>Der resp. ein Direktor des Guild-Theater in New York begegnete mir
-      <lb n="06"/>zufällig, stellte sich vor und besuchte mich in Gesellschaft einer
-      <lb n="07"/>amerikanischen Schauspielerin, die die Irene Herms spielen soll. Er
-      <lb n="08"/>war voll Enthusiasmus und lud mich zur Première (Einsamer Weg). Ich
-      <lb n="09"/>versprach mein Kommen für die 200. Aufführung.
-      <lb n="10"/>Ich finde St. Moritz Bad viel sympathischer als Dorf; eine wunderbare
-      <lb n="11"/>Weite der Landschaft, naher Wald, ebene Spaziergänge; - nur ein bischen
-      <lb n="12"/>zu viel Malojawind.
-      <lb n="13"/>Nun aber kommt die Sonne wirklich, ich weiss nicht für wie lang und
-      <lb n="14"/>ich will ins Freie.
-      <lb n="15"/>Dies ist, noch einmal, kein Brief - und ich spüre immer mehr, dass ich
-      <lb n="16"/>Überhaupt keinen schreiben kann; - reine Sachlichkeit ist nicht Absicht
-      <lb n="17"/>mein Kind und gewiss keine böse; und keine Verkrampftheit - und keinen
-      <lb n="18"/>Kühle.-Es wäre mir sehr wohltuend, wenn Du mir auch einen Brief über
-      <lb n="19"/>Deinen Alltag schriebst - wie Du Deine Zeit verbringet, wen Du siehst
-      <lb n="20"/>u.s.w.- Ich sage Dir für heute Lebewohl und bin mit allen innigen Ge-
-      <lb n="21"/>danken und den besten Gefühlen bei Dir. Auf Wiedersehen.
-      <lb n="22"/>Dein
-      <lb n="23"/>A.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp813" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp813"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>St. Moritz, 28.7.1930.
+      <lb n="02"/>Hotel Victoria.
+      <lb n="03"/>Morgens.
+      <lb n="04"/>Mein liebes Kind, auch dies ist noch nicht die Antwort auf Deinen Brief
+      <lb n="05"/>vom 23. Ich will Dir heute nur über die äusseren Ereignisse und den
+      <lb n="06"/>Alltag in St. Moritz berichten, ehe ich mich auf einen Spaziergang bege¬
+      <lb n="07"/>be, der heute hoffentlich möglich sein wird, obwohl schon wieder dunkle
+      <lb n="08"/>Wolken aufziehen. Weiter als bis zum Stalzersee und bis nach Pontresi¬
+      <lb n="09"/>na bin ich noch nicht gelangt; manchmal allein, manchmal mit Heini. Vor¬
+      <lb n="10"/>gestern Abend war ich bei Emil Ludwig – eine wunderbare kleine Villa
+      <lb n="11"/>nah dem Suvrettahaus und ganz verborgen. Er hat sie seiner Frau zum sil¬
+      <lb n="12"/>bernen Hochzeitstag geschenkt. Ausser mir anwesend Bruno Walter mit
+      <lb n="13"/>Gattin, zwei englische Italienerinnen oder italienische Engländerinnen,
+      <lb n="14"/>weisshaarig und elegant und Jakob W., sowie ein Züricher Arzt, Ein unver¬
+      <lb n="15"/>gleichliches Souper mit Champagner; – anregende Unterhaltung über Wagner
+      <lb n="16"/>und näherliegende Themen.– Ludwig klug, auf sich bedacht, eitel
+      <lb n="17"/>und überliebenswürdig, excellirt besonders in einer Hauptmann-Kopie.
+      <lb n="18"/>Gestern Abend waren S.Fischer und Frau und Jakob bei mir. Die un¬
+      <lb n="19"/>glückseligen Buchverhältnisse wurden besprochen und ich merke, dass
+      <lb n="20"/>S.F. gewissermassen mehr um mich besorgt ist als ich selbst. Schon
+      <lb n="21"/>neulich am Stalzersee hatten wir allerlei Praktisches zur Sanierung be¬
+      <lb n="22"/>sprochen, ohne zu einem Resultat zu gelangen.–
+      <lb n="23"/>Gestern Abend schon kam Ruth an; für morgen Dienstag wird Julius erwar¬
+      <lb n="24"/>tet. Mein weiteres Verbleiben ist von all dem wenig abhängig; am wahr¬
+      <lb n="25"/>scheinlichsten bleibt es, dass ich von hier aus, ohne besondere Unterbre¬
+      <lb n="26"/>chung um den 10. herum nach Wien fahren werde. Programmlosigkeit und
+      <lb n="27"/>Ruhe erscheint mir für meine Nervenzustände wichtigst.– Das Essen ist
+      <lb n="28"/>leidlich, manchmal gut; bekömmlich ist es keineswegs. Die kohlensauren
+      <lb n="29"/>Bäder gebrauche ich mit Vorbehalt; erfrischend sind sie ja doch nur zu¬
+      <lb n="30"/>haus – wo das Bett ganz nah vom Bad steht.
+      <lb n="31"/>Mit der Arbeit bin ich auch noch nicht weiter gekommen; Heini hat den</seite></div></body></text></TEI>

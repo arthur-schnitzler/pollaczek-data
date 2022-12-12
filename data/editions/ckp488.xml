@@ -1,115 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp488"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 22. Oktober 1927</title>
-            <title type="alternative" when-iso="1927-10-22"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp488"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="488">
-               <lb n="01"/>tend machte ist wol ein meilenweiter Unterschied.
-      <lb n="02"/>Du findest es wünschenswert dass die O. dich besucht wenn sie in
-      <lb n="03"/>Wien ist, - gut, - aber dann eben <hi rend="underline" n="">wie ein Gast</hi> den man fallweise gerne
-      <lb n="04"/>spricht, bei <hi rend="underline" n="">dir zu Hause fühlen</hi>, müsste ich mich. Wäre dies der Fall
-      <lb n="05"/>dann würde es mich auch nicht stören wenn du gelegentlich die Mutter
-      <lb n="06"/>deiner Kinder bei dir siehst. Heute fühle ich mich fremd bei Dir mit
-      <lb n="07"/>dir.
-      <lb n="08"/>Hier sei es klaar und deutlich gesagt, um allen Misverständnissen für
-      <lb n="09"/>heut und immer vorzubeugen; der Gedanke an eine Ehe mit dir ist mir nie
-      <lb n="10"/>gekommen, ist mir immer völlig fern gelegen und ist mit mindestens so
-      <lb n="11"/>widerwärtig wie dir und ebenso ein dauerndes Zusammensein unter einem
-      <lb n="12"/>Dach. Aber wenn ich dir weiter Freundin und Geliebte sein soll dann mus
-      <lb n="13"/>mir unsre Beziehung endlich eine Art Heimath bedeuten eine Zuflucht aus allen Sor
-      <lb n="14"/>gen und Kümmernissen des Lebens. Du musst mich eben so gerne bei dir
-      <lb n="15"/>sehen wie ich dich bei mir. Ich gehe sehr gerne aus einer guten Stim
-      <lb n="16"/>mung heraus mit dir aus,- ins Theater, ins Kino etc. aber wir sind bei
-      <lb n="17"/>beide nicht jung genug, unser Zusammensein hauptsächlich darauf einzu
-      <lb n="18"/>stellen. Und ein Zusammensein unter meinem oder deinem Dach darf auch
-      <lb n="19"/>nicht wie bisher den Stempel eines festgelegten Programmes in sich tra
-      <lb n="20"/>gen. Man kommet zusammen weil man sich lieb hat weiI man gerne zusammen
-      <lb n="21"/>ist und lässt alle Möglichkeiten offen. -
-      <lb n="22"/>Und an unseren Zusammenkünften dürfte sich eben nichts ändern, ob nun
-      <lb n="23"/>deine Kinder oder deine geschiedene Frau wieder nach Wien kommen sollte
-      <lb n="24"/>Du kannst dich ruhig auf meinen Takt verlassen, dass ich mich ganz von
-      <lb n="25"/>selbst zurückziehen werde, wenn deine Kinder da sind, und nicht gera
-      <lb n="26"/>dann werde kommen wollen, wenn die O. angesagt ist.
-      <lb n="27"/>Ich begreife auch sehr gut, dass du stille einzame Abende und auch 
-      <lb n="28"/>andere Menschen brauchst und ich möchte es für mich selbst ja auch nicht
-      <lb n="29"/>anders. Ich glaube man sollte vor allem gut zu einander sein, dann
-      <lb n="30"/>könnte noch alles gut werden</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp488" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp488"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Wien
+      <lb n="02"/>22 Oktober 1927
+      <lb n="03"/>Mein Liebes Kind, so einfach sind die Dinge doch nicht zu erledigen, die
+      <lb n="04"/>einen andern Menschen in Herz und Seele treffen und es ist sehr traurig,
+      <lb n="05"/>dass ich dir diese Zeilen schreiben muss O. ist eben fort, und jetzt
+      <lb n="06"/>dürfte ich wieder antreten und mit der Erinnerung an diese Zeit, mit der
+      <lb n="07"/>Angst vor einer Wiederholung in mir, stellst Du dir ein Zusammenkommen
+      <lb n="08"/>schön und beglückend vor? Oder soll die Qual, die Stimmung der letzten
+      <lb n="09"/>Zeit andauern, bis wir darüber zu Grunde gehen?
+      <lb n="10"/>Nie, bei allen Befürchtungen die ich schon heuer im Sommer hatte, habe
+      <lb n="11"/>ich geehnt, dass eine Situation, wie die der letzten Wochen möglich sein
+      <lb n="12"/>könnte, dass mir dein Haus wieder verschlossen sein wird und die O. wie
+      <lb n="13"/>jeden dritten oder vierten Tag bei dir sein darf. Bitte betrachte es d
+      <lb n="14"/>doch einmal mit gütigen Augen: die Frau, die man angeblich liebt wird
+      <lb n="15"/>gekränkt auf Rechnung jener, die vor 8 Jahren, mit einem andern fort-
+      <lb n="16"/>gegangen ist.
+      <lb n="17"/>Du sagst; das sind "Ausserlichkeiten "Prestige-Fragen" Aber ich möch-
+      <lb n="18"/>te wissen, - wo die Innerlichkeiten sind, wo die Liebe zu suchen ist.
+      <lb n="19"/>Ich habe durch drei volle Wochen zu allem geschwiegen, nicht mit der
+      <lb n="20"/>Wimper gezuckt und als dann in der vierten und fünften Woche meine Ner-
+      <lb n="21"/>ven nachliessen und es dir noch immer nicht einfiel, mich mit ein paar
+      <lb n="22"/>herzlichen Worten zu dir zu rufen und ich mir endlich meine Erregung
+      <lb n="23"/>und Erbitterung anmerken liess - weniger "Lieb " zu dir war", da wur-
+      <lb n="24"/>de deine Reaktion sofort einige Kälte. Ja selbst als du mich durch einen
+      <lb n="25"/>anonymen Brief (über die Besuche der 0) irritiert wustest hattest du
+      <lb n="26"/>nicht die kleinste Rücksicht nicht ein warmes Wort für mich. Wo soll ich
+      <lb n="27"/>da die Liebe für mich entdecken? Damit allein dass man behauptet man lie-
+      <lb n="28"/>be ist doch noch nichts bewiesen, wenn alle Symptome dagegen sprechen.
+      <lb n="29"/>Du sagst sehr richtig; du kannst nicht der Mutter deiner Kinder das
+      <lb n="30"/>Haus verbieten und ich habe auch nie dergleichen von dir verlangt. Aber
+      <lb n="31"/>zwischen dieser brutalen Geberde und dem Zustand wie er jetzt sich gel-</seite></div></body></text></TEI>

@@ -1,111 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp107"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Tagebuch von Clara Katharina Pollaczek, 12. August 1924</title>
-            <title type="alternative" when-iso="1924-08-12"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp107"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="107">
-               <lb n="01"/>unverständlich und noch unverständlich, dass sie ihm je etwas be
-      <lb n="02"/>deuten konnte. Es gibt keinen Menschen, dem sie nicht unsympathisch
-      <lb n="03"/>ist. Sie war mir odios zu einer Zeit, wo ich nicht ahnte, dass A.
-      <lb n="04"/>und ich je zueinander finden werden. Sie hat ihm zwar gesagt, sie
-      <lb n="05"/>habe schon im Sommer 1916, als er mich in Ischl besuchte, den Ver
-      <lb n="06"/>dacht gehabt, aber das muss ein Vorgefühl bei ihr gewesen sein,
-      <lb n="07"/>an dem wir beide schuldlos waren.
-      <lb n="08"/>Wenn man mir vor 1½ Jahren noch gesagt hätte, wie es kommen würde,
-      <lb n="09"/>ich hätte geschworen, es sei ausgeschlossen. So fern waren wir uns.
-      <lb n="10"/>Ich bin übrigens sehr froh, dass es zu dieser Aussprache in Baden-
-      <lb n="11"/>Baden kam denn ich habe gerne Klarheit in allem und ich habe das
-      <lb n="12"/>Gefühl, dass unsere Beziehung dadurch noch inniger geworden ist. Wir
-      <lb n="13"/>haben seit seiner Rückkehr am Montag so schöne Stunden miteinander
-      <lb n="14"/>verbracht. Mittwoch hat er mir die »Else«-Novelle vorgelesen. Sie
-      <lb n="15"/>ist eigentlich ein dramatisches Kunstwerk und ich meinte, er sollte
-      <lb n="16"/>sie überhaupt mit Monodrama bezeichnen und sie mit der Bergner auf
-      <lb n="17"/>führen lassen. Ich glaube, das wäre fabelhaft. Wir waren beide ganz
-      <lb n="18"/>erschöpft und dabei sehr aufgeregt, als die Lektüre beendet war.
-      <lb n="19"/>Ich habe dann mit ihm allein auf der Terrasse seiner Villa genacht
-      <lb n="20"/>mahlt – Es war ein so wunderbarer Abend und ich war so erfüllt von
-      <lb n="21"/>Glück und Dankbarkeit, dass ich am liebsten seine Hände geküsst hät
-      <lb n="22"/>te. Als es kühl wurde, setzte er sich ans Klavier und spielte und
-      <lb n="23"/>ich sass ganz dicht bei ihm und mein Herz war voll Liebe.
-      <lb n="24"/>Heute Abend bin ich wieder einmal zuhause und ich hoffe,Kary wird
-      <lb n="25"/>auch da sein und wir können zusammen plaudern, was jetzt selten vor
-      <lb n="26"/>kommt. Kary ist auch auf Liebeswegen und Harry amüsiert sich.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp107" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp107"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>ses Buch geschrieben hätte. Zwei Monate, die sehr reich waren an
+      <lb n="02"/>Gutem und Bösem. Das Böse, das sind die trostlosen pekuniären Ver¬
+      <lb n="03"/>hältnisse. Manchmal wird mir schwarz vor den Augen, wenn ich an die
+      <lb n="04"/>Zukunft denke. Es bleibt mir nicht übrig, als Silber und Schmuck
+      <lb n="05"/>zu verkaufen und so weiter zu wursteln bis bessere Zeiten kommen.
+      <lb n="06"/>Meine Nerven sind recht angegriffen und ich fühl mich sehr elend.
+      <lb n="07"/>Dabei arbeite ich viel. Ich habe bereits alle Gedichte Géraldys
+      <lb n="08"/>übersetzt. Die Neue Freie Presse hat zweimal je 2 lange Gedichte
+      <lb n="09"/>gebracht und Géraldy hat mir das Uebersetzungsrecht für das ganze
+      <lb n="10"/>Buch »Toi et moi« gegeben. Jetzt heisst's einen Verleger finden.
+      <lb n="11"/>In der Neuen Freien Presse erscheint jetzt auch meine Novelle
+      <lb n="12"/>»Der Abhang» und die Leute glauben, dass A. mir dabei behilflich ist.
+      <lb n="13"/>Ich weiss, dass er mir nie in dieser Richtung helfen würde und ich
+      <lb n="14"/>es auch gar nicht möchte. Er hilft mir in einer andern Art – da¬
+      <lb n="15"/>durch, dass er mich lieb hat und dadurch, dass er sich für meine
+      <lb n="16"/>Arbeit interestiert und mir Mut macht. Aber das verstehen die
+      <lb n="17"/>dummen Menschen nicht.
+      <lb n="18"/>A. war 10 Tage fort – er hat seine Tochter nach Baden-Baden zu
+      <lb n="19"/>seiner Frau gebracht, ist ein paar Tage dort gewesen und dann nach
+      <lb n="20"/>Salzburg, wo er mit Heinrich Mann und seinem Sohn Heini zusammen¬
+      <lb n="21"/>traf.
+      <lb n="22"/>Der Aufenthalt in Baden-Baden muss nicht sehr angenehm gewesen
+      <lb n="23"/>sein. Seiner Frau scheinen unsere Beziehungen nicht zu passen –
+      <lb n="24"/>sie war vollkommen orientiert und äusserte ihre Empörung. Aber er
+      <lb n="25"/>hat ihr den Standpunkt klar gemacht und ihr gesagt, sie sei wohl
+      <lb n="26"/>verrückt gewesen zu glauben, dass er als Eremit leben würde, weil
+      <lb n="27"/>sie ihn verlassen habe und sie sollte sich eher darüber freuen,
+      <lb n="28"/>dass er mich gefunden hat. Sie ärgert sich, wie er sagt, besonders,
+      <lb n="29"/>dass er jetzt wieder so gut arbeiten kann. Mir ist diese Frau ganz</seite></div></body></text></TEI>

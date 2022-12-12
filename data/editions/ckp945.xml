@@ -1,110 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp945"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Ferdinand Donath an Clara Katharina Pollaczek, 6. August 1931</title>
-            <title type="alternative" when-iso="1931-08-06"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp945"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="945">
-               <lb n="01"/>Sie würden Alles tun wenn Sie unabhängig in seiner Nähe sein könnten. Da
-      <lb n="02"/>Sie aber leider materiell nicht unabhängig sind, brauchen sie immer wie-
-      <lb n="03"/>der erst einen Beweis seiner Zuneigung, die Ihnen erst diese Abhängigkeit
-      <lb n="04"/>erträglich macht. Diesen Beweis muss und wird er Ihnen erbringen; Sie waren
-      <lb n="05"/>aber nie vergessen dürfen, dass er ein im öffentlichen Leben stehender Me
-      <lb n="06"/>Mensch ist, der von einer Unzahl von Menschen verehrt und geliebt wird
-      <lb n="07"/>und sich dem Umgang mit diesen Menschen nicht entziehen kann und darf. Wenn
-      <lb n="08"/>er sein Leben nur mit einem Menschen verbracht hätte, hätten er sicher nicht
-      <lb n="09"/>nichts von all dem hervorbringen können, was ihm jetzt so viele Freunde u.
-      <lb n="10"/>Verehrer beiderlei Geschlechts verschafft. Sie werden ihm also stets die
-      <lb n="11"/>Möglichkeit geben müssen, mit diesen Menschen zusammenzukommen, Gedanken
-      <lb n="12"/>auszutauschen und von ihnen Anregung zu empfangen. Sie müssen das tun und
-      <lb n="13"/>noch dazu mit Veständnis gern tun, weil sie ihn ja nicht in seiner Arbeit
-      <lb n="14"/>hindern wollen, weil sie ja wissen dass es zu seinem ureigensten Leben ge-
-      <lb n="15"/>hört, die Ungebundenheit der Freiheit, weil sie ihn ja lieben. Sie müs-
-      <lb n="16"/>zu Ihnen
-      <lb n="17"/>senn nur Gewissheit über seine Gefühle bekommen. Die werden Sie bekonnen.
-      <lb n="18"/>Dafür wird die Trennung wieder bei ihm sorgen. Sie müssen mir ja nicht un-
-      <lb n="19"/>bedingt glauben. Sie sollen es selbst erleben. Vielleicht wird Sie schon
-      <lb n="20"/>der gemeinsame Aufenthalt in Gaßtein darüber aufklären! Ich versichere Ih-
-      <lb n="21"/>nen dass er, ein inniges Gefühl für sie empfindet dass des Ihrigen würdig
-      <lb n="22"/>ist, dass sie stolz machen kann und Ihnen Kraft geben muss zur Überbrückung
-      <lb n="23"/>der kleinlichen Alltäglichkeiten. Glauben Sie mir!
-      <lb n="24"/>Ihr ergebener
-      <lb n="25"/>Dr D.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp945" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp945"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Wien, 6.8.1931.
+      <lb n="02"/>(Brief von Dr.D.)
+      <lb n="03"/>Sehr liebe gnädige Frau, vielen Dank für Ihre lieben und ausführlichen
+      <lb n="04"/>Briefe. Ich freue mich unendlich Ihnen in dieser schweren Zeit auch nur
+      <lb n="05"/>etwas sein zu können, dem gegenüber man seine Gefühle ehrlich aus-
+      <lb n="06"/>Schütten kann. Der Onkel Arthur ist heute Vormittag abgereist. Er
+      <lb n="07"/>hat in den letzten Tagen zunehmend schlecht ausgesehen und ist sicher-
+      <lb n="08"/>ihre
+      <lb n="09"/>lich auch erholungsbedürftig. Ich habe ihm xxxBriefe gezeigt, weil
+      <lb n="10"/>ich der Ansicht bin, dass sie ja doch in erster Linie an ihn, wenn auch
+      <lb n="11"/>nicht bewumst gerichtet waren. Trotz Ihrem Zweifel kann ich Ihnen
+      <lb n="12"/>nur wieder berchten, dass sie einen ganz grossen Eindruck auf ihn ge-
+      <lb n="13"/>macht haben und xxx er mir versichert hat, dass es ihm sehr schwer
+      <lb n="14"/>um Herz ist. Der Gedanke, dass Sie unglücklich sind ist für ihn sicher-
+      <lb n="15"/>lich ebenso quälend wie die Zeit, in der Sie ihn meiner Freizügigkeit
+      <lb n="16"/>berauben wollten. Ich glaube nach wie vor an eine für beide Teile
+      <lb n="17"/>günstige Lösung der Situation. Diese Trennung, die ja nicht lange dau-
+      <lb n="18"/>ern wird wird einen wohltuenden Erfolg haben. Er wird besonders stark
+      <lb n="19"/>spüren, was er an Ihnen hat und Sie werden hoffentlich einsehen, dass
+      <lb n="20"/>ein so ungewöhnlicher Mensch auch ungewohnlich behandelt werden muss.
+      <lb n="21"/>Wenn Sie imstande wären ihn von heute auf morgen oder auch nur auf
+      <lb n="22"/>übermorgen zu vergessen, ja wenn Sie ihn überhaupt aufhören könnten zum
+      <lb n="23"/>lieben, dann würde ich Ihnen nur zureden es zu tun und wurde mich um
+      <lb n="24"/>ein Wiederaufleben der Bezikungen nicht im mindesten bemühen; denn dann
+      <lb n="25"/>wären Sie ja jetzt gar nicht so unglücklich und würden vor allem die
+      <lb n="26"/>Kraft, die die Liebe zu einem solchen Mann verlangt, nicht aufbringen.
+      <lb n="27"/>Aber so ist es ja nicht, liebe gnädige Frau. Sie wissen ja weit bes-
+      <lb n="28"/>ser als ich, was Sie alles für diesen Mann tunn könnten. Sie wollen
+      <lb n="29"/>nur wissen, ob Sie auch berechtigt sind das alles zu tun. Ich habe Sie
+      <lb n="30"/>in dieser Zeit kennen gelernt und habe, das muss ich Ihnen gestehn,
+      <lb n="31"/>meine Freude daran gehabt. Sie haben sich edel und stark bewiesen, wie
+      <lb n="32"/>es wenige in Ihrer Situation getan hätten. Sie würden alles für diesen</seite></div></body></text></TEI>

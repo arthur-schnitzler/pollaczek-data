@@ -1,121 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp331"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 6.–10. Mai 1926</title>
-            <title type="alternative" when-iso="1926-05-06"/>
-            <title type="alternative" when-iso="1926-05-08"/>
-            <title type="alternative" when-iso="1926-05-09"/>
-            <title type="alternative" when-iso="1926-05-10"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp331"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="331">
-               <lb n="01"/>8
-      <lb n="02"/>20 x 4 x 2 x
-      <lb n="03"/>6.5. 26.
-      <lb n="04"/>Ich habe dieser Tage eine Karte an Dich nach Lissabon abge-
-      <lb n="05"/>schickt, heute eine nach Hamburg. Frieda hat ein Telegramm aus Palmas
-      <lb n="06"/>von Dir erhalten, auch mir die Adressen Deiner Rückreise anzugeben.
-      <lb n="07"/>Heute bekam ich ein Radio von Dir, sie soll Dir Post an Heinis Alresse
-      <lb n="08"/>nach Berlin nachsenden.
-      <lb n="09"/>Ich bin sehr ruhig geworden, habe mich erholt und arbeite viel.
-      <lb n="10"/>Du bist mir sehr fern gerückt und ich fühle kein Bedürfnis Dir zu
-      <lb n="11"/>schreiben, Dir etwas zu sagen. Du hattest es in der Hand unser Wieder-
-      <lb n="12"/>chen zu einem frohen, glücklichen zu gestalten - ich hätte über all
-      <lb n="13"/>die Verstimmungen dieses Winters einen Strich gezogen und wäre Dir
-      <lb n="14"/>noch einmal mit einem frehen und ganzen Herzen entgegengekommen -
-      <lb n="15"/>Du hast es offenbar nicht wollen.
-      <lb n="16"/>8.5.26.
-      <lb n="17"/>Eine Karte aus Las Palmas, die mir nur sagt, dass ein rekom-
-      <lb n="18"/>mandiert Brief gleichzeitig abgeht. Ich werde inn wohl erst am Montag,
-      <lb n="19"/>übermorgen bekommen, da morgen Sonntag keine Post ausgetragen wird.
-      <lb n="20"/>9.5.
-      <lb n="21"/>Ich fürchte mich vor dem Brief, der morgen kommen wird.
-      <lb n="22"/>Ich habe Angst vor dem Wiedersehen und ich hätte mich doch gerne ge-
-      <lb n="23"/>freut. - Warum, warum?
-      <lb n="24"/>10.5.
-      <lb n="25"/>Der Brief aus Las Palmas! Ja, es muss sehr schön dort sein
-      <lb n="26"/>und es würde mich unbeschreiblich interessieren, welche Reiseroute Du
-      <lb n="27"/>..
-      <lb n="28"/>möglicherweise für die Rückreise nimmst, wenn auch ein Gedanke -ein
-      <lb n="29"/>Gefünl in diesen Zeilen wäre. Empfindest Du nichts oder bist Du 10
-      <lb n="30"/>vorsichtig? Ich bin Dir so fern, dass es mir nicht einmal weh tut. Ich
-      <lb n="31"/>sollte wahrscheinlich sehr stolz sein, dass Du mir so lange Briefe
-      <lb n="32"/>schreibst - Du mir - der berühmte Mann. - Nun, mein Lieber, ich fliege
-      <lb n="33"/>290</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp331" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp331"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>7
+      <lb n="02"/>26.4.26.
+      <lb n="03"/>Nein,nein, nein, mein Kind, du hattest nicht recht mit dieser
+      <lb n="04"/>Reise. Hättest Du sie mir vorgeschlagen, mich mitnehmen wollen, ich
+      <lb n="05"/>hätte Dir abgeredet. So eine Reise macht man nur, wenn man muss oder
+      <lb n="06"/>wenn man niemand zurücklässt, der einem oder dem man erwas bedeutet.
+      <lb n="07"/>Es hätte sich wohl noch eine andere Reise finden lassen, die weniger
+      <lb n="08"/>ausserhalb aller Verständigungsmöglichkeiten liegt. Aber Du hast Dich
+      <lb n="09"/>in diese Idee vernannt, wie ein eigensinniges Kind, das einen Streich
+      <lb n="10"/>ausgeheckt hat und ich bin überzeugt, sie ist viel früher entstanden,
+      <lb n="11"/>als Du mir davon sagtest, sie lag in allen Missverständnissen dieses
+      <lb n="12"/>Winter zwischen uns, ohne, dass ich davon wusste. Du wus stest, was
+      <lb n="13"/>Du vor hattest - - -
+      <lb n="14"/>Ich schreibe das, weil ich ein wenig erregt bin, aber
+      <lb n="15"/>ohne alle Feindseligkeit und nur hoffend, dass bald eine gute, beruhi-
+      <lb n="16"/>gende Nachricht eintrifft, dass Ihr alle Stürme, von denen in der Zeitung
+      <lb n="17"/>steht, gesundheitlich gut vertragen habt und vergnügt in L. gelandet
+      <lb n="18"/>seid.
+      <lb n="19"/>30.4.26.
+      <lb n="20"/>Wie dumm war ich, wie grenzenlos dumm mir Sorgen zu ma-
+      <lb n="21"/>chen und noch dümmer diesen endlosen brief zu schreiben, den ich nun
+      <lb n="22"/>nicht absenden werde.Gestern kam Dein Brief aus Lissabon,- ein lie-
+      <lb n="23"/>benswürdiger Reisebericht - kein einziges warmes Wort, keine Frage nach
+      <lb n="24"/>meinem Ergehen. Du dankst mir für den lieben, guten Brief, den Du in L.
+      <lb n="25"/>vorgefunden hast, das ist alles. Momentane Stimmung? Absicht?
+      <lb n="26"/>So und nicht anders zu schreiben - ich weiss nicht, was ich davon hal-
+      <lb n="27"/>ten soll, aber ich bin ernuchtert, grenzenlos ernüchtert. Auch wenn ich
+      <lb n="28"/>Deine Adresse morgen oder übernorgen erhalten sollte, wohin die
+      <lb n="29"/>nächsten Nachrichten zu schicken sind, so wird es ein Kartengruss wer-
+      <lb n="30"/>den, nicht mehr.
+      <lb n="31"/>289</seite></div></body></text></TEI>

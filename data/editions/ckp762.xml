@@ -1,115 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp762"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Tagebuch von Clara Katharina Pollaczek, 27.–31. Januar 1930</title>
-            <title type="alternative" when-iso="1930-01-27"/>
-            <title type="alternative" when-iso="1930-01-28"/>
-            <title type="alternative" when-iso="1930-01-31"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp762"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="762">
-               <lb n="01"/>alles gut.
-      <lb n="02"/>28.1. Wilmi und nedwid zum Tee. Um 28 kaum dass sie fort waren,rief
-      <lb n="03"/>A. mich an. Ich hatte Mittag meine Ahnung ausgesprochen, dass heute
-      <lb n="04"/>der projektierte Aderlass gemacht wird, er leugnete aber, / gab es jetzt
-      <lb n="05"/>zu. Er wollte mich nicht beunruhigen, ehe er sich nicht ganz davon er-
-      <lb n="06"/>holt hatte. Kam gleich darauf selbst herüber. Lieb undzärtlich, wie
-      <lb n="07"/>seit vielen,vielen Wochen nicht.
-      <lb n="08"/>im Radio Konzertübertragung von Grosz (dem Exliebhaber der v., der sie
-      <lb n="09"/>nach zwei Monaten sitzen liess). Wir hörten innig umschlungen zu
-      <lb n="10"/>und lachten über die seltsame Situation. "Wermir das vor zehn Jahren
-      <lb n="11"/>prophezeit hätte", sagte er.
-      <lb n="12"/>Auf einmal ist die Welt schöner für mich, alles viel leichter.
-      <lb n="13"/>Heute ein Brief von Roth aus Budapest wegen Dramatisierung meiner
-      <lb n="14"/>Novelle "Die Tochter des Hauses" für den Schauspieler Beregyi.
-      <lb n="15"/>In der Stadt Begegnung und Gespräch mit Moissi.
-      <lb n="16"/>Gestern Abend beim "Kaiser von Amerika", Josefstädtertheater. Schwaches
-      <lb n="17"/>Stück, aber doch ein Shaw und glänzend gespielt. Waldau als Kaiser
-      <lb n="18"/>Magnus bezaubernd wie immer. Nachher "Hahn" genachtmanlt. A. wie-
-      <lb n="19"/>der wesentlich kühler trotz meiner Herrlichkeit.
-      <lb n="20"/>31.1. Gestern Abend bei der letzten Aufführung der "Sommerlüfte".
-      <lb n="21"/>Elisabeth Bergner im Theater. A. holt sie in unsere Loge, geht im
-      <lb n="22"/>Zwischenakt mit ihr auf die Bühne, ich bleibe allein. Publikum sehr bei-
-      <lb n="23"/>fallslustig. Nachher A. und ich im Imperial. Ich hatte eigentlich
-      <lb n="24"/>auf ein Zusammensein mit der Bergner gehofft, die mich interessiert.
-      <lb n="25"/>A. freundlich kühl zu mir, frägt wiederholt, warum ich ihn immer so
-      <lb n="26"/>forschend ansehe. Ich weiss gar nicht, dass ich das tue.
-      <lb n="27"/>Vormittag in der Stadt, jetzt allein. Ich bin erkältet. A. abend al-
-      <lb n="28"/>lein zuhause.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp762" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp762"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Wenn er Liebe für mich empfände liesse er mich nach dem gestrige
+      <lb n="02"/>Abend allein? Um 8 Uhr Abend rief er mich nochmals an. Er arbeitet
+      <lb n="03"/>am "Zug der Schatten". Ich kann nicht arbeiten.
+      <lb n="04"/>24.1. Den ganzen Tag allein, nur um die Mittagszeit ein wenig in die
+      <lb n="05"/>Kälte hinaus. Anruf Friedas, sie bedauert mich, aber ich fühle, dass sie
+      <lb n="06"/>nicht aufrichtig zu mir ist. Es ist kein Zweifel, dass sie mit A. über
+      <lb n="07"/>seine Beziehung zu mir spricht. Sie stellt es etwa so dar, er ist gleich-
+      <lb n="08"/>giltig gegen alles geworden, ist am liebsten allein,möchte aber gleich-
+      <lb n="09"/>zeitig, dass ich nicht leide.
+      <lb n="10"/>Ich kann nicht, ich kann icht kann, nicht. Heute soll ich mit ihm ins
+      <lb n="11"/>Kino. Sage ich Nein, - wird eine Szene daraus, gehe ich wirds eine Qual.
+      <lb n="12"/>Dr.Dr. telefonisch gesprochen. Er findet A.'s Befinden sehr gut. Er
+      <lb n="13"/>kommt morgen zu mir. Abend Tonfilm "Atlantis". Qualvoller, aufregender
+      <lb n="14"/>Film. Mir stürzten die Tränen aus den Augen. A. hält meine Hand,
+      <lb n="15"/>sanft, fast zärtlich. Auf der Heimfahrt küsst er mich. Ich frage -
+      <lb n="16"/>warum? wenn Du mich nicht liebst? xxx Er: "Das habe ich nie gesagt.
+      <lb n="17"/>Du verstehrt mich nicht - ich bin seelisch krank". -Nein, das versteh
+      <lb n="18"/>ich wirklich nicht.
+      <lb n="19"/>26.1. Nachmittag Dr. D. bei mir. Friedet A. in keiner schlechten Ver-
+      <lb n="20"/>fassung, nur Blutdruck sehr geisteigert. Er hat die Ueberzeugung, dass
+      <lb n="21"/>A. mich liebtund braucht und dass seine Stimmungen krankhaft sind. Ich
+      <lb n="22"/>soll Geduld haben.
+      <lb n="23"/>Dann bei A, ganz unpersönliche Gespräche. Grosser Bernhardierfolg in
+      <lb n="24"/>Berlin etc. Nach dem Nachtmahl Klawierspiel, dann wieder Konversationen
+      <lb n="25"/>ganz belangloser Art. Ich bin äusserlich sehr freundlich, innerlich
+      <lb n="26"/>zerquält.
+      <lb n="27"/>27.1.Abend im Kino (Weis ser Flieder). Nachher wieder Weingartel-Restau-
+      <lb n="28"/>rant genachtmahlt. Zunehmende Zärtlichkeit. Vielleicht wird doch noch</seite></div></body></text></TEI>

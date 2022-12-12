@@ -1,92 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp197"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 17. März 1925</title>
-            <title type="alternative" when-iso="1925-03-17"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp197"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="197">
-               <lb n="01"/>17.3.1925. Bl. 3
-      <lb n="02"/>uns. -
-      <lb n="03"/>Heut hab ich allerlei geschäftliche Besuche und dergleichen
-      <lb n="04"/>vor; - zu Mittag bin ich mit Paul Wiegler (Ullstein) zusammen, Abend
-      <lb n="05"/>mit Heini (nach "Von Norgens etc.). -
-      <lb n="06"/>Kalt, grau, etaas Schneefall. Sei zärtlich umarmt!
-      <lb n="07"/>147</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp197" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp197"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>17.3.25. Bl.2.
+      <lb n="02"/>Komödie der Verführung mit mir anhandelte. Wir speisen morgen "in diesem
+      <lb n="03"/>Sinn" zusammen.
+      <lb n="04"/>Nachtmahl mit Heini und Paul Marx wieder bei Stallmann.
+      <lb n="05"/>Am Montag 16. Nach Spaziergang in bitter Kälte - Bank; Feilchenfeld ab-
+      <lb n="06"/>wesend; - finanzielle Gespräche mit seinem Vertreter Dr. Popper; - all -
+      <lb n="07"/>gemeine Situation ziemlich hoffnungsvoll.-
+      <lb n="08"/>Im Verlag S.Fischer langes Gespräch mit Dr.Maril, grosse
+      <lb n="09"/>Betretenheit wegen meiner Ullstein-Absichten - Mittageßen bei Michac-
+      <lb n="10"/>lis (um ¼ Uhr) - um 16 oca im Hotel; - Heini holt mich. Lessingtheater
+      <lb n="11"/>Märchen. Da ich von den Lümmeln Rotters überhaupt nichts gehört, blieb
+      <lb n="12"/>mir nichts anderes übrig als zwei theuere Billetts zu 20 Mark zu kau-
+      <lb n="13"/>fen ( - ich war gewiss der Einzige).Sass mit Heini 2. Reihe Ecke: es ge-
+      <lb n="14"/>lang uns - total unerkannt zu bleiben - das Publikum absolut Vorstadt; -
+      <lb n="15"/>gewiss hatten die Rotters die Billettes zu Viertelpreisen an Vereine
+      <lb n="16"/>abgegeben. Die Vorstellung jammervoll- der Regisseur und Hauptdarstellzer
+      <lb n="17"/>total unmöglich - die Gesellschaftsszene - Posemuckel - begabt die Fan-
+      <lb n="18"/>ny, ein Frl. Spira.- Manches aus dem Stück ist verblasst; - und
+      <lb n="19"/>es gibt naturalistische Details, auch pathetisch-sentimentale Dialog -
+      <lb n="20"/>stellen, die schwer zu ertragen sind; - aber es ist gar kein übles Thea-
+      <lb n="21"/>terstück - und das problem - als psychologisches, nicht als soziales -
+      <lb n="22"/>ist aktuell wie es war. - Die Kritiker greifen nur immerdaneben, sind
+      <lb n="23"/>aber nicht unfreundlich. Die Schwäche der Aufführung wird beinahe über-
+      <lb n="24"/>all constatiert. (Die Rotters, die beinahe alle ihre Theater in der näch-
+      <lb n="25"/>sten Salmon verlieren, wollten offenbar nur 1000 gezahlten Garantie-
+      <lb n="26"/>mark hereinbringen-, und da das wohldieser Jammervorstellung nicht gelin-
+      <lb n="27"/>gen wird, möchten sie die Bernhardi-Tantiemen, die sie mir noch schuldig
+      <lb n="28"/>sind, darin aufgehen lassen, was ihnen nicht gelingen wird.)
+      <lb n="29"/>em
+      <lb n="30"/>Nach dem Theater mit Heini in ein (RestaurantSchiffer-
+      <lb n="31"/>haum, wo wir mit Albert Steinrück und seiner Frau, sowie Paul Marx zu-
+      <lb n="32"/>sammentrafen. Für eine Weile gezellte sich der norwegische Romangier Seven
+      <lb n="33"/>Elvstad, etwas besoffen und sein Freund,ein nüchterner Norweger zu
+      <lb n="34"/>146</seite></div></body></text></TEI>

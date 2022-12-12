@@ -1,92 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp607"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 13. Oktober 1928</title>
-            <title type="alternative" when-iso="1928-10-13"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp607"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="607">
-               <lb n="01"/>mittag Begräbnis meiner Tante Fanny, eine stille, sanfte, kleine Frau
-      <lb n="02"/>von einer rührenden Bescheidenheit.
-      <lb n="03"/>Der angekündigte Brief von Dir ist mit der Morgenpost
-      <lb n="04"/>nicht gekommen. Gestern nur eine Karte. Wie nötig hätte ich ein paar
-      <lb n="05"/>liebe Worte.
-      <lb n="06"/>Ich küsse Dich innig.
-      <lb n="07"/>Deine C.K.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp607" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp607"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>An A.S. Berlin.
+      <lb n="02"/>Wien, 13.10.1928.
+      <lb n="03"/>Mein Liebes,
+      <lb n="04"/>wir haben eben telefonisch geprochen und ich schreibe Dir
+      <lb n="05"/>rasch, ehe ich das Bett verlasse und die tägliche Hetzerei angeht.
+      <lb n="06"/>Ich bin Dir ja so dankbar, dass Du mir zu dieser kleinen
+      <lb n="07"/>Wohnung verhelfen willst, aber es ist alles so schwer dadurch, dass
+      <lb n="08"/>Du gerade jetzt nicht da bist. Wenn Du mit mir hingehen würdest und
+      <lb n="09"/>sagen könntest: Ja, das ist gut, das kann ich mir als einen sympathi-
+      <lb n="10"/>schen gemütlichen Raumen vorstellen, das freut mich, - um wieviel leich-
+      <lb n="11"/>ter wäre mir ums Herz. Und dabei der Gedanke, dass Du dort auch Sorgen
+      <lb n="12"/>und Aerger hast!
+      <lb n="13"/>Es ist eine sehr böse Zeit für mich, denn wenn ich auch
+      <lb n="14"/>genau weiss, dass die Wohnung hier schon lange eine Belastung meiner
+      <lb n="15"/>Existenz in mancher Beziehung ist, so bedeutet sie mir doch mit all
+      <lb n="16"/>ihren tausend Erinnerungen so unendlich viel, dass ich empfinde, als
+      <lb n="17"/>ob ich meine eigentliche Heimat für immer verlassen müsste. Mit der
+      <lb n="18"/>Peregringasse versinkt etwas für mich, in das irgendwie die Wurzeln
+      <lb n="19"/>meines Wesens und meines Daseins verstrickt sind und es tut sehr
+      <lb n="20"/>weh. Aber man muss auch damit fertig werden können.
+      <lb n="21"/>Heute Vormittag fahre ich in den Cottage,und mit Frieda
+      <lb n="22"/>in die Wohnung, der ich sie zeigen will, hoffe mit der Hausbesitzerin
+      <lb n="23"/>einig zu werden. Ich finde, sie kommt sehr hoch. Aber Tatsache ist,
+      <lb n="24"/>dass mir weder vom Hilfsverein, wo ich 20 S. eingezahlt habe, noch durch
+      <lb n="25"/>den Agenten Silberberg oder die Singer eine einzige Wohnung eingetra-
+      <lb n="26"/>gen wurde. Wie gut wäre es endlich zur Ruhe und zu einer richtigen
+      <lb n="27"/>Arbeit zu kommen. Dabei ist mir gerade in den letzten Tagen eine
+      <lb n="28"/>Menge zur "Corday" eingefallen. Oft wenn ich mit der Eiktrischen
+      <lb n="29"/>fuhr oder halbtot am Divan lag. Das Vorspiel ist mir jetzt so ziemlich
+      <lb n="30"/>klar. Ich müsst nur Zeit haben es niederzuschreiben und die physische
+      <lb n="31"/>Kraft dazu. Ich liege fast jeden Abend um 8 Uhr im Bett. Gestern Vor-</seite></div></body></text></TEI>

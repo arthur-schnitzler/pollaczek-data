@@ -1,116 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp429"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 24.–25.4.1927</title>
-            <title type="alternative" when-iso="1927-04-25"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp429"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="429">
-               <lb n="01"/>24.4.27.
-      <lb n="02"/>Mein Liebes, wenn Dir an mir wirklich was liegt - und
-      <lb n="03"/>ich habe doch Grund es anzunehmen - dann mach doch endlich Ordnung.
-      <lb n="04"/>Lass diese Frau nicht ihren Schatten auf unser Glück werfen. Hat sie
-      <lb n="05"/>nicht den Takt sich in den gehörigen Schranken zu halten, so musst Du
-      <lb n="06"/>ihn ihr energisch beibringen. Warum sie schonen, für die Bu, wie Du
-      <lb n="07"/>selbst sagst, nichts mehr empfindest, und mich verletzen, die Du lieb hast?
-      <lb n="08"/>Wenn das so weiter geht, gehe ich, Du unsere Liebe, unsere Beziehung daran
-      <lb n="09"/>zugrunde. Und glaube mir, wenn Du jetzt nicht etwas Entscheidendes sagst,
-      <lb n="10"/>werden wir sie auch nach Lille Hochzeit nicht los. Und sie wird nicht
-      <lb n="11"/>nach Venedig übersiedeln. Ich will nicht nochmals wiederholen, was ich
-      <lb n="12"/>zu Anfang des Briefes sagte, aber es muss ihr endlich klar werden, dass
-      <lb n="13"/>sie nur für Lili ins Haus zu kommen hat und alles andere sie nichts
-      <lb n="14"/>mehr angeht. Dedurch, dass Du ihr immer wieder den kleinen Finger reichst,
-      <lb n="15"/>greift sie nach der ganzen Hand oder versucht es wenigstens. Ich stehe
-      <lb n="16"/>natürlich für die Mitteilungen, die ich Dir mache, ein, aber ich bitte
-      <lb n="17"/>Dich keinen Gebrauch davon zu machen. Frau Kl. hat mir zwar kein Schwei-
-      <lb n="18"/>gen auferlegt, aber sie setzt es wohl voraus. Es würde zu Unannehmlichkei-
-      <lb n="19"/>ten zwischen ihr und mir führen. Sagst Du es aber O., so hätte die arme
-      <lb n="20"/>Kl. darunter zu leiden, die ja sicher nicht sehr klug ist, aber immer in
-      <lb n="21"/>den liebevollsten Ausdrücken von Dir spricht. Auch über Lili sprach
-      <lb n="22"/>sie sehr nett. Ich verhielt mich vollkommen passiv, erstens weil ich
-      <lb n="23"/>nicht mitteilsam bin und zweitens, weil ich weder weiss, ob Frau Kl. ver-
-      <lb n="24"/>trauenswürdig, noch ob sie wahrheitsliebend ist, denn ich kenne sie zu
-      <lb n="25"/>wenig.
-      <lb n="26"/>Draussen ist wieder ein herrlicher Frühlingstag und ich
-      <lb n="27"/>soll noch immer im Bett liegen.
-      <lb n="28"/>Lebwohl, mein Hiebes, trage mir diese Zellen nicht nach und
-      <lb n="29"/>denke Dich ohne Eigensinn einen Augenblick in meine Lage. Ich umarme
-      <lb n="30"/>Dich von ganzem Herzen. Deine C.K.
-      <lb n="31"/>10</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp429" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp429"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>24.4.27.
+      <lb n="02"/>nisvolle Seele zu finden. Ich antwortete nun
+      <lb n="03"/>er, ich verstehe das gar
+      <lb n="04"/>nicht und sie solle sich doch an Dich wenden, aber sie meinte, sie will
+      <lb n="05"/>Dich nicht aufregen, Du ärgerst Dich so schon genug über die O. und es
+      <lb n="06"/>nütze ja nichts, denn Du bist doch viel zu schwach ihr gegenüber. Wenn
+      <lb n="07"/>es aber so bleibe, dann gehe sie, denn sie mag in keinem Haus sein, in
+      <lb n="08"/>dem eine Frau ist.
+      <lb n="09"/>Wie mir zumute war und ist brauche ich Dir wohl nicht
+      <lb n="10"/>erst zu sagen. Du kannst Dir meine Empfindungen vorstellen. Ich hätte
+      <lb n="11"/>Dir gerne diese Mitteilungen erspart, aber erstens wäre es unaufrichtig
+      <lb n="12"/>sie für mich zu behalten und zweitens musst Du endlich einsehen, dass
+      <lb n="13"/>etwas zungeschehen hat. Gut, Du kannst ihr nicht den Aufenthalt in Wien
+      <lb n="14"/>verbieten. Du sollst ihr ja auch nicht die Besuche bei ihrer Tochter
+      <lb n="15"/>untersagen, aber Du kannst ihr doch energisch erklären: "Komm zu Dei-
+      <lb n="16"/>ner Tochter so oft Du willst, ich - mein Haus, meine Wirtschaft gehen
+      <lb n="17"/>Dich nichts an. Wenn ich die Intervention einer Frau brauche, so steht
+      <lb n="18"/>mir eine andere näher, im übrigen ist ja Frau Kl. dazu da.
+      <lb n="19"/>Du siehst doch selbst, dass u. sich heute Dinge traut,
+      <lb n="20"/>die sie in all den Jahren nicht gewagt hat und dass sie das Gefühl
+      <lb n="21"/>haben muss sich trauen zu dürfen. Ist aber ihr Verhalten für
+      <lb n="22"/>Frau Kl. verletzend, was ist es dann erst für mich? Fühlst Du denn
+      <lb n="23"/>nicht, Du grosser Menschenkenner, was dieses Ignorieren meiner Existenz
+      <lb n="24"/>bedeutet, was sie damit ausdrücken und bezwecken will?
+      <lb n="25"/>Hier wurde der Brief durch Besuche unterbrochen.
+      <lb n="26"/>25.4.27.
+      <lb n="27"/>Die Nacht war wieder nicht gut. Heute Früh kam Dein
+      <lb n="28"/>Brief vom 23. Du missverstehst mich sehr. Ich bin nicht so dumm zu
+      <lb n="29"/>glauben, dass man von seelischen Erschütterungen Gallenstein bekommt,
+      <lb n="30"/>dass sie aber meine Nerven zerrütten, Anfälle begünstigen und mein
+      <lb n="31"/>Allgemeinbefinden schädigen, steht äusser jeder Frage.</seite></div></body></text></TEI>

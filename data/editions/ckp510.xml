@@ -1,116 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp510"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 6. Dezember 1924</title>
-            <title type="alternative" when-iso="1924-12-06"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp510"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="510">
-               <lb n="01"/>An A.S. Berlin.
-      <lb n="02"/>Wien, 6.12.1927.
-      <lb n="03"/>Liebster,
-      <lb n="04"/>heute Früh am Telefon hatte ich das Gefühl, dass Du recht
-      <lb n="05"/>gehetzt bist oder einen Anruf erwartet hast. Oder irre ich mich?
-      <lb n="06"/>Ich freue mich jedesfalls, dass Du Dich wohl fühlst und die verschie-
-      <lb n="07"/>denen Besprechungen (so weit ich Dich verstand) doch zu Resultaten
-      <lb n="08"/>führen werden. Du solltest Elisabeth B. die "Hirtenflöte" zu lesen
-      <lb n="09"/>geben, ich glaube, da liesse sich mit ihr viel machen und sie hätte
-      <lb n="10"/>die vielseitigsten Möglichkeiten.
-      <lb n="11"/>Gustav Schwarzkopf habe ich angerufen. Er war sehr lieb,
-      <lb n="12"/>sagte, mein Stück hätte einen sehr günstigen Eindruck auf ihn gemacht
-      <lb n="13"/>etc., wenn überhaupt in den drei prämierten Stücken sehe er in dem
-      <lb n="14"/>meinen Möglichkeiten, obwohl er sich an dem Hausgeist und der Ratte
-      <lb n="15"/>etwas stosse. Es käme natürlich auf die Inszenierung an. Ich sagte
-      <lb n="16"/>ihm, dass es eben ein Reinhardt in die Hand bekommen müsste, es stehe
-      <lb n="17"/>der "Peripherie" nicht so fern. Erantwortete: "Ja, da haben Sie das
-      <lb n="18"/>Richtige getroffen“ etc. Ich fahre jedesfalls um 5 Uhr zum Volksthea-
-      <lb n="19"/>ter das Stück abholen, vielleicht spreche ich dann mit Horch darüber.
-      <lb n="20"/>Ich habe auch an Herterich gedacht. Es wär halt die gute Rolle für die
-      <lb n="21"/>Wilbrandt drinnen. Jedesfalls werde ich allerhand versuchen.
-      <lb n="22"/>Bei Paul Zsolnay bin ich am Vormittag gewesen. Er war
-      <lb n="23"/>sehr liebenswürdig, aber doch irgendwie säuerlich, wie Du es nennst.
-      <lb n="24"/>Er erzählte mir von Unannehmlichkeiten mit Géraldy, weil die Gedichte
-      <lb n="25"/>von Rockerot nicht eingezogen sind, sondern trotz angeblichen Verbots
-      <lb n="26"/>weiter verkauft werden. Es scheint Unwis senheit von Géraldy und In-
-      <lb n="27"/>korrektheit von Stock vorzuliegen. Von meinem Bändchen sind 500
-      <lb n="28"/>Exemplare bereits verkauft, was für Gedichte in so kurzer Zeit, wie er
-      <lb n="29"/>selbst zugibt, nicht so wenig ist. Dagegen habe ich noch keinen Knopf
-      <lb n="30"/>bezahlt bekommen. Es ist wirklich eine Schäbigkeit. Ich bin neugie-
-      <lb n="31"/>rig, ob ich im Volkstheater das Geld bekomme.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp510" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp510"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Verlag, ein unwesentliches, unerquickliches Gespräch – er wird immer
+      <lb n="02"/>ängstlicher und schwankender.– Frage des Gesamtwerks in Einzelaus¬
+      <lb n="03"/>gaben, – niedere Perzente; – weniger Vorausbezahlung; – Reigen etc.
+      <lb n="04"/>auch Maril zeigte erheblichen Mangel an Elan.– Allein im Hotel zu
+      <lb n="05"/>Tisch – nachher erschien Heini; – Arnold Zweig, Hans Jacob; – Telefoni¬
+      <lb n="06"/>sches mit Mirjam Beer-Hofmann Stampes, Lantz, Gosewitsch, ein Filmmann,
+      <lb n="07"/>der morgen wegen Casanovas Heimfahrt zu mir kommt.–
+      <lb n="08"/>Abend will ich in ein Kino gehen (einen Mayerschen Film ansehen)
+      <lb n="09"/>und treffe dann wieder mit Elisabeth Bergner und Czinner zusammen.
+      <lb n="10"/>Sie sagte gestern: Nach dem Else-Film werden sie überhaupt nur mehr
+      <lb n="11"/>mit Amerika abschliessen – was bekomm ich dafür. Dann ich: Darüber
+      <lb n="12"/>wird sich reden lassen, wenn Sie mir zu dem Verkauf des Elsefilm
+      <lb n="13"/>nach Amerika (der offenbar schon sicher ist) Perzente geben (im
+      <lb n="14"/>Spass gesagt und im Ernst gemeint) – –
+      <lb n="15"/>Mein Befinden, das in den ersten Tagen recht mässig war, ist nun recht
+      <lb n="16"/>gut, der Kopf oft etwas benommen, aber im wesentlichen bin ich so
+      <lb n="17"/>frisch, wie nur je. In meinen mitgebrachten Manuscripte habe ich
+      <lb n="18"/>noch keinen Blick getan, – Den Werfel les ich langsam weiter.  Ich
+      <lb n="19"/>freu mich auf Dich, die Arbeit und die relative Regelmässigkeit meiner
+      <lb n="20"/>Wiener Existenz. Am Sonntag Vormittag hoff ich daheim zu sein und
+      <lb n="21"/>Dich spätestens dem Abend des gleichen Tags in die Arme zu
+      <lb n="22"/>schliessen. Ich umarme Dich von ganzem Herzen.
+      <lb n="23"/>Dein
+      <lb n="24"/>A.</seite></div></body></text></TEI>

@@ -1,102 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp157"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 12. Januar 1925</title>
-            <title type="alternative" when-iso="1925-01-12"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp157"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="157">
-               <lb n="01"/>Wien, 12.1.1925.Hotel Regina
-      <lb n="02"/>nach Bern.
-      <lb n="03"/>Vielen Dank, Liebster, für Deinen Bericht aus Stuttgart. Ich habe heute
-      <lb n="04"/>einen sehr langen Brief und mein Manuscript nach Basel abgeschickt, wo
-      <lb n="05"/>Dich beides hoffentlich am 14.Früh noch antrifft. Ausser dem Weg an die
-      <lb n="06"/>Post war ich den ganzen Vormittag zuhause. Carly kam zu mir arbeiten
-      <lb n="07"/>(auf der Schreibmaschine) und ich habe die aneue Novelle begonnen,
-      <lb n="08"/>bin neugierig, ob's was wird. Um 5 bin ich xxx Volkstheater und dann will
-      <lb n="09"/>ich den ganzen weiteren Nachmittag und Abend arbeiten und lesen. Morgen
-      <lb n="10"/>Nachmittag bin ich bei Enmy E., was mich ausnehmend ödet, aber Anna
-      <lb n="11"/>und Lotte M. dort sind ist es besser als ein têt-à-tête. Warum warst
-      <lb n="12"/>Du mit dem ersten Abend in Stuttgart nicht recht zufrieden? Hat er Dich
-      <lb n="13"/>ermüdet? Bitte überanstrenge Dich nur nicht - es wäre ein Verbrechen.
-      <lb n="14"/>Ich umarme Dich.
-      <lb n="15"/>Clara Katharina.
-      <lb n="16"/>- - — — —
-      <lb n="17"/>107</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp157" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp157"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>12.1.1925.Bl.2.
+      <lb n="02"/>Ich habe heute schon ziemlich viel an der neuen Novelle geschrie.
+      <lb n="03"/>und die langen Brief an Dich - kein Wunder, dass mir der Arm schon
+      <lb n="04"/>weh tut. Gestern in Mödling las mir Anna wieder ein Kapitel ihres
+      <lb n="05"/>neuen Romanes vor, das wirklich ganz ausgezeichnet ist. Sie ist jetzt
+      <lb n="06"/>mit der Hälfte fertig und schickt sie nach München an Ephraim F.
+      <lb n="07"/>Hast Du Thomas M. in München gesprochen? Ich konnte das nicht recht
+      <lb n="08"/>entziffern.
+      <lb n="09"/>Nun bist Du schon ohne Lili und ich bin neugierig, zu hören, wiedas
+      <lb n="10"/>mit C
+      <lb n="11"/>Zusammentreffen war. Heute Abend und wohl jetzt, während ich an Dich
+      <lb n="12"/>schreibe, liest Du wohl in Freiburg. Es ist 9 Uhr und es wird für mich
+      <lb n="13"/>enilich Zeit zu nachtmahlen. Nachher will ich noch die Johanna wei-
+      <lb n="14"/>terlesen, die mir Frieda P. gestern brachte und ich in der heutigen
+      <lb n="15"/>recht schlaflosen Nacht zu lesen begonnen habe. Morgen werde ich wie-
+      <lb n="16"/>der etwas mondainer leben - Vormittag in die Stadt,Nachmittag Emmy
+      <lb n="17"/>Erlanger, Abend Fredi und Kino. Für heute gute Nacht. Vielleicht schreibe
+      <lb n="18"/>ich morgen noch ein paar Zeilen, ehe ich den Brief aufgebe.
+      <lb n="19"/>13.1. Guten Morgen! Eben kommen Deine lieben Zeilen aus Baden-Baden.
+      <lb n="20"/>Mir ist gar nicht ka kämen sie aus einer mir bekannten Gegend, sondern
+      <lb n="21"/>aus einer fremden, sehr fernen Stadt.
+      <lb n="22"/>Ich freue mich, dass Du Dich wohl fühlst und da die grösste Hetzerei
+      <lb n="23"/>nun Überstanden ist, wirst Du Dich hoffentlich auch erholen.
+      <lb n="24"/>Ich habe heute besser geschlafen, aber der Tag ist grau, dichter Nebel,
+      <lb n="25"/>sogar jetzt noch um 10 Uhr. Ich will aber trotzdem später an die
+      <lb n="26"/>Luft Bewegung machen. Einen herzlichen Kuss.
+      <lb n="27"/>ClaraKatharina.
+      <lb n="28"/>- - - - —
+      <lb n="29"/>106</seite></div></body></text></TEI>

@@ -1,122 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp843"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Tagebuch von Clara Katharina Pollaczek, 28. Oktober – 4. November 1930</title>
-            <title type="alternative" when-iso="1930-10-28"/>
-            <title type="alternative" when-iso="1930-10-29"/>
-            <title type="alternative" when-iso="1930-10-30"/>
-            <title type="alternative" when-iso="1930-10-31"/>
-            <title type="alternative" when-iso="1930-11-01"/>
-            <title type="alternative" when-iso="1930-11-02"/>
-            <title type="alternative" when-iso="1930-11-03"/>
-            <title type="alternative" when-iso="1930-11-04"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp843"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="843">
-               <lb n="01"/>28.10. Abend Alma, Werfel, Egon,Emmy, Hofrätin 2. und A. zum Nachtmahl
-      <lb n="02"/>bei mir. Es hätte so hübsch und anregend sein können, aber A. hatte
-      <lb n="03"/>Kopfweh und immerfort fielen ihm die Augen zu. - Das Essen warçsehr
-      <lb n="04"/>gut, der Tisch sehr hübsch, mit Weinlaub in Herbsttönen. Schade.
-      <lb n="05"/>29.10. Kaltes Restlessen, A. bei mir. Vorher Kino. (Gottlob stummer
-      <lb n="06"/>Film). A. recht gemütlich. Heute heiratet Heini in Berlin die Ruth
-      <lb n="07"/>Albu. Wir tranken auf ihr Wohl. Hoffentlich wird es eine gute Ehe.
-      <lb n="08"/>Vormittag am Friedhof. Vom Grab der Eltern lief ein Marienkäfer auf
-      <lb n="09"/>mich zu.
-      <lb n="10"/>30.10. Abend bei Anna mit Robert Eisler, der als Bub viel in unserm
-      <lb n="11"/>Elternhaus war und jetzt Professor an der Sorbonne in Paris ist, hat
-      <lb n="12"/>hier über eine Weltsanierungsidee Vortrag gehalten.
-      <lb n="13"/>31.10. Mit A. im Kino. Sehr langweiliger Film und der ganze Abend
-      <lb n="14"/>trübselig.
-      <lb n="15"/>1.11. Gestern sehr liebenswürdige Absage von Wildgans und Wohlgemuth
-      <lb n="16"/>wegen der "Dame".
-      <lb n="17"/>2.11. Gestern Nachmittag bei Clara Hatvany, die besser aussieht. Dann
-      <lb n="18"/>mit A. Theater a. d. Wien. "Land des Lächelns" von Lehar. Sehr Puocini.
-      <lb n="19"/>Aber suggestiv und Tauber ausgezeichnet. Nachher Weingartel genacht-
-      <lb n="20"/>mahlt. Die Musik hat mich enerviert, aber A. merkt nichts.- Im ganzen
-      <lb n="21"/>gemütlich.
-      <lb n="22"/>3.11. Mittag bei A. Recht stimmungslos. A. fährt nähteste Woche nach
-      <lb n="23"/>Berlin. Mir viel lieber als zu Weihnachten.
-      <lb n="24"/>4.11. Mein Schlafmittel ausgegangen, daher schlaflos. Um 1/4 6 in der
-      <lb n="25"/>Früh gebadet, dann an der Novelle geschrieben. Anruf von Fräulein Mizi
-      <lb n="26"/>Friedmann im Auftrag von Erwin Weil, ob ich mein Stück "Dame" für
-      <lb n="27"/>eine einmalige Aufführung in der Komödie hergeben würde. Ich lehnte dann
-      <lb n="28"/>dankend ab. Ich habe bei Gisela Berger gesehen, dass man sich mit sol-
-      <lb n="29"/>chen Aufführungen nur schadet. Mittag Cary, Magdi. Nachmittag Diktat
-      <lb n="30"/>Frieda.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp843" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp843"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>19.10. Der gestrige Abend besser als ich dachte. A. sehr gesprächig.
+      <lb n="02"/>Wildgans eher still, beobachtend, seine Stellungnahme nie preisgebend.
+      <lb n="03"/>Werfel sympathisch wie immer. Frau Clauser recht hübsch und
+      <lb n="04"/>sehr freundschaftlich gegen mich. Alma unsoigniert und nicht sehr
+      <lb n="05"/>vorteilhaft, aber temperamentvoll und anregend wie gewöhnlich.
+      <lb n="06"/>Frau Clauser telefonierte heute A. und sagte ihm angeblich,ich hätte
+      <lb n="07"/>so besonders gut ausgesehen und Schmeichelhaftes über meine Gestalt
+      <lb n="08"/>und meine Heine. Sie hat auffallend schlechte Arme und Beine.
+      <lb n="09"/>Da A. am Vormittag einen Anruf von Heini erwartet, habe ich eine Ein-
+      <lb n="10"/>ladung von Frau Sachs angenommen, die mich seit zwei 2 Jahren darum
+      <lb n="11"/>bittet. Ich speise dort.
+      <lb n="12"/>Abends. Mittagessen ganz nett. Ausser dem sympathischen Gatten, Gisela
+      <lb n="13"/>Berger und ein Schriftsteller Erwin Rieger. Dann eine halbe Stunde
+      <lb n="14"/>bei Hermine und Paula, die mich per Auto nach Hause brachten. Abend
+      <lb n="15"/>mit A. Kino. "Der Brand in der Oper".Guter Film mit Gründgens, wenn
+      <lb n="16"/>nicht gesprochen würde. Diese Tonfilme sind unerträglich. Dann bei A.
+      <lb n="17"/>Quälend wie immer, wenn wir jetzt allein sind.
+      <lb n="18"/>Und morgen wird der Brief aus dem Burgtheater kommen, der seit zwei
+      <lb n="19"/>Tagen unterwegs ist, wisman mir ges ern Früh in der Burgtheaterkanzlei
+      <lb n="20"/>sagte. Ich halte den Atem an.
+      <lb n="21"/>20.10. Absage Burgtheater.
+      <lb n="22"/>22.10. Abend mit A. im Kino: Jazzkönig im Apollo. Langweiligster
+      <lb n="23"/>Kitsch. Salten begegnet. Stille.
+      <lb n="24"/>26.10. Gestern Harry zu Tisch. Heute Sturm und Regen. Abend mit A.
+      <lb n="25"/>im Kino. "Dolly macht Carrière." Dann bei A. Sternwartestrasse.
+      <lb n="26"/>Gemütlicherer Abend.
+      <lb n="27"/>27.10. Sturm,Regen seit Tagen. Viel gearbeitet. Mit A. dreimal tele-
+      <lb n="28"/>fonisch gesprochen.
+      <lb n="29"/>106</seite></div></body></text></TEI>

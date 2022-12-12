@@ -1,115 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp416"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 2. Januar 1927</title>
-            <title type="alternative" when-iso="1927-01-02"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp416"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="416">
-               <lb n="01"/>2.1.27.
-      <lb n="02"/>dämonische Frau zu spielen, vielleicht besser als jene Damen, denen Dämonie
-      <lb n="03"/>nichts als ein Mäntelchen ist, das sie sich genau so umhängen, wie ein
-      <lb n="04"/>Kleid, das schlecht zu ihnen passt und die hauptsächlich darin besteht,
-      <lb n="05"/>dass sie pflichtvergessen sind, gut und bequem für das Geld des unge-
-      <lb n="06"/>liebten Gatten leben, die Augen verdrehen und in die Ecke schielen. Dämo-
-      <lb n="07"/>nie in meinem Sinn ist aber ein kleines Raubtier, das man selbst in einen
-      <lb n="08"/>Käfig sperrt und mit dem man selbst nicht zu spielen wagt, oder ein Ele-
-      <lb n="09"/>ment, das im gegebenen Augenblick auch elementar hervorbricht.
-      <lb n="10"/>Ich habe da viel mehr geschrieben als ich wollte, aber es ist
-      <lb n="11"/>im Bett so schön warm und ich habe ohne Ueberlegung einfach darauf los
-      <lb n="12"/>geschmiert. Ich möchte sehr, dass Du meine Leilen richtig und gut ver-
-      <lb n="13"/>stehst.
-      <lb n="14"/>Gestern war ich, wie ich Dir schon sagte, den ganzen Tag mutter-
-      <lb n="15"/>seelenallein. Ich habe mit Andacht das letzte Gespräch Aurelie-Falkenir
-      <lb n="16"/>übersetzt und überhaupt den Akt bis ans Ende, so dass ich ihn Dienstag
-      <lb n="17"/>Vormittag besser diktieren kann. Jetzt muss ich jemanden zum Korrigie-
-      <lb n="18"/>ren finden und zum Abschreiben, denn Frieda sagt, sie habe in den nächsten
-      <lb n="19"/>Tagen keine Zeit. Jetzt will ich rasch aufstehen und in die Sonne hinaus.
-      <lb n="20"/>Eben telefoniert mir Baron Puton, dass er mich Nachmittag besuchen will.
-      <lb n="21"/>Ich habe Jagesagt. Mittagsind Fredi und Felix da.
-      <lb n="22"/>Frieda lässt Dichherzlich grüssen und Dir für Deinen Brief
-      <lb n="23"/>danken, aber sie ist so gehetzt, dass sie nicht schreiben kann.
-      <lb n="24"/>Gisela B. brachte mir gestern Früh, als ich noch zu Bett war,
-      <lb n="25"/>Blumen und gab sie bei meiner Türe ab. Sie ist rührend lieb zu mir.
-      <lb n="26"/>Ich danke Dir tausendmal, dass Du so lieb warst mit W. und F. von mir zu
-      <lb n="27"/>sprechen. Ich hoffeehoffe!
-      <lb n="28"/>Ichp hoffe auch, dass Deine verschiedenen Unterredungen noch zu
-      <lb n="29"/>einem guten Abschluss führen und Du in guter Stimmung heimkehrst. Ich
-      <lb n="30"/>erwarte Dich mit offenen Armen und Herzlichkeit. Deine C.K.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp416" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp416"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>A.S. nach Berlin.
+      <lb n="02"/>2.1.27. Wien.
+      <lb n="03"/>Liebster,
+      <lb n="04"/>das werden wohl die letzten Zeilen sein, die ich Dir nach
+      <lb n="05"/>Berlin sende. Und da heute Sonntag ist werde ich sie erst morgen Montag
+      <lb n="06"/>in der Früh absenden.
+      <lb n="07"/>Wir haben uns eben telefonisch gesprochen und irgend etwas
+      <lb n="08"/>im Nachgeschmack dieses Gesprächs macht mich nachdenklich. Du hast mir
+      <lb n="09"/>glaube ich die theoretische Klarheit menschlicher Beziehungen vorgehal-
+      <lb n="10"/>ten, wenn nicht, als eine unrichtige Einstellung meines Wesens vorgewor-
+      <lb n="11"/>en; eine Beziehung unklar, unrein machen (was eigentlich gleichbedeutend
+      <lb n="12"/>wäre) kann Jeder, es hat dies nicht nur mit dem Wesen, sondern auch mit
+      <lb n="13"/>dem Willen zu tun. Wenn ich die Nase in den Regen hinausstecke, so
+      <lb n="14"/>darf es mich nicht wundern, wenn sie nass wird. Auch ich könnte in Ver-
+      <lb n="15"/>wirrungen und Unaufrichtigkeiten geraten, aber ich würde mir über die-
+      <lb n="16"/>sen Zustand klar sein und ihn auch dem andern Teil klar machen, wenn
+      <lb n="17"/>ich dazu Veranlassung habe. Ich glaube, ich kann viel besser lügen und
+      <lb n="18"/>unwahr sein als Andere wenn ich es einmal will. Und eben darum will ich
+      <lb n="19"/>nicht.
+      <lb n="20"/>Du sagst immer, ich missverstehe Dein Wesen. Ich glaube, dass
+      <lb n="21"/>niemand Dein Wesen, Dich, Deine Arbeit so gut versteht als ich. Aber
+      <lb n="22"/>eben deshalb finde ich diese gewisse Männchen-Eitelkeit und dieses Spiel
+      <lb n="23"/>mit der Freiheit so unwürdig. Wir sind ja Beide Gottlob vollkommen frei
+      <lb n="24"/>und die Gebundenheit ist eben ein freiwilliges Gefühl, ist - Liebe. Die-
+      <lb n="25"/>se Gebundenheit soll man heilig halten, so lange eben die Bindung, die
+      <lb n="26"/>Liebe vorhanden ist. Eine andere gibt es nicht in meinen Augen. Aber
+      <lb n="27"/>ein sich selbst und den Andern Beweisen-Wollen, dass man frei ist, heisst
+      <lb n="28"/>beweisen wollen, dass es mit der Liebe nicht so weit her ist. Liebe
+      <lb n="29"/>ist eben ein ganz grosses Format, das Verkleinerungen nicht verträgt
+      <lb n="30"/>-
+      <lb n="31"/>es kommt dann immer etwas Missglücktes und Verzerrtes heraus.
+      <lb n="32"/>Ich versichere Dich, ich würde es auch ganz gut treffen die</seite></div></body></text></TEI>

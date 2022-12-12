@@ -1,90 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp973"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Tagebuch von Clara Katharina Pollaczek, 25.–26. August 1931</title>
-            <title type="alternative" when-iso="1931-08-25"/>
-            <title type="alternative" when-iso="1931-08-26"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp973"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="973">
-               <lb n="01"/>Wird heute Abend noch mit Dr. Donath sprechen kommt morgen Vor-Mittag
-      <lb n="02"/>zu mir. Ich erwarte nichts mehr. Dr. D. ist ein Optimist.
-      <lb n="03"/>26ten August - Unterredung vorbei - alles Vorbei. Ich will schlafen-
-      <lb n="04"/>schlafen--</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp973" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp973"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Fühle das Wolwollen und die Teilnahme dieser beiden Men-
+      <lb n="02"/>schen.
+      <lb n="03"/>17. Aug. Brief von A Heini fährt mit seiner Mutter am Sonntag fort. Ich
+      <lb n="04"/>soll dann für 8 Tg. nach Gm.Gm. kommen.- <hi rend="underline" n="">Nein! Das tu ich</hi> nicht.
+      <lb n="05"/>Ich habe A. in G. angerufen, ihm gesagt dass schliesslich auch meine con-
+      <lb n="06"/>cessionen Grenzen haben. Ich nicht hier sitzen und warten werde bis ich
+      <lb n="07"/>für 8 limitierte Tage antreten darf. Ich reise ganz für mich ab.
+      <lb n="08"/>Er schien wüthend, ersuchte mich einen Brief abzuwarten. Er sähe nicht
+      <lb n="09"/>ein etc. -- Was hat er je eingesehen?
+      <lb n="10"/>18 Empörender Brief von A. Erklärt ein für alle mal sich seine Bewegungs f
+      <lb n="11"/>Freiheit und Bestimmungsrecht für seine Person zu sichern (als ob ich
+      <lb n="12"/>ihm am Semmering nicht seine Freiheit wiedergegeben hätte) ist aber weiter
+      <lb n="13"/>bereit am 23ten in G. mit mir zusammenzukommen. Ich frag wozu -?
+      <lb n="14"/>Ich antworte telegrafisch: Nicht Heinis verschobene Abreise aber Form ge-
+      <lb n="15"/>fühl und Einstellung bestimmend. Lebwol, alles Gute für dich.
+      <lb n="16"/>Und dann noch einen Abschieds-Brief den er morgen hat. Ich setze eben den
+      <lb n="17"/>am Semmering betretenen Weg fort.
+      <lb n="18"/>Ich fahre morgen Mittag nach Wien. Dass ich überhaupt noch gehen sprechen,
+      <lb n="19"/>etwas veranlassen kann-
+      <lb n="20"/>N. Mittag mit Weissweilers die mich durch die k.leine Alline auffordern lie
+      <lb n="21"/>liessen eine St. beim Zuckerbäcker. Ich höre mir zu wie ich rede. Dann nach
+      <lb n="22"/>Hause - einpacken - es schwindelt mir - Schlafmittel.
+      <lb n="23"/>Wien. Nacht.
+      <lb n="24"/>Heute Früh vor Abreise einlenkender Express- Brief von a. A. Sieht ein dass
+      <lb n="25"/>Zusammensein in G. derzeit sinnlos (das glaub ich ) kommt Sonntag oder
+      <lb n="26"/>Montag Wien erbittet Nachricht. Schluss des Briefes; mit den innigsten und
+      <lb n="27"/>herzlichsten Gedanken“. Zu spät. Carry noch bis I U. nachts bei mir geses-
+      <lb n="28"/>sen.- Auf der fahrt zur Bahn heut Früh Julius u. Helene getroffen. Sie gab
+      <lb n="29"/>mir Recht als ich sagte dass ich nicht nach G. fahre, da es Dinge giebt,
+      <lb n="30"/>die man sich nicht mehr bieten lassen kann. Ich glaube sie sind Beine über
+      <lb n="31"/>A. empört. Wenn sie erst Alles ja nur eine Teil wüsten--</seite></div></body></text></TEI>

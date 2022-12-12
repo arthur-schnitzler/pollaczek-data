@@ -1,117 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp430"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 24. April 1927</title>
-            <title type="alternative" when-iso="1927-04-24"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp430"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="430">
-               <lb n="01"/>Venedig, 24.4.1927.
-      <lb n="02"/>Mein Liebes, ich bin sehr froh, dass der Besuch des Dr. Elias Dich
-      <lb n="03"/>beruhigt, dass er Dir einige bestimmte, klare und einfache Sachen ge-
-      <lb n="04"/>sagt hat und bin mit Dir zuversichtlich. Nur keine Ungeduld wegen
-      <lb n="05"/>der Bettruhe - und keine überflüssiger Aerger (mit dem notwendigen
-      <lb n="06"/>allein hat man ja genug).
-      <lb n="07"/>Gestern an einem köstlichen Frühlingstag waren xxx wir auf dem Lido,
-      <lb n="08"/>der noch menschenleer ist. Die meisten Hotels geschlossen, - wir sas-
-      <lb n="09"/>sen und assen im Stabilimento mit dem Blick aufs Meer mit seinen
-      <lb n="10"/>tausend braunen und weissen Segeln. Das Corno d'Oro besehen (und
-      <lb n="11"/>den Besitzer Borelle gesprochen) (wo 0. und L. im vorigen Jahre
-      <lb n="12"/>wohnten); still gelegen mit schönen Park, kaum halb so theuer wie die
-      <lb n="13"/>grossen Modehotels, dabei höchst comfortable; allerlei besprochen,
-      <lb n="14"/>nichts bestimmtes ausgemacht, da der Termin der Hochzeit noch nicht
-      <lb n="15"/>feststeht.
-      <lb n="16"/>Ueberdies haben wir den Flugplatz gesehen. Das Luftschiff auch innen
-      <lb n="17"/>besichtigt und es endlich mit seinen Passagieren auffligen gesehen.
-      <lb n="18"/>Es war für mich, der ich diesem Schauspiel noch niemals beigewohnt,
-      <lb n="19"/>ein wahrhaft ergreifender Anblick. Man staunt nicht genug auf die-
-      <lb n="20"/>ser Welt.
-      <lb n="21"/>Gestern Abend (zu Dritt) im Testro Rossini - Variété und Kino
-      <lb n="22"/>(das erst um 3/4 11 anfing) - es gelang mir die Boheme zu sehen,
-      <lb n="23"/>(die Lilian Gish wunderbar, das Ganze sehr fein in der Inszenierung
-      <lb n="24"/>aber von einer (für mich im Film) unerträglichen Traurigkeit. (Von
-      <lb n="25"/>Jay Kaufmann, Matro Goldmyn), wurde mir ein Brief hieher nachgeschickt,
-      <lb n="26"/>ich werde den Mann in Wien vielleicht nach 10. Mai sehen, zu welcher
-      <lb n="27"/>Zeit er wieder dahin zurückkommt). - Sonst habe ich äusser von Dir
-      <lb n="28"/>aus Wien noch nichts gehört.
-      <lb n="29"/>Heute ein trüber Tag, es sieht nach Regen aus. Ich will Alma besuchen
-      <lb n="30"/>(ihre Tochter Anna und ihre Schwester Marie sprach ich gestern auf
-      <lb n="31"/>dem Markusplatz.)
-      <lb n="32"/>11</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp430" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp430"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>24.4.27.
+      <lb n="02"/>Mein Liebes, wenn Dir an mir wirklich was liegt - und
+      <lb n="03"/>ich habe doch Grund es anzunehmen - dann mach doch endlich Ordnung.
+      <lb n="04"/>Lass diese Frau nicht ihren Schatten auf unser Glück werfen. Hat sie
+      <lb n="05"/>nicht den Takt sich in den gehörigen Schranken zu halten, so musst Du
+      <lb n="06"/>ihn ihr energisch beibringen. Warum sie schonen, für die Bu, wie Du
+      <lb n="07"/>selbst sagst, nichts mehr empfindest, und mich verletzen, die Du lieb hast?
+      <lb n="08"/>Wenn das so weiter geht, gehe ich, Du unsere Liebe, unsere Beziehung daran
+      <lb n="09"/>zugrunde. Und glaube mir, wenn Du jetzt nicht etwas Entscheidendes sagst,
+      <lb n="10"/>werden wir sie auch nach Lille Hochzeit nicht los. Und sie wird nicht
+      <lb n="11"/>nach Venedig übersiedeln. Ich will nicht nochmals wiederholen, was ich
+      <lb n="12"/>zu Anfang des Briefes sagte, aber es muss ihr endlich klar werden, dass
+      <lb n="13"/>sie nur für Lili ins Haus zu kommen hat und alles andere sie nichts
+      <lb n="14"/>mehr angeht. Dedurch, dass Du ihr immer wieder den kleinen Finger reichst,
+      <lb n="15"/>greift sie nach der ganzen Hand oder versucht es wenigstens. Ich stehe
+      <lb n="16"/>natürlich für die Mitteilungen, die ich Dir mache, ein, aber ich bitte
+      <lb n="17"/>Dich keinen Gebrauch davon zu machen. Frau Kl. hat mir zwar kein Schwei-
+      <lb n="18"/>gen auferlegt, aber sie setzt es wohl voraus. Es würde zu Unannehmlichkei-
+      <lb n="19"/>ten zwischen ihr und mir führen. Sagst Du es aber O., so hätte die arme
+      <lb n="20"/>Kl. darunter zu leiden, die ja sicher nicht sehr klug ist, aber immer in
+      <lb n="21"/>den liebevollsten Ausdrücken von Dir spricht. Auch über Lili sprach
+      <lb n="22"/>sie sehr nett. Ich verhielt mich vollkommen passiv, erstens weil ich
+      <lb n="23"/>nicht mitteilsam bin und zweitens, weil ich weder weiss, ob Frau Kl. ver-
+      <lb n="24"/>trauenswürdig, noch ob sie wahrheitsliebend ist, denn ich kenne sie zu
+      <lb n="25"/>wenig.
+      <lb n="26"/>Draussen ist wieder ein herrlicher Frühlingstag und ich
+      <lb n="27"/>soll noch immer im Bett liegen.
+      <lb n="28"/>Lebwohl, mein Hiebes, trage mir diese Zellen nicht nach und
+      <lb n="29"/>denke Dich ohne Eigensinn einen Augenblick in meine Lage. Ich umarme
+      <lb n="30"/>Dich von ganzem Herzen. Deine C.K.
+      <lb n="31"/>10</seite></div></body></text></TEI>

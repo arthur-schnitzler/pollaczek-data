@@ -1,113 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp956"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 16. August 1931</title>
-            <title type="alternative" when-iso="1931-08-16"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp956"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="956">
-               <lb n="01"/>Gmunden, 16.8.1931.
-      <lb n="02"/>Mein liebes Kind, ich sehe in unserer Correspondenz wirklich kein sol-
-      <lb n="03"/>ches "hin und her"; der Tag unserer Zusammenkunft stand so wenig fest
-      <lb n="04"/>als der Ort und was die Reise von Gastein hieher anbelangt überschätzst
-      <lb n="05"/>Du die Entfernung. Der beste Zug von Gastein geht 16.10 (also oca 5 Uhr)
-      <lb n="06"/>ab, von Salzburg 18.45, ist in Attnang 20,45,von dort ab 21.30, an in Omun-
-      <lb n="07"/>den 21.50.
-      <lb n="08"/>Nun hat sich immerhin die Sache insofern geändert, als Heipi um eine
-      <lb n="09"/>Verlängerung des Urlaubs bei der Staatstheaterintendanz eingekommen
-      <lb n="10"/>ist und im Falle der ziemlich sicheren Bewilligung bis Samstag 22.
-      <lb n="11"/>bei mir bleiben und zugleich mit 0. nach Berlin fahren dürfte. Dass
-      <lb n="12"/>ich die paar Tage gern noch mit ihm verbringen möchte, siehst
-      <lb n="13"/>Du gewiss ein. Bliebst Du also die paar Tage mehr in Gastein,
-      <lb n="14"/>so hättest Du eben Deine Zwöchentliche Kur beendet und wir würden uns
-      <lb n="15"/>am Sonntag den 23. treffen und bis Ende des Monats zusammen bleiben.
-      <lb n="16"/>Sollte es Dir unangenehm sein im gleichen Hotel hier abzusteigen, wo
-      <lb n="17"/>ich mit (Heini u.) O. zusammen gewohnt habe, so kann ich ohne weiters
-      <lb n="18"/>ins Kurhotel (das sehr nett) Übersiedeln (wo ich mir übrigens schon
-      <lb n="19"/>Zimmer angesehn habe.) Ich würde Salzburg vorziehn, aber ich wünsche
-      <lb n="20"/>nicht in die Festspielgesellschaft zu gerathen; und die Festzpiele
-      <lb n="21"/>dauern bis zum 31.- Schinnerer war über einen Tag in Aussee, kommt heut
-      <lb n="22"/>wieder und fährt Montag Abend weg (nach Berlin,Hamburg); Amerika am
-      <lb n="23"/>Dienstag Abend oder Mittwoch Früh.
-      <lb n="24"/>Ich hoffe aber mein Kind, dass der Aufenthalt von ein paar Tagen Dich in
-      <lb n="25"/>Deinen Entschlüssen nicht beeinflusst und dass wir hier noch etliche
-      <lb n="26"/>gute Tage haben werden. Schreib mir gleich und sei tausendmal gegrüsst
-      <lb n="27"/>Dein
-      <lb n="28"/>A</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp956" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp956"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Gmunden, 12.8.1931.
+      <lb n="02"/>(nach Gastein)
+      <lb n="03"/>Mein liebes Kind,erst gestern ist Arnoldo hier eingetroffen; -
+      <lb n="04"/>Heini führt am Sonntag d. 16. wieder nach Berlin; Arnoldo dürfte
+      <lb n="05"/>Dienstag 18., spätestens Mittwoch wieder abreisen und so lange bleibt
+      <lb n="06"/>auch O. hier; - ich schlage Dir vor, so lange in Gastein zu bleiben
+      <lb n="07"/>(die reguläre Kurzeit wäre ja 3 Wochen) und von dort aus direct
+      <lb n="08"/>hieher zu mir nach Gmunden zu kommen. Das liegt Dir ja auf den Weg-
+      <lb n="09"/>über Attnang musst Du jedesfalls fahren; - und für uns beide das
+      <lb n="10"/>bequemste. Die Landschaft ist schön, die Spazierwege angenehm; das
+      <lb n="11"/>Hotel wenn auch mit den bekannten Unzukömmlichkeiten deralten
+      <lb n="12"/>Salzkammerguthotels gesegnet, gut gehalten, die Küche sehr
+      <lb n="13"/>anständig, der Preis moderiert. Das Wetter wird sich hoffentlich bes-
+      <lb n="14"/>sern; - und das Klima ist in jedem Fall milder als in Gastein. Mich von
+      <lb n="15"/>Wien weiter zu entfernen habe ich vorläufig wenig Lust; wird das
+      <lb n="16"/>Wetter wieder schön, so lässt sich von hier aus alles unterne men.
+      <lb n="17"/>(Schinnerer hat seine Ankunft für heute Nachmittag angewagt, ich
+      <lb n="18"/>nehme an, dass er mit Heini vzusammen von hier abreisen wird.)
+      <lb n="19"/>Ich wäre sehr froh, wenn Du mit meinem Vorschlag einverstanden wärst,-
+      <lb n="20"/>damit Du nicht am Ende durch materielle Erwägungen bestimmt wirst,
+      <lb n="21"/>lege ich hier für alle Fälle 200 S. bei. Solltest Du irgendwelche
+      <lb n="22"/>Gegenvorschläge haben, so sag sie mir bald. Es scheint ja, dass der
+      <lb n="23"/>Aufenthalt in Gastein und vielleicht auch die Bäder Dir gut oder
+      <lb n="24"/>wenigstens wohl thun. Mein Befinden ist nicht schlecht; - Kopf, Magen
+      <lb n="25"/>freilich nicht ideal; aber damit lass ich mich abfinden.-Auf sehr
+      <lb n="26"/>baldiges Wiedersehen also und alles Herzliche und Innige. Dein A.</seite></div></body></text></TEI>

@@ -1,120 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp343"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Tagebuch von Clara Katharina Pollaczek, 29.–31. Juli 1926</title>
-            <title type="alternative" when-iso="1926-07-29"/>
-            <title type="alternative" when-iso="1926-07-30"/>
-            <title type="alternative" when-iso="1926-07-31"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp343"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="343">
-               <lb n="01"/>Tagebuch
-      <lb n="02"/>
-               <gap/>
-               <lb n="03"/>29.7.1926.
-      <lb n="04"/>Franzose keine Ahnung von der deutschen Sprache und kein Gefühl für
-      <lb n="05"/>Stil hat. Liege seit 8 Uhr bereits im Bett. Carry war einen Augenblick
-      <lb n="06"/>hier gute Nacht wünschen, da er zu seinem Bruder ging.
-      <lb n="07"/>30.2.1926. Zu Bett. Regen, Kälte, Einsamkeit. Um 5 Uhr Früh an A. ge-
-      <lb n="08"/>schrieben. Schlaflos. Das 4.Kapitel überdacht und weitergeschreiben.
-      <lb n="09"/>31.7.1926. Gut geschlafen. Gegen Morgen seltamer Traum. Ich tanzte
-      <lb n="10"/>mit A. unter freiem Himmels des Nachts - ein beleuchtetes Haus in der
-      <lb n="11"/>Nähe und Musik. Wir tanzen einen modernen Tanz. Es ist sehr erregend.
-      <lb n="12"/>Eine Art Luftschiff kommt plötzlich aus der Höhe, senkt sich in fast
-      <lb n="13"/>greifbarer Nähe. Ich sage lachend zu A.: Wir könnten uns anhängen und
-      <lb n="14"/>eine Weile mitfliegen. Aber er meint, es könnte plötzlich sehr hoch
-      <lb n="15"/>gehen und es wäre dann nicht mehr möglich abzuspringen. Wir tanzen
-      <lb n="16"/>wieder, er ist sehr zärtlich. Leute kommen aus dem Haus, gehen wohlwollend
-      <lb n="17"/>grimmend und lachend vorbei. Die Lovsky vom Volkstheater aber ist da-
-      <lb n="18"/>bei. A. sagt: "Diese Art Leute unterhält sich immer", worauf ich ihn
-      <lb n="19"/>frage, ob er findet, dazu wir uns nicht unterhalten. Er erwiedert:
-      <lb n="20"/>"Das zwischen uns ist doch mehr als sich unterhalten" oder so ähnlich.
-      <lb n="21"/>Wir umschlingen uns wieder und - ich erwache.
-      <lb n="22"/>Der Himmel ist blau und ich rede mir ein, es ist ein schöner Tag.
-      <lb n="23"/>Ich habe mich geirrt. Mit der Morgenpost eine Karte von A., später Ex-
-      <lb n="24"/>pressbrief. Ein Bericht - ich hatte Beasseres erwartet. In der Stadt
-      <lb n="25"/>von Wolkenbruch überrascht, patschnass nachhause. Ich habe vorderhand
-      <lb n="26"/>nicht die geringste Lust auf diese Reise in die Schweiz. Das 4. Kapi-
-      <lb n="27"/>tel macht Fortschritte.
-      <lb n="28"/>Am Abend wieder ein Expressbrief, Antwort auf den meinen. Es bleibt na-
-      <lb n="29"/>türlich bei der Schweiz. Ich woll am 8. nach Zürich, dort die P.'s treffen
-      <lb n="30"/>mit ihnen nach Interlaken und gegen den 15. A. treffen und bis 25.
-      <lb n="31"/>mit ihm bleiben, denn ein paar Tage allein, dann nochmals mit ihm zu-
-      <lb n="32"/>302</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp343" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp343"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>agebuch.
+      <lb n="02"/>26.7.1926. Gestern ist A. weggefahren. Noch nie ist mir der Abschied
+      <lb n="03"/>so schwer geworden, vielleicht, weil wir uns noch nie so lieb hatten
+      <lb n="04"/>3 Ei Rlgogkircy monsieur un deux
+      <lb n="05"/>Ich mache mir auch grosse Sorgen um ihn, gestern Abend sah er so blass
+      <lb n="06"/>und verfallen aus. Er lebt über seine Verhältnisse und dann kommt im-
+      <lb n="07"/>mer der Augenblick, wo er Angst bekommt nicht genug schaffen, nicht Genug
+      <lb n="08"/>verdienen zu können. Er verschwendet wie ein grosses Kind, das er ist
+      <lb n="09"/>und seine Familie nützt ihn aus.
+      <lb n="10"/>Das Wetter kalt und früb, meine Stimmung trüb. Aerger mit Carry, der
+      <lb n="11"/>wieder bis ½12 im Bett liegt. Begegnung mit B. in der Stadt, der sich
+      <lb n="12"/>wieder albern benimmt. Ich lasse ihn stehen und gehe zur Schneiderin.
+      <lb n="13"/>Später Begegnung mit Frieda P. Langes Gespräch über A. Wir möchten ihm
+      <lb n="14"/>Beide helfen. Ich habe ihm gestern einen langen Brief geschrieben, vor-
+      <lb n="15"/>geschlagen uns in einem kleinen Ort bei Salzburg anstatt in der teueren
+      <lb n="16"/>Schweiz zu treffen. Und auch diene Reisepläne seiner Familie einzu-
+      <lb n="17"/>dämmern, die von der Schweiz noch ans meer wollen. Viele viele Mil-
+      <lb n="18"/>lionen könnten erspart werden. Ich bin begierig auf die Antwort.
+      <lb n="19"/>Ich friere, es ist kalt wie im November, 10 Grad.
+      <lb n="20"/>Am Abend Harry und Karl zum Nachtmahl bei mir. Es war nett, wir spra-
+      <lb n="21"/>chen wie gute Freunde.
+      <lb n="22"/>29.7.1926. Wieder Kälte, Regen - Sehnsucht. Ich habe den Laudin ausge-
+      <lb n="23"/>lesen. Welche Begabung und wie unsympathisch, eine geniale Mache.
+      <lb n="24"/>Ich bin müde, verstimmt einwam, kann nicht arbeiten. - Ich gehe jetzt
+      <lb n="25"/>zu Tante Rosa, was mich gar nicht freut. Vormittag kurze Zeit in der
+      <lb n="26"/>Stadt gewesen, kein bekanntes Gesicht. Wien scheint ausgestorben.
+      <lb n="27"/>Ich bin doch nicht zu Tante Rosa gegangen, es hat so geregnet. Die Aende-
+      <lb n="28"/>rungen, die in Paris in meiner Else-Uebersetzung gemacht wurden, heraus-
+      <lb n="29"/>geschrieben, damit man vergleichen kann. Man merkt, dass der betreffende</seite></div></body></text></TEI>

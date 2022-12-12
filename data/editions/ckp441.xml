@@ -1,120 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp441"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 20.–21.5.1927</title>
-            <title type="alternative" when-iso="1927-05-21"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp441"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="441">
-               <lb n="01"/>Semmering,20.5.1927. Südbahnhotel.
-      <lb n="02"/>An A.S., Wien.
-      <lb n="03"/>ist war, zur Erholung für einge Tage auf dem
-      <lb n="04"/>Semmering, wo mich A. besucht hatte.
-      <lb n="05"/>Liebster,
-      <lb n="06"/>es hat vor meiner Abfahrt entschieden mehr nach Sonne ausge-
-      <lb n="07"/>sehen als eben jetzt, wo wieder dicke schwarze Regenwolken über den
-      <lb n="08"/>Bergen stehen. Ich bin ganz langsam Schritt für Schritt nach Hause ge-
-      <lb n="09"/>gangen. Es war mir doch leid um die 4 Schillinge für einen Wagen und
-      <lb n="10"/>ich hatte das Bedürfnis noch ein wenig an der Luft zu sein. Nun sitze
-      <lb n="11"/>ich in meinem Zimmer, in dem noch ein wenig von dem Duft Deiner Zigarre
-      <lb n="12"/>ist. Ich werde jetzt, ohne mich umzukleiden, hinuntergehen, denn ich bin
-      <lb n="13"/>müde und hungrig und diesen Brief will ich ohnedies erst morgen been-
-      <lb n="14"/>den und express absenden, bis ich weiss, ob ich schon morgen fahre oder
-      <lb n="15"/>noch bleibe.
-      <lb n="16"/>21.5.27.
-      <lb n="17"/>Bei Sonnenschein und blauem Himmel erwacht. So fahre ich
-      <lb n="18"/>keinesfalls heute nach Wien und alles Uebrige entscheidet Dein morgi-
-      <lb n="19"/>ger telefonischer Anruf.
-      <lb n="20"/>Ich denke so; Haft Du Zeit und Lust, dann kommst Du Mon-
-      <lb n="21"/>tag Mittag herauf und wir fahren Dienstag mit dem 17 Uhr-Zug zusammen
-      <lb n="22"/>hinunter. Du sagest ja selbst, dass Du solche Ausflüge nicht gerne auf
-      <lb n="23"/>länger ausehnet, also wozu von Dienstag auf Donnerstag? Die Frieda kann
-      <lb n="24"/>Dir dann den Montag am Mittwoch einbringen und Du versäumst auch den
-      <lb n="25"/>Donnerstag nicht. Aber bitte um Himmelswillen zwinge Dich zu gar nichts,
-      <lb n="26"/>dern damit ist niemand geholfen. Heute ist es hier sehr schön, aber ob
-      <lb n="27"/>es Dienstag auch noch schön sein wird? -Ich möchte nicht, dass Du wie-
-      <lb n="28"/>der einen Regentag erwischst. Und ist es schliesslich am Dienstag schön,
-      <lb n="29"/>so kann es auch in Wien sehr schön sein - am Abend am Sommerheidenweg -
-      <lb n="30"/>weisst Du noch? Es kommt ja nicht darauf an wo, sondern wie man zusammen
-      <lb n="31"/>ist. Ich freue mich ja sehr, wenn Du noch heraufkommst, aber ich möchte
-      <lb n="32"/>nicht noch 3½ Tage bis Dienstag Mittag allein sein. Du unterschätst
-      <lb n="33"/>glaube ich den Zustand meiner Nerven und ich brauche jetzt ein bischen
-      <lb n="34"/>Nachsicht und Schonung. Glaube mir, ich nehme mich ohnedies mehr zusam-
-      <lb n="35"/>22</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp441" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp441"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>An A.S.,Venedig.
+      <lb n="02"/>Wien, 28.4.1927.
+      <lb n="03"/>Mein Liebes,
+      <lb n="04"/>heute bin ich noch ohne Nachricht von Dir, aber ich will
+      <lb n="05"/>Dir doch noch rasch ein paar Zeilen schreiben, damit Du sie noch vor
+      <lb n="06"/>Deiner Abreise erhältst.
+      <lb n="07"/>Ich bin heute endlich aufgestanden. Diese 11 Tage, die
+      <lb n="08"/>ich jetzt zu Bett war, haben mich viel mehr hergenommen, als die ersten
+      <lb n="09"/>Anfälle. Ich sehe unbeschreiblich schlecht aus und bin ordentlich er-
+      <lb n="10"/>schrocken, als ich mich im grossen Spiegel erblickte. Ich habe noch
+      <lb n="11"/>nie so ausgesehen und hoffe nur, dass ich mich bis Sonntag ein bisl
+      <lb n="12"/>erhole, damit Du nicht gar zu entsetzt bist. Schliesslich esse ich
+      <lb n="13"/>seit einer Woche nichts als in Balzwasser gekochtes und passiertes
+      <lb n="14"/>Gemüse und fettlose Mehlspeisen. Da muss man abnehmen.
+      <lb n="15"/>Heute rief mich wieder der unvermeidliche Byk an, um mich
+      <lb n="16"/>für den 4.Mai zu einem Tee mit Gisela, Emy Sachs und Gretl Königswarter
+      <lb n="17"/>zu laden. Ich sagte ihm, dass ich bei meinem Gesundheitszustand vor-
+      <lb n="18"/>läufig nichts bestimmen könne und so verlegte er das Fest auf eine
+      <lb n="19"/>Woche später. Ich habe vorläufig und nachläufig wirklich andere Sorgen.
+      <lb n="20"/>Gestern war ich wieder den ganzen Nachmittag und Abend allein. Heute
+      <lb n="21"/>Nachmittag erwarte ich Frau Rabelbauer, mit der ich wohl zwei Stunden
+      <lb n="22"/>zu tun haben werde. Wie ungeduldig ich den Sonntag und Dich (erbeisehne,
+      <lb n="23"/>brauche ich Dir wohl nicht erst zu sagen. Ich hoffe sehr, dass Du die
+      <lb n="24"/>Wohnungsfrage in Venedig vor Deiner Abreise erledigt hast und diese
+      <lb n="25"/>Sorge los bist.
+      <lb n="26"/>Gute Fahrt, mein Lieber, und auf ein gutes Wiedersehen. Ich
+      <lb n="27"/>küsse Dich sehr.
+      <lb n="28"/>Deine C.K.
+      <lb n="29"/>21</seite></div></body></text></TEI>

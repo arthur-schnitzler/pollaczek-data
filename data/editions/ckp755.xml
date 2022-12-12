@@ -1,115 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp755"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 9. Januar 1930</title>
-            <title type="alternative" when-iso="1930-01-09"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp755"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="755">
-               <lb n="01"/>Berlin, 9.1.1930.
-      <lb n="02"/>Mein Liebes, bitte nicht missverstehen: Ich habe gesagt, dass mir die
-      <lb n="03"/>Atmosphäre (die aus fremder Stadt, fremden Klima, anderer Tageseintei-
-      <lb n="04"/>lung und einigen näher und recht viel fernen, aus gleichgiltigen und
-      <lb n="05"/>interessanten Menschen besteht) mir wohltut - keineswegs immer wohl-
-      <lb n="06"/>tun würde; - aber als Abwechslung im oberflächlichen und tieferm Sin-
-      <lb n="07"/>ne gewiss gesund für mich ist. Und nebstbei ist meine Anwesenheit
-      <lb n="08"/>hier nicht unnützlich, um nicht zu sagen notwendig- und nicht für mich
-      <lb n="09"/>allein (soweit es eben Notwendigkeiten gibt). In den letzten Tagen
-      <lb n="10"/>allerdings stellt sich wie nach etlichen Hoteltagen, in besondere im
-      <lb n="11"/>Winter in Berlin allerlei körperliches Unbehagen, insbesondere stunden-
-      <lb n="12"/>lange Kopfschmerzen ein; wohl mit der Heizung im Zusammenhang.-
-      <lb n="13"/>Einige schönebTheatervorstellungen wären zu erwähnen, ausser dem Kai-
-      <lb n="14"/>ser xxx von Amerika - Vom Teufel geholt (Hamaun) mit der Röflich.
-      <lb n="15"/>Ich sah wieder, wie wunderbar wie die Bildhauerin hätte spielen können.-
-      <lb n="16"/>Aber diesen Leuten fehlt halt die Beziehung zu mir. Weit und breit
-      <lb n="17"/>(ausser Frankfurt a.M., wo der Lepoldstädter Wiener Helmer Direktor
-      <lb n="18"/>ist] interessiert sich keine Bühne für das "Spiel". Herr Dr.Maril,
-      <lb n="19"/>unfähig wie immer, hat das Stück ohne meine Erlaubnis dem Schiller-
-      <lb n="20"/>theater angeboten (wo man es ebenso gut spielen könnte wie in einer
-      <lb n="21"/>gutomobilhalle). Ueber die Jessner-Sache und alles was damit zusam-
-      <lb n="22"/>menhängt, mündlich; an das Gastspiel Heini-Wien glaub ich noch nicht
-      <lb n="23"/>recht, da die VorschlägeBeers unrealisirbar und keineswegs vortheil-
-      <lb n="24"/>haft scheinen. - K[ein ist noch in Arosa; - selbstversändlich besteht
-      <lb n="25"/>keinerlei Grund für mich ihn abzuwarten. Hingegen soll ich hier eine
-      <lb n="26"/>Phonogrammplatte sprechen,ich erwarte den Besuch des betreffenden
-      <lb n="27"/>Herrn. (Aehnlich wie die Thomas Mann-Platte, die durch Radio verbrei-
-      <lb n="28"/>tet wurde).
-      <lb n="29"/>Zwei Tonfilme, die ich hier sah, fand ich gleichermassen unerträglich.
-      <lb n="30"/>- Ein Interview, sowie eine Zeichnung (fürs Berliner Tagblatt) hab ich</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp755" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp755"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Wien, 7.1.1930.
+      <lb n="02"/>An A.S., Berlin.
+      <lb n="03"/>Liebster,
+      <lb n="04"/>auf Deine Zeilen vom 6. kann ich nur wenig erwidern. Es
+      <lb n="05"/>bedarf wahrlich keiner Rechtfertigung oder Entschuldigung, dass Du
+      <lb n="06"/>länger ausbleibst, als ich mir dummer Weise eingeredet habe. Es wäre
+      <lb n="07"/>der grösste Fehler auch nur einen Tag kürzer in Berlin zu sein, als
+      <lb n="08"/>es Dir Bedürfnis ist. Niemandem wäre damit geholfen.
+      <lb n="09"/>Alles spricht dafür einen Aufenthalt auszudehnen, der
+      <lb n="10"/>Dir Freude, Belebung und jene Atmosphäre zu begeben vermag, die Du nötig
+      <lb n="11"/>hast, Dir wohl tut und Dir hier so offensichtlich fehlt.
+      <lb n="12"/>Auch hier ist meist frühlingshaftes Wetter. Immerhin ein
+      <lb n="13"/>Gewinn. Meinen Expressbrief vom 4. hast Du wohl erhalten, wenn Du
+      <lb n="14"/>ihn auch nicht erwähnst, - Hauptsache ist, dass Du Dich endlich erholt
+      <lb n="15"/>fühlst. Ich freue mich sehr darüber und wünsche Dir vom Herzen alles
+      <lb n="16"/>Gute und Schöne.
+      <lb n="17"/>Entschuldige, dass ich am Telefon letzthin etwas gereizt
+      <lb n="18"/>war. Meine Stimmung war durch mancherlei vorbereitet das breit zu
+      <lb n="19"/>treten sich nicht verlohnt.
+      <lb n="20"/>Es umarmt Dich Deine
+      <lb n="21"/>Cl.K.</seite></div></body></text></TEI>

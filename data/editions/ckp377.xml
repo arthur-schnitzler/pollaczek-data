@@ -1,119 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp377"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 10. August 1926</title>
-            <title type="alternative" when-iso="1926-08-10"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp377"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="377">
-               <lb n="01"/>Zürich, 10.8.26.
-      <lb n="02"/>Baur au Lac.
-      <lb n="03"/>An A.S. Adelboden.
-      <lb n="04"/>Mein Liebes, guten Morgen - ich kann nicht sagen, dass ich Dir jetzt
-      <lb n="05"/>näher bin, denn ich war Dir diese ganze Zeit sehr sehr nahe. Aber
-      <lb n="06"/>es ist ein gutes Gefühl räumlich nicht mehr so getrennt zu sein.
-      <lb n="07"/>heute ertönte das Telefon und ich habe Deine liebe Stimme gehört.
-      <lb n="08"/>Schade, dass Du mich so schlecht verstanden hast, aber das Wesentlichste
-      <lb n="09"/>weisst Du nun doch und alles Uebrige erzähle ich bald mündlich. Ich
-      <lb n="10"/>bin so froh, dass wir uns bald sehen und ich hoffe, es wird eine schöne
-      <lb n="11"/>und glückliche Zeit.
-      <lb n="12"/>Die Fahrt hieher war sehr unangenehm. Der Zug durch einen
-      <lb n="13"/>Transport amerikanischer Juden, die aus Warschau stammten (der ganze
-      <lb n="14"/>Waggon kam aus Warschau) übervoll und die ganze Nacht zu Sechst im
-      <lb n="15"/>Coupé. Dafür hier ein entzückendes Zimmer mit eigenem Waschraum, Te-
-      <lb n="16"/>lefon, alle Signale, Türschliesser und Turöffner beim Bett für 12 frcs.
-      <lb n="17"/>glich. Natürlich eine Protektionssache. Die P.'s lieb,amüsant, ein
-      <lb n="18"/>bischen dumm und sehr erholend. Und ich hatte Erholung nach den letz-
-      <lb n="19"/>ten Tagen sehr nötig. Und so hoffe ich in leidlich äusserer Verfas-
-      <lb n="20"/>sung zu Dir zu stossen. Gestern nach meiner Ankunft nur das Notwen-
-      <lb n="21"/>digste ausgepackt, getratscht, gelacht, Toilette gemacht, durch die
-      <lb n="22"/>et de
-      <lb n="23"/>Stadt gebummelt. Bei Hughenin geluncht. Ausgezeichnet. Dann geruht,
-      <lb n="24"/>um 4 Uhr herrliche Autofahrt über den Alois nach Luzern, nur etwas
-      <lb n="25"/>kühl. Heim Luzerner Hughenin die Jause genommen. Luzern ist tausend-
-      <lb n="26"/>mal schöner als Zürich und machte mir wieder, wie vor zwei Jahren ei-
-      <lb n="27"/>nen grossen Eindruck. Wundervolle Heimfahrt über den Zugersee und
-      <lb n="28"/>Talville. Um 29 zuhause. Wir hatten uns schon Nachmittag Schinken
-      <lb n="29"/>und Obst besorgt und nachtmahlten im Zimmer, um zu sparen, weil wir
-      <lb n="30"/>doch schon bei zwei Hughenins an dem Tag waren und hier im Haus ist
-      <lb n="31"/>das Essen noch teuerer. Wir wollen immer eine verschwenderische und
-      <lb n="32"/>eine einfache Mahlzeit nehmen. Wie ich Dir sagte, wollen die P.'s
-      <lb n="33"/>noch nicht von hier fort und mir ist es sehr recht, umsomehr, da ich
-      <lb n="34"/> Vogel</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp377" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp377"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>7.8.1926. Bl.2.
+      <lb n="02"/>hoffentlich genützt haben. Mit dem Gedränge ist es ja heuer auf den
+      <lb n="03"/>Bahnen gar nicht arg. Ich freue mich sehr, sehr sehr auf Dich - und
+      <lb n="04"/>wenn ich nicht so raffiniert wär, so könnt ich auf Deine Bemerkung,
+      <lb n="05"/>dass ich Dieh nur spüren werde, wenn ich Dich spären will, einiges
+      <lb n="06"/>höchst anzügliches erwiedern (wenn der Ausdruck in diesem Zusammen-
+      <lb n="07"/>hang nicht höchst unangebracht wäre).
+      <lb n="08"/>Und somit sog ich nur - auf ein gutes Wiedersehen und aus ein köst-
+      <lb n="09"/>liches Wiederspüren und küsse Dich innigst.
+      <lb n="10"/>Dein
+      <lb n="11"/>A.
+      <lb n="12"/>- - - —
+      <lb n="13"/>33</seite></div></body></text></TEI>

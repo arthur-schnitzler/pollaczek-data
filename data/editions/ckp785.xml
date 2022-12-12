@@ -1,113 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp785"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Tagebuch von Clara Katharina Pollaczek, 10.–14. Juli 1930</title>
-            <title type="alternative" when-iso="1930-07-10"/>
-            <title type="alternative" when-iso="1930-07-11"/>
-            <title type="alternative" when-iso="1930-07-12"/>
-            <title type="alternative" when-iso="1930-07-13"/>
-            <title type="alternative" when-iso="1930-07-14"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp785"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="785">
-               <lb n="01"/>Erstes Glas Schlossbrunnen. Dann wieder schweres Depression. Ich
-      <lb n="02"/>eile nach Hause, Tränen stürzen mir aus den Augen. Ich sehe jede
-      <lb n="03"/>Ader an meinem Hals klopfen.
-      <lb n="04"/>11.7. Brief von A. Findet, dass ich mit allem, was ich ihm über "Zug
-      <lb n="05"/>der Schatten" schrieb Recht habe und lobt die "Corday". Freue mich
-      <lb n="06"/>über die Anerkennung, aber ein zärtliches Wort wäre mir lieber. Mit
-      <lb n="07"/>Baronin Guttmann bei einem langweiligen Goethe-Vortrag.
-      <lb n="08"/>12.7. Anruf A. Kein gutes Gespräch. Er fährt Mittwoch mit Heini nach
-      <lb n="09"/>St. Moritz, wird Dienstag nochmals anrufen. Fragt mich, was ich nach
-      <lb n="10"/>Karlsbad tue. Er sol nicht glauben, dass ich da sitzen werde und
-      <lb n="11"/>warten, bis er mir gnädig winkt. Mir ist sehr elend zumut.
-      <lb n="12"/>Nachmittag mit Siegfried Trebitsch. Oeder, unsympathischer Mensch.
-      <lb n="13"/>Später bei Brugnen Aslan begegnet. Er ist sehr schön. Ich sehe ihn
-      <lb n="14"/>in meinem Stück als Barbara.
-      <lb n="15"/>13.7. Immer finsterer wird es in mir, immer mehr fühle ich, dass nichts
-      <lb n="16"/>mehr zu retten ist. Wenn nicht der Gedanke an meine Kinder, an Cary
-      <lb n="17"/>wäre, wer weiss, wohin ich gleiten würde.-
-      <lb n="18"/>Ich komme mit Menschen zusammen, die mich anöden, nur weil ich mich
-      <lb n="19"/>vor dem Alleinsein fürchte.
-      <lb n="20"/>14.7. Frieda schreibt: "Sie haben es bestimmt schwer, ich spüre alles,
-      <lb n="21"/>was Sie empfinden müssen - leider haben Sie davon herzlich wenig.“
-      <lb n="22"/>Ich bin gestern den ganzen Nachmittag mit Weinkrämpfen im Bett gele-
-      <lb n="23"/>gen. Heute mit Baron Guttman dejeuniert. War froh, als ich wieder in
-      <lb n="24"/>meinem Zimmer war.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp785" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp785"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Jägerhaus, Freundschaftshöhe.
+      <lb n="02"/>Montag. Müdigkeit, Herzbeschwerden, Einsamkeit. Beginne die "Corday"
+      <lb n="03"/>durchzulesen. Der Fremde spricht mit ungarischem Akzent (sieht
+      <lb n="04"/>nicht Übel aus).
+      <lb n="05"/>Diendtag. Beim Brunnen mit Baron Guttmann zusammen getroffen und
+      <lb n="06"/>während ich mit ihnen spreche Siegfried Trebitsch dazu gekommen.
+      <lb n="07"/>Ich soll ihn (den Fremden) am Abend treffen. Warum nicht?
+      <lb n="08"/>9 Uhr Abend. Sein Auto wartete an der Ecke. Ich sollte einsteigen.
+      <lb n="09"/>Lief nach den ersten 3 Worten davon. Kann nicht. Es war das erste
+      <lb n="10"/>Mal im Leben, dass ich mich ansprechen liess -
+      <lb n="11"/>Um 9 Uhr Anruf A. Etwas besseres Gespräch. Um 1/4 7 Maler Klier in
+      <lb n="12"/>2 x. XXX
+      <lb n="13"/>der Ausstellung getroffen. Vielleicht schreibe ich wirklich ein paar
+      <lb n="14"/>Zeilen über die Ausstellung. Eben 9 Uhr Abend Anruf Baron Guttmanns,
+      <lb n="15"/>will mir morgen Abend mit Gattin zur Spazierfahrt abholen. (Der Frem-
+      <lb n="16"/>de grüsst nicht mehr, ich bin froh.)
+      <lb n="17"/>Geburtstag meiner Mutter, ich bin in Gedanken an ihrem Grab. Befinden
+      <lb n="18"/>gar nicht gut.
+      <lb n="19"/>Nachmittag Ausfahrt mit Baron Guttmann und Gattin. Sehr schöne Fahrt
+      <lb n="20"/>über Hans Heilling, Ellbogen, wo Goethe mit Familie von Lewetzow war.
+      <lb n="21"/>Und dann über Semmering (erinnennt ein wenig an unseren Semmering)
+      <lb n="22"/>zurück.
+      <lb n="23"/>Am Abend Arzt bei mir, behauptet wekter, mein Befinden nur Wirkung der
+      <lb n="24"/>Kur.
+      <lb n="25"/>10.7. Fühle mich heute etwas wohler. Bin neugierig, wann A. über das
+      <lb n="26"/>"Nachher" schreiben wird.
+      <lb n="27"/>Nachmittag Imperial, five o'clock-tea. Wurzerei, auf die ich nicht vor-
+      <lb n="28"/>bereitet war. 33 CK. für einen Kakao und Zwieback.</seite></div></body></text></TEI>

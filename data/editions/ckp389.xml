@@ -1,113 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp389"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 7. September 1926</title>
-            <title type="alternative" when-iso="1926-09-07"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp389"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="389">
-               <lb n="01"/>Salzburg, 7.9.1926.Hotel Bristol.
-      <lb n="02"/>An A.S. nach Luzern.
-      <lb n="03"/>(Nach unserer gemeinsamen Reise Bern-Zermatt-Interlaken-Luzern)
-      <lb n="04"/>Mein Liebes, guten Morgen. Ich habe passabel geschlafen und bereits
-      <lb n="05"/>gefrünstückt. Die Fahrt gestern ist ziemlich glatt verlaufen bis auf
-      <lb n="06"/>die Unannehmlichkeit, dass die elektrische Beleuchtung des Zuges ver-
-      <lb n="07"/>sagte, man vo. 7-9 im Finstern sass und von da an bei einer Notbeleuch-
-      <lb n="08"/>tung, die aus rauchenden, flackernden und schlecht riechenden Kerzen
-      <lb n="09"/>bestand. Ich nahm mir wieder vor nie allein zu reisen. Lach nicht!
-      <lb n="10"/>bis bux war ich allein im Coupe, von da bis Innsbruck mit
-      <lb n="11"/>5 mässigen Schweizer Damen, die sehr laut waren. In Innsbruck stieg
-      <lb n="12"/>ein sehr gut aussehender Herr, Mitte Vierzig, ein, der gleich mit mir
-      <lb n="13"/>zu sprechen anfing und mir, soweit es meine kühle Zurückhaltung zu-
-      <lb n="14"/>liess, den Hof machte. Er bedauerte sehr, dass ich nicht nach Wien fuhr
-      <lb n="15"/>und bat mich um die Erlaubnis mich in Wien grüssen zu dürfen. Er kam
-      <lb n="16"/>aus Paris, St. Malo, Dinar, ist ein Tiroler, lebt in Innsbruck. Mxx Mich
-      <lb n="17"/>amüsierte die Sache nur vom Standpunkt der Konstatierung, dass ich
-      <lb n="18"/>noch immer ein wenig zu wirken vernag, "si je voulais". Auer ich will
-      <lb n="19"/>ja gar nichts anderes als dass Du mich liebst. Ich kann Dir nicht sa-
-      <lb n="20"/>gen, wie weh es mir tat, als Du gestern am Perron immer ferner und ferner
-      <lb n="21"/>wurdest und schliesslich verschwandert. Und doch weiss auch ich, dass
-      <lb n="22"/>diese kurzen Trennungen für jede, nicht nur für unsere Liebe gut sind.
-      <lb n="23"/>Man bringt sich immer wieder etwas neues mit. Morgen schreibe ich eine
-      <lb n="24"/>Karte und mehr, sobald ich Nachricht habe. Ich sage Dir noch tausend
-      <lb n="25"/>Dank für alles alles, auch wenn Du es nicht hören magst und küsse Dich.
-      <lb n="26"/>Deine
-      <lb n="27"/>C.K.
-      <lb n="28"/>358</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp389" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp389"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Luzern, 6. September1926
+      <lb n="02"/>(nach Alt-Aussee,Seewirth).
+      <lb n="03"/>Liebste, von der Bahn auf die Post: nichts von Fischer; - hingegen
+      <lb n="04"/>von dem Dramaturgen Barnowskys Mittheilung, dass sie absolut keine
+      <lb n="05"/>Besetzung für die Komödie der Verführung haben, dagegen "hoffen",
+      <lb n="06"/>die Schwestern mit Comtesse Mizi herausbringen zu können. So fängt
+      <lb n="07"/>die Saison an.
+      <lb n="08"/>Dann ein dreistündiger Spaziergang auf die Höhen von Luzern mit et-
+      <lb n="09"/>lichen Verirrungen unter schönem Spätsommerhimmel in gesegneter
+      <lb n="10"/>Landschaft. Hierauf "Hougenin"; als einziger Gast.-
+      <lb n="11"/>Aus Italien noch nichts.-
+      <lb n="12"/>Frau von Kl.: nach dem 10. könnte ich kommen. Ich lasse mir noch
+      <lb n="13"/>einmal Post nachschicken, die ich Freitag erhalte.
+      <lb n="14"/>Ich hoffe, Du hast die Fährlichkeiten und Beschwerlichkerten der
+      <lb n="15"/>grossen Reise gut überstanden und denkst der verflossenen dreiund-
+      <lb n="16"/>zwanzig Tage mit einem so schönen Nachgefühl wie
+      <lb n="17"/>Dein Dich zärtlich umarmender
+      <lb n="18"/>Arthur.
+      <lb n="19"/>Ich habe sechs Perlmutterknöpfe gekauft - und sofort wieder
+      <lb n="20"/>spurlos verloren.
+      <lb n="21"/>- - — —
+      <lb n="22"/>34</seite></div></body></text></TEI>

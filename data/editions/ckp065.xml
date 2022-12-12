@@ -1,105 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp065"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 19. Mai 1923</title>
-            <title type="alternative" when-iso="1923-05-19"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp065"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="65">
-               <lb n="01"/>Wien, 19.5.1923.
-      <lb n="02"/>Gestern erhielt ich Ihre Karte mit dem geänderten Reiseprogramm
-      <lb n="03"/>vom 16. Ich habe es mühsam entziffert, freue mich sehr über 
-      <lb n="04"/>Ihre Erfolge und hoffe, dass Sie in guter Stimmung heimkommen. Müssen
-      <lb n="05"/>Sie aber so lange in Berlin bleiben? Ich wollte eigentlich am 27. nach
-      <lb n="06"/>Gösing fahren, wenn Sonne und Wärme mich dahinlocken. Vorläufig ist
-      <lb n="07"/>es allerdings recht kalt und ich friere sehr. Man sollte vom Frühling,
-      <lb n="08"/>von den Dichtern und überhaupt nie zu viel erwa<supplied>r</supplied>ten, man ist dann immer
-      <lb n="09"/>irgendwie enttäuscht und ernüchtert.
-      <lb n="10"/>Meine Expresskarte vom 16. haben Sie wohl vorgefunden? Ich
-      <lb n="11"/>dachte sie mir damals als die letzte dieser seltsamen Korrespondenz, da
-      <lb n="12"/>ich Sie zu Pfingsten in Wien glaubte. Nun wird wohl diese den Abschluss
-      <lb n="13"/>bilden.
-      <lb n="14"/>Heute Abend habe ich Gäste. Das Vergnügungsprogramm für die
-      <lb n="15"/>Feiertage ist noch nicht feststehend, hängt nach vom Wetter ab. Ich re
-      <lb n="16"/>feriere dann mündlich. Ich hoffe noch Genaueres über Ihre Ankunft hier
-      <lb n="17"/>zu hören, der ich mit einiger Spannung u.s.w. entgegensehe.– Ich grüsse
-      <lb n="18"/>Sie herzlich und sage auf Wiedersehen.
-      <lb n="19"/>Ihre
-      <lb n="20"/>Clara Katharina P.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp065" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp065"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Kopenhagen 16.5.1923.
+      <lb n="02"/>Liebe, verehrte gnädige Frau, tausend Dank für die schöne illustrierte
+      <lb n="03"/>Karte, die eben ankam und die lieben Wünsche. Heute Abend fahre ich
+      <lb n="04"/>nach Stockholm; es kam eine dringende Einladung zu einer Vorlesung,
+      <lb n="05"/>eine zu einer Aufführung der »Liebelei« am königlichen Theater, erstere
+      <lb n="06"/>am 18., letztere am 22. Am 23. will ich nach Berlin, am 27. nach Wien
+      <lb n="07"/>fahren. In St. bin ich zu einem mir unbekannten Direktor Singer ge¬
+      <lb n="08"/>laden. Eventuell kommt dort eine Vorlesung in Upsala dazu. Hier war
+      <lb n="09"/>der Erfolg sehr gross. Auch gestern Abend im Königlichen Theater »Die
+      <lb n="10"/>grosse Szene«. (Blumen, als wär ich ein Tenor oder wenigstens ein Ba¬
+      <lb n="11"/>riton). Das Wetter leider konstant unfreundlich. Wollen Sie mir eine
+      <lb n="12"/>Nachricht nach Berlin senden (Dr. Michaelis, Hohenzollernstr. 96, Berlin-¬
+      <lb n="13"/>Dahlem), geschlossen, so dass ich sie bei meiner Ankunft dort vorfinde,
+      <lb n="14"/>so würden Sie mich sehr sehr erfreuen und im übrigen ist es auch hier
+      <lb n="15"/>eine ziemlich gehetzte Existanz, aber in einer milderen Atmosphäre.
+      <lb n="16"/>Alles chronologische spar ich mir auf mündliche Unterhaltung auf.
+      <lb n="17"/>Seien Sie vielmals und aufs Herzlichste gegrüsst! Sie hören noch et¬
+      <lb n="18"/>liche Mal von mir. Ihr A.S.
+      <lb n="19"/>- - - - - -
+      <lb n="20"/>Stockholm,19.5.1923.
+      <lb n="21"/>Meine liebe verehrte gnädige Frau, gestern bin ich hier angekommen,
+      <lb n="22"/>habe eine Verfilmung und ein halb Dutzend Interviews hinter mir
+      <lb n="23"/>(Reclam-Journalismus haben hier amerikanische Dimensionen); wohne an¬
+      <lb n="24"/>genehm bei einem aus Berlin gebürtigen Stockholmer, bin von der Stadt
+      <lb n="25"/>wieder entzückt – aberes ist fast winterlich kalt. Die Bäume fangen
+      <lb n="26"/>eben erst zu grünen an. Heute Vorlesung: am 22. Liebelei, am Donnerstag
+      <lb n="27"/>hoff ich in Berlin u. wenige Tage drauf in Wien zu sein. Seien Sie von
+      <lb n="28"/>Herzen gegrüsst! Ihr A.S.</seite></div></body></text></TEI>

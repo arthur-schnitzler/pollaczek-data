@@ -1,101 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp397"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 25. Dezember 1926</title>
-            <title type="alternative" when-iso="1926-12-25"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp397"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="397">
-               <lb n="01"/>25.12.1926. Bl.2.
-      <lb n="02"/>Tschechow, worin Heini in einer kleinen Rolle ausgesprochenen Erfolg
-      <lb n="03"/>hatte. Für morgen Mittag bin ich mit Heini zu Fischers geladen.-
-      <lb n="04"/>Abend "Lulu" xxx (Heini: Hugenberg). -
-      <lb n="05"/>Montag beginnen die "Geschäfte".
-      <lb n="06"/>Heute Nacht ein sehr charakteristischer Traum von Lili; sie hatte
-      <lb n="07"/>allein eine gefährliche Bergpartie Semmering unternommen; - ich bin
-      <lb n="08"/>überzeugt, es geht schlimm aus. Da kommt ein Telegramm, dass sie
-      <lb n="09"/>glücklich zurück ist - und in einem nicht klaren Zusammenhang
-      <lb n="10"/>figurirt eine Filmgesellschaft Ufa oder Afa in der Depesche.-
-      <lb n="11"/>- Lebwohl mein Liebes, ich bin mit allen zärtlichen Gedanken bei
-      <lb n="12"/>Dir und küsse Dich innig.
-      <lb n="13"/>Dein
-      <lb n="14"/>A
-      <lb n="15"/>- - - -
-      <lb n="16"/>358</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp397" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp397"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Berlin, 25.12.1926.
+      <lb n="02"/>Hotel Esplanade.
+      <lb n="03"/>nach Wien)
+      <lb n="04"/>Mein Liebes, Berlin selbst nicht - aber solch ein Esplanadenhotel-
+      <lb n="05"/>zimmer kann mit der Zeit, auch wenn es immer ein anderes ist, eine
+      <lb n="06"/>Art Heimat werden - und so täuschen Wiederholungen einer Situa-
+      <lb n="07"/>tion innerhalb der gleichen oder ähnlichen Decoration ein "Zu
+      <lb n="08"/>Hause" vor, das wahrscheinlich immer ein Suggestiveffekt und keine
+      <lb n="09"/>Realität ist. Immerhin - es ist wieder sehr behaglich hier und
+      <lb n="10"/>ich habe fast sieben Stunden in einem Zug (gestern gleichfalls in
+      <lb n="11"/>einem Zug), aber nicht in einem Z ug) geschlafen. Die Reise war im
+      <lb n="12"/>übrigen erträglich; Eintreffen in Berlin erfolgte mit fast zwei-
+      <lb n="13"/>stündiger Verspätung. Heller kalter Wintertag, Heini an der Bahn -
+      <lb n="14"/>er liess mich bald allein; - auspacken,ruhn, telefoniren -Heini
+      <lb n="15"/>kam zurück; wir essen miteinander. Wir haben begreiflicherweise
+      <lb n="16"/>viel einander zu erzählen, wobei wir uns begreiflicherweise eines
+      <lb n="17"/>Sinnes finden. - Von Dora wie üblich Blumen und Obst; dazu ein
+      <lb n="18"/>Buch - Ewiges Antlitz - eine Sammlung von Totenmasken -
+      <lb n="19"/>ein erläuternder Text (den Tod zu erlautern!),das gleiche Buch
+      <lb n="20"/>von Heini: - ich lehne bei de ab und lasse mir was lebendigeres
+      <lb n="21"/>schenken. - Um vier begab ich mich auf die Strasse undbummle al-
+      <lb n="22"/>lein fast zwei Stunden durch die "weihnachtlich belebten" Stras-
+      <lb n="23"/>sen.-Nach Hause; recht müde, lese; um 8 Heini, mit ihm in der Es-
+      <lb n="24"/>planade-Bar genachtmahlt; er geht um all,ich bleibe (trotz Ein-
+      <lb n="25"/>ladung von Lucy und von Dora) allein zu Hause; - bade, sinke ins
+      <lb n="26"/>Bett und schlafe ohne Lektüre und Pyramidon sofort ein. Aufge-
+      <lb n="27"/>wacht mit etwas Kopfschmerzen. Telefonische Gespräche Heini, Paul,
+      <lb n="28"/>Braun (Marionettentheater). Koarer Wintertag. Programm:
+      <lb n="29"/>Zum Theil zu Fuss nach Grunewald zu Dora. Mittagessen im Hotel
+      <lb n="30"/>mit Heini, Paul Marx; Nachmittag Arbeit; Abends Sie Schwestern von
+      <lb n="31"/>355</seite></div></body></text></TEI>

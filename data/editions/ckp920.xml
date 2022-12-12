@@ -1,119 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp920"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Tagebuch von Clara Katharina Pollaczek, 6.–9. Juni 1931</title>
-            <title type="alternative" when-iso="1931-06-06"/>
-            <title type="alternative" when-iso="1931-06-07"/>
-            <title type="alternative" when-iso="1931-06-08"/>
-            <title type="alternative" when-iso="1931-06-09"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp920"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="920">
-               <lb n="01"/>forcierte Liebennwürdigkeit. Später während Heini Klavier spielte wurde
-      <lb n="02"/>mir plötzlich vom Herzen ausgehend sehr schlecht, hatte das Gefühl vom
-      <lb n="03"/>Sessel zu fallen und furchtbare Herzklopfen. Minna brachte mir Wasser
-      <lb n="04"/>und begleitete mich nachhause.
-      <lb n="05"/>Heute Vormittag am Friedhof. Sterbetag meines Vaters. Dann im Spital
-      <lb n="06"/>Else besuchen. Diffuse Bronchitis, aber man weiss noch nicht, was dahinter
-      <lb n="07"/>steckt. Sprach auch Carry. - Am Abend kwar mit Bassermann und Heini
-      <lb n="08"/>als Naar.
-      <lb n="09"/>7.6. Gestriger Abend für Heini glaub ich sehr günstig. A. gegen mich von
-      <lb n="10"/>unmeichreiblicher Kälte und Gleichgältigkeit. Claumer im Haum, die mich
-      <lb n="11"/>sehr kurz und spitz grüsste (Ferry Donath sagte," das war kein Gruss, son-
-      <lb n="12"/>dern ein Nickerchen"). Sie sah elend aus. Nachher mit Donaths (die mit uns
-      <lb n="13"/>in der Loge waren) und Familie Julius S. in Imperial. Ich sprach recht
-      <lb n="14"/>viel.
-      <lb n="15"/>8.6. Gestern Mittag bei A. mit Heini und dem alten Schwarzkopf. Es war
-      <lb n="16"/>nicht mehr heiter, trotzdem ich sehr gesprächig war. Abend mit A. im Kino.
-      <lb n="17"/>"Der General" mit Veidt und Tachechowa. Recht guter Film. Nachher im Hof
-      <lb n="18"/>vom Deutschen Haus gemachtmahlt und zum Schluss wieder Pathephonkonzert.
-      <lb n="19"/>Auf der Heimfahrt bekam ich einen Weinkrampf, den A. einfach ignorierte.
-      <lb n="20"/>Diese Abende machen mich krank. Unaufrichtigkeit, Lüge, Kälte zwischen uns.
-      <lb n="21"/>Heute Abend will er zu Hagenbeck gehen, obwohl ich ihm direkt sagte, es
-      <lb n="22"/>hätte nur einen Sinn, wenn er Wert darauf legt. Ich brauche diese Abende
-      <lb n="23"/>nicht mehr.
-      <lb n="24"/>Nach Tisch recht rasch abklingende Gallenschmerzen, die ich durch Papeverin
-      <lb n="25"/>koupierte. Harrys Plan nach Südamerika zu geben gewinnt festere Formen -.
-      <lb n="26"/>9.6. Gestern Hagenbeck-Voratellung. Gut aber zu lang, besonders, da ich
-      <lb n="27"/>mich nicht sehr wohl fühlte und sehr fror. Das Wetter seit Tagen unsicher,
-      <lb n="28"/>regnerisch.
-      <lb n="29"/>Heute Einladung von Frau Glauser für Donnerstag Abend. Ich habe mein
-      <lb n="30"/>Kommen von meinem Befinden abhängig gemacht.
-      <lb n="31"/>184</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp920" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp920"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Gott, schicke
+      <lb n="02"/>- Ach, mir ist übel, Übel. Ich muss mit Carn
+      <lb n="03"/>mir eine Erleuchtung.
+      <lb n="04"/>3.6. Anruf A. in der Früh. Die Gesellschaft hätte, da das Wetter so schlecht
+      <lb n="05"/>war, bei ihm genachtmahlt. Ich antwortete, es sei nie etwas anderes bestimmt
+      <lb n="06"/>gewesen, da man schon um 10 Uhr Früh, während er mir von der Ueberhandfahrt
+      <lb n="07"/>erzählte, die Krebse für den Abend abgesotten hat. "Ich finde diese Unwahr-
+      <lb n="08"/>heiten deiner und meiner mehr als unwürdig, aber ich gedenke nicht mehr über
+      <lb n="09"/>das ganze Vorgehen zu sprechen". Dann belanglose Konversation.
+      <lb n="10"/>Gott, wenn der Mann gesund wäre wünste ich, was ich zu tun hätte. So aber bin
+      <lb n="11"/>ich machtlos.
+      <lb n="12"/>Abend mit Beer-Hofmann von trostloser Langweile, die durch A.'s ganzes We-
+      <lb n="13"/>sen veranlasst. Er gähnte laut. Ich lade nicht mehr ein.
+      <lb n="14"/>4.6. A. entschuldigte sich heute Früh wegen seines gestrigen Benehmens
+      <lb n="15"/>mit seinen besonderen Unbehagen. Ichbrief wieder Dr.D. an, der ihn übri-
+      <lb n="16"/>gene gestern untersucht hat und ihn angeblich besser findet. Er A. holte
+      <lb n="17"/>mich um ½12 trotz trüben Wetters, da er abends wieder nicht frei ist. Angeb-
+      <lb n="18"/>lich Collegen von Heini zum Nachtmahl. Wir fuhren auf den Cohenzl und
+      <lb n="19"/>gingen zu Fuss herunter. Er frug nicht einmal, was ich heute noch tue (Frohn-
+      <lb n="20"/>leichnam). Konversation über Theater. - Ich lag fast den ganzen Nachmittag
+      <lb n="21"/>am Divan. Wieder ein Tag um. Es wird doch nicht mehr lang so weiter gehen.
+      <lb n="22"/>5.6. Gestern sehr einzum. Else erkrankt. Musste wie unter grossen Schwie-
+      <lb n="23"/>rigkeiten im Wiedner Krankenhaus unterbringen. Nur durch Carry möglich
+      <lb n="24"/>gewesen (Diffuse Bronchitis). Jetzt bin ich ganz allein.
+      <lb n="25"/>A. erzählte mir heute Früh telefonisch, es sei gestern "ein lustiges Völk-
+      <lb n="26"/>chen" bei ihm gewesen, Schauspieler und Schauspielelinnen. Er war bis gege
+      <lb n="27"/>1 Uhr auf, der müde alte Mann!! Ich traf A. später in der Stadt
+      <lb n="28"/>fällig am Kohlmarkt. Ich soll Abend bei ihn essen. Wir begegneten
+      <lb n="29"/>Siegfried Trebitach.
+      <lb n="30"/>6.6. Gestern Abend bei A. Nur Heini anwesend. Forcierte Gespräche und
+      <lb n="31"/>183</seite></div></body></text></TEI>

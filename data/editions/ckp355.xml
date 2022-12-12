@@ -1,121 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp355"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 1. August 1926</title>
-            <title type="alternative" when-iso="1926-08-01"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp355"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="355">
-               <lb n="01"/>An A.S.Adelboden.
-      <lb n="02"/>Wien, 1. August1926.
-      <lb n="03"/>Mein Liebes, ich bin eben aus dem Schlaf erwacht und habe mir das Fin-
-      <lb n="04"/>tenfass ans Bett ogeholt, um rasch Deinen sehr lieben Expressbrief Nr. 2 zu
-      <lb n="05"/>beantworten, den ich gestern Abend nach einem Besuch bei der alten blinden
-      <lb n="06"/>Tante Rosa um 8 Uhr Abend vorfand. Das "sehr lieb" bezieht sich besonders
-      <lb n="07"/>auf die letzte Selte, für die Du einen besonders lieben Kuss bekommst.-Mit
-      <lb n="08"/>Dem Reiseprogramm kann ich nicht ganz einverstanden sein. Ich habe Dir
-      <lb n="09"/>schon schrecklich oft gesagt, dass Carly und Magda frühestens am 1.Sept. in
-      <lb n="10"/>Aussee am Abend ankommen, ich daher frühestens am 2. Sept. dort sein will, da ich
-      <lb n="11"/>sie sicher in den ersten Tagen des Wiedersehens, ebenso wie die Familie W.
-      <lb n="12"/>eher stören als erfreuen würde. Aber selbst wenn ich schon am 2.Sept. dort xxx
-      <lb n="13"/>eintreffe, könnte ich Dich erst, - wenn Du mich nach Aussee noch treffen willst,
-      <lb n="14"/>erst am 6.9. wo wiedersehen. Du wirst doch zugeben, dass es absolut sinnlos ist.
-      <lb n="15"/>dass ich eine grosse Reise in die Schweiz mache, um zwischen 8.8. und 6.9.nur
-      <lb n="16"/>diese paar Tage mit Dir zu sein, nicht zu wissen, was ich vom 25. - 2.9. mit mir
-      <lb n="17"/>and
-      <lb n="18"/>anfangen soll, xxx Dich erst am 6.9. in Oesterreich wiederzusehen. Wenn
-      <lb n="19"/>wir uns am 25. treffen, so bleibe ich gerne (gerne ist übertrieben) 4-5 Tage
-      <lb n="20"/>wir
-      <lb n="21"/>allein, wenn uns dann in der Schweiz oder nahe der Grenze wieder treffen. Wir
-      <lb n="22"/>bleiben zusammen, so lange es Dir passt und wenn Du dann nach Oesterreich
-      <lb n="23"/>fährst, zweige ich irgendwo nach Aussee ab, wo ich 3 Tage oca bleibe. Fährzt
-      <lb n="24"/>Du dann schon nach Wien, so fahre ich von Aussee aus direkt nach wien, bleibst
-      <lb n="25"/>Du noch in der Umgebung, so können wir uns ja nach Aussee ein drittes Mal
-      <lb n="26"/>auf zwei Tage zusammenfinden. Es wäre eine Art Hochzeitsreise auf Raten und
-      <lb n="27"/>Du könntest immer dazwischen in Einsamkeit schwelgen. Du musst doch zugeben,
-      <lb n="28"/>dass mein Plan viel vernünftiger und netter ist und eigentlich hattest Du
-      <lb n="29"/>ihn auch vor Deiner Abreise so geäussert Bitte, bitte sage, dass Du einver-
-      <lb n="30"/>standen bist, es kann so wunderschön werden.
-      <lb n="31"/>Was Du von Deinen Arbeiten sagst, verstehe ich auch nicht ganz, wenn Du es
-      <lb n="32"/>auch naiv nennet und meine persönlichen Erfahrungen lassen sich mit den Dei-
-      <lb n="33"/>gernis
-      <lb n="34"/>nen nicht vergleichen. Ich fange an und fange kaum an in Wien bekannt zu wer-
-      <lb n="35"/>den und Du hast den Weltruhm für Dich. Wenn Du heute an die Vossische schreibt
-      <lb n="36"/>314</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp355" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp355"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>de
+      <lb n="02"/>31.7.26.
+      <lb n="03"/>Eben Deine Karte von 20. Der angekündigte Brief hoffentlich am Nachmit-
+      <lb n="04"/>tag.Habe gut geschlafen, gegen Morgen von Dir geträumt. Wir tanzten zu-
+      <lb n="05"/>sammen unter freiem Himmel einen modernen Tanz. Im Haus driß schien ein
+      <lb n="06"/>est zu sein, man hörte Musik - wir waren ganz allein und der Tanz war
+      <lb n="07"/>sehr aufregend. Pjötzlich kam eine Art Luftballon vom Himmel, ganz tief
+      <lb n="08"/>bis zu uns herab. Ich machte Dir lachend den Vorschlag uns anzuhängen
+      <lb n="09"/>und mitzufliegen, aber Du meintest, es könnte plötzlich sehr hoch gehen
+      <lb n="10"/>und es wäre dann unmöglich abzuspringen. Wir tanzten und Duwarst sehr
+      <lb n="11"/>zärtlich. Da kamen Damen und Herren vorbei, die uns wohlwollend zuläachten
+      <lb n="12"/>und wir erkaunten unter ihnen die Lovsky vom Volkstheater. Du sagtest:
+      <lb n="13"/>"Diese Leute unterhalten sich doch immer", worauf ich meinte: "Findest
+      <lb n="14"/>Du nicht, dass wir uns auch unterhalten?" - "Das zwischen uns ist doch mehr
+      <lb n="15"/>als unterhaltend" war Deine Antwort und sie könnte es fast in Wirklich-
+      <lb n="16"/>keit sein, nicht? Wir umfingen uns wieder und ich erwachte - leider!
+      <lb n="17"/>Jetzt Schluss. Die Sonne scheint, der Himmel ist blau und ichwill an die
+      <lb n="18"/>Luft. Ich küsse Dich
+      <lb n="19"/>Deine
+      <lb n="20"/>C.K.
+      <lb n="21"/>313</seite></div></body></text></TEI>

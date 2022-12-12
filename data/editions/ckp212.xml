@@ -1,117 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp212"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 17. Juni 1925</title>
-            <title type="alternative" when-iso="1925-06-17"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp212"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="212">
-               <lb n="01"/>17.6.25. Bl. 3.
-      <lb n="02"/>dadurch ernstlich bedroht ist. Ich komme mir oft vor wie ein Fle-
-      <lb n="03"/>berkranker, dem man Aspirin zu schlucken gibt, damit die Temperatur
-      <lb n="04"/>heruntergeht. So lange die Krankheit, d.h. die "Liebe" vorhanden
-      <lb n="05"/>ist, schnellt die Temperatur immer wieder nach einer kurzen Abküh-
-      <lb n="06"/>lung hinauf. Ist die Krankheit aber einmal überstanden, dann blei-
-      <lb n="07"/>ben Untertemperaturen zurück. Willst Du es dahin bringen? -
-      <lb n="08"/>Es hat Dich vielleicht nie jemand so aus tiefstem Herzen gern ge-
-      <lb n="09"/>habt, wie ich Dich, von einem solchen Bedürfnis erfüllt Dich froh
-      <lb n="10"/>und glücklich zu machen und Dir alles zu geben, was ich vermag.
-      <lb n="11"/>Aber ich bin manchmal schrecklich müde, ja, ich habe oft das Gefühl,
-      <lb n="12"/>als hätte sich die Wärme, selbst die Heiterkeit meines Wesens, Dir
-      <lb n="13"/>gegenüber nie ganz entfalten können, denn immer sind Widerstände,
-      <lb n="14"/>Hemmungen zu besiegen, kleine Liebkosigkeiten, zu verschlucken,
-      <lb n="15"/>Verstimmungen Herr zu werden, nie ist eine volständige frohe Hingabe
-      <lb n="16"/>meines Wesens an Dich möglich. Aber Du weisst das alles so gut
-      <lb n="17"/>wie ich und wenn Du mich wirklich lieb hast, dann verstehrt Du
-      <lb n="18"/>mich auch. Ich kann nur hoffen dass es wieder anders und schöner
-      <lb n="19"/>wird. Aber ich will mich nicht durch ein paar gute Tage täuschen,
-      <lb n="20"/>wenn sie nicht auf der Grundlage eines gegenseitigen Einverständ-
-      <lb n="21"/>nisses entstehen. Und das wäre doch durch ein bischen Einsicht und
-      <lb n="22"/>Güte Deinerseits so leicht herzustellen. Bitte sei jetzt nicht
-      <lb n="23"/>eigensinnig, wie ein kleines böses Kind, das Du manchesmal bist,
-      <lb n="24"/>wende Dich einmal nur an Dein Herz, das die richtige Antort geben
-      <lb n="25"/>muss, wenn Du mich wirklich lieb hast.
-      <lb n="26"/>Wenn ich nicht die Ueberfüllung der Züge am Samstag fürchten würde,
-      <lb n="27"/>hätte ich gerne meine Abreise um einen Tag verschoben, so aber
-      <lb n="28"/>bleibt es wohl, wenn ich nichts anderes telegraphiere, bei Freitag.
-      <lb n="29"/>Und in Salzburg finde ich einen Brief von Dir, der noch unbeein-
-      <lb n="30"/>flusst von diesem hier abgegangen ist und das, was ich in und zwi-
-      <lb n="31"/>schen diesen Zeilen lesen werde, wird wohl entscheidend auf meine
-      <lb n="32"/>162</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp212" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp212"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>C.P.
+      <lb n="02"/>17.6.1925. Bl.2.
+      <lb n="03"/>gender Gesichtsausdruck Lilis, eine Verstimmung Deiner Frau viel
+      <lb n="04"/>wichtiger, - als mich und meine (in diesem wie in manchem Fall)
+      <lb n="05"/>berechtigte Empfindlichkeit zu schonen.
+      <lb n="06"/>Es kann mir auch äusserlich nicht gleichgültig sein, dass die Men-
+      <lb n="07"/>schen, die nun einmal durch die Exponiertheit Deiner Persönlichkeit
+      <lb n="08"/>um unsere Beziehung wissen, lächelnd konstatieren, dass Du wieder
+      <lb n="09"/>bei Deiner Frau wohnst und ich glaube, Du müsstest mir ein solches
+      <lb n="10"/>Lächeln ersparen. Aber was bedeutet diese Aeusserlichkeit gegen
+      <lb n="11"/>die Verletzung, die Du mir innerlich zufügst und unter der meine
+      <lb n="12"/>besten Gefühle leiden.
+      <lb n="13"/>Du sagst, ich sehe immer einen Kampf zwischen mir und Deiner Frau,
+      <lb n="14"/>zu dem keinerlei Veranlassung ist, - aber glaube mir, dass ich mich
+      <lb n="15"/>nie in einen Kampf einlassen würde, wenn ich nur im Entferntesten
+      <lb n="16"/>an die Notwendigkeit eine solchen glauben würde. Ich denke, ich
+      <lb n="17"/>sagte Dir dies am Beginn unserer Freundschaft.
+      <lb n="18"/>Ich weisssogar ganz genau, dass Du mich gern hast, aber das hindert
+      <lb n="19"/>nicht, dass ich die überflüssige Form dieses Zusammenseins in Ba-
+      <lb n="20"/>den=Baden, die die Zunahme der Zusammenkünfte als etwas mein Gefühl
+      <lb n="21"/>Verletzendes,und unsere Liebe Herabwürdigendes ansehen muss. Ich
+      <lb n="22"/>glaube nicht, dass es "eine kleinliche Eifersucht" ist, wenn ich
+      <lb n="23"/>die Wichtigkeit sehe, die Du diesen Reisen beimisst, wenn ich Aeus-
+      <lb n="24"/>serungen, wie die "dass Dir diese Aussprachen der Kinder wegen ein
+      <lb n="25"/>Bedürfnis sind" ungern höre und die gemeinsamen Interessen, die
+      <lb n="26"/>Dich mit einer Andern verbinden, mir nicht gleichgültig sind. Da-
+      <lb n="27"/>natürlich einen
+      <lb n="28"/>raus aber mache ich Dir Vorwurf, - sie sind in der Situation
+      <lb n="29"/>begründet, wohl aber daraus, dass Du mich über das nötige Mass hi-
+      <lb n="30"/>naus dieselbe fühlen lässt.
+      <lb n="31"/>Wir haben uns gegenseitig sehr lieb und es tut mir schrecklich leid,
+      <lb n="32"/>dass das Glück unseres Zusammenseins darunter leidet, ja, dass es
+      <lb n="33"/>161</seite></div></body></text></TEI>

@@ -1,112 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp503"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 3. Dezember 1927</title>
-            <title type="alternative" when-iso="1927-12-03"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp503"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="503">
-               <lb n="01"/>zeitigen Wohlbef
-      <lb n="02"/>ins mein Herz und meine Nerven sind. Ich habe seit
-      <lb n="03"/>der Nachricht von diesem Preis Herzklopfen bis in den Hals. Wie wäre
-      <lb n="04"/>das erst bei einem Schmerz? Es ist natürlich auch die Angst in mir,
-      <lb n="05"/>dass diesem Frohen und Guten etwas Böses folgen könnte. Dabei war ich
-      <lb n="06"/>die ganze Nacht von Dankbarkeit erfüllt und ich wuste, wieder es gibt ein
-      <lb n="07"/>Beten auch ohne Religion.
-      <lb n="08"/>Eben bringt man die Neue Freie Presse, die Nachricht steht
-      <lb n="09"/>schon drin. Du kannst sie schon morgen in Berlin lesen. Ich habe keine
-      <lb n="10"/>Ahnung, was ich jetzt zu tun, wie ich mich zu verhalten habe und überhaupt
-      <lb n="11"/>fehlst Du mir jetzt schrecklich, um meine Freude an Dir abzureagieren.
-      <lb n="12"/>Hübsch gesagt was?
-      <lb n="13"/>Heute habe ich wieder einen schrecklich gehetzten Tag. Um
-      <lb n="14"/>11 Zahnarzt, um 1 Uhr Frühstück bei Ferda Bl., um 4 Uhr Magda Kl. bei mir,
-      <lb n="15"/>um 1/2 7 soll ich bei Tante Sidonie sein. Dann werde ich aber ein Schlaf-
-      <lb n="16"/>mittel nehmen und mich ins Bett legen und schlafen. Eben hat mich Frieda
-      <lb n="17"/>sehr beglückt angerufen, ihr Bruder hat ihr die Nachricht ins Bett ge-
-      <lb n="18"/>bracht. Auch Dr. Bloch, mein Vis-a-Vis hat sich schon gemeldet. Das kann
-      <lb n="19"/>heut einguter Tag werden. Nachmittage hoffe ich sehr auf einen Brief
-      <lb n="20"/>von Dir mit guten und gutgelaunten Berichten. Für heute nur tausend
-      <lb n="21"/>innige Küsse.
-      <lb n="22"/>Deine C.K.
-      <lb n="23"/>Das Telefon tobt unausgesetzt.
-      <lb n="24"/>(Telegramm)
-      <lb n="25"/>3.12.27.
-      <lb n="26"/>Volkstheaterpreis erhalten Du fehlst mir sehr in meiner Freude.
-      <lb n="27"/>Tausend Grüsse</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp503" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp503"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>An A.S. nach Berlin.
+      <lb n="02"/>Wien, 3. Dezember 1927.
+      <lb n="03"/>Mein Liebes,
+      <lb n="04"/>ich schreibe diese Zeilen um 7 Uhr Früh, denn ich habe die
+      <lb n="05"/>ganze Nacht vor freudiger Aufregung nicht schlafankönnen. Es war
+      <lb n="06"/>11 Uhr und ich lag im Bett und las die Korrekturbogen der Neuen
+      <lb n="07"/>Freien Presse durch, als das Telefon klingelte und ein Redakteur Sie-
+      <lb n="08"/>bert von der Neuen Freien Presse bei mir anfrägt, ob ich mich an dem
+      <lb n="09"/>Preisausschreiben des Deutschen Volkstheaters beteiligt habe. Auf
+      <lb n="10"/>meine erstaunte Frage: "Ja, warum wollen Sie denn das wissen?" antwor-
+      <lb n="11"/>tete er, er sei eben die Nachricht an sie gelangt, dass Katharina
+      <lb n="12"/>Pollaczek einen Preis bekommen habe, - ob ich das sei. Du kannst Dir
+      <lb n="13"/>meine Aufregung denken. Du hast mir schrecklich gefehlt. Die Sache
+      <lb n="14"/>scheint sich nach den konfusen Reden dieses Herrn so zu verhalten, dass
+      <lb n="15"/>der erste Preis überhaupt entfallen ist und der zweite Preis ganz
+      <lb n="16"/>gleichwertig an Paul Wertheimer, an einen Dr. Scholz und an mich verliehen
+      <lb n="17"/>wurde. Ich sprach dann auch Dr. Benedikt, der noch nichts wusste, aber
+      <lb n="18"/>sehr erfreut schien. Er sagte mir, dass er Dich angerufen hätte, um
+      <lb n="19"/>Dir für die wundervollen Aphorismen zu danken, er höre aber, Du seist
+      <lb n="20"/>in Berlin. Er bat mich Dir seinen Dank zu übermitteln.
+      <lb n="21"/>Ich hoffe sehr, dass dieser Preis meine Stellung zu Ver-
+      <lb n="22"/>legern und Theatern günstig beeinflussen wird und ich endlich auf
+      <lb n="23"/>einen grünen Zweig und zu einer Art Sorglosigkeit gelangen werde, um
+      <lb n="24"/>ruhig arbeiten zu können.
+      <lb n="25"/>Wie vieles hätte ich jetzt mit Dir zu besprechen.
+      <lb n="26"/>Die "Charlotte Corday" zu der es mich jetzt immer hefti-
+      <lb n="27"/>ger drängt, will ich "Das Fräulein von Corday d'Armont" nennen, wie sie
+      <lb n="28"/>ja eigentlich hiess. Es liegt in diesem Titel schon etwas von meiner
+      <lb n="29"/>Einstellung zu ihr.
+      <lb n="30"/>Im übrigen sehe ich wieder, wie schwach trotz meines der-</seite></div></body></text></TEI>

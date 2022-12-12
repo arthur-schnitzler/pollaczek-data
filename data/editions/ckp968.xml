@@ -1,120 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp968"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Tagebuch von Clara Katharina Pollaczek, 7.–10. August 1931</title>
-            <title type="alternative" when-iso="1931-08-07"/>
-            <title type="alternative" when-iso="1931-08-08"/>
-            <title type="alternative" when-iso="1931-08-09"/>
-            <title type="alternative" when-iso="1931-08-10"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp968"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="968">
-               <lb n="01"/>Fortsetzung Gasteiner Tagebuch.
-      <lb n="02"/>7. August 1931.
-      <lb n="03"/>Bin irritiert, weil von Dr.D. auf zwei Briefe noch ohne Antwort bin.
-      <lb n="04"/>Wozu beschwor er mich ihm zu schreiben? Offenbar hat er mir nichts Gu-
-      <lb n="05"/>tes zu sagen, der Optimist. Ich sehe wieder Qualen voraus.
-      <lb n="06"/>8. August.
-      <lb n="07"/>Den ganzen langen Tag keinen Menschen gesprochen. Sehr guter freundlicher
-      <lb n="08"/>Brief von Dr. D., der mich Gutes hoffen lassen könnte, wenn nicht A. sich
-      <lb n="09"/>so ganz anders benehmen würde, als es der Schilderung seiner Gefühle
-      <lb n="10"/>für mich in diesem Brief B.'s entsprechen musste.- Kurze flüchtige
-      <lb n="11"/>Karte aus Gmunden, wo A. am 7.angekommen sein will, während D. mir schreibt,
-      <lb n="12"/>dass er am 6. hinfuhr - -
-      <lb n="13"/>Nachmittag allein zur "Schwarzen Lisl" hinaufgestiegen. Abend einsam
-      <lb n="14"/>im Gasteiner Hof.
-      <lb n="15"/>9.8. Auch heute kein Mensch.- Lieber langer Brief von Hery vom
-      <lb n="16"/>22.7. Gottlob,es geht ihm gut. In der Friedrichs-Laube allein
-      <lb n="17"/>gegessen,D.s Brief beantwortet. Es schüttet.
-      <lb n="18"/>10.8. Brief von A. ohne ein gutes Wort. Möchte mit mir um den 20. he-
-      <lb n="19"/>rum zusammenkommen. Heini am 17.bereits in Berlin; ich antworte, dass
-      <lb n="20"/>ich bis 16. hier zu treffen bin, da meine bescheidenen Mittel mir nicht
-      <lb n="21"/>längeren Aufenthalt gestatten. Da neini abreist steht ja diesen Datum
-      <lb n="22"/>nichts im Weg.- Wozu in Wien diese Annäherungen von seiner Seite, wenn
-      <lb n="23"/>er sich jetzt wieder so verhalten will? Müss ich vielleicht warten,
-      <lb n="24"/>bis die geschiedene Gattin sich entfernt - soll meine Existenz nach al-
-      <lb n="25"/>lem, was war, jetzt wieder von dem Zusammensein mit anderen Frauen abhän-
-      <lb n="26"/>gig sein? Es schüttet.
-      <lb n="27"/>Vormittag im Hotel Austria, um Medizinalrat Bloch für einen rührenden
-      <lb n="28"/>Brief über meine Aphorismen (gestern in der Neuen Freien Presse) zu
-      <lb n="29"/>Schn.
-      <lb n="30"/>danken. Sprach auch dort Julius 3. und Frau, die mich besser aussehend
-      <lb n="31"/>findet. Louise Fränke Ehrenstein liess sich mir durch Herrn v. Tolnay
-      <lb n="32"/>23</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp968" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp968"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>eine menschliche Beziehung helfend oder rettend eingreifen, wenn
+      <lb n="02"/>man nicht zu beiden Beteiligten mit den gleichen Sympathien steht,
+      <lb n="03"/>istw immer eine Kurzzichtigkeit oder eine Gemeinheit oder - eine
+      <lb n="04"/>Unaufrichtigkeit, die leicht zum Verbrechen wird und strengere Sühne
+      <lb n="05"/>verdient als ein Mord, der reineren Motiven entspringen kann.
+      <lb n="06"/>– – – – – – –
+      <lb n="07"/>Zwischen Liebenden gibt es keine Verpflichtungen, sondern nur Selbstver-
+      <lb n="08"/>ständlichkeiten. Empfindet man erst einmal das, was man gibt oder em-
+      <lb n="09"/>pfängt, als eine erfüllte Pflicht, dann liegt die Liebe in den letzten
+      <lb n="10"/>Zügen und man sollte ihr rasch den Todesstoss versetzen.
+      <lb n="11"/>– – – – – – –
+      <lb n="12"/>Es ist wichtiger von einem geliebt zu werden, dem wir nur Sympathie
+      <lb n="13"/>entgegenbringen, als einen zu lieben, der uns nur sympathisch findet.
+      <lb n="14"/>– – – – – – –
+      <lb n="15"/>Ihr nennt Eure Magd, die Euch Zucker oder ein Paar Strümpfe entwendet,
+      <lb n="16"/>eine Diebin - und mit Recht. Was aber seid Ihr, die Ihr einer Andern
+      <lb n="17"/>den Mann, den Geliebten nehmt, oder es wenigstens - versucht - -?
+      <lb n="18"/>– – – – – – –
+      <lb n="19"/>M anche Frauen gönnen einer andern nicht einmal den Mann, den sie ver-
+      <lb n="20"/>lassen haben und nehmen es ihm übel, wenn er mit dieser Andern glück-
+      <lb n="21"/>licher ist.
+      <lb n="22"/>– – – – – – –
+      <lb n="23"/>Das Wesen einer menschlichen Beziehung entscheidet nicht wie sie be-
+      <lb n="24"/>ginnt, sondern wie sie endet.
+      <lb n="25"/>– – – – – – –</seite></div></body></text></TEI>

@@ -1,99 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp759"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Tagebuch von Clara Katharina Pollaczek, 13.–15. Januar 1930</title>
-            <title type="alternative" when-iso="1930-01-13"/>
-            <title type="alternative" when-iso="1930-01-15"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp759"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="759">
-               <lb n="01"/>erholend. Lieb, warm, herzlich.
-      <lb n="02"/>15.1.9 Uhr. In Erwartung A.'s ich sehe Schlimmes voraus. Es ist mir
-      <lb n="03"/>wichtig, dass er gut ankommt. Ich würde zugrunde gehen, könnt ich ihn
-      <lb n="04"/>nicht mehr sehen. Aber alle Freude ist fort. Es war nicht gut seit
-      <lb n="05"/>er von Marienbad zurückkam und es kann nie mehr wirklich gut und schön
-      <lb n="06"/>werden.
-      <lb n="07"/>1/2 11 Anruf A.: "Guten Morgen. Wie hast Du geschlafen? Wie gehts Dir? Was
-      <lb n="08"/>mächst DU?“ (Und eh ich antworten kann). “Ich komme am liebsten in
-      <lb n="09"/>zirka einer halben Stunde zu dir hinüber." - Ich: "Bitte, wie du willst,
-      <lb n="10"/>ich bin da. " - Also in einer halben Stunde.
-      <lb n="11"/>12. Hat er wirklich glauben können, ich werde mich beglückt in seine
-      <lb n="12"/>Arme werfen? Oh nein.
-      <lb n="13"/>23</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp759" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp759"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>gerade in den Feiertagen allein lässt etc. Das ist nicht Güte. Man
+      <lb n="02"/>scheint viel darüber zu sprechen, was für ein Trottel ich bin.-Gott,
+      <lb n="03"/>wenn die Menschen in mich hineinschauen könnten!
+      <lb n="04"/>Anruf A. Er kommt erst nächste Woche zurück. Ich antworte: "Ja, ja, bleib
+      <lb n="05"/>nur weiter dort. Lass es dir herrlich ergehen!“ Er läutet erzürnt ab.
+      <lb n="06"/>Tiefe Verstimmung. Brief von A. Er fühlt sich dort wohl etc.-es wird mir
+      <lb n="07"/>dadurch nichts fort genommen. Es kommt mir vor, als sagte man zu jeman-
+      <lb n="08"/>dem, dem das Haus abbrennt, man wird ihn nicht delogieren.
+      <lb n="09"/>7.1. Bei Salten. Wegen eines Artikel über die Generalproben.
+      <lb n="10"/>10.1. Von A. nicht ein Wort. Ich kann über meine innere Verfassung nicht
+      <lb n="11"/>reden. Heute Abend Pen-Klub-Ball.
+      <lb n="12"/>Wenn A. wüsste, wie hässlich er sich gegen mich benimmt. Dass er dort
+      <lb n="13"/>bleibt wäre ja so belanglos, wenn gute herzliche Briefe von ihm kämen.
+      <lb n="14"/>P en-Klub-Ball. Zufällig herry in der Garderobe getroffen, so dass ich
+      <lb n="15"/>nicht allein den Saal betrete. Gisela Berger winkt mir auf die Estra-
+      <lb n="16"/>de. Eine Menge Leute werden mir vorgestellt. Gewinn des Abends: Wieder-
+      <lb n="17"/>sehen mit Sektionschef Huber (Präsident des Volkstheatervereienes), der
+      <lb n="18"/>mir sympathisch ist; paar Worte mit Fülöp-Miller (Rasputin und Jesui-
+      <lb n="19"/>ten-Buch), der sich freut mir endlich zu begegnen. Anstrudelungen ver-
+      <lb n="20"/>schiedener Personen. Kurze Gespräche Trebitsch, Salten, Jeremias Kreutz,
+      <lb n="21"/>Carly Günste. Schliesslich Egon und dann Flucht nach Hause.
+      <lb n="22"/>12.1. Belangloser Anruf von A. Er kommt erst Mittwoch den 15. Kein
+      <lb n="23"/>Wort über Sehnsucht oder Freude mich wiederzusehen. Ich schreib nicht
+      <lb n="24"/>mehr.
+      <lb n="25"/>Nachm. Besuch von Max Leitner. Netter Mensch aber etwas fad.
+      <lb n="26"/>13.1. Mein alter Freund Globuznik den ganzen Nachmittag bei mir. Wirk¬</seite></div></body></text></TEI>

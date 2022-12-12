@@ -1,117 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp739"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Tagebuch von Clara Katharina Pollaczek, 1.–3. November 1929</title>
-            <title type="alternative" when-iso="1929-11-01"/>
-            <title type="alternative" when-iso="1929-11-02"/>
-            <title type="alternative" when-iso="1929-11-03"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp739"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="739">
-               <lb n="01"/>Roman "Die Schönheit der Constanze" in der Neuen Freien Presse begon
-      <lb n="02"/>nen.)
-      <lb n="03"/>
-               <date>2.11.</date> Schrecklich trauriger Abend bei A. Er sagte: "Wenn ich nur wüsste,
-      <lb n="04"/>dass ich gleich tot bin, aber vielleicht gelähmt oder blind." – Diese
-      <lb n="05"/>fortwährenden Todesgedanken und Angstgefühle sind eine Krankheit. Melan-
-      <lb n="06"/>cholie von 8-12 Uhr. Über <unclear>Nacht</unclear>. 
-      <lb n="07"/>
-               <date>3.11.</date> Wieder mit Dr. D. gesprochen, ihm gesagt, es muss etwas für A. ge
-      <lb n="08"/>schehen.
-      <lb n="09"/>Begegnung mit Paula Beer-Hofmann, mit der A. in Marienbad zusammen war.
-      <lb n="10"/>Nach den ersten Worten: "Er hat so gut ausgesehen und war so lieb. Ich
-      <lb n="11"/>hab mich nur geärgert, dass er so oft zu der Bestie (O.) hinübergefahren
-      <lb n="12"/>ist und immer hat er sich den Kopf zerbrochen, was er ihr mitbringen
-      <lb n="13"/>soll." Ich darauf: "Ach, das ist ganz belanglos, ich habe ihn bis Nürn
-      <lb n="14"/>berg begleitet und die drei Wochen in der Schweiz waren wundervoll" (in
-      <lb n="15"/>nerlich war mir ganz übel). Sie: "Nun, er schien doch wieder fasciniert
-      <lb n="16"/>von der O., sagte, sie sieht blendend aus, um 10 Jahre verjüngt, sich sei ver
-      <lb n="17"/>blüffend klug - etc.- Warum erzählt mir das eine Frau wie die Paula
-      <lb n="18"/>Beer-Hofmann? Aus Bosheit? Um mich zu warnen?
-      <lb n="19"/>Ich erzählte ihr, dass A. immer wieder betont, die O. zähle als Frau über
-      <lb n="20"/>haupt nicht für ihn. Zusammenhänge nur durch die Kinder. Aber wie mir
-      <lb n="21"/>innerlich zumute ist!
-      <lb n="22"/>Am Abend letzthin mit Alma, Werfel, Hofrätin bei A. Als A. einen Augen
-      <lb n="23"/>blick aus dem Zimmer ging, sofort aggressive Bemerkungen über die O. Ich
-      <lb n="24"/>kam übrigens nur auf dringendes Zureden von A. Alle waren sehr lieb zu
-      <lb n="25"/>mir.
-      <lb n="26"/>Ueber das Gespräch mit Paula sage ich jetzt kein Wort. Ich will ihn nicht
-      <lb n="27"/>aufregen. Aber wenn er so wohl sein wird nach Berlin zu fahren, dann werde
-      <lb n="28"/>ich reden.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp739" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp739"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>sichtlich fern.
+      <lb n="02"/>26.10. Ich habe durch Frieda den Dr.Donath anufen lassen, da mich der
+      <lb n="03"/>Zustand A.'s immer mehr beängstigt. Ich versteh diese Familie nicht,
+      <lb n="04"/>de sich soo wenig um seine Gesundheit kümmert. Seit einigen Tagen be-
+      <lb n="05"/>hauptet A. einen Schatten vor dem linken Aug zu haben. Ich halte alle die Symptome
+      <lb n="06"/>für eine beginnende Arteriosklerose.
+      <lb n="07"/>28.10. Gestern zum Nachtmahl bei A. mit Dr.Donath und seiner Frau,
+      <lb n="08"/>(eine Folge meiner Intenvention). Dr. Donath wie zufällig daraufhin Besuch
+      <lb n="09"/>bei A. herbeigeführt. Langes Gespräch mit A. während ich mit der Frau
+      <lb n="10"/>plauderte. A. spielte mit seiner Nichte nach dem Abendessen vierhändig.
+      <lb n="11"/>Das Ehepaar begleitet mich dann bis vor meine Türe. Sie finden A. elend
+      <lb n="12"/>aussehend und seinen Nervenzustand sehr schlecht. Ich frage, ob es nicht
+      <lb n="13"/>doch Arteriosklerose ist. Dr. D. behauptet nein. Heute soll A. zu Prof.
+      <lb n="14"/>Sachs (Augenarzt) gehen.
+      <lb n="15"/>A. in furchtbarer Aufregung vor dem Besuch bei Sachs. Ich schlage ihm
+      <lb n="16"/>vor ihn wenigstens bis hin zu begleiten. Er nimmt an.
+      <lb n="17"/>Ich sollte ihn dann beim Zuckerbäcker Sluka erwarten, aber ich blieb vor
+      <lb n="18"/>dem Haustor bis er zurückkam. Eine kleine Blutung in der Netzhaus an-
+      <lb n="19"/>geblich - ganz unbeträchtlich.
+      <lb n="20"/>Gespräch mit Dr. D. hinter dem Rücken von A. Es sind doch Symptome von
+      <lb n="21"/>Arterioskleroe. Brüchigkeit der Gefässe. Vielleicht wird man einen Ader-
+      <lb n="22"/>lass machen, xagt wie Sachs rät.
+      <lb n="23"/>Ich hatte in der Nacht vom 28.zum 29. Oktober einen merkwürdigen Traum
+      <lb n="24"/>von meinem Tod. Heute in 10 Jahren.
+      <lb n="25"/>31.10. Gestern Abend A. bei mir. Im Radio Requiem von Verdi. Ich muss
+      <lb n="26"/>immer aus dem Zimmer gehen, damit A. nicht sieht, dass ich weine.
+      <lb n="27"/>1.11. Gestern Abend Otto und Emma bei mir. (Am 28. hat übrigens mein</seite></div></body></text></TEI>

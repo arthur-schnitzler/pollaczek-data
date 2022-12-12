@@ -1,114 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp538"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 24. April 1928</title>
-            <title type="alternative" when-iso="1928-04-24"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp538"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="538">
-               <lb n="01"/>oder Justinian) - eine unterirdische Halle von 300 Säulen ge-
-      <lb n="02"/>stützt, zwischen denen man durchrudert (erinnert an Bergwerksein-
-      <lb n="03"/>drücke, insbesondere durch das Endloswerden des Raumes. - Dann
-      <lb n="04"/>eine Autofahrt über Pera, an den Bosporus, gegenüber der kleinasia-
-      <lb n="05"/>tischen Küste, Vorbei an dem verlassenen Palast und Park des Sul-
-      <lb n="06"/>tans und vielen andern merkwürdigen Gebäuden. Die Ausblicke immer
-      <lb n="07"/>wieder neu und überraschend.
-      <lb n="08"/>Mittag auf dem Schiff. Durch einen Händler (der seine Waren auf
-      <lb n="09"/>Deck feilbietet) lern ich einen türkischen Ingenieur, in Paris
-      <lb n="10"/>und deutschen Städten ausgebildet, kennen, der sich anbietet uns
-      <lb n="11"/>für eine Meerfahrt zu den Prinzeninseln den Cicerone zu machen.
-      <lb n="12"/>Wir nehmen einen (alten) schäbigen Dampfer an der Galatabrücke
-      <lb n="13"/>(Feiertag, Ueberfüllung), leider ist es trüb und beinahe kalt;
-      <lb n="14"/>die Fahrt trotzdem wunderbar; die Inseln selbst, einige tannenbe-
-      <lb n="15"/>waldet; - die grömsere mit zahlreichen Hotels, noch sehr Vor-
-      <lb n="16"/>Saison; - gäbe nicht das Meer seine Unendlichkeit und seinen Zauber
-      <lb n="17"/>dazu, so wüsst ich nicht, was an diesen Inseln zum Aufenthalt
-      <lb n="18"/>reizen sollte. Die grösste hat 6 Stunden im Umfang. Sehr mit
-      <lb n="19"/>Recht herrscht noch der Winterfahrplan; - das Schiff fährt weiter
-      <lb n="20"/>an der kleinasiatischen Küste; - wir setzten alle zum ersten Mal
-      <lb n="21"/>den Fuss auf den neuen Welttheil; fuhren längs der Küste in der
-      <lb n="22"/>Bahn (es war leider schon ganz dunkel) nach der Endstation, -
-      <lb n="23"/>die wieder einen Theil von Konstantinaepl vorstellt, und dann wie-
-      <lb n="24"/>der mit einer Riesendampffähre an die Galatabrücke, Möstliche Be-
-      <lb n="25"/>leuchtungen von Himmel und Erde aus; auffallend die unendlich
-      <lb n="26"/>vielen farbigen Lampen an allen Küsten. Alles hügelauf und hügel-
-      <lb n="27"/>ab und überall die riesigen Moscheen und die hunderten kleinen und
-      <lb n="28"/>grossen Kuppeln und die hundert schlanken in die Luft stechenden
-      <lb n="29"/>Minarette (so heissen doch wohl die Thürme der Mascheen). - Von</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp538" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp538"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>24.4.1928.
+      <lb n="02"/>Constantinopel, Früh 8 Uhr.
+      <lb n="03"/>Mein Liebes, eben sind Arnoldo, Lili, der Kapitän und der Direktor
+      <lb n="04"/>Sampo, sowie noch zwei Italiener vom Schiff fort, um einen kleinen
+      <lb n="05"/>Flug in den Bosporus zu unternehmen, zu dem sie der Direktor
+      <lb n="06"/>Sampo eingeladen; - Arnoldo kommt wahrscheinlich ungelüftet zu-
+      <lb n="07"/>rück, da er nur auf die geringe Chance eines freien Platzes xxx an
+      <lb n="08"/>den Flugplatz mit fuhr. Wahrscheinlich kommt er zurück und wir
+      <lb n="09"/>tragen nocheiniges nach, was wir in den sehr erfüllten Constanti-
+      <lb n="10"/>nopolitouren noch versäumt haben. Ich erzähle chronikalisch, was
+      <lb n="11"/>sich seit vorgestern Mittag zugetragen. Vor allem berichtigend, dass wir
+      <lb n="12"/>nicht in das Aga Sofia gewesen waren, sondern Blauen Moschee, wie
+      <lb n="13"/>sich am nächsten Tag herausstellte. Vorgestern Nachmittag Autofahrt
+      <lb n="14"/>nach Egüb - am Ende des Goldenen Horns, der Konst.-Hafen, der eine
+      <lb n="15"/>Sackgasse ist - Moschee, Friedhof, Ausblicke; auffallend viel ver-
+      <lb n="16"/>fallende Häuser, manche scheinen durch Feuer halb zerstört. Wahrhaft
+      <lb n="17"/>furchtbar zum Theil die Strassen: tiefe Löcher; -unverständlich,
+      <lb n="18"/>dass es die Autos vertragen. - Von Egüb nach Pera, dies ist der mo-
+      <lb n="19"/>derne Theil von Constantinopel - lange Geschäftsstrasse (in den
+      <lb n="20"/>Abendstunden überfüllt) ansteigend, auf den Höhen die
+      <lb n="21"/>unvergleichlichen Meerblicke. - Sonderbar, wie die Seitengassen fast
+      <lb n="22"/>alle sehr steil ins Dunkel verschwinden.- (Die Sicherheit soll eine
+      <lb n="23"/>relativ vollkommene sein; man spürtüberall Ordnung und "Aufstieg"
+      <lb n="24"/>und die feste Hand eines Dictators. Kemal Pascha auch in der
+      <lb n="25"/>Physiognomie auffallende Aehnlichkeit mit Mussolini. (Er xxx
+      <lb n="26"/>residirt "bekanntlich" nicht in Konst., sondern 24
+      <lb n="27"/>Eisenbahnstunden weit von hier, in Angora.) -
+      <lb n="28"/>Spät aufs Schiff, aus Protektion ein schlechtes kaltes Nachtmahl.-
+      <lb n="29"/>Gestern Montag türkischer Feiertag. Allerlei was wir besichtigen
+      <lb n="30"/>wollten war geschlossen. Immerhin die (echte) Aga Sofia; und die
+      <lb n="31"/>märchenhaft wirkende Cisterne des Theodrius (oder Konstantin -</seite></div></body></text></TEI>

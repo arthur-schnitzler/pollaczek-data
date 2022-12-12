@@ -1,96 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp395"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 25. Dezember 1926</title>
-            <title type="alternative" when-iso="1926-12-25"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp395"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="395">
-               <lb n="01"/>25.12.26
-      <lb n="02"/>Ich werde noch stundenlang in Bett bleiben, denn mir ist zu kalt zum
-      <lb n="03"/>Aufstehen und ich werde üme heute überhaupt kaum ausgehen. Ich will
-      <lb n="04"/>den Roman durchlesen und womöglich heute dem Otto schicken. Denk ge-
-      <lb n="05"/>legentlich über den Titel nach. Die "Mani" ist natürlich heute nicht
-      <lb n="06"/>An der Presse. Wenn sie Neujahr nicht erscheint, dann wird man dort
-      <lb n="07"/>was von mir zu hören kriegen. Ich hoffe sehr auf morgen auf gute und
-      <lb n="08"/>liebe nachricht von Dir. Für heute nur einen innigen Auss von Deiner
-      <lb n="09"/>C.K.
-      <lb n="10"/>Was hörst Du aus Venedig?
-      <lb n="11"/>nelle</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp395" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp395"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Wien, vom 24. auf 25.12.1926
+      <lb n="02"/>An A.S.
+      <lb n="03"/>um 1/2 1 Uhr Nacht.
+      <lb n="04"/>Liebster, ich bin eben halb erfroren in meinem Bett gelandet und will
+      <lb n="05"/>lieber
+      <lb n="06"/>mein Heim
+      <lb n="07"/>nicht einschlafen, ohne Dir wenigstens einen Gedanken und in diesen
+      <lb n="08"/>Zeilen geschickt zu haben. Zum Erzählen bin ich heute schon zu
+      <lb n="09"/>schläfrig, aber gleich wenn ich erwache will ich es tun. Wie Du
+      <lb n="10"/>sienst, habe ich alles zum Schreiben bei der Hand. Für jetzt nur einen
+      <lb n="11"/>Kuss und gute Nacht! -
+      <lb n="12"/>Leider habe ich trotz Schlafmittel bis 3 Uhr Früh wach ge-
+      <lb n="13"/>legen und bin daher erst jetzt um 19 erwacht. Gestern Abend bei
+      <lb n="14"/>Wellezz war es wirklich sehr stimmungsvoll. Um 7 Uhr Bescheerung,
+      <lb n="15"/>Egon und die kleine Liesl spielten zusammen irgend eine schöne alte
+      <lb n="16"/>Melodie (er Klavier, sie Geige). Baum bis zur Decke, silberüberrißelt,
+      <lb n="17"/>viele Geschenke auf kleinen Tischen verteilt. Nachher Familiensouper
+      <lb n="18"/>und schliesmlich bei 9 Grad Kälte durch den Kaasgraben zur Elektri-
+      <lb n="19"/>schen, die in dieser Gegend bis 12 Uhr Nachta verkehrt. Gestern noch
+      <lb n="20"/>in der Stadt Besorgungen. Dann habe ich zuhause Weihnachtspackerin
+      <lb n="21"/>gemacht und mir meinen eigenen Tisch hergerichtet. Eine Leiner herr-
+      <lb n="22"/>lichen Taschen und die braunen gefütterten Handschung habe ich gestern
+      <lb n="23"/>Abend eingeweiht, damit etwas von Dir mich begleitet. Ich habe schreck-
+      <lb n="24"/>lich viel von Dir bekommen und danke Dir noch sehr, wenn Du auch nicht
+      <lb n="25"/>maget, dass ich es tue. Nur die Photographien sind mir gar nicht recht.
+      <lb n="26"/>Diese Ganz hat die schlechtesten aus dem Alban ausgeaucht und nicht die,
+      <lb n="27"/>die ich wollte. So siehst Du nur aus, wenn Du in Deiner ganz bösen Laune
+      <lb n="28"/>bist und wenn Du mir ein Unrecht zugefügt hast und es nicht zugeben
+      <lb n="29"/>willst.
+      <lb n="30"/>Am Nachmittag war Frieda einen Sprung da, brachte mir Blumen
+      <lb n="31"/>und Zuckerin, dann mein Bruder Jtto. Anrufe von Byck, Puton, Hermine. Byck
+      <lb n="32"/>ladet mich und Gisella Berger für Donnerstag Nachmittag zum Thee.
+      <lb n="33"/>Heute kommt sie allein zu mir. Ich schreibe Dir heute gegen Abend
+      <lb n="34"/>noch einmal, aber ich will diese Zeilen gleich an die Hauptpost seinem.
+      <lb n="35"/> nett</seite></div></body></text></TEI>

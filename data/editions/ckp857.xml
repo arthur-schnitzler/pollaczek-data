@@ -1,115 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp857"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 18. November 1930</title>
-            <title type="alternative" when-iso="1930-11-18"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp857"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="857">
-               <lb n="01"/>Berlin, 18.11.1930.
-      <lb n="02"/>Liebste, von gestern ist zu berichten, dass Vormittag Direktor Schröder
-      <lb n="03"/>bei mir war - der Hauptmacher der Hegewald (Fett ist auf Reisen, kommt
-      <lb n="04"/>erst Donnerstag.) Dann mit Schröder zum Atelier Bjber (Leiterin Frau
-      <lb n="05"/>Schröder; - daher entschloss ich mich) - Aufnahmen.- Dann bei Dr. Mohren-
-      <lb n="06"/>witz, Fertigung des Optionsvertrages für Kakadu und besonders Casanova.
-      <lb n="07"/>Zu Alfred Kerr, der seit Monaten krank, sich aber ein wenig zu erholen
-      <lb n="08"/>scheint; - im ganzen war er guten Muthes und ich versuchte das
-      <lb n="09"/>meine dazu zu tun.
-      <lb n="10"/>Mittagessen bei Michaelis; -woselbst auch Skals. Mit Dr. Michaelis
-      <lb n="11"/>Unterredung über meine amerikanischen Angelegenheiten; er sieht sie
-      <lb n="12"/>ziemlich skeptisch an. - Abend war ich in einem Kino; ein Reisefilm
-      <lb n="13"/>von Collin Ross - Australien,Asien; sehr merkwürdig. Mit Heini Ruth
-      <lb n="14"/>genachtmahlt.
-      <lb n="15"/>Heutewittag es ach hier im Hotel mit Viki und Mimi. Soeben war Herr
-      <lb n="16"/>Dr. Bibo bei mir, - wegen Text Kakadu - und Paracelsus für Opern.-
-      <lb n="17"/>Ich erwarte Anruf von Krell in Angelegenheit der Novelle. Ueber den
-      <lb n="18"/>Titel bin ich mir noch nicht klar. Flucht in die Nacht - hat die
-      <lb n="19"/>zwei Ob gegen sich; - unangenehmer als die wei U (Flucht ins Dunkel)
-      <lb n="20"/>Heini schlug den Titel vor (nach "Ginster von ihm selbst erzählt" -
-      <lb n="21"/>Finster, von ihm selbst erzählt).
-      <lb n="22"/>Dein lieber Brief von vorgestern kam eben an. Schönen Dank; ich werde
-      <lb n="23"/>sehr froh sein, trotz vielem positiven, diese Stadt und mein Hotelzim-
-      <lb n="24"/>mer wieder zu verlassen und freu mich einem guten Wiedersehen entgegen.
-      <lb n="25"/>Ich will einen Tag noch nicht angeben, aber ich wüsste nicht, was mich
-      <lb n="26"/>über den Schluss der Woche noch aufhalten könnte. Mein Befinden ist
-      <lb n="27"/>wieder ein wenig labil; im ganzen lebe ich vernünftig; - esse fast
-      <lb n="28"/>gar kein Fleisch und so ist es mir fast besser gegangen als in Wien.
-      <lb n="29"/>Das Wetter ist kalt, aber - heute wenigstens hell.-
-      <lb n="30"/>Zum arbeiten bin ich kaum gekommen; nur gestern gab es Nachmittags</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp857" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp857"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Berlin, 16.11.1930.
+      <lb n="02"/>Liebstes, nach unserem Telefongespräch hab ich Horch angerufen; - er
+      <lb n="03"/>fährt wahrscheinlich Dienstag nach Wien - es kann aber auch Freitag
+      <lb n="04"/>werden; er bittet Dich das Stück aber jedesfalls lieber zu schicken;
+      <lb n="05"/>da er in Wien doch nicht lesen könnte. Ich hab ihm alles Nötige und
+      <lb n="06"/>Ueberflüssige gesagt; rate Dir ihn in Wien (in der Josefstadt) für
+      <lb n="07"/>alle Fälle anzurufen. Du bist Dir hoffentlich klar, dass sein
+      <lb n="08"/>Einfluss in der Richtung Stückannehme völlig null ist (siehe Spiel der
+      <lb n="09"/>Sommerlüfte.)
+      <lb n="10"/>Neulich Elisabeth im Deutschen Theater. Ich hatte einen ganz starken
+      <lb n="11"/>Eindruck, besonders von der Straub als Elisabeth.
+      <lb n="12"/>Heute Vormittag bei Paul Goldmann und allerlei Telefon.
+      <lb n="13"/>Zu Tisch bei Fäschers, längeres Gespräch mit Dr.Bermann, den man erzie-
+      <lb n="14"/>hen könnte.- Ein Film wurde vorgeführt, den Hermann gedreht hatte für
+      <lb n="15"/>häusliches Kino. Thomas, Heinrich Mann, Hauptmann, Renée Schickele im
+      <lb n="16"/>Garten und von der generation Fischer umgeben und umspielt, u.s.w.
+      <lb n="17"/>Heute komm ich dran; - sowie Waldau. Dieser möchte gern den Sala,
+      <lb n="18"/>ebenso wie Komödie oder Worte spielen und wird mit Reinhardt in diesem
+      <lb n="19"/>S'Sinn reden (es wird aber nichts herauskommen). - Für heute Abend
+      <lb n="20"/>xx steht der "Doktor" von Schönherr bevor; nachher mit Heini und
+      <lb n="21"/>Donath. Heini und Ruth wohnen in einer Pension, da die Wohnung noch
+      <lb n="22"/>nicht beziehbar; erst Mittwoch. - Morgen - muss ich mich philosophieren
+      <lb n="23"/>lassen; u.zw. von Frau Schröder, die ein Atelier (ehemals Biber) be-
+      <lb n="24"/>sitzt; ich konnte es aus opportunistischen Gründen nicht abschlagen.
+      <lb n="25"/>Besprechungen mit Bibo (Kakadu), Mohrenwitz (amerikanische Filmsache
+      <lb n="26"/>Casanova rese. Kakadu), Schröder (wegen Liebelei-Ton-Hegewald-Oswald)
+      <lb n="27"/>- Kreil - Wiegler, eventuell noch einem andern Öllsteinherrn stehen zu-
+      <lb n="28"/>nächst bevor.-
+      <lb n="29"/>Ich bin etwas rede- und verhandlungsmüde, - halte mich im übrigen
+      <lb n="30"/>gesundheitlich gut. Von Arbeit kann natürlich keine Rede sein. Ende der
+      <lb n="31"/>Woche half wh
+      <lb n="32"/>Lebwohl und sei von ganzem Herzen um-
+      <lb n="33"/>ärabe heff ich zuhaus zu sein.
+      <lb n="34"/>armt. Dein A.</seite></div></body></text></TEI>

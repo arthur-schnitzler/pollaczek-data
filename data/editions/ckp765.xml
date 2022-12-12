@@ -1,95 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp765"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 18. März 1930</title>
-            <title type="alternative" when-iso="1930-03-18"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp765"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="765">
-               <lb n="01"/>Wien, 18.3.1930. mit einem Strauss
-      <lb n="02"/>Dahlien bei A. abgegeben.
-      <lb n="03"/>An A.S., Wien.
-      <lb n="04"/>Es wäre wirklich gesünder gewesen mit mir in die Sonne
-      <lb n="05"/>zu gehen und nichts wichtiger. Ich betone dabei nicht das Wort "mir",
-      <lb n="06"/>sondern die "Sonne". Ich sende Dir diesen Gruss von meinem Vormittags-
-      <lb n="07"/>spaziergang und wünschte mir sehr ein wenig Frühling in Deine Seele.
-      <lb n="08"/>Dann wäre das Leben schöner.
-      <lb n="09"/>Deine
-      <lb n="10"/>C.K.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp765" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp765"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>bei ihm. Er hatte arge Kopfschmerzen, war aber doch sehr lieb. Ich
+      <lb n="02"/>brachte ihm eine Brieftasche und Veilchen. Wir hatten uns sehr lieb
+      <lb n="03"/>und feierten den Abend!! (Kälteres Wetter 3 Grad).
+      <lb n="04"/>8.2. Anna Nachmittag bei mir.Schade, dass sie so närrisch ist. Sie
+      <lb n="05"/>lässt ihren Kindern alles angehn und dann kriegt sie Angst. Ich
+      <lb n="06"/>sagte: "Du lässt immer Züge abgehen und dann rennt du hinterdrein
+      <lb n="07"/>und willst sie aufhalten.“ Sie gibt französische Stunden und kauft
+      <lb n="08"/>ihrem Sohn einen Frack um 450 Schilling.
+      <lb n="09"/>9.2. Nachmittag Raut imOesterreichischen Klub. Von Bertha Z. für
+      <lb n="10"/>Painlevé (Sohn) arrangiert. Abend bei A. Stille Zärtlichkeit.
+      <lb n="11"/>11.2. "Blaubart" mit Slezak. Wundervolle Musik.
+      <lb n="12"/>13.2. A. zum Nachtmanl bei mir.
+      <lb n="13"/>14.2. Gisela Berger, Lotte Menasse und Frau Clauser zur Jause bei mir.
+      <lb n="14"/>Besonders gemütlich, dann mit A. im Kino. Nachher im Imperial. Vormit-
+      <lb n="15"/>tag auch mit A. in der Succession.
+      <lb n="16"/>16.2. Schöner Spaziergang und gute Stimmung.
+      <lb n="17"/>17.2. Gestern Abend bei A. Er war zum Verzweifeln nervös. Erst über
+      <lb n="18"/>Unbehagen im Magen geklagt, dann mit bestem Appetit gegessen. Nachher
+      <lb n="19"/>plötzlich Depression angeblich wegen seines Gehörs, vielmehr wegen
+      <lb n="20"/>des Geräusches in den Ohren. Dabei erklärte er, dass es um nichts
+      <lb n="21"/>schlimmer geworden ist, dass nur seine Nerven nichts mehr ertragen.
+      <lb n="22"/>Rennt im Zimmer auf und ab und ist unduldsam gegen alles, was man zu
+      <lb n="23"/>seinem Besten sagt. Als ich gehe sagt er: "Ich danke Dir für die Ge-
+      <lb n="24"/>duld, die Du mit mir hast". Ach, es ist nicht Geduld, sondern nur eine
+      <lb n="25"/>grosse Zärtlichkeit, die er nicht versteht. Erkmacht mir Sorgen.
+      <lb n="26"/>Erstes Bild "Charlotte Corday" diktiert, bin nicht unzufrieden.</seite></div></body></text></TEI>

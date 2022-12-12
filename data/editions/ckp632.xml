@@ -1,107 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp632"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 1. Januar 1929</title>
-            <title type="alternative" when-iso="1929-01-01"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp632"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="632">
-               <lb n="01"/>"Kammerdiener" weitergeschrieben, nur um irgendwie ins Arbeiten hi-
-      <lb n="02"/>neinzukommen, aber ich war bald müde. Immerhin hat diese Novelle momentan die
-      <lb n="03"/>meisten Chancen. Alles in allem kein Jahresanfang, der michsehr freut.
-      <lb n="04"/>Ich will mich sicher nicht beklagen und undankbar sein, weiss, dass
-      <lb n="05"/>es anderen Menschen viel schlechter geht, wenn man hier von "schlecht
-      <lb n="06"/>gehen" überhaupt reden darf. Aber manches Mal (bitte lache nicht)
-      <lb n="07"/>fühle ich mich für diese Stille und Enge zu jung, ich komme mir vor
-      <lb n="08"/>wie eine Maus in einer hübschen kleinen Falle mit einem guten Stück-
-      <lb n="09"/>chen Speck darin. Irgendwo ist die weite Welt, das Leben - ich sitze
-      <lb n="10"/>und knabbere. Vielleicht werde ich das, was ich schreibe, morgen nicht
-      <lb n="11"/>mehr wissen und gewiss nicht mehr fühlen, wenn Du wieder da bist. Aber
-      <lb n="12"/>heute Abend ist es nicht anders.
-      <lb n="13"/>Ueber den Herrn "Vermeider" musste ich lächeln. Irgend-
-      <lb n="14"/>wie hat diese Bezeichnung mit Dir und Deinem Wesen zu tun. Uebrigens
-      <lb n="15"/>ist mir dieser Tage zu Bewusstsein gekommen, dass beim "Zug der Schat-
-      <lb n="16"/>ten" zwischen Titel und Stück auch noch nicht ganz die richtige Bezie-
-      <lb n="17"/>hung besteht oder richtiger: der wundervolle Titel müsste an irgend
-      <lb n="18"/>einer Stelle eine stärkere Begründung finden. Hindest Du dumm, was ich
-      <lb n="19"/>sda sag? Morgen höre ich wohl von Dir. Mit wem gehst Du zu Oedipus? -
-      <lb n="20"/>Für heute Schluss. Ich umarme Dich trotz düsterer Stimmung von ganzem
-      <lb n="21"/>Herzen.
-      <lb n="22"/>Deine C.K.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp632" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp632"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>An A.S. Berlin.
+      <lb n="02"/>Wien, 1.1.1929.
+      <lb n="03"/>Liebster,
+      <lb n="04"/>ich habe Dir gestern nicht geschrieben, da ich ja mit
+      <lb n="05"/>der Morgenpostveinen Brief abschickte und den Sylvesterabend trotz
+      <lb n="06"/>aller guter Vorsätze in einer mässigen Stimmung verbracht habe. Die
+      <lb n="07"/>Stille und Oede des Tages wurde nur durch einen kurzen Besuch Minnas
+      <lb n="08"/>unterbrochen, die mir noch den letzten Flieder herüberbrachte - ein
+      <lb n="09"/>lieber Gedanke von ihr. Meine Hausfrau gab rote Rosen an der Tür ab.
+      <lb n="10"/>Sonst war ich immer allein und Sturm und Regen waren die eintzigen Ge-
+      <lb n="11"/>räusche die zu mir kamen. Gegen Abend kam Dein Brief. Wenn ich auch
+      <lb n="12"/>begreife, dass Du des "Oedipus" und Heinis wegen länger in Berlin
+      <lb n="13"/>bleibst, so bin ich doch enttäuscht, denn ich hatte diesmal wirklich
+      <lb n="14"/>geglaubt, dass Du Donnerstag oder Freitag hier sein wirst. Dies soll
+      <lb n="15"/>kein Vorwurf sein, aber eine Erklärung meiner etwas zerpatschten Stimmung
+      <lb n="16"/>Sophie war zu ihrer Tantegegangen und ich sass da, unfähig
+      <lb n="17"/>zu arbeiten, schluckte mühsam die "Eugenie" zu Ende,ass eine Schinken-
+      <lb n="18"/>semmel und trank einige Gläser Portwein. Einen Augenblick lang dachte
+      <lb n="19"/>ich daran mich schön anzuziehen - Spitzenkleid und Abendmantel - ins
+      <lb n="20"/>Grand Hotel oder Bristol zu fahren und dort zu nachtmahlen. Ich hatte
+      <lb n="21"/>Sehnsucht nach Lichtern, Menschen, Musik. Aber dann wusste ich doch,
+      <lb n="22"/>dass das alles für mich viel zu teuer ist und nicht dafür stehen wür-
+      <lb n="23"/>de und ich spann mich wieder in allerhand Gedanken ein, die sich um
+      <lb n="24"/>Dich und mich drehten und sicher nicht böse, nur ein wenig traurig wa-
+      <lb n="25"/>ren. Um 11 Uhr nahm ich Phanodorm und ging zu Bett, um 12 Uhr wechte
+      <lb n="26"/>mich mein Bruder Otto mit einem telefonischen Neujahrswunsch.-Heute
+      <lb n="27"/>waren zu Tisch meine alte Tante und die Kinder da. Sie gingen alle
+      <lb n="28"/>gleichzeitig nach dem Essen wieder fort. Sonst bin ich wied er den gan-
+      <lb n="29"/>zen Tag und Abend allein. Um die Mittagszeit war ich eine Viertelstunde
+      <lb n="30"/>an der Luft. Es war nasskalt und rutschig. Am Nachmittag habe ich am</seite></div></body></text></TEI>

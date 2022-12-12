@@ -1,116 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp624"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 28. Dezember 1928</title>
-            <title type="alternative" when-iso="1928-12-28"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp624"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="624">
-               <lb n="01"/>An A.S., Berlin.
-      <lb n="02"/>Wien, 28.12.1928.
-      <lb n="03"/>Liebster,
-      <lb n="04"/>ich bin erst nach 8 Uhr von der Alma nach Hause gekommen,
-      <lb n="05"/>habe genachtmahlt und will Dir nun rasch meine Impressionen schil-
-      <lb n="06"/>dern, so lange sie noch frisch sind. Ich habe noch nie eine so komische
-      <lb n="07"/>Mischung von Boheme und Kleinbürgerlichkeit gesehen. In dem schmalen,
-      <lb n="08"/>etwas schlamperten Vorzimmer stürzte ein Mittelding zwischen Diener
-      <lb n="09"/>und Groom freudegrinsend auf mich zu, half mir ablegen und schob mich
-      <lb n="10"/>in ein Zimmer, wo mich Werfel erwartete und mir eine Entschuldigungs-
-      <lb n="11"/>rede wegen der Gedichte halten wollte. Ich erklärte ihm, ich sei xxx
-      <lb n="12"/>nicht böse. Alma tauchte einen Augenblick in einem unmöglichen niel-
-      <lb n="13"/>grünen tiefdecolletierten Teagown auf, begrüsste mich mit grosser
-      <lb n="14"/>Herzlichkeit und hoffte mich später zu sehen. Diverse Mäntel im Vor-
-      <lb n="15"/>zimmer hatten mir Gäste verraten, die ich später zu sehen bekam. In-
-      <lb n="16"/>dessen sprach Werzel lang mit mir über meine Gedichte, von denen er
-      <lb n="17"/>sagte, dass sie ihm, je öfter er sie liest, desto stärker berühren, d.h.
-      <lb n="18"/>eine Anzahl von ihnen. Die, die ihm nicht gefallen, sind alle aus frü-
-      <lb n="19"/>heren Zeiten und ich verstand sehr gut, was er meinte und mir gefallen
-      <lb n="20"/>sie auch nicht mehr. Gut sind mit wenigen Ausnahmen nur die, die ich
-      <lb n="21"/>im Zusammenhang mit Dir gemacht habe, oder vielmehr in den glücklichen
-      <lb n="22"/>und unglücklichen Stimmungen der letzten Jahre. Er sagte aber, dass
-      <lb n="23"/>man auch bei den schlechteren Gedichten die starke lyrische Begabung
-      <lb n="24"/>spürt, sie seien alle musikalisch und stark empfunden, nur sprachlich
-      <lb n="25"/>oft abgegriffen und banal. Ich muss ihm Recht geben. Von den späteren
-      <lb n="26"/>Gedichten findet er manche vollendet, besonders die "fraurigen" aus
-      <lb n="27"/>Gardone (Ort und Datum stehen nicht dabei). Er riet mir sehr viel Ge-
-      <lb n="28"/>dichte zu schreiben, denn er glaubt, dass ich noch Bedeutendes leisten
-      <lb n="29"/>könnte und ich solle es ihm zu lesen geben oder vorlesen, wenn ich et-
-      <lb n="30"/>was fertig habe und er hofft, wir werden uns jetzt oft sehen und spre-
-      <lb n="31"/>chen. Ich hatte ein gutes Gefühl nach diesem Gespräch und glaube an</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp624" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp624"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Berlin, 28.12.1929. Hotel Esplanade.
+      <lb n="02"/>Nach dem Frühstück.
+      <lb n="03"/>Mein Liebes, Chronik der Reise. Den Hollywood-Roman ausgelesen (Schluss
+      <lb n="04"/>überhetzt), – Nachtmahl à la carte im Speisewagen. Zufällig gegenüber
+      <lb n="05"/>Schriftsteller Victor Willner (bei Ullstein, Querschnitt, auch
+      <lb n="06"/>Tempo) - Leidlich geschlafen, Ankunft bei Regen (wenig). Esplanade; -
+      <lb n="07"/>angenehmes Zimmer mit Bad (wenn nur die Douche ginge!) - Heini um
+      <lb n="08"/>10. Gegen 11 zur Probe; -fertig gemacht; 3 Uhr O.; -bettlägerig. Arnoldo; -
+      <lb n="09"/>viel über die Zustände in Italien und Arnoldos gegenwärtigen Posten,
+      <lb n="10"/>Arbeit, Aussichten; mit ihm spazieren (er ist zum erstenmal in Berlin); -
+      <lb n="11"/>bei O. mit A. gegessen, Heini von der Probe etwas später; - nach 4 im
+      <lb n="12"/>Hotel; - unbeschreibliche Müdigkeit, gelesen (Lit.Echo u. dgl. X - um 27
+      <lb n="13"/>holt mich A.; -in ein ziemlich fern gelegenes Kino, fast unbekannt,
+      <lb n="14"/>aber besonders hübsch; - Ungarische Rhapsodie; vorzüglich - das
+      <lb n="15"/>Ende albern, wegen des dringenden "Happy" - - dann entdeckte ich
+      <lb n="16"/>(durch Vermittlung einender Espl.-Directoren) ein angenehmes stilles
+      <lb n="17"/>Alt-Berliner Restaurant an der Postdamer Brücke (also recht nah)
+      <lb n="18"/>wo ich mit Arnoldo nachtmahlte.-Recht gut geschlafen, mit argen Kopf-
+      <lb n="19"/>schmerzen erwacht - und so müd, dass ich mich nochmals hinlegte. Te-
+      <lb n="20"/>lefonische Gespräche mit Dora, Frau Fischer, Heini; -will im Tiergarten
+      <lb n="21"/>spazieren gehen (Wetter wieder kühl und klar) - und zu Feilchenfeld.-
+      <lb n="22"/>Zu Tisch bei Mimi und Viki.-Abends ins Theater,Petroleuminseln, worin
+      <lb n="23"/>Heini zwei Rollen spielt.
+      <lb n="24"/>Lebwohl, mein Liebes- ich bin mit meinen besten und innigsten Gedanken
+      <lb n="25"/>bei Dir. Ich küsse Dich sehr. Dein A.</seite></div></body></text></TEI>

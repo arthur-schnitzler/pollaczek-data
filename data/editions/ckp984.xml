@@ -1,118 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp984"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Tagebuch von Clara Katharina Pollaczek, 30. September – 5. Oktober 1931</title>
-            <title type="alternative" when-iso="1931-09-30"/>
-            <title type="alternative" when-iso="1931-10-01"/>
-            <title type="alternative" when-iso="1931-10-03"/>
-            <title type="alternative" when-iso="1931-10-04"/>
-            <title type="alternative" when-iso="1931-10-05"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp984"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="984">
-               <lb n="01"/>irgendwie Unfreundliches gesprochen und doch klang seine Stimme ver
-      <lb n="02"/>ärgert. Vielleicht ist es nur sein Befinden– –
-      <lb n="03"/>1ten Oktober.
-      <lb n="04"/>Rief nach langer Zeit D'r D. an, der herzlos und kurz angebunden war, und mir
-      <lb n="05"/>den Zustand A’s (nach der letzten Röngen-Untersuchung, als sehr
-      <lb n="06"/>schlimm darstellt, ohne irgend welche Verordnungen zu treffen. Ich hoffe
-      <lb n="07"/>er will mir nur Angst machen, damit ich nichts rede Alles hinnehme –
-      <lb n="08"/>Ach das tu ich ja sowie so.
-      <lb n="09"/>
-               <hi rend="underline" n="">3ten Okt.</hi>
-               <lb n="10"/>Mittag Carry u. Magdy, später Roman dictiert. Abend Kino mit A.
-      <lb n="11"/>Guter Kriminal-Film mit der Brig. Helm. – Sehr lieber Brief von Hery.
-      <lb n="12"/>
-               <hi rend="underline" n="">4ten Sonntag.</hi>
-               <lb n="13"/>Einsam V. Mittag spazieren gegangen, da A. ablehnte mit mir zu gehen– – –
-      <lb n="14"/>Abend Kino bei »Entehrt<supplied>«</supplied> mit Marlene Dietrich nachher bei ihm. Eifrige
-      <lb n="15"/>Conversation und Verlegenheit. Ich gieng bald. Er begleitete mich bis
-      <lb n="16"/>vor meine Türe.
-      <lb n="17"/>5 ten Oktober.
-      <lb n="18"/>Heute endlich eine kleine Freude. A. rief in der Früh an es sei so herrli
-      <lb n="19"/>ches Wetter, dass er mit mir ausfahren möchte. Wir fuhren bis zum Sommer-
-      <lb n="20"/>Haidenweg u. giengen zu Fuss weiter und durch den Dornbacher-Park bis
-      <lb n="21"/>nach Dornbach. Der Himmel strahlend blau die Bäume alle wie vergoldet.
-      <lb n="22"/>Ich sagte ihm dass ich seit langer Zeit einmal ein bischen froh bin.
-      <lb n="23"/>Er streichelte meine Wange. Später sassen wir auf einer Bank. Ich nahm
-      <lb n="24"/>seine Hand. Thränen kamen mir in die Augen. Um uns fiel leise das Laub zu
-      <lb n="25"/>Boden– – –
-      <lb n="26"/>N.M. bei Emmy Sachs gewesen. Gut mit ihr gesprochen. Sie ist amüsant.
-      <lb n="27"/>A. Abend bei seiner Schwester Hajek.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp984" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp984"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Ich habe D'r D. letzthin erklärt, ich werde zuschaun, wie lange ich diese
+      <lb n="02"/>neue Vereinbarung aushalte, was daraus wird und wie ich mich dabei fühle.
+      <lb n="03"/>Ich werde kaum lange zuschauen können – nur A. muss es erst besser gehen, ich
+      <lb n="04"/>leide und lieb ihn doch–
+      <lb n="05"/>Ich schreib nichtmehr täglich ein weil mein Leben mich anekelt – Ich umkrei¬
+      <lb n="06"/>se sein Haus – fühl alle Unwahrheiten. Dazu trostloses Wetter – Kälte schon
+      <lb n="07"/>jetzt. Man muss heizen u. den Pelz anziehen. Manchmal schreib ich an meinem
+      <lb n="08"/>Roman, aber es giebt Tage, wo ich einfach nichts tue – vor mich hinstarre.
+      <lb n="09"/>Dieser furchtbar frühe Herbst, und ein Winter wird kommen– –
+      <lb n="10"/>Sonntag 20ten September.
+      <lb n="11"/>Mittag mit A. bei Szolnay (Col Alto Palais) zu Tisch mit den jungen Zsolnays.
+      <lb n="12"/>(<hi rend="underline" n="">Sie</hi> Tochter der Alma) Werfel ohne Alma (die in Italien zur Kur) Tandler.
+      <lb n="13"/>Ganz angenehm. Abend allein mit A. Trostlos.
+      <lb n="14"/>21. Heute sagt mir A. am Telefon sehr beiläufig, die Cl sei am Vormittag
+      <lb n="15"/>auf einen Sprung bei ihm gewesen, so als ob er sie in der Woche die sie in
+      <lb n="16"/>Wien ist noch nicht gesehen hätte – Lügen nichts als Lügen. Welche Rolle
+      <lb n="17"/>spiele ich dabei? Und wozu– –
+      <lb n="18"/><date>22ten</date>
+      <lb n="19"/>Abend Kino, dann jeder nach Hause. Süd-See Film. Ödigkeit. Ich gebe mir
+      <lb n="20"/>umsonst Mühe freundlich zu sein.
+      <lb n="21"/>23. Sept. A. Abend endlich bei mir. Ihm das erste Roman-Kapitel vorge¬
+      <lb n="22"/>lesen. Er findet es ausgezeichnet. Sonst trostlos öd – – Sein Aussehen arg.
+      <lb n="23"/>Welche Conflikte müssen in ihm sein– Und Dr. D. versteh ich nicht.
+      <lb n="24"/>24ten. Sturm Regen Kälte Einsamkeit. 2. Kapitel begonnen Mit A. nur kurzes
+      <lb n="25"/>Gespräch am Nachmittag. Cl. offenbar bei ihm. Diese Person gehört nieder¬
+      <lb n="26"/>geschlagen.
+      <lb n="27"/>25.ten
+      <lb n="28"/>Unangenehme Zahnbehandlung. Schmerzen. Regen Sturm.– Von Hery guten Brief.
+      <lb n="29"/>arbeitet und fühlt sich wol. Soll am Abend mit A. in die Oper, fürchte mich</seite></div></body></text></TEI>

@@ -1,116 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp542"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 28. April 1928</title>
-            <title type="alternative" when-iso="1928-04-28"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp542"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="542">
-               <lb n="01"/>auf hoher, aber spiegelglatter See,
-      <lb n="02"/>28.4.1928 Vormittag
-      <lb n="03"/>etwas westlich von Kephalonia, in den jonischen
-      <lb n="04"/>Inseln.
-      <lb n="05"/>Mein Liebes, seit Rhodus sind wir auf der Heimreise, das Wetter ist
-      <lb n="06"/>herrlich, heute fast schon zu warm, das Meer rührt sich nicht, man
-      <lb n="07"/>könnte glauben, dass das Schiff stille steht. Mein Befinden ist gut
-      <lb n="08"/>(heute nur durch etwas Kopfweh gestört). Man findet mein Aussehen vor-
-      <lb n="09"/>trefflich und ich hoffe die Reise wird mir - ganz abgesehen von der
-      <lb n="10"/>Freude mit Lili zu sein und von dem vielen neuen und merkwürdigen, das
-      <lb n="11"/>wir gesehen- von Vortheil geworden sein. - Gestern habe ich übrigens
-      <lb n="12"/>zum ersten Mal meine Manuscripte vorgenommen; Zug der Schatten. Heute
-      <lb n="13"/>kommt der Schluss dran. Ich denke, es wird nicht gar zu viel Mühe
-      <lb n="14"/>kosten die Sache dictir- und aufführungsreif zu machen. - Im allge-
-      <lb n="15"/>meinen habe ich kaum was gearbeitet, bin sehr viel auf Deck herumge-
-      <lb n="16"/>laufen, auch gelegen, habe gelesen, Paléologue und Dreyser, bisher
-      <lb n="17"/>zwei Bände - in der grössten Spannung hab ich abgebrochen und he-
-      <lb n="18"/>be mir den 3. Band für die Heimreise auf, Sie jedenfalls Donnerstag,
-      <lb n="19"/>sei es zu Luft oder zu Erde stattfinden wird. Dieser Brief geht in
-      <lb n="20"/>Ragusa ans Land. Vor Mittwoch wirst Du ihn kaum haben, vielleicht
-      <lb n="21"/>aber kommt er erst nach mir an. Und morgen in Raguza habe ich hof-
-      <lb n="22"/>fentlich einen Brief von Dir. Ich habe bisher nur den kurzen Brief,
-      <lb n="23"/>den ich in Constantinopel an Bord erhielt, - der Athenienser fehlt
-      <lb n="24"/>und drei Karten. Also natürlich noch auf keine meiner Nachrichten ei-
-      <lb n="25"/>ne Antwort; und weiss seit 10 Tagen, wenn nicht länger, nicht was Du
-      <lb n="26"/>denkst und tust. Morgen werd ich hoffentlich einigermassen entschä-
-      <lb n="27"/>digt werden und in Venedig find oder erhalt ich doch jedenfalls
-      <lb n="28"/>auch noch Nachricht und Freitag spätestens sehe und spreche ich
-      <lb n="29"/>Dich wieder - und wir wollen gute und schöne Tage haben.
-      <lb n="30"/>Ausser mit Lili und Arnoldo sprech ich hier am meisten mit Prof.
-      <lb n="31"/>Liepmann, der nicht Psychiater ist, sondern Chirurg und Gynäkolog,</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp542" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp542"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Wien, 26.4.1928.
+      <lb n="02"/>An A.S.Mittelmeer.
+      <lb n="03"/>Liebster.
+      <lb n="04"/>gesarn kam Dein lieber ausführlicher Bericht aus Athen. Ich
+      <lb n="05"/>begreife nicht, dass Du nurmeine Ansichtskarten bekamst und nicht mei-
+      <lb n="06"/>nen eingeschriebenen Brief. In Constantinopel müssen Dich zwei Briefe
+      <lb n="07"/>und eine Karte erwartet haben. Nach Ragusa schrieb ich auch einen Brief
+      <lb n="08"/>mit dem eingelegten Feuilleton von Raoul A., Über das hier überall Er-
+      <lb n="09"/>staunen und Unwille herrscht. Auch die Hofrätin Z., mit der ich eben
+      <lb n="10"/>sprach, und die noch nicht gesund ist, war empört. Noch dazu ist der
+      <lb n="11"/>Roman noch gar nicht erschienen und ich verstehe nicht die Eile die
+      <lb n="12"/>er hatte darüber zu schreiben. Er soll gestern nach Paris gefahren sein.
+      <lb n="13"/>Hier sind so schreckliche Erdbebenbgerüchte in der Zeitung,
+      <lb n="14"/>dass ich gestern die Cosulich-Linie anrief, die mir nach telegraphisch er
+      <lb n="15"/>Erkundigung mitteilte, dass Euer Schiff programmgemäss Constantinöepl
+      <lb n="16"/>verlassen hat. Mimi und Viki sitzen fest in Athen und können nicht fort.
+      <lb n="17"/>Heute bin ich zum Tee bei Königswarter, am Abend zum ersten Mal bei
+      <lb n="18"/>Breisach. Diese Zeilen treffen Dich wohl in Triest und am Tag nachher
+      <lb n="19"/>bist Du ja voraussichtlich hier. Ich hoffe und wünsche, dass Du sehr
+      <lb n="20"/>erholt und von Deiner Reise durchaus befriedigt heimkehrst. Ich muss
+      <lb n="21"/>mich jetzt rasch umkleiden, da Gisela Berger mich holt. Sie ist über
+      <lb n="22"/>R.A. auch empört. Für mich ist der Mann erledigt.
+      <lb n="23"/>Innig umarmt Dich Deine
+      <lb n="24"/>C.K.</seite></div></body></text></TEI>

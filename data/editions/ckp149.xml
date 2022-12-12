@@ -1,91 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp149"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Zwischenbemerkung, Winter 1924/1925</title>
-            <title type="alternative" when-iso="1924-12-01"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp149"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="149">
-               <lb n="01"/>Winter 1925.
-      <lb n="02"/>Meine pekuniären Verhältnisse hatten sich so verschlech-
-      <lb n="03"/>tert, dass ich den grössten Teil meiner Wohnung auf ein Jahr für 600 S.
-      <lb n="04"/>monatlich vermittete und in ein kleines Zimmer ins Hotel Regina zog.
-      <lb n="05"/>Nur meine Söhne konnten in ihrenZimmern bleiben.
-      <lb n="06"/>99</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp149" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp149"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>18.8.1924. Bl. 2.
+      <lb n="02"/>wieder zu ihrer Gesellschaft, die ich einfach nicht mehr ertrage und
+      <lb n="03"/>halten sich nur meinetwegen einen Tag in Luzern auf, damit ich nicht
+      <lb n="04"/>allein bin. Auch wollen sie mir die guten Geschäfte zeigen, da sie
+      <lb n="05"/>schon oft dort waren.
+      <lb n="06"/>Morgen wird gepackt und Mittwoch Nachmittag fahren wirahinunter. Die
+      <lb n="07"/>Intriguen, Tratschereien etc. sind hier an der Tagesordnung und die
+      <lb n="08"/>schöne Gegend leidet unter dem immer unsicheren trüben Wetter. Die
+      <lb n="09"/>Sonne kommt nur auf eine halbe Stunde heraus und blendet und brennt
+      <lb n="10"/>dann in einer unangenehmen Art. Ich kann alles Undezidierte nicht lei-
+      <lb n="11"/>den. Einen einzigen Tag war ein strahlend blauer Himmel. An meiner No-
+      <lb n="12"/>velle hab ich noch nicht viel gearbeitet, circa 8 Seiten Kanzleipapier,
+      <lb n="13"/>aber das Wenige scheint mir nicht schlecht.
+      <lb n="14"/>Ich freue mich schon so auf die versprochene Vorlesung und auf unser
+      <lb n="15"/>Zusammensein und überhaupt.-
+      <lb n="16"/>Ich bin sehr stolz und glücklich, dass ich Dir etwas bin - ich zweifle
+      <lb n="17"/>ja so oft - aber heute glaube ich es wieder. Dass Dir der Abschied von
+      <lb n="18"/>Heini schwer wurde kann ich sehr, sehr gut verstehn und ich habe oft
+      <lb n="19"/>daran gedacht. Hoffentlich wird ihm der Aufenthalt in B. seinen Wün-
+      <lb n="20"/>schen näherbringen und ihn künstlerisch befriedigen. Wievieles möchte
+      <lb n="21"/>ich noch sagen und fragen, aber mündlich wird das besser gehn. Lebwohl
+      <lb n="22"/>Liebster, ich küsse Dich innig. Dein von ganzem Herzen.
+      <lb n="23"/>Clara Katharina.
+      <lb n="24"/>98</seite></div></body></text></TEI>

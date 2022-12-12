@@ -1,117 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp703"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Tagebuch von Clara Katharina Pollaczek, 8. Juni 1929 – 14. Juni 1926</title>
-            <title type="alternative" when-iso="1929-06-08"/>
-            <title type="alternative" when-iso="1926-06-09"/>
-            <title type="alternative" when-iso="1926-06-11"/>
-            <title type="alternative" when-iso="1926-06-12"/>
-            <title type="alternative" when-iso="1926-06-13"/>
-            <title type="alternative" when-iso="1926-06-14"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp703"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="703">
-               <lb n="01"/>da Frau T. mir telefonierte, er benehme sich elend gegen Mädi. Ich ver
-      <lb n="02"/>mute Lola dahinter, früheres Verhältnis.)
-      <lb n="03"/>9.6. Fühle mich so wohl wie schon lange nicht, fast etwas übermütig.
-      <lb n="04"/>Als ob das Fieber alle bösen Bazillen mit fort genommen hätte. Sommer
-      <lb n="05"/>wetter. A. holt mich um ¼ 12 zum Spazierenfahren.
-      <lb n="06"/>11.6. Gestern und heute Abend Kino mit A., der sehr lieb ist. Unangenehme
-      <lb n="07"/>Debatten mit Harry. Jetzt, da es ernst werden soll, behauptet er, er habe
-      <lb n="08"/>Angst vor der Ehe.
-      <lb n="09"/>12.6. Harry ruft jede Stunde an – er weiss nicht was er tun soll. Ich
-      <lb n="10"/>sage ihm immer wieder, dass er bei einem solchen Mangel an Begeisterung
-      <lb n="11"/>es nicht tun darf. Er möchte, dass ich ihm zurede, damit er mir nachher
-      <lb n="12"/>Vorwürfe machen kann oder behaupten, er habe es mir zulieb getan.
-      <lb n="13"/>½6. Harry teilt mir mit, er habe sich eben verlobt, um ½ 7 kommen sie zu
-      <lb n="14"/>mir.
-      <lb n="15"/>13.6. Gestern Abend mit A. bei »Katharina Knie« mit Bassermann. B.herr
-      <lb n="16"/>lich. War sehr erschüttert.
-      <lb n="17"/>Vorm. Besuch von Baron Melingo, habe ihn gebeten Harry vor schädlichen
-      <lb n="18"/>Einflüssen zu schützen und vor Lola.
-      <lb n="19"/>14.6. Gestern Abend Verlobungsessen in einem Separée des Hotel Krantz.
-      <lb n="20"/>Uebertrieben chick und elegant, Abendkleider und Smoking. Nach einer
-      <lb n="21"/>halben Stunde trug man mir das Du an.
-      <lb n="22"/>Heute Vorm. Stadt. Nachm. Alma Mahler. Anregend wie immer, aber mit Vor
-      <lb n="23"/>sicht zu gebrauchen. Schimpferei über die O., wie gewöhnlich. Versteht
-      <lb n="24"/>nicht, dass ich A. nicht heirate. Ich sage ihr, daß mir der Gedanke un
-      <lb n="25"/>erträglich wäre. Sie lässt durchblicken, dass Sie Wenzel heiraten möchte
-      <lb n="26"/>(sie sagt, nur wegen der 12jährigen Tochter, die sie im Haus hat).
-      <lb n="27"/>Am Abend im Kino und bei der »Linde« genachtmahlt. A. sehr liebevoll.</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp703" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp703"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Auch ein Ausspringen, wenn ich es zusammen brächte, würde er jetzt nicht
+      <lb n="02"/>ertragen.
+      <lb n="03"/>Heute Abend wieder Kino dann »Linde« genachtmahlt. Wetter trüb, reg¬
+      <lb n="04"/>nerisch, kühl. Stimmung mittelmässig. Dr. D. sagt mir telefonisch, dass er
+      <lb n="05"/>jetzt sicher ist, dass A.’s Erkrankung rein nervös war.
+      <lb n="06"/>1.6. A. war Vor- und Nachmittag ein Stündchen bei mir. Nachmittag beson¬
+      <lb n="07"/>ders zärtlich. Ich verhätschle ihn wie ein kleines Kind. Eine Weile
+      <lb n="08"/>sassen wir ganz still, seinen Kopf an meine Brust geschmiegt. Ich
+      <lb n="09"/>dachte, was für ein armes, altes, trauriges Männchen und ich hatte ihn
+      <lb n="10"/>unendlich lieb. Ich habe jetzt oft Empfindungen einer Tochter und Mutter
+      <lb n="11"/>gleichzeitg für ihn.
+      <lb n="12"/>2.6. Sonntag. Vormittag grosser Autoausflug. Breitenfurt, Hochrother Kal¬
+      <lb n="13"/>tenleutgeben. Herrliche Landschaft, saftgrüne Wiesen, blauer Himmel. Ueber
+      <lb n="14"/>der Sonne ein leichter Schleier wie über unserer Stimmung. A. nach
+      <lb n="15"/>dem Mittagessen (Weide in St. Veit) leichtes Unbehagen. 4 Uhr zuhause.
+      <lb n="16"/>Gefaulenzt. Abend bei ihm. Ruhig, gemütlich.
+      <lb n="17"/>3.6. Vorm. Stadt, Mittag Cari, Magda, Fredi (alle sehr heiter). Nachm.
+      <lb n="18"/>Hofrätin Z. zum Thee. Anregende Konversation. Abend mit A. Kino (In¬
+      <lb n="19"/>sel der Liebe). Furchtbarer Schmarrn. Dann »Linde« genachtmahlt. Lauere
+      <lb n="20"/>Stimmung. Wetter kühl, regnerisch.
+      <lb n="21"/>4.6. Fühle mich elend, müd, zerschlagen. Wetter meist kühl.
+      <lb n="22"/>6.6. Mittag Bei Wellesz Kaasgraben (schon gefiebert). Sollte Abends ins
+      <lb n="23"/>Theater, musste verzichten. A. bei mir. Wir haben uns sehr lieb.
+      <lb n="24"/>7.6. 38.6 Temperatur. Husten. Cary als Arzt bei mir. A. 2Mal täglich,
+      <lb n="25"/>sehr lieb und zärtlich mit mir.
+      <lb n="26"/>8.6. Befinden gebessert. 37.8 Tempt. Arger Husten. A. Abend bei mir.
+      <lb n="27"/>Radiokonzert und bessere Stimmung. Mittag mit Harry furchtbarer Krach.</seite></div></body></text></TEI>

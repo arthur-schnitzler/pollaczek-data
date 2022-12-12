@@ -1,101 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp224"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Tagebuch von Clara Katharina Pollaczek, 1.–4. Juli 1925</title>
-            <title type="alternative" when-iso="1925-07-01"/>
-            <title type="alternative" when-iso="1925-07-02"/>
-            <title type="alternative" when-iso="1925-07-04"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp224"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="224">
-               <lb n="01"/>1. Juli 1925.
-      <lb n="02"/>3axaxka2s
-      <lb n="03"/>nötig. Wunderbarer Abend.
-      <lb n="04"/>2.7. Von Cary Telegramm, dass er seine Prüfung gut überstanden hat.
-      <lb n="05"/>Ich bin so froh über den lieben Buben. Ausflug nach Wolkenstein.
-      <lb n="06"/>Friedliches gutes Zusammensein, trotzdem es zeitweise regnete. Immer
-      <lb n="07"/>wärmere Stimmung. Wunderschöner Abend bei Musik (im Hotel Bristol) -
-      <lb n="08"/>dann nach Hause. Wunderbare, seltsame Nacht.
-      <lb n="09"/>4. Juli. Gestern gebummelt. Sehr guter Tag. Fertig gepackt, um 4 Uhr geht
-      <lb n="10"/>es heimwärts, Wirklich schöne Stunden lassen schlimme immer so rasch
-      <lb n="11"/>vergessen. Vielleicht gehört der Schmerz dazu. Vielleicht empfindet
-      <lb n="12"/>man dann umso stärker wie sehr man miteinander verwachsen ist.- -
-      <lb n="13"/>Es war doch schön!
-      <lb n="14"/>174</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp224" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp224"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>de
+      <lb n="02"/>25.6.1925.
+      <lb n="03"/>nach St.Martino antreten.
+      <lb n="04"/>vergangen, die
+      <lb n="05"/>Sonne und Himmelsbläue leider nach einer S-
+      <lb n="06"/>sehr
+      <lb n="07"/>er Beziehung hier
+      <lb n="08"/>darunter litt. Es fehlt dieser Reise, wie um
+      <lb n="09"/>an Sonne und Wärme des Herzens. Sinne - nur Sinne, das langt nicht.
+      <lb n="10"/>28.6. Ich bin nicht glücklich. Nein - ich bin bin nichtl glüklich.
+      <lb n="11"/>29.6. Grosser Autoausflug Karersee,Pordoi-Pass (2500 m) Col di Lana
+      <lb n="12"/>nach Cortina. Dort Hotel Bristol, 2 Stunden Rast. Dann über das Ampezzo-
+      <lb n="13"/>tal Landro,Toblach, Brixen zurück. Die Fahrt herrlich. Eine Fülle der
+      <lb n="14"/>schönsten verschiedenartigsten Landschaften - an den zerschossenen
+      <lb n="15"/>Stellungen der Italiener und Oesterreicher vorüber (ergreifend),an
+      <lb n="16"/>Heldenfriedhöfen, zwischen schneebedeckten Berggipfeln vorbei in die
+      <lb n="17"/>blühendsten Täler hinunter. 8 Stunden gefahren. Anfänglich gute Stim-
+      <lb n="18"/>mung, später Düsterkeit, kaum ein liebes Wort und wenn ich dann stumm
+      <lb n="19"/>und kühl werde, Erstaunen von seiner Seite. Verstimmung und schliess-
+      <lb n="20"/>lich sogar schlimme Worte von beiden Seiten. Und so werden diese paar
+      <lb n="21"/>Tage vergehen, auf die man ein Jahr lang gewartet hat. Ich empfinde
+      <lb n="22"/>das Verrinnen solcher Stunden wie ein physisches Leid. Baden-Baden
+      <lb n="23"/>ist Schuld.
+      <lb n="24"/>30. Juni. Ein böser tränenreicher Tag, dem endlich ein schöner, wunder-
+      <lb n="25"/>schöner Abend folgte. Ich schrieb ihm einen Zettel in sein Zimmer:
+      <lb n="26"/>"Ich reise ab, so geht es nicht weiter. So ein Zusammensein ist sinnlos".
+      <lb n="27"/>stellte ihn vor die Wahl - er wählte mich. Warum man sich doch so
+      <lb n="28"/>quält, wenn man sich doch so gerne hat.
+      <lb n="29"/>1. Juli. Herrlicher Ausflug über die Mendel zum Morenosee und zurück
+      <lb n="30"/>über Trient. Die Landschaft zwischen Moreno und Trient wie A. sich
+      <lb n="31"/>äusserte, eine dramatische Landschaft. Mich erinnern diese Felsen an
+      <lb n="32"/>den Turmbau zu Babel im kunsthistorischen Museum (von Breughel glaub
+      <lb n="33"/>ich). - Am Abend hat A. meine Novelle zu Ende gelesen, "das Kind der
+      <lb n="34"/>Liebe". Viel darüber gesprochen. Zum Schluss noch grössere Änderungen
+      <lb n="35"/>-
+      <lb n="36"/>173</seite></div></body></text></TEI>

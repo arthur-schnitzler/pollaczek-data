@@ -1,99 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp456"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 13. August 1927</title>
-            <title type="alternative" when-iso="1927-08-13"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp456"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="456">
-               <lb n="01"/>13.8.1927 Bl.3
-      <lb n="02"/>ich will mir freilich die Zimmer erst besehen.
-      <lb n="03"/>Und nun, mein Liebes, will ich Dir Adieu sagen und mir nxxxx was zum
-      <lb n="04"/>arbeiten herneumen (es ist 4 Uhr Nachm.) Ich habe es mir so wohnlich
-      <lb n="05"/>als möglich gemacht; - der Tisch, auf dem ich schreibe, wackelt nicht
-      <lb n="06"/>mehr und als zweiten Tisch benütz ich das zweite Bett, dazu eignet
-      <lb n="07"/>es sich besser als zum schlafen. Ich bin sehr gespannt, was Du mir
-      <lb n="08"/>aus Schloss Wildon berichten wirst. Du wirst hoffentlich ruhige und
-      <lb n="09"/>heitere Tage dort haben.
-      <lb n="10"/>Ich umarme Dich zärtlich - Diesen Brief (wenn kein Telegramm kommt,
-      <lb n="11"/>das anderes erbittet ) beantworte jedesfalls nach Bolzano post.rest.
-      <lb n="12"/>(recommandiert). (Express hat keinerlei Vortheile). Dein A.
-      <lb n="13"/>- - -
-      <lb n="14"/>34</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp456" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp456"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>3.8.1927 Bl.2.
+      <lb n="02"/>wohnte) gekommen - und von hier nach Riva (zu Goldmann) geradelt-
+      <lb n="03"/>Um 8 Uhr erschien Heini von einer 2tägigen Tour (Presanella), die er
+      <lb n="04"/>mit dem Sohn Pieterkowsky unternommen; in bester Condition. Morgen
+      <lb n="05"/>oder Übermorgen (ich erwarte ein Telegramm von Steffenelli) Hinunter-
+      <lb n="06"/>fahrt. In Bozen fand ich eine Depesche von Dora: Sie ist Sonntag
+      <lb n="07"/>Abend in Bozen und fahrt Montag Karersee, Latemarhotel, -O. fährt mit
+      <lb n="08"/>P.'s Karerseehotel, wo sie mit Frau Schneider und Dr.Billiter zusam-
+      <lb n="09"/>mentrifft; ich habe mir nach Bozen ein Telegramm von Fischer beteilt;
+      <lb n="10"/>wegen Zimmer bei Stemmelmann - möcht ev. schon Dienstag hinauf und
+      <lb n="11"/>ev. Freitag wieder in Bozen sein. Du wirst wohl Mittwoch wied er ein
+      <lb n="12"/>Telegramm haben. Die Hotelverhältnisse haben sich hier (wie das meiste)
+      <lb n="13"/>seit zwei Jahren zum schlechtern geändert; beinahe nirgends ist
+      <lb n="14"/>man gut, erzählt auch Steffenelli; und es ist viel theurer geworden.
+      <lb n="15"/>Jedenfalls hoff ich sehr etwas gefunden zu haben, eh Du in Bozen
+      <lb n="16"/>ankommst.
+      <lb n="17"/>Ich befinde mich heut mässig: xxx miserables Bett, harte Polster; - dazu
+      <lb n="18"/>eine keineswegs tadellose Butter (von den übrigen Calamitäten abge-
+      <lb n="19"/>sehen); - dazu Sirocco - jetzt aber hat es sich umzogen und es gewit-
+      <lb n="20"/>tert in der Runde. Zu Mittag waren wir im untern Hotel bei Pieter-
+      <lb n="21"/>kowskys zu Gast, es wimmelt es von sogenannt bestem Publikum. So ist
+      <lb n="22"/>beispielsweise der amerikanische Botschafter von Deutschland dort -
+      <lb n="23"/>eine Nichte des Papstes mit Gattin; - und ein Herr, der direkt von
+      <lb n="24"/>Dante Aligheri abstammt; - von geringern Marchesen und Contes nicht zu
+      <lb n="25"/>reden. Ich wollte hin übersiedeln, - schon wegen des Dante, aber es ist
+      <lb n="26"/>buchstäblich kein Loch drüben frei wie in ganz Campiglio. Wie mir
+      <lb n="27"/>Herr Uesterreicher (der Besitzer) sagte, gibt es - soweit bessere
+      <lb n="28"/>Hotels in Frage kommen - nur auf der Mendel Quartier, freilich vom
+      <lb n="29"/>20. an sinkt alles rapid herab. Du hast hoffentlich meine Depesche
+      <lb n="30"/>bekommen und schreibst von dort hieher, so dass ich Montag schon ein
+      <lb n="31"/>Wort von Dir in Bozen finde. Ich glaube nicht, dass ich wieder im
+      <lb n="32"/>Laurin wohnen werde. Steffenelli räth mir etliche andere - aber
+      <lb n="33"/>33</seite></div></body></text></TEI>

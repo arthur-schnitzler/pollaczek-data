@@ -1,121 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ckp468"
-     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
-                                    ich«</title>
-            <title level="a">Tagebuch von Clara Katharina Pollaczek, 23.–28. August 1927</title>
-            <title type="alternative" when-iso="1927-08-23"/>
-            <title type="alternative" when-iso="1927-08-24"/>
-            <title type="alternative" when-iso="1927-08-25"/>
-            <title type="alternative" when-iso="1927-08-26"/>
-            <title type="alternative" when-iso="1927-08-27"/>
-            <title type="alternative" when-iso="1927-08-28"/>
-            <author ref="#12435">Pollaczek, Clara Katharina</author>
-            <editor>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </editor>
-            <funder>
-               <name>FWF - Der Wissenschaftsfonds</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>A</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>CKP</edition>
-            <respStmt>
-               <resp>Transkription und Kommentierung</resp>
-               <name>Müller, Martin Anton</name>
-               <name>Untner, Laura</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural
-                                    Heritage</publisher>
-            <pubPlace>Vienna</pubPlace>
-            <date when="2022">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-               </licence>
-            </availability>
-            <idno type="handle"/>
-         </publicationStmt>
-         <seriesStmt>
-         </seriesStmt>
-         <sourceDesc>
-            <listWit>
-               <witness n="1">
-                  <msDesc>
-                     <msIdentifier>
-                        <country>A</country>
-                        <settlement>Wien</settlement>
-                        <repository>Wienbibliothek</repository>
-                        <idno>H.I.N. 155550</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de-AT">German</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="LU" when="2022-12-25">Angelegt</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="ckp468"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="writingSession" n="1">
-            <seite id="468">
-               <lb n="01"/>freundschaftliche Beziehung besteht,– es werde mir dadurch nichts weggenommen, nicht
-      <lb n="02"/>das Geringste. Der Schluss Zärtlichkeiten, (Sinnlichkeit) ohne das einer
-      <lb n="03"/>von uns seinen Standpunkt aufgiebt.
-      <lb n="04"/>24ten Wundervoller Auto-Ausflug mit Steffenelli nach Sulden. Schöner Tag schö-
-      <lb n="05"/>ner Abend in Bozen. Flitterwochen - Stimmung. Aber ich werde ihrer doch nichtmehr
-      <lb n="06"/>froh. Ich weiss was dieser Winter an Qualen bringen wird.
-      <lb n="07"/>25 ten Aug. Fahrt nach Gardone, wo wir bleiben sollen. Reise trotz ihrer Kürze
-      <lb n="08"/>recht abenteuerlich. Nicht zu ernieren ob man in Verona umsteigen, muss oder
-      <lb n="09"/>nicht A. war sehr nervös und zappelig ich sehr ruhig. Bei der Ankunft, Unannehm-
-      <lb n="10"/>lichkeiten wegen des Autos, das sich für ein vom Hotel geschicktes Auto ausge-
-      <lb n="11"/>geben hatte und dann bezahlt werden sollte. A. tobt, wil sofort wieder abreisen,
-      <lb n="12"/>ist mit Allem unzufrieden. Schliezslich behält er wgen des Autos recht und be-
-      <lb n="13"/>ruhigt sich. Sehr ermutet zeitlich zu Bett.
-      <lb n="14"/>26ten Stiller unwesentlicher Tag, aber ich habe zu arbeiten begonnen und das
-      <lb n="15"/>ist sehr wichtig. Aussicht auf den See wundervoll.
-      <lb n="16"/>27 ten Habe A. allein spazieren gehen lassen, will einige Correspondenz erledi-
-      <lb n="17"/>gen, damit mir der Nachmittag zum Arbeiten bleibt. Das Wetter ist himmlisch
-      <lb n="18"/>Ich bin schon viel in der Sonne gelegen. A. rennt ruhelos hin und her.
-      <lb n="19"/>Gegen Mittag gebadet. Ich nur ein wenig im Wasser geplätschert, da ich wegen
-      <lb n="20"/>meiner "Galle" nicht schwimmen soll. A. schwamm weit hinaus, dann lagen wir
-      <lb n="21"/>nebeneinander in der Sonne- und  Wir giengen in den Schwinn- Anzügen
-      <lb n="22"/>ins Hotel zurück. Ich glaube ich habe gut ausgesehen -- A. kam in mein Zimmer--
-      <lb n="23"/>Nachmittag gut und fleissig gearbeitet.
-      <lb n="24"/>Der Abend von einer tiefen Traurigkeit. Wir sind sehr freundlich zu einander,
-      <lb n="25"/>aber wirkliche Herzlichkeit kommt nicht auf. Nicht meine Schuld.
-      <lb n="26"/>In einem Beisel gegessen dann hier in der Halle gelesen. Steppen- Wolf von Hesse-
-      <lb n="27"/>28ten Vormittag Spaziergang nach Fasano. Heiss und stimmungslos. Kan etwas müde
-      <lb n="28"/>heim liess A. allein baden gehn. A. Brief von Dora M. Sie ist mit der O.
-      <lb n="29"/>zusammen. Ich fühle wie diese Frau von allen Seiten arbeitet und die Einflüsse
-      <lb n="30"/>sich in A.'Werhalten mir gegenüber auswirken.
-      <lb n="31"/>Der Abend womöglich noch trister. Wir haben beide bis 7 gearbeitet. Ich wäre</seite>
-         </p></div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp468" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a">Einleitende Worte, Mai 1933</title><title type="alternative" when-iso="1933-05-01"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p><p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p><p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p><p>Hinweise:</p><p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp468"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Tagebuchaufzeichnungen begonnen am
+      <lb n="02"/>22ten 8. 1927 auf der Fahrt von Schloss Neudorf na<supplied>c</supplied>h Botzen
+      <lb n="03"/>Noch nie bin ich mit so wenig guten gefühlen A. entgegengefahren. Ich
+      <lb n="04"/>fürchte mich fast vor diesem Zusammentreffen.
+      <lb n="05"/>Dieser qualvolle Winter die Aufregungen in den Letzten Tagen in Wien und jetzt
+      <lb n="06"/>wieder dieser rücksichtslose Zwang, der auf mich ausgeübt wird.
+      <lb n="07"/>Diese 12 Tage in Schloss Neudorf waren weiss Gott nicht angenehm, trotz der
+      <lb n="08"/>grossen Liebenswürdigkeit der Hausleute. Langweile Krankenhausstimmung.
+      <lb n="09"/>Ich schreibe das ich Freitag komme (der Tag war für unser Zusammentreffen
+      <lb n="10"/>fixiert) Er telegrafiert,- Montag, und dabei bleibt es, ob es mir nun passt
+      <lb n="11"/>oder nicht. Ich habe diese ganze weite unständliche Reise Bolsano von Neudorf
+      <lb n="12"/>nach Bolzano nicht wollen. - ich muss. Es bliebe mir nur übrig nach Wien zurückzu
+      <lb n="13"/>fahren. Und das gäbe Katastrophen. Und wenn er hundertmal betont, dass er
+      <lb n="14"/>nur mich liebt, dass die O. ihm nichts bedeutet, dass er froh ist sie los zu
+      <lb n="15"/>sein, irgendwo braucht er doch ihre intel<supplied>l</supplied>ektuellen und lächerlichen Phrasen  und ihr ko-
+      <lb n="16"/>mödiantisches Getue. Hinter seinem Vorgehen steht nur die O.
+      <lb n="17"/>Meine Gefühle sind nichtmehr was sie waren, es ist zu viel Erbitterung in mir.
+      <lb n="18"/>8 Uhr abend (seit 7 Uhr früh unterwegs) Die grenze passiert. Fraüdende Fahrt,
+      <lb n="19"/>Stimmung sehr down.
+      <lb n="20"/>Eben hat mich eine Dame im Gang angesprochen, ob ich die "berümte" Schriftst
+      <lb n="21"/>stellerin C. K. P. sei. Diese s. g. Berühmtheit wird rasch verblassen, wenn es
+      <lb n="22"/>mit meiner Arbeitsfühigkeit so weiter geht.- In 2% St. soll ich A. wiedrsehen,
+      <lb n="23"/>- ich fürchte mich - das kann nicht gut ausfallen.
+      <lb n="24"/>Mit Verspätung sehr ermattet um dreiviertel elf angekommen. A. an der Bahn.
+      <lb n="25"/>Er sehr beflissen, ich unfähig ein Freundliches Wort zu sagen, trotz Blumen und
+      <lb n="26"/>Früchten in meinem Zimmer.- Er will mich bewegen in seinem Hadezimmer zu baden
+      <lb n="27"/>- ich lehne ab- In der Stimmung, nein. Wie schön war das im Vorjahr--
+      <lb n="28"/>23ten Vor. Mittag Bunmel durch die Stadt. Ich sehe trotz schlechten Schlaf sehr
+      <lb n="29"/>gut aus. A. versucht Zürtlichkeiten, ich bleibe zurückhaltend. Aufforderung
+      <lb n="30"/>mir doch sein Zimmer anzusehen. Schliesslich heftige Auseinandersetzungs
+      <lb n="31"/>Ich soll froh sein, dass zwischen der O. und ihm jetzt eine gute harmlose</seite></div></body></text></TEI>
