@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="mpxml2tei">
+
+    <property name="collection.id" value="171233"/>
+    <!--    <property name="document.id" value="${DOC_ID}"/>-->
+
+    <!--<property name="tei.dir" value="./tei/${document.id}"/>-->
+    <property name="tei.dir" value="./tei/${collection.id}"/>
+    <delete dir="${tei.dir}"/>
+
+    <!--<property name="source.dir" value="./mets/${document.id}"/>-->
+    <property name="source.dir" value="./mets/${collection.id}"/>
+
+    <property name="tmpDir" value="./tmp"/>
+    <delete dir="${tmpDir}"/>
+    <mkdir dir="${tmpDir}"/>
+
+    <property name="lib.dir" value="lib"/>
+
+    <!-- first phase with source.dir as basedir -->
+    <xslt style="./page2tei-main/page2tei-0.xsl" destdir="${tmpDir}"
+        basedir="${source.dir}">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="./saxon/saxon9he.jar"/>
+        <param name="col-id" expression="${collection.id}"/>
+        <!--<param name="col-id"  expression="${document.id}"/>-->
+        <fileset dir="${source.dir}">
+            <include name="*.xml"/>
+        </fileset>
+        <mapper type="glob" from="*_mets.xml" to="*_tei.xml"/>
+    </xslt>
+    <move todir="${tei.dir}">
+        <fileset dir="${tmpDir}"/>
+    </move>
+    <delete dir="${tmpDir}"/>
+    <mkdir dir="${tmpDir}"/>
+
+    <xslt style="./page2tei-main/replace_seite-esc-lb-continued.xsl"
+        destdir="${tmpDir}" basedir="${tei.dir}">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="./saxon/saxon9he.jar"/>
+        <param name="col-id" expression="${collection.id}"/>
+        <!--<param name="col-id"  expression="${document.id}"/>-->
+        <fileset dir="${tei.dir}">
+            <include name="*.xml"/>
+        </fileset>
+        <mapper type="glob" from="*.xml" to="*.xml"/>
+    </xslt>
+    <move todir="${tei.dir}">
+        <fileset dir="${tmpDir}"/>
+    </move>
+    <delete dir="${tmpDir}"/>
+    <mkdir dir="${tmpDir}"/>
+
+    <!-- split files -->
+    <property name="data" value="./data"/>
+    <delete dir="${data}"/>
+    <mkdir dir="${data}"/>
+
+    <xslt style="./page2tei-main/split-files.xsl" destdir="${tmpDir}"
+        basedir="${tei.dir}">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="./saxon/saxon9he.jar"/>
+        <param name="col-id" expression="${collection.id}"/>
+        <!--<param name="col-id"  expression="${document.id}"/>-->
+        <fileset dir="${tei.dir}">
+            <include name="*.xml"/>
+        </fileset>
+        <mapper type="glob" from="*.xml" to="*.xml"/>
+    </xslt>
+    <!--<move todir="${data}">
+        <fileset dir="${tmpDir}"/>
+    </move>
+    <delete dir="${tmpDir}"/>
+    <mkdir dir="${tmpDir}"/>-->
+
+    <xslt style="./page2tei-main/strip-letter.xsl" destdir="${tmpDir}"
+        basedir="${data}">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="./saxon/saxon9he.jar"/>
+        <!--        <param name="col-id" expression="${collection.id}"/>-->
+        <!--<param name="col-id"  expression="${document.id}"/>-->
+        <fileset dir="${data}">
+            <include name="*.xml"/>
+        </fileset>
+        <mapper type="glob" from="*.xml" to="*.xml"/>
+    </xslt>
+    <move todir="${data}">
+        <fileset dir="${tmpDir}">
+            <exclude name="*_tei.xml"/>
+        </fileset>
+    </move>
+    <delete dir="${tmpDir}"/>
+    <mkdir dir="${tmpDir}"/>
+
+    <xslt style="./page2tei-main/p-correction1.xsl" destdir="${tmpDir}"
+        basedir="${data}">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="./saxon/saxon9he.jar"/>
+        <!--        <param name="col-id" expression="${collection.id}"/>-->
+        <!--<param name="col-id"  expression="${document.id}"/>-->
+        <fileset dir="${data}">
+            <include name="*.xml"/>
+        </fileset>
+        <mapper type="glob" from="*.xml" to="*.xml"/>
+    </xslt>
+    <move todir="${data}">
+        <fileset dir="${tmpDir}"/>
+    </move>
+    <delete dir="${tmpDir}"/>
+    <mkdir dir="${tmpDir}"/>
+
+    <xslt style="./page2tei-main/p-correction2.xsl" destdir="${tmpDir}"
+        basedir="${data}">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="./saxon/saxon9he.jar"/>
+        <!--        <param name="col-id" expression="${collection.id}"/>-->
+        <!--<param name="col-id"  expression="${document.id}"/>-->
+        <fileset dir="${data}">
+            <include name="*.xml"/>
+        </fileset>
+        <mapper type="glob" from="*.xml" to="*.xml"/>
+    </xslt>
+    <move todir="${data}">
+        <fileset dir="${tmpDir}"/>
+    </move>
+    <delete dir="${tmpDir}"/>
+    <mkdir dir="${tmpDir}"/>
+
+    <xslt style="./page2tei-main/de-escape.xsl" destdir="${tmpDir}"
+        basedir="${data}">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="./saxon/saxon9he.jar"/>
+        <!--        <param name="col-id" expression="${collection.id}"/>-->
+        <!--<param name="col-id"  expression="${document.id}"/>-->
+        <fileset dir="${data}">
+            <include name="*.xml"/>
+        </fileset>
+        <mapper type="glob" from="*.xml" to="*.xml"/>
+    </xslt>
+    <move todir="${data}">
+        <fileset dir="${tmpDir}"/>
+    </move>
+
+    <delete dir="${tmpDir}"/>
+
+    <!--<property name="arthur-schnitzler-arbeit" value="./arthur-schnitzler-arbeit"/>
+    <delete dir="${arthur-schnitzler-arbeit}"/>-->
+
+    <!-- XXXX remaining: pb-ids (download pages) -->
+    
+    <delete dir="${tei.dir}"/>
+    <delete dir="${source.dir}"/>
+
+</project>
