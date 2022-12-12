@@ -12,7 +12,7 @@
     <xsl:template match="/*">
         <xsl:for-each select="//tei:seite">
             <xsl:variable name="dateiname" as="xs:string">
-                <!--<xsl:choose>
+                <xsl:choose>
                     <xsl:when test="string-length(@id) = 1">
                         <xsl:value-of select="concat('ckp00', @id)"/>
                     </xsl:when>
@@ -25,8 +25,8 @@
                     <xsl:otherwise>
                         <xsl:value-of select="@id"/>
                     </xsl:otherwise>
-                </xsl:choose>-->
-                <xsl:choose>
+                </xsl:choose>
+                <!--<xsl:choose>
                     <xsl:when test="position() &lt; 10">
                         <xsl:value-of select="concat('ckp00', position())"/>
                     </xsl:when>
@@ -39,7 +39,7 @@
                     <xsl:otherwise>
                         <xsl:value-of select="position()"/>
                     </xsl:otherwise>
-                </xsl:choose>
+                </xsl:choose>-->
             </xsl:variable>
             <xsl:result-document href="../data/editions/{$dateiname}.xml">
                 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
