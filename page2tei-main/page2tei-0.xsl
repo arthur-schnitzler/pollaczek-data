@@ -353,11 +353,11 @@
           <xsl:apply-templates select="p:TextLine"/>
         </note>
       </xsl:when>
-      <xsl:when test="@type = ('other', 'paragraph')">
+      <!--<xsl:when test="@type = ('other', 'paragraph')">
         <p facs="#facs_{$numCurr}_{@id}">
           <xsl:apply-templates select="p:TextLine"/>
         </p>
-      </xsl:when>
+      </xsl:when>-->
       <!-- the fallback option should be a semantically open element such as <ab> -->
       <xsl:otherwise>
         <seite>
@@ -585,10 +585,10 @@
     <!-- TODO parameter to create <l>...</l> - #1 -->
     <xsl:text>
       </xsl:text>
-    <xsl:if test="contains(@custom, 'type:paragraph')">
-      <!--<xsl:text>&lt;p&gt;</xsl:text>-->
+    <!--<xsl:if test="contains(@custom, 'type:paragraph')">
+      <!-\-<xsl:text>&lt;p&gt;</xsl:text>-\->
       <paragraph-start/>
-    </xsl:if>
+    </xsl:if>-->
     <lb n="{format-number($pos, '00')}"/>
     <xsl:apply-templates select="$prepared/text()[not(preceding-sibling::local:m)]"/>
     <xsl:apply-templates select="
@@ -838,15 +838,15 @@
         </hi>
       </xsl:when>
 
-      <xsl:when test="@type = 'paragraph-begin'">
-        <!--<xsl:text>&lt;p&gt;</xsl:text>-->
+      <!--<xsl:when test="@type = 'paragraph-begin'">
+        <!-\-<xsl:text>&lt;p&gt;</xsl:text>-\->
         <paragraph-start/>
-      </xsl:when>
+      </xsl:when>-->
 
-      <xsl:when test="@type = 'paragraph-start'">
-        <!--<xsl:text>&lt;p&gt;</xsl:text>-->
+      <!--<xsl:when test="@type = 'paragraph-start'">
+        <!-\-<xsl:text>&lt;p&gt;</xsl:text>-\->
         <paragraph-start/>
-      </xsl:when>
+      </xsl:when>-->
 
       <!--<xsl:when test="@type = 'paragraph-end'">
         <!-\-<xsl:text>&lt;&#47;p&gt;</xsl:text>-\->
