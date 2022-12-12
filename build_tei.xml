@@ -54,6 +54,7 @@
 
     <!-- split files -->
     <property name="data" value="./files"/>
+    <delete dir="${data}"/>
     <mkdir dir="${data}"/>
 
     <xslt style="./page2tei-main/split-files.xsl" destdir="${tmpDir}"
@@ -142,7 +143,7 @@
     </move>
 
     <delete dir="${tmpDir}"/>
-    <!--<delete dir="${tei.dir}"/>-->
-    <!--<delete dir="${source.dir}"/>-->
+    <delete dir="${tei.dir}"/>
+    <delete dir="${source.dir}"/>
 
 </project>
