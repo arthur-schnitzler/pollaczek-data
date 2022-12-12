@@ -11,7 +11,7 @@
     <!-- output xml file for each letter tag with file name according to number of xml files in output directory (+1) -->
     <xsl:param name="n" select="count(collection(concat($dir, '?select=*.xml')))"/>
     <xsl:template match="/*">
-        <xsl:for-each select="//tei:seite">
+        <xsl:for-each select="//*:seite">
             <xsl:variable name="dateiname" as="xs:string">
                 <!--<xsl:choose>
                     <xsl:when test="string-length(@id) = 1">
