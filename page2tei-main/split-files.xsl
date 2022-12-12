@@ -5,8 +5,8 @@
     <xsl:output name="xml" method="xml" indent="yes" omit-xml-declaration="yes"/>
     <!-- directory of new files -->
     <xsl:param name="dir">../editions</xsl:param>
-    <xsl:param name="toc" select="document('../../data/toc.xml')"/>
-<!--    <xsl:param name="toc" select="document('https://raw.githubusercontent.com/arthur-schnitzler/pollaczek-data/main/data/toc.xml')"/>-->
+<!--    <xsl:param name="toc" select="document('../../data/toc.xml')"/>-->
+    <xsl:param name="toc" select="document('https://raw.githubusercontent.com/arthur-schnitzler/pollaczek-data/main/data/toc.xml')"/>
     <xsl:key name="toc-title" match="*:item" use="@xml:id"/>
     <!-- output xml file for each letter tag with file name according to number of xml files in output directory (+1) -->
     <xsl:param name="n" select="count(collection(concat($dir, '?select=*.xml')))"/>
