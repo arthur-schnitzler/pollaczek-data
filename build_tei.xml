@@ -53,7 +53,7 @@
     <mkdir dir="${tmpDir}"/>
 
     <!-- split files -->
-    <property name="data" value="./files"/>
+    <property name="data" value="./data/editions"/>
     <delete dir="${data}"/>
     <mkdir dir="${data}"/>
 
