@@ -52,7 +52,7 @@
                                     ich«</title>
                                 <xsl:if test="starts-with($dateiname, 'ckp')">
                                     <xsl:variable name="inhalt-nachschlagen"
-                                        select="key('toc-title', '$dateiname', $toc)[1]" as="node()"/>
+                                        select="key('toc-title', '$dateiname', $toc)[1]" as="node()?"/>
                                     <title level="a">
                                         <xsl:choose>
                                             <!-- es gibt drei fälle, wo mehrere objekte auf einer seite. hier manuell gelöst -->
