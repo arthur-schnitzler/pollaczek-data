@@ -57,15 +57,8 @@
                                 <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
                                     ich«</title>
                                 <xsl:if test="starts-with($dateiname, 'ckp')">
-                                    <!--<xsl:variable name="inhalt-nachschlagen"
-                                        select="key('toc-title', '$dateiname', $toc)[1]" as="node()?"/>-->
-                                   <xsl:variable name="inhalt-nachschlagen"
-                                       as="node()">
-                                      <item xml:id="ckp002">
-                                         <title>Einleitende Worte, Mai 1933</title>
-                                         <date when="1933-05-01"/>
-                                      </item>
-                                   </xsl:variable>
+                                    <xsl:variable name="inhalt-nachschlagen"
+                                        select="key('toc-title', 'ckp500', $toc)[1]" as="node()?"/>
                                     <title level="a">
                                         <xsl:choose>
                                             <!-- es gibt drei fälle, wo mehrere objekte auf einer seite. hier manuell gelöst -->
