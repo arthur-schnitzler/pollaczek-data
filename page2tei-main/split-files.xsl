@@ -27,13 +27,13 @@
                     </xsl:otherwise>
                 </xsl:choose>-->
                 <xsl:choose>
-                    <xsl:when test="string-length(position()) = 1">
+                    <xsl:when test="position() &lt; 10">
                         <xsl:value-of select="concat('ckp00', position())"/>
                     </xsl:when>
-                    <xsl:when test="string-length(position()) = 2">
+                    <xsl:when test="position() &lt; 100">
                         <xsl:value-of select="concat('ckp0', position())"/>
                     </xsl:when>
-                    <xsl:when test="string-length(position()) = 3">
+                    <xsl:when test="position() &lt; 1000">
                         <xsl:value-of select="concat('ckp', position())"/>
                     </xsl:when>
                     <xsl:otherwise>
