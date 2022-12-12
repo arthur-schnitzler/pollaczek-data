@@ -143,12 +143,6 @@
     </move>
 
     <delete dir="${tmpDir}"/>
-
-    <!--<property name="arthur-schnitzler-arbeit" value="./arthur-schnitzler-arbeit"/>
-    <delete dir="${arthur-schnitzler-arbeit}"/>-->
-
-    <!-- XXXX remaining: pb-ids (download pages) -->
-    
     <delete dir="${tei.dir}"/>
     <delete dir="${source.dir}"/>
 
