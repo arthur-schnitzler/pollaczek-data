@@ -37,7 +37,7 @@
                                 <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
                                     ich«</title>
                                 <xsl:variable name="inhalt-nachschlagen"
-                                    select="key('toc-title', $dateiname, $toc)[1]" as="node()"/>
+                                    select="key('toc-title', 'ckp001', $toc)[1]" as="node()"/>
                                 <title level="a">
                                     <xsl:choose>
                                         <!-- es gibt drei fälle, wo mehrere objekte auf einer seite. hier manuell gelöst -->
