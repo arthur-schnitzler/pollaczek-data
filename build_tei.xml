@@ -54,7 +54,7 @@
 
     <!-- split files -->
     <property name="data" value="./data/editions"/>
-    <delete dir="${data}"/>
+    <!--<delete dir="${data}"/>-->
     <mkdir dir="${data}"/>
 
     <xslt style="./page2tei-main/split-files.xsl" destdir="${tmpDir}"
