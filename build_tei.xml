@@ -142,7 +142,7 @@
     </move>
 
     <delete dir="${tmpDir}"/>
-    <delete dir="${tei.dir}"/>
-    <delete dir="${source.dir}"/>
+    <!--<delete dir="${tei.dir}"/>-->
+    <!--<delete dir="${source.dir}"/>-->
 
 </project>
