@@ -53,8 +53,7 @@
     <mkdir dir="${tmpDir}"/>
 
     <!-- split files -->
-    <property name="data" value="./editions"/>
-    <delete dir="${data}"/>
+    <property name="data" value="./files"/>
     <mkdir dir="${data}"/>
 
     <xslt style="./page2tei-main/split-files.xsl" destdir="${tmpDir}"
