@@ -30,14 +30,15 @@
     
     <xsl:template match="tei:event">
         <xsl:variable name="current-when" select="@when-iso"/>
-        <xsl:variable name="current-desc" select="tei:desc"/>
+        <xsl:variable name="current-desc" select="child::tei:desc[1]/text()" as="xs:string"/>
         <xsl:choose>
-            <xsl:when test="preceding-sibling::tei:event[@when-iso=$current-when]/tei:desc=$current-desc"/>
+            <xsl:when test="preceding-sibling::tei:event[(@when-iso = $current-when) and (child::tei:desc/text() = $current-desc)]">
+            </xsl:when>
             <xsl:otherwise>
                 <xsl:element name="event" namespace="http://www.tei-c.org/ns/1.0">
                     <xsl:copy-of select="@*|*"/>
-                    <xsl:if test="following-sibling::tei:event[@when-iso=$current-when]/tei:desc=$current-desc">
-                        <xsl:copy-of select="following-sibling::tei:event[@when-iso=$current-when and tei:desc=$current-desc]/tei:idno"/>
+                    <xsl:if test="following-sibling::tei:event[(@when-iso = $current-when) and (child::tei:desc/text() = $current-desc)]">
+                        <xsl:copy-of select="following-sibling::tei:event[(@when-iso = $current-when) and (child::tei:desc/text() = $current-desc)]/tei:idno"/>
                     </xsl:if>
                 </xsl:element>
             </xsl:otherwise>   
