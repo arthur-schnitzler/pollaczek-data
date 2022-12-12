@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp748"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 2. Januar 1930</title>
+            <title type="alternative" when-iso="1930-01-02"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp748"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="748">
+               <lb n="01"/>legenheit nicht eben hoffnungsvoller gestaltet. Und die Carrière
+      <lb n="02"/>von ArnolCo - die ist überhaupt ein Capitel für sich. - Auch Viki und
+      <lb n="03"/>Mimi befinden sich nicht in sehr tröstlichen Umständen; und auch wenn
+      <lb n="04"/>die Erbschaft endlich liquidiert werdend sollte, schaut nicht viel he-
+      <lb n="05"/>raus.
+      <lb n="06"/>In meinen Angelegenheiten gibt es nocht nichts Neues. Von Bernhardi
+      <lb n="07"/>Überhaupt keine Rede mehr. Von Elisabeth noch nichts gehört. Morgen
+      <lb n="08"/>ich ich sie im Zwischenspiel. Klein hab ich telefonisch gesprochen,
+      <lb n="09"/>er ist nach einer Verkühlung für ein paar Tage fort. Sonntag wieder
+      <lb n="10"/>da und ich spreche dann mit ihm ausführlicher. - Paul Marx, heute über
+      <lb n="11"/>50 nach einer 30jährigen Theaterlaufbahn - ist von März an ohne En-
+      <lb n="12"/>gagement. Es sind trostlose Verhältnisse.- Um das "Spiel" kümmert
+      <lb n="13"/>sich natürlich kein Mensch, - wie ich vorausgesehen - trotzdem der
+      <lb n="14"/>Wiener Erfolg nicht bestritten wird. Aber die Direktoren greifen immer
+      <lb n="15"/>noch lieber nach einem englischen Reisser - der dann doch nicht reiztt-
+      <lb n="16"/>als nach einem "stillen Stück", eines nicht unbekannten, jedoch deut-
+      <lb n="17"/>schen,ja sogar österreichischen Autors (von gestern).
+      <lb n="18"/>Heute Abend waren Heini, Arnoldo, Paul Marx, Dora und ihr Mann, sowie
+      <lb n="19"/>Ephraim Frisch bei O; -Heini spielte Klavier. Das Wetter ist nicht übel,
+      <lb n="20"/>das Hotel angenehm wie immer, mein Befinden ganz gut. Morgens nehm
+      <lb n="21"/>ich immer nur Thee mit Zwieback.
+      <lb n="22"/>Fischer ist nach St. Moritz; -Bermanns haben ihn bis München begleitet,
+      <lb n="23"/>kommen morgen; ich verschiebe meinen Besuch im Verlag bis dahin, denn
+      <lb n="24"/>die Unterredungen mit Maril allein haben überhaupt keinen Sinn. Es wäre
+      <lb n="25"/>lieb, wenn Du mir unbeeinflusst von der Flüchtigkeit und Talentlosig-
+      <lb n="26"/>keit meiner Briefe öfter und bald hätt ich gesagt freundlicher schriebst
+      <lb n="27"/>Das bezieht sich übrigens auf den nur kurzen Brief, der deinem schrift-
+      <lb n="28"/>stellerischen Versuch beilag. So wohl gelungen dieser ist; -einem voll-
+      <lb n="29"/>wertigen Erwatz für einen wirklichen Clara-Katharina-Brief bedeutet er
+      <lb n="30"/>mir nicht.-Für heute, mein Liebes, Lebwohl und sei tausendmal umarmt.
+      <lb n="31"/>Dein A.</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

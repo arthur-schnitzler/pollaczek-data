@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp807"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 23. Juli 1930</title>
+            <title type="alternative" when-iso="1930-07-23"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp807"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="807">
+               <lb n="01"/>Du sagst an einer Stelle, dass Du Dir seiner geringeren Innigkeit der
+      <lb n="02"/>Gefühle bewusst bist als früher und an einer andern, dass die Entwick
+      <lb n="03"/>lung unserer Beziehung jetzt mehr nach dem Rhythmus Freundschaft als
+      <lb n="04"/>nach dem der Liebe – und nicht zu ihren <hi rend="underline" n="">Ungunsten</hi> tendiert. Nein,
+      <lb n="05"/>mein Kind, das alles stimmt nicht.
+      <lb n="06"/>
+               <hi rend="underline" n="">Erstens</hi> habe ich von der Gunst dieses Umschwungs oder dieser Ten
+      <lb n="07"/>dierung bisher nicht das Geringste bemerkt, sondern ausschliesslich das
+      <lb n="08"/>Gegenteil. <hi rend="underline" n="">Zweitens</hi> glaube ich nicht an diese umschriebene Freund
+      <lb n="09"/>schaft, die in einer reinen Form für Herrn Schwarzkopf wertvoll sein
+      <lb n="10"/>mag, in ihrem problematischen Wesen aber zwischen uns nur Konflikte
+      <lb n="11"/>und Irritationen schaffen würde.
+      <lb n="12"/>
+               <hi rend="underline" n="">Drittens</hi> bin ich überzeugt, dass das, was zwischen uns vorhanden oder
+      <lb n="13"/>noch vorhanden ist, eine zertretene, verkrampfte, verwundete Liebe ist.
+      <lb n="14"/>die bewusst und unbewusst zu Tode gemartert wird.
+      <lb n="15"/>Gerade an jenem Sonntag, am Tage, ehe Frau Dora Michaelis in Wien auf
+      <lb n="16"/>tauchte, hatte ich das sichere Gefühl, dass es nur eines längeren, unge
+      <lb n="17"/>störten Zusammenseins bedurfte, um jene Atmosphäre wieder hervor zu zau
+      <lb n="18"/>bern, in der zwei Menschen, wie Du und ich sich glücklich fühlen und
+      <lb n="19"/>wiederfinden können – in einer Atmosphäre ungetrübter Zärtlichkeit.
+      <lb n="20"/>Wobei ich, so schwer es mir fällt, es niederzuschreiben, – aber um
+      <lb n="21"/>Missverständnissen vorzubeugen, betonen möchte, dass ich hier nicht an
+      <lb n="22"/>eine Erotik im rein sexuellen Sinn denke und an weitergehende Möglich
+      <lb n="23"/>keiten. Und gerade im Anschluss an jenen Sonntag war es mir umso unver
+      <lb n="24"/>ständlicher, dass Du Frau M. gegenüber den Wunsch nach Entfernung ge
+      <lb n="25"/>äussert hast und jedenfalls in einem Sinn, der ihr gewissermassen den
+      <lb n="26"/>Impuls gab so zu mir zu sprechen, wie sie es getan hat.
+      <lb n="27"/>Gewiss kann man aus einer guten Beziehung heraus den Wunsch haben ein
+      <lb n="28"/>mal ein paar Wochen allein zu sein. Aber hier ging es darum sich wieder
+      <lb n="29"/>zu finden und nicht sich noch mehr zu entfernen. Waren wir uns nicht</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

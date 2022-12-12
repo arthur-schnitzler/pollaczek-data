@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp890"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Tagebuch von Clara Katharina Pollaczek, 23.–27. Februar 1931</title>
+            <title type="alternative" when-iso="1931-02-23"/>
+            <title type="alternative" when-iso="1931-02-24"/>
+            <title type="alternative" when-iso="1931-02-25"/>
+            <title type="alternative" when-iso="1931-02-26"/>
+            <title type="alternative" when-iso="1931-02-27"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp890"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="890">
+               <lb n="01"/>opportunistisch wichtig wäre. Vergnügen?? -
+      <lb n="02"/>Carry eine Ablagerung der Furunkel in den Rippen. Bin noch rasch zu
+      <lb n="03"/>ihm ins Spital gefahren, da ich selbst sicher morgen liegen werde. Er
+      <lb n="04"/>hat 38 Temperatur, eine Incision möglich. Gibt jetzt selbst zu, durch
+      <lb n="05"/>Verschlampung der Gesichtsfurunkel es verschuldet zu haben.
+      <lb n="06"/>Umarbeitung der Corday zur Wohlgemut geschickt
+      <lb n="07"/>24.2. Liege mit 38 Temperatur und Grippe zu Bett. Von Cary bessere
+      <lb n="08"/>Berichte, wenn auch Incision noch nicht ganz ausgeschlossen. Mein
+      <lb n="09"/>Befinden seelisch und physisch elend.
+      <lb n="10"/>A. am Abend hier, obwohl ich ihm abriet. Wahrscheinlich wegen Radio.
+      <lb n="11"/>Programm: Strauss-Lehar: Land des Lächelnds.Er hörte im andern Zimmer
+      <lb n="12"/>zu. Dann nachtmahlte er. Denn sass er stumm wegstarrend an meinem Bett.
+      <lb n="13"/>25.8. Carry im gleichen. Ich 37.4. Matt und hin.Gespräch mit Frau
+      <lb n="14"/>Z solnay. Wenig Aussicht für die Novellen. Um 3 Uhr Anruf Graf Thun.
+      <lb n="15"/>Negativer Ausfall des Besuchs seiner Frau bei Wild ganz. Stück zu episch,
+      <lb n="16"/>will es nicht nochmals lesen. Jetzt fehlt noch eine Absage Benedikts
+      <lb n="17"/>für meine Novelle, dann kann ich nicht einmal meine Versatzscheine aus-
+      <lb n="18"/>lösen.
+      <lb n="19"/>26.2. Mein Befinden physisch und psychisch elend. A. Nachmittag einen
+      <lb n="20"/>Augenblick bei mir. Ich weiss nicht wozu. Kälte und Entfremdung nehmen
+      <lb n="21"/>zu. Ich erzähle A., dass am 28. das Konzert (mein vertontes Gedicht)
+      <lb n="22"/>stattfindet. Er antwortet, er gehe mit seinem Bruder zum Konzert der
+      <lb n="23"/>Lili Krauss.Carry geht es gottlob besser. Ich lese Schalom Asch.
+      <lb n="24"/>27.2.38 Temperatur. Heute Dejeuner bei Auernheimers für Colette.Auch
+      <lb n="25"/>das versäum ich. A. geht allein.A. war übrigens auch bei Ferry zu
+      <lb n="26"/>Tisch eingeladen (mit Lili Krauss), hatte "leider" schon vorher bei
+      <lb n="27"/>Auernheimer zugesagt.
+      <lb n="28"/>Abend sich bei mir angesagt, weil im Radio "Die verkaufte Braut" war.
+      <lb n="29"/>Ich musste dreimal aus dem Bett, um ihm des Radio einzustellen. Er hat</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

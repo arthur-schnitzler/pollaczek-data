@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp925"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Tagebuch von Clara Katharina Pollaczek, 16.–18. Juni 1931</title>
+            <title type="alternative" when-iso="1931-06-16"/>
+            <title type="alternative" when-iso="1931-06-17"/>
+            <title type="alternative" when-iso="1931-06-18"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp925"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="925">
+               <lb n="01"/>Harry fährt entweder am 29. via Hamburg mit der "Lacoronia" oder 28.
+      <lb n="02"/>via Triest mit der "Martha Washington"
+      <lb n="03"/>
+               <date>16.6.</date> Abend. Meine Depression nimmt von einer Stunde zur andern zu. Den
+      <lb n="04"/>ganzen Nachmittag allein, unfähig zu lesen und zu arbeiten. Nach dem
+      <lb n="05"/>Abendessen kurzer Spaziergang an seinem Haus vorbei. Lilis Zimmer und
+      <lb n="06"/>die Küche beleuchtet, sonst alles finster. Vielleicht Unterredung mit
+      <lb n="07"/>Ruth -? (die er angeblich haben soll). Die Luft ganz mild; die Linden
+      <lb n="08"/>duften betäubend. Nie war mir so klar, dass dies der letzte Sommer
+      <lb n="09"/>ist, den ich hier in dieser Gegend verbringe, vielleicht - die letzten
+      <lb n="10"/>Wochen.
+      <lb n="11"/>Und was wird aus mir werden? Wo werde ich sein - - -
+      <lb n="12"/>
+               <date>17.6.</date> Heute von 10-12 in der czechischen Passstelle wegen Passverlän-
+      <lb n="13"/>- Menschenschinderei. We,nn Hedwig mir nicht einen Beamten mit-
+      <lb n="14"/>geben hätte, wäre ich zusammen gebrochen. Abend woll ich mit A. zum
+      <lb n="15"/>aumexpress". Wozu sind wolche Abend gut? Eben rief mich Dr.D. an
+      <lb n="16"/>und sagte mir, er finde den Gesundheitszustand von A. objektiv und sub-
+      <lb n="17"/>jektiv bedeutend gebessert. Ich bin mehr froh darüber, aber in seinem
+      <lb n="18"/>Verhalten zu mir hat sich das nicht ausgewirkt.
+      <lb n="19"/>
+               <date>18.6.</date> Gestern "Traumexpress", sehr öde Operettenrevue, dann "Weingartl".
+      <lb n="20"/>wo wir mit Heini, Ruth und einem Schauspieler Böhm zufällig zusammen-
+      <lb n="21"/>trafen. Grotesk - und ich habe es eigentlich wirklich nicht nötig
+      <lb n="22"/>sowas mitzumachen. Ich war sehr artig, Ruth und Heini fast beflissen.
+      <lb n="23"/>Als wir aufbrachen frug mich Heini, ob ich morgen Freitag in seine Ge-
+      <lb n="24"/>neralprobe "Komparserie" komme. Ich antwortete, ich wusste nicht, dass
+      <lb n="25"/>ich gewünscht werde. Er sagte: "Sie müssen wünschen." - Ich darauf:
+      <lb n="26"/>"Ich weiss nicht, ob es Ihren Vater recht ist." -A. (zu Heini, verlegen):
+      <lb n="27"/>"ich dachte, es ist dir nicht angenehm". -Heini: "Es wäre mir sehr angenehn."
+      <lb n="28"/>(lächelnd) "Sie schreiben doch nicht über Generalproben?" -Ich: (lä
+      <lb n="29"/>chelnd) "Sie hätten es nicht zu fürchten, aber es ist gar nicht mein
+      <lb n="30"/>Ressort".</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

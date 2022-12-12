@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp561"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 29. Juli 1928</title>
+            <title type="alternative" when-iso="1928-07-29"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp561"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="561">
+               <lb n="01"/>Sonntag, 29. Juli 1928. Wien.
+      <lb n="02"/>Mein Liebstes, eben kam Dein Brief, den ich mit zitterndem Herzen
+      <lb n="03"/>erwartet habe. So ist es also wahr, was ich vom ersten Augenblick
+      <lb n="04"/>geahnt, gefürchtet hatte.
+      <lb n="05"/>Vielleicht war es das nahezu Tragische, Unheimliche, das ich immer um
+      <lb n="06"/>Lili fühlte, das mich diese ihre Wesensmöglichkeit ahnen liess-
+      <lb n="07"/>Ich hatte sie lieb und vielleicht nicht nur, weil, sie Dein Kind war.
+      <lb n="08"/>Es war ja eine so durchaus unglückliche Zuneigung, aber ich hatte
+      <lb n="09"/>in den seltenen Fällen, da ich mit ihr zusammen war, die Empfindung,
+      <lb n="10"/>ich möchte ihr eine Freundin sein, ihr helfen ihr klar machen, dass
+      <lb n="11"/>das Leben auch ertragen, nicht nur gespielt werden muss. Sicher hatte
+      <lb n="12"/>ich das nicht so deutl ch gedacht, wie ich es Dir schreibe, aber et-
+      <lb n="13"/>was ähnliches ging in mir vor. Und doch vermag ich es heute nicht
+      <lb n="14"/>zu fassen, dass sie Dir. Dir das antun konnte. Ist denn nicht einer ih-
+      <lb n="15"/>rer Gedanken zu Dir gegangen? Man hat nicht das Recht sein Leben
+      <lb n="16"/>wegzuwerfen, wenn man so geliebt wurde wie sie. Man darf einem Men-
+      <lb n="17"/>schen, der einen liebt, nicht ein solches Leid zufügen.
+      <lb n="18"/>Und darum, Liebstes, muest Du leben, musst gesund sein. Du weisst, was
+      <lb n="19"/>Du mir bist und dass ich alles alles tun will, um Dir das Leben noch
+      <lb n="20"/>lebenswert und manchmal auch schön zu gestalten.
+      <lb n="21"/>Ich bin selbst mit meinen Nerven so fertig, dass ich heute nicht wei-
+      <lb n="22"/>ter kann. Ich küsse Deine geliebten Augen.
+      <lb n="23"/>Deine Cl.K.</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

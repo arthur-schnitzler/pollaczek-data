@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp411"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 1. Januar 1927</title>
+            <title type="alternative" when-iso="1927-01-01"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp411"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="411">
+               <lb n="01"/>An A.S. nach Berlin.
+      <lb n="02"/>Wien,1.1927. 10 Uhr Früh.
+      <lb n="03"/>Mein Liebes,
+      <lb n="04"/>ich liege natürlich noch im Bett und will das neue Jahr
+      <lb n="05"/>und den neuen Tag damit beginnen Dir zu schreiben. Mir gegenüber steht
+      <lb n="06"/>ein märchenhafter Fliederstock und ich sage Dir innigen gerührten Dank,
+      <lb n="07"/>dass Du auch daran gedacht hast. Ich freue mich sehr.
+      <lb n="08"/>Nun zum gestrigen Abend. Dein kleines Stück war sehr reizend
+      <lb n="09"/>und näurlich die einzige Leistung des Abends, die Niveau hatte, aber die
+      <lb n="10"/>weibliche Rolle war mit der Servaes elend besetzt. Dieses grosse, starke
+      <lb n="11"/>Frauenzimmer war viel grösser als das Fenster, an dem sie stand. Ihre
+      <lb n="12"/>groben schlechten Bewegungen, ihre fettige Affektation passten schlecht
+      <lb n="13"/>in diese wie hinter einem Schleier spielende Szene. Horch hätte mich
+      <lb n="14"/>für diesen Abend engagieren sollen! Molnars Stück war unheimlich blöd,
+      <lb n="15"/>nur durch das angenehme Spiel Hermann Thiemigs und das noch angenehmere
+      <lb n="16"/>von den Beinend er Lili Darvas erträglich. Aber der Erfolg des Abends -
+      <lb n="17"/>oh Publikum! - war die Tanzeinlage aus "Viktoria" mit Darvas und Hans
+      <lb n="18"/>Thiemig und der Auftreten der drei Thiemigs, Vater, Hugo und zwei Söhnen
+      <lb n="19"/>als Akrobaten in grellroten Trikots. Mans brüllte vor Begeisterung. Das
+      <lb n="20"/>Theater war ausverkauft. Gisela B. begleitete mich dann bis auf den Ring
+      <lb n="21"/>zu einer Elektrischen, da die Nebenlinien, z.B. die Zweier, nicht mehr gin-
+      <lb n="22"/>gen und um 3/4 2 war ich im Bett. Heute bin ich noch ganz programmlos.
+      <lb n="23"/>Gestern Abend vor dem Theater war Otto bei mir, um mir meinen Roman zu-
+      <lb n="24"/>rückzubringen. Er findet ihn ausgezeichnet, machte aber für den Schluss
+      <lb n="25"/>genau dieselben Einwendungen wie Du. Er glaubt auch, dass es mit der Um-
+      <lb n="26"/>stellung des Epilogs behoben sein wird. Ich bin neugierig, was Du mit xxx
+      <lb n="27"/>W. gesprochen hast. Auch die Unterredung Schröder interessiert mich sehr.
+      <lb n="28"/>Was hast Du eigentlich wegen des Films "Spiel im Morgengrauen" bespro-
+      <lb n="29"/>chen? Ich bin neugierig, ob marnowsky sich noch meldet. Ob Du Dich nicht
+      <lb n="30"/>doch bei ihm irgendwie bemerkbar hättest machen sollen? Er wird es si-
+      <lb n="31"/>370</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

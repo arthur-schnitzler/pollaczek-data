@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp170"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 20. Januar 1925</title>
+            <title type="alternative" when-iso="1925-01-20"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp170"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="170">
+               <lb n="01"/>20.1.4 Uhr Nachm.
+      <lb n="02"/>Komme eben von meiner Tante nach Hause, bei der ich zu Tisch war und
+      <lb n="03"/>finde Deinen lieben langen Brief vom 18. aus Zürich vor. Ich will rasch
+      <lb n="04"/>noch diesen vollenden, denn von 5-8 kommt Frieda und ich möchte ihn
+      <lb n="05"/>noch v
+      <lb n="06"/>her abschicken.
+      <lb n="07"/>Zum ersten Mal klingt wenigstens zum Schluss Deines
+      <lb n="08"/>Briefes etwas wie Sehnsucht durch. Ich habe es schon sehr bezweifelt-
+      <lb n="09"/>Ich schrieb Dir heute Früh in Eile einen Kartenbrief, den
+      <lb n="10"/>Du wohl gleichzeitig erhältst, hoffe Schnupfen und Heiserzeit sind
+      <lb n="11"/>indessen ganz geschwunden und Du. hast ein paar angenehme Tage in St.M.
+      <lb n="12"/>Ich mache allerhand Reisepläne für märz, denn ich fühle
+      <lb n="13"/>mich jetzt hier manchmal sehr eingeengt und bekommen. Ja, es ist di-
+      <lb n="14"/>rekt unterdrückte Bergnügungssucht in mir, es fehlt mir nur an Geld, um
+      <lb n="15"/>ihr nachgeben zu können.
+      <lb n="16"/>Ich habe jetzt wirklich einige Zeit konzentriert und
+      <lb n="17"/>mit grosser Lust geschrieben, - jetzt aber möchte ich Leben, Zerstreu-
+      <lb n="18"/>ung, Sonne - eine andere Gegend - ich weiss selbst nicht was. Kurz-
+      <lb n="19"/>um in längstens 6-7 Wochen möchte ich fort. Ich möcht schon manches-
+      <lb n="20"/>mal in meinem kleinen Zimmer aushauen.
+      <lb n="21"/>Lebwohl für heute, morgen schreibe ich wohl wieder und
+      <lb n="22"/>schicke Dir indessen einen herzlichen Kuss.
+      <lb n="23"/>Deine
+      <lb n="24"/>C.K.
+      <lb n="25"/>120</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

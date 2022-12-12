@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp277"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 14. Oktober 1925</title>
+            <title type="alternative" when-iso="1925-10-14"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp277"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="277">
+               <lb n="01"/>An A.S., Berlin.
+      <lb n="02"/>Wien, <date>14.10.1925</date>.
+      <lb n="03"/>Mein Liebes, von dem heutigen Tag, der nun zu Ende geht, ist zu berich
+      <lb n="04"/>ten, dass Vormittag sich ein Direktor M. die Wohnung angesehen hat,
+      <lb n="05"/>der sie in derselben Kombination mieten möchte, wie Stranakys im Vor
+      <lb n="06"/>jahr. Er kommt morgen mit seiner Frau nochmals her und dann wird sich
+      <lb n="07"/>die Sache entscheiden. Pekuniär wäre es wohl das Günstigste, aber für
+      <lb n="08"/>mich ist der Gedanke wieder aus Wohnung und Wirtschaft vertrieben zu
+      <lb n="09"/>sein so traurig, wie ich es Dir gar nicht sagen kann. Nun, man wird
+      <lb n="10"/>sich abfinden müssen, wie man sich schon so manchmal abgefunden hat.
+      <lb n="11"/>Meinesfalls würde ich unter diesen Umständen in die zwei rückwärtigen
+      <lb n="12"/>Zimmer ziehen, da diese Leute die Familie meines Mannes sehr gut kannten,
+      <lb n="13"/>und ich zugänglicher sein müsste, als es mir passen würde. Wie schön
+      <lb n="14"/>wäre es und wie gut das alles mit Dir besprechen zu können und Deine
+      <lb n="15"/>meinung zu hören, obwohl ich mir sicher Mühe gebe das Vernünftigste zu
+      <lb n="16"/>tun.
+      <lb n="17"/>Heute nach Tisch rief ich Frieda P. an, um sie für morgen
+      <lb n="18"/>oder einen der nächsten Tage zu mir zu bitten. So erfuhr ich, was Du
+      <lb n="19"/>wohl inzwischen auch erfahren haben wirst, dass O. mit Lilly gestern
+      <lb n="20"/>hier eingetroffen ist. O. wohnt in der Wohnung Almas und will 8
+      <lb n="21"/>Tage bleiben. Frieda und ich sind gleich empört über dieses selbstän
+      <lb n="22"/>dige Vorgehen so über Deinen Kopf hinweg und wir hoffen nur, dass Du
+      <lb n="23"/>Dich darüber nicht alterieren wirst. Meine Meinung über diese Frau
+      <lb n="24"/>wird immer mehr bestärkt und der Einfluss der Alma ist sicher auch
+      <lb n="25"/>nicht der beste. Aber im Effekt ist es ja eigentlich gleichgültig,
+      <lb n="26"/>ob sie jetzt ein paar Tage hier sitzt oder nicht.
+      <lb n="27"/>Ich bin schon sehr neugierig, wie die Premièrefrage dort
+      <lb n="28"/>steht und das Resultat Deiner Unterredungen mit Fischer etc. Bitte
+      <lb n="29"/>schreibe möglichst deutlich, denn ich plage mich sehr manches Wort zu</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

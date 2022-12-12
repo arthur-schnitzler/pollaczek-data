@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp954"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 12. August 1931</title>
+            <title type="alternative" when-iso="1931-08-12"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp954"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="954">
+               <lb n="01"/>Gmunden, 12.8.1931.
+      <lb n="02"/>(nach Gastein)
+      <lb n="03"/>Mein liebes Kind,erst gestern ist Arnoldo hier eingetroffen; -
+      <lb n="04"/>Heini führt am Sonntag d. 16. wieder nach Berlin; Arnoldo dürfte
+      <lb n="05"/>Dienstag 18., spätestens Mittwoch wieder abreisen und so lange bleibt
+      <lb n="06"/>auch O. hier; - ich schlage Dir vor, so lange in Gastein zu bleiben
+      <lb n="07"/>(die reguläre Kurzeit wäre ja 3 Wochen) und von dort aus direct
+      <lb n="08"/>hieher zu mir nach Gmunden zu kommen. Das liegt Dir ja auf den Weg-
+      <lb n="09"/>über Attnang musst Du jedesfalls fahren; - und für uns beide das
+      <lb n="10"/>bequemste. Die Landschaft ist schön, die Spazierwege angenehm; das
+      <lb n="11"/>Hotel wenn auch mit den bekannten Unzukömmlichkeiten deralten
+      <lb n="12"/>Salzkammerguthotels gesegnet, gut gehalten, die Küche sehr
+      <lb n="13"/>anständig, der Preis moderiert. Das Wetter wird sich hoffentlich bes-
+      <lb n="14"/>sern; - und das Klima ist in jedem Fall milder als in Gastein. Mich von
+      <lb n="15"/>Wien weiter zu entfernen habe ich vorläufig wenig Lust; wird das
+      <lb n="16"/>Wetter wieder schön, so lässt sich von hier aus alles unterne men.
+      <lb n="17"/>(Schinnerer hat seine Ankunft für heute Nachmittag angewagt, ich
+      <lb n="18"/>nehme an, dass er mit Heini vzusammen von hier abreisen wird.)
+      <lb n="19"/>Ich wäre sehr froh, wenn Du mit meinem Vorschlag einverstanden wärst,-
+      <lb n="20"/>damit Du nicht am Ende durch materielle Erwägungen bestimmt wirst,
+      <lb n="21"/>lege ich hier für alle Fälle 200 S. bei. Solltest Du irgendwelche
+      <lb n="22"/>Gegenvorschläge haben, so sag sie mir bald. Es scheint ja, dass der
+      <lb n="23"/>Aufenthalt in Gastein und vielleicht auch die Bäder Dir gut oder
+      <lb n="24"/>wenigstens wohl thun. Mein Befinden ist nicht schlecht; - Kopf, Magen
+      <lb n="25"/>freilich nicht ideal; aber damit lass ich mich abfinden.-Auf sehr
+      <lb n="26"/>baldiges Wiedersehen also und alles Herzliche und Innige. Dein A.</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

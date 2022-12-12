@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp422"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 21. April 1927</title>
+            <title type="alternative" when-iso="1927-04-21"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp422"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="422">
+               <lb n="01"/>21.4.27. Bl.2.
+      <lb n="02"/>1/3, Begegnung mit Moll, der Franz Werfel, den wir nicht mehr sahen) auf
+      <lb n="03"/>die Bahn begleitet hatte. In der Gondel durch Traumkanäle zum Hotel.
+      <lb n="04"/>Nationalfeiertag; Venice endimanché. Die Zimmer wie schon gesagt von
+      <lb n="05"/>mässiger Confortabilität, aber in gutem Stand. -Verspätetes Mittagessen
+      <lb n="06"/>zu Dritt auf der Terrasse des Restaurants. Ausruhen; Spaziergang zu
+      <lb n="07"/>Dritt Markusplatz, Riva u. s. w. - Schon in der Dunkelheit mit A.C. in sei-
+      <lb n="08"/>nem Kommando, sein wohlgehaltenes Bureau; im Schreibtisch Lilis Briefei-
+      <lb n="09"/>und ein Stück, dass er vor 10 Jahren geschrieben, das er mir übergab
+      <lb n="10"/>(eine Art Arnoldoiade wie es scheint). -Abendessen im Hotel; über allerlei
+      <lb n="11"/>Nächst- und Näch stliegendes. -Er möchte Mitte Juni nach Wien reisen und
+      <lb n="12"/>schon verheiratet mit Lili nach Venedig zurückkehren, eventuell proviso-
+      <lb n="13"/>risch möbliert wohnen, da anderes vor Herbst kaum bezogen werden könnte.
+      <lb n="14"/>Wir verstanden uns wieder sehr gut. Später sassen wir wied er, wie nicht
+      <lb n="15"/>handers möglich auf dem Markusplatz; - vor 1/2 11 aber war ich mit Lili zu-
+      <lb n="16"/>haus und trotz der unvermeidlichen Kopfschmerzen schlief ich wie auf
+      <lb n="17"/>Reisen üblich meine 7 Stunden durch.-Heute Vormittag zuerst allein spa-
+      <lb n="18"/>zieren, dann zu Dritt herum, denn in einem sehr echten venzianischen Re-
+      <lb n="19"/>staurant „A.C.'s Stammbeiselino, gespeist "Giorgone“ - bei uns heisst
+      <lb n="20"/>sowas Pilsenetzer oder Silberner Brunnen,- aber nicht Zum Holbein
+      <lb n="21"/>oder Zum Waldmüller.- Dann in seine Kaserne, ehemaliges Jesuitenkloster,
+      <lb n="22"/>und sein Wohnzimmer besehen; - xxx eine geräumige, hübsch gehaltene
+      <lb n="23"/>ehemalige Mönchszelle; - die meisten stehen leer; - alles ist im Umbau
+      <lb n="24"/>begriffen. Das Bild seiner Schwester, die Grete Jacques zum Verwechseln
+      <lb n="25"/>ähnlich sieht; - die Ansichtskarte unseres Sternwartehauses, eines von
+      <lb n="26"/>ihm selbst in Knabenzeit gemaltes Aquarell -Landschaft mit
+      <lb n="27"/>dem Elternhaus nahe Florenz etc. Wir begleiteten ihn zubseinem Kom-
+      <lb n="28"/>mando, das am andern Ende der Stadt gegenüber dem Hotel Regina nahe
+      <lb n="29"/>von unserm Hotel liegt. - Und nun schreibe ich Dir in meinem Hotel-
+      <lb n="30"/>zimmer; auf der Terrasse gegenüber arbeitet der Steindrucker mit einem
+      <lb n="31"/>XXXIXK
+      <lb n="32"/>Gehilfen und über den Holzzaun hängen unbegreifliche blaue Papier-
+      <lb n="33"/>3</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

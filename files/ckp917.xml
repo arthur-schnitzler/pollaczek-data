@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp917"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Tagebuch von Clara Katharina Pollaczek, 1.–2. Juni 1931</title>
+            <title type="alternative" when-iso="1931-06-01"/>
+            <title type="alternative" when-iso="1931-06-02"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp917"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="917">
+               <lb n="01"/>bischen Rücksicht nehmen muss, wenn er, wie er immer wieder betont, tatzäch-
+      <lb n="02"/>lich der Ansicht ist, dass A. mich braucht. Es sei mir lieber die Frau
+      <lb n="03"/>kommt her, als er trifft sie irgendwo anders und er solle es abwenden, dass
+      <lb n="04"/>mir noch mehr zugemutet wird, denn ich sei mit meinen Nerven einfach fer-
+      <lb n="05"/>tig. Wenn ich als quantité negligable aufgefaast werde, dann gehe ich einfach
+      <lb n="06"/>davon. Daraufhin wurde er grob, erklärte, das sei eine Erpressung und ich
+      <lb n="07"/>drohe und halse ihm Verantwortungen auf, - bis ich weinend zusammenbrach.
+      <lb n="08"/>Es ist ja ganz unnütz diesem 35jährigen Menschen plausibel machen zu wol-
+      <lb n="09"/>len, was in mir vor geht und es ist so beschämend zu solchen Menschen Zu-
+      <lb n="10"/>flucht nehmen zu müssen. Erst als ich ihm nach einer Gesprächspause, die
+      <lb n="11"/>durch einen telefonischen Anruf entstand, erklärte, dass es sehr Unrecht
+      <lb n="12"/>von mir war, ihn mit dieser Bitte zu belästigen, ich bitte ihn jetzt Heini
+      <lb n="13"/>nichts mehr zu sagen, den Dingen ihren Lauf zu lassen und sich nur der Ge-
+      <lb n="14"/>sundheit seines Onkels mehr anzunehmen.-lenkte er ein, erklärte, er müsse
+      <lb n="15"/>jedesfalls mit Heini über den Zustand seines Vaters sprechen und er werde
+      <lb n="16"/>ihm auch ohne mein Einverständnis sagen, dass er mich als eine Notwendigkeit
+      <lb n="17"/>für meinen Vater ansehe und er auf einer Reise bei niemand besser aufgeho-
+      <lb n="18"/>ben sein könnte, als bei mir. Wir reichten uns schliesslich versöhnt die
+      <lb n="19"/>Hände. Ich war so verheult, dass ich erst eine halbe Stunde herumlaufen
+      <lb n="20"/>musste, ehe ich zu Otto und Emmy ging bei denen ich den Abend verbrachte.
+      <lb n="21"/>Was für gute liebe Menschen.
+      <lb n="22"/>2.6. Ich hatte gestern ein Rohkost-Kochbuch in der Stadt besorgt und mir
+      <lb n="23"/>in dem entsprechenden Geschäft entsprachende Ratschläge geben lassen und
+      <lb n="24"/>rief um 10 Uhr nachhause gekommen A. noch an, um mich nach seinem Befinden
+      <lb n="25"/>zu erkundigen (das er mir Nachmittag als elend geschildert hat) und ihm
+      <lb n="26"/>über diese Diät (für die er sich interessiert hat) zu erzählen. Ich war
+      <lb n="27"/>sehr herzlich und freundlich, er mehr kurz angebunden, sagte nicht einmal
+      <lb n="28"/>"danke" oder dass eshett von mir sei.
+      <lb n="29"/>Heute Früh telefonierte er mir sehr kurz, dass er Vormittag in die Stadt
+      <lb n="30"/>gehe und ob ich auch hinein will. Ich sagte, ich hätte noch kein Programm.</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

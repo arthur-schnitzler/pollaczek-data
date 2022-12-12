@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp267"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 14. September 1925</title>
+            <title type="alternative" when-iso="1925-09-14"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp267"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="267">
+               <lb n="01"/>Forte dei Marmi, <date>14.9.1925</date>
+               <lb n="02"/>(nach Wien, Pension Kremer)
+      <lb n="03"/>Mein Liebes, vorgestern Früh schrieb ich Dir, - gestern telegraphierte
+      <lb n="04"/>ich Dir Du möchtest nach Florenz einen Brief senden. Hoffentlich ist
+      <lb n="05"/>die Depesche, dieich auf dringenden Rat des Concierge italienisch
+      <lb n="06"/>verfasste, unverstümmelt angelangt; - was bei einer Depesche an meinen
+      <lb n="07"/>Sohn - (gleichfalls italienisch) nicht der Fall war (es handelte sich
+      <lb n="08"/>um Liebelei, das Jesaner im Schillertheater geben will, offenbar hat
+      <lb n="09"/>Heini eine Rolle darin, da er mich fragt, ob Mittwoch die Proben begin
+      <lb n="10"/>nen dürfen).
+      <lb n="11"/>Noch niemals sind mir vier Tage um so lang erschienen, wie die seit
+      <lb n="12"/>dem Dienstag auf dem Mailänder Bahnhof; es ist wie wenn die Zeit sich
+      <lb n="13"/>unendlich dehnte,- (ohne leer zu scheinen) - so als wenn die Unendlich
+      <lb n="14"/>keit des Raumes, der ungehemmte Blick ins Weite eine Wirkung auf die
+      <lb n="15"/>Zeit ausübte.
+      <lb n="16"/>Lass Dir nun noch von hier erzählen. Um gleich die Frage zu beant
+      <lb n="17"/>worten, die Dir auf den Lippen schwebt: von Dir wurde kein Wort ge
+      <lb n="18"/>sprochen und trotz mancher unbedenklicher Wirs in meinen Erzählungen
+      <lb n="19"/>von Reise und Aufenthalten; es wurde (programngemäss offenbar) abso
+      <lb n="20"/>lut keine Frage gestellt, keinerlei Anspielungen gemacht. Die Gespräche
+      <lb n="21"/>(niemals zu zweit) durchaus harmlos, auf das Nächste beschränkt.-
+      <lb n="22"/>Ich will Dir eine kurze Uebersicht der letzten Tage geben. Vorgestern
+      <lb n="23"/>(12.) nach dem Brief an Dich kleiner Spaziergang.- Dann Bad (köstlich),
+      <lb n="24"/>nachher Arbeit, 2. Akt, an dem mehr zu feilen war als an 1. und der nun
+      <lb n="25"/>auch ziemlich erledigt ist.) Dann fuhr ich mit der Tram nach Viereggio
+      <lb n="26"/>mirs eingehender besehen; - eine Hotel- un<supplied>d</supplied> Pensionstadt, tausende Caba
+      <lb n="27"/>nen: Trubel, – undenkbar als Aufenthalt (von Forte bis Viareggio - eine
+      <lb n="28"/>fast ununterbrochene Reihe (12 Kilometer) ziehen sich die Badegelegen
+      <lb n="29"/>heiten hin.
+      <lb n="30"/>- Gestern Vormittag ein kleiner Spaziergang, dann das Bad bei ziemlich
+      <lb n="31"/>stürmischem Wetter.- Am Ufer in Sande weiterspazierend begegne ich
+      <lb n="32"/>meinen Vetter Gustav Frid,- der mir gleich sagt,- Du hast heute in den</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

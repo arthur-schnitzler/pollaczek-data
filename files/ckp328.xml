@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp328"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 26. April 1926</title>
+            <title type="alternative" when-iso="1926-04-26"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp328"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="328">
+               <lb n="01"/>26.4.26.
+      <lb n="02"/>fort und ich bin ganz allein. Ich geniesse das mehr. meine Schwester
+      <lb n="03"/>ist der beste Mensch der Welt, aber mein Nervenzustand verträgt xxx
+      <lb n="04"/>die Ueberspanntheit, das Abnormale nicht gut. Dabei bin ich unausgesetzt
+      <lb n="05"/>von einem tiefen mitleid für sie erfüllt, denn ihr Leben und besonders
+      <lb n="06"/>diese Kinder sind so schwierig und sie ihnen so gar nicht gewachsen.
+      <lb n="07"/>Aber das ist zu uninteressant für Dich. Gestern Vormittag zwang sie
+      <lb n="08"/>grosses
+      <lb n="09"/>mich in ein religiöses Gespräch, obwohl ich sie bat mich davon zu dis-
+      <lb n="10"/>pensieren, da ich meine Unduldsamkeit in diesen Dingen gerne zugebe.
+      <lb n="11"/>Als sie aber darauf bestand sagte ich ihr unter anderm, dass der Be-
+      <lb n="12"/>griff Gott etwas viel zu Groszes für mich bedeutet, als dass ich an eine
+      <lb n="13"/>Vermittlung durch Kreuze, xxx Kniefälle und Rosenkränze glauben könn-
+      <lb n="14"/>te. Sie warf mir vor, dass ich Gott zu wenig ausserhalb mir aucheund
+      <lb n="15"/>mir die "göttliche Gnade" nichts bedeutet. Ich frugsie, was sie darunter
+      <lb n="16"/>verstehe. "Von der Welt erlöst sein", erklärte sie. Ich antwortetscher
+      <lb n="17"/>grob. Dazu müsse man sich aufhängen oder erschiessen, dann sei man von
+      <lb n="18"/>der Welt erlöst. Für mich heisst beten - gute und schöne Gedanken haben,
+      <lb n="19"/>die Empfindungen, die Natur, Musik und jede Kunst in einem höhern Sinn
+      <lb n="20"/>in mir auslösen, alle guten Gefühle, die mich über den Alltag erheben,
+      <lb n="21"/>zeigen mir Wege zu Gott oder vielleicht richtiger zu Göttlichem und
+      <lb n="22"/>sind Gebete.- Da ich weder die Absicht habe Dir philosophische noch
+      <lb n="23"/>literarische Briefe zu schreiben, sondern nur, was mir gerade einfällt,
+      <lb n="24"/>will ich diese Debatten in ihrer ganzen Ausdehnung, die ja doch einen
+      <lb n="25"/>kreisförmigen Charakter hatten, nicht weiter referieren.
+      <lb n="26"/>Am 24. solltest Du in Lissabon sein und jetzt ist noch kein
+      <lb n="27"/>Telegramm da, sonst hätte mir Cary, wie verabredet, heute Früh heraustele -
+      <lb n="28"/>foniert.- Jetzt werde ich die Augen schliessen und mich von der Sonne
+      <lb n="29"/>bescheinen lassen. - - -
+      <lb n="30"/>287</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>
