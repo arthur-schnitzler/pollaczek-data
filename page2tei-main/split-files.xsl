@@ -50,33 +50,35 @@
                             <titleStmt>
                                 <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
                                     ich«</title>
-                                <xsl:variable name="inhalt-nachschlagen"
-                                    select="key('toc-title', '$dateiname', $toc)[1]" as="node()"/>
-                                <title level="a">
-                                    <xsl:choose>
-                                        <!-- es gibt drei fälle, wo mehrere objekte auf einer seite. hier manuell gelöst -->
-                                        <xsl:when
-                                            test="$dateiname = 'ckp478' and (position() mod 2) != 1">
-                                            <xsl:text>Clara Katharina Pollaczek an Arthur Schnitzler, 6.&#160;9.&#160;1927</xsl:text>
-                                        </xsl:when>
-                                        <xsl:when test="$dateiname = 'ckp478'">
-                                            <xsl:text>Clara Katharina Pollaczek an Arthur Schnitzler, 9.&#160;9.&#160;1927</xsl:text>
-                                        </xsl:when>
-                                        <xsl:when
-                                            test="$dateiname = 'ckp727' and (position() mod 2) != 1">
-                                            <xsl:text>Clara Katharina Pollaczek an Arthur Schnitzler, 12.&#160;9.&#160;1929</xsl:text>
-                                        </xsl:when>
-                                        <xsl:when test="$dateiname = 'ckp946'">
-                                            <xsl:text>Clara Katharina Pollaczek an Arthur Schnitzler, 5.&#160;8.&#160;1931</xsl:text>
-                                        </xsl:when>
-                                        <xsl:when test="$dateiname = 'ckp946'">
-                                            <xsl:text>Clara Katharina Pollaczek an Arthur Schnitzler, 6.&#160;8.&#160;1931</xsl:text>
-                                        </xsl:when>
-                                        <xsl:otherwise>
-                                            <xsl:value-of select="$inhalt-nachschlagen/title"/>
-                                        </xsl:otherwise>
-                                    </xsl:choose>
-                                </title>
+                                <xsl:if test="starts-with($dateiname, 'ckp')">
+                                    <xsl:variable name="inhalt-nachschlagen"
+                                        select="key('toc-title', '$dateiname', $toc)[1]" as="node()"/>
+                                    <title level="a">
+                                        <xsl:choose>
+                                            <!-- es gibt drei fälle, wo mehrere objekte auf einer seite. hier manuell gelöst -->
+                                            <xsl:when
+                                                test="$dateiname = 'ckp478' and (position() mod 2) != 1">
+                                                <xsl:text>Clara Katharina Pollaczek an Arthur Schnitzler, 6.&#160;9.&#160;1927</xsl:text>
+                                            </xsl:when>
+                                            <xsl:when test="$dateiname = 'ckp478'">
+                                                <xsl:text>Clara Katharina Pollaczek an Arthur Schnitzler, 9.&#160;9.&#160;1927</xsl:text>
+                                            </xsl:when>
+                                            <xsl:when
+                                                test="$dateiname = 'ckp727' and (position() mod 2) != 1">
+                                                <xsl:text>Clara Katharina Pollaczek an Arthur Schnitzler, 12.&#160;9.&#160;1929</xsl:text>
+                                            </xsl:when>
+                                            <xsl:when test="$dateiname = 'ckp946'">
+                                                <xsl:text>Clara Katharina Pollaczek an Arthur Schnitzler, 5.&#160;8.&#160;1931</xsl:text>
+                                            </xsl:when>
+                                            <xsl:when test="$dateiname = 'ckp946'">
+                                                <xsl:text>Clara Katharina Pollaczek an Arthur Schnitzler, 6.&#160;8.&#160;1931</xsl:text>
+                                            </xsl:when>
+                                            <xsl:otherwise>
+                                                <xsl:value-of select="$inhalt-nachschlagen/title"/>
+                                            </xsl:otherwise>
+                                        </xsl:choose>
+                                    </title>
+                                </xsl:if>
                                 <xsl:for-each select="$inhalt-nachschlagen/date/@when">
                                     <xsl:element name="title"
                                         namespace="http://www.tei-c.org/ns/1.0">
