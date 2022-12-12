@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp173"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 22. Januar 1925</title>
+            <title type="alternative" when-iso="1925-01-22"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp173"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="173">
+               <lb n="01"/>Bl. 3
+      <lb n="02"/>22.1.25
+      <lb n="03"/>Weg zurück, ohne dass irgendwelche Gespräche stattgefunden hätten.
+      <lb n="04"/>Lunch mit noch leidlichem Appetit, den ganzen Nachmittag verbringe
+      <lb n="05"/>ich etwas grippli, aber rekonvazierend auf dem Divan. Dili kommt
+      <lb n="06"/>wahrhaft glänzend aussehend und wir plaudern zwei Stunden. O., die
+      <lb n="07"/>im "Palace" mit Frau K. einen Besuch gemacht hat, holt sie ab.- Abend
+      <lb n="08"/>zuhause; zur Arbeit hergerichtet, gelesen. (Lewisohn, gegen den Strom; -
+      <lb n="09"/>Frank Heller,Filip Collins Abenteuer; - Valery,Variétel) -In der Nacht
+      <lb n="10"/>Waste-Träume
+      <lb n="11"/>werez
+      <lb n="12"/>Hrzklopfen noch Warteträume; aber höchst verachnupft aufge-
+      <lb n="13"/>wacht. Jetzt will ich in die Höhe und mich besonnen lassen.
+      <lb n="14"/>- Deinen Expressbrief,Liebste, hab ich erst Sonntag Abends
+      <lb n="15"/>in Zürich bekommen. Hier ist noch keinarlei Nachricht von Dir ein-
+      <lb n="16"/>getroffen. - Dass Du mit F.S. erst nach Deiner Unterredung mit Paul Zs.
+      <lb n="17"/>sprechen willst -ist gewiss richtig; - ich frage mich nur,-ob Du
+      <lb n="18"/>Überhaupt mit ihm redensollst - da ja eine Entscheidung doch unab-
+      <lb n="19"/>hängig von ihm erfolgen dürfte. Nun, Du wirst ja nach Deinem Besuch
+      <lb n="20"/>bei Paul Zs. selbst empfinden, was das Besse sein wird. Dass Du auf
+      <lb n="21"/>-
+      <lb n="22"/>Glücksmann - er mag so ehrlich sein als er will - und er ist es
+      <lb n="23"/>wiss - keine übergrossen Hoffnungen setzt, ist sehr klug, Dass man
+      <lb n="24"/>zur "Redoute" einen (vielmehr zwei) andre Einakter spielen müsste
+      <lb n="25"/>als die aus dem Zyklus oder auch den Abendspaziergang, - ist
+      <lb n="26"/>meine unumstössliche Meinung; - und dass meiner Ansicht in der Redoute
+      <lb n="27"/>der furchtbare Keim zu einem wircklichen Stück liegt, - dass der Akt
+      <lb n="28"/>aber so wie er ist kein vollwertiges Drama bedeutet, - weisst Du auch.
+      <lb n="29"/>Fiat justitia... ich bin unaagbar gespannt auf die neue Novelle. Ist
+      <lb n="30"/>sie schon fertig diktiert, so könntest Du sie mir doch sofort hieher
+      <lb n="31"/>schicken-? Und nun lebwohl, mein Liebes-, ich küsse Dich tausendmal,
+      <lb n="32"/>auf ein sehr baldiges und gutes Wiedersehen. Dein A.
+      <lb n="33"/>-- — —
+      <lb n="34"/>123</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

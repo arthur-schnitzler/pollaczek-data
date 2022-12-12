@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp289"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 19. Oktober 1925</title>
+            <title type="alternative" when-iso="1925-10-19"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp289"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="289">
+               <lb n="01"/>An A.S. Berlin.
+      <lb n="02"/>Wien, <date>19.10.1925</date>.
+      <lb n="03"/>Liebster, ich bin so froh! Die Spieglers haben die Zimmer gemietet
+      <lb n="04"/>und ziehen am 15.11.ein. Nie hätte ich gedacht, dass man über ein
+      <lb n="05"/>so kleines bescheidenes Einkommen so glücklich sein kann. Mir ist,
+      <lb n="06"/>als hätte ich endlich wieder festen Boden unter den Füssen und jetzt
+      <lb n="07"/>will ich arbeiten, arbeiten! Alles Nähere hoffentlich sehr bald mündlich.
+      <lb n="08"/>Ich bin gestern und heute ohne jede Nachricht von Dir und sehe der
+      <lb n="09"/>morgigen Post mit Spannung entgegen. Heute Vormittag in der Wirtschaft
+      <lb n="10"/>sehr beschäftigt dann an der "Treppe" einige Zeilen weitergekommen.
+      <lb n="11"/>Nachmittag erst Besuch meiner Mieter, die Anfang November heiraten,
+      <lb n="12"/>für ein paar Tage fortgehen und am 15. bei mir landen wollen. Dann
+      <lb n="13"/>zum Thee bei mir: Byck, Emmy Erlanger, Anna, mein Bruder Fredi. Byck
+      <lb n="14"/>ging bald, weil seine Mutter leidend ist und allein zuhause war, die
+      <lb n="15"/>Andern blieben bis 8 Uhr. Jetzt bin ich allein und von Dankbarkeit
+      <lb n="16"/>erfüllt, dass ich über die ärgsten Sorgen hinaus bin und wünschte
+      <lb n="17"/>nur, ich könnte meine gute Laune heute mit Dir teilen. Morgen nach
+      <lb n="18"/>Eintreffen der Post schreibe ich weiter.
+      <lb n="19"/>Guten Morgen, mein Liebes und Dank für die eben einge
+      <lb n="20"/>troffenen Zeilen vom 16. Heute Nacht bis 3 Uhr herrlich geschlafen,
+      <lb n="21"/>dann so wach, dass ich mir die "Schwestern" aus dem Bücherkasten
+      <lb n="22"/>holte und mit Genuss bis zu Ende las. Dann im Morgengrauen noch mal
+      <lb n="23"/>eingeschlafen.
+      <lb n="24"/>Jetzt habe ich in der Wirtschaft viel zu tun, dann in die
+      <lb n="25"/>Stadt und Nachmittag nehme ich mir die "Treppe" vor.
+      <lb n="26"/>Ich bin gut aufgelegt und bin froh, dass Du bald kommst,
+      <lb n="27"/>da ich meine gute Laune nicht gerne anderweitig verschwende -
+      <lb n="28"/>bin ich!
+      <lb n="29"/>Ich hoffe morgen noch auf einen Brief von Dir, der die Resulta
+      <lb n="30"/>te der verschiedenen Unterredungen bringt. Deinen heutigen Zeilen
+      <lb n="31"/>entnehme ich keinen Ankunftstag, aber Frieda, die ich eben sprach
+      <lb n="32"/>diesen <hi rend="underline" n="">Mittwoch</hi>
+               <lb n="33"/>Küsse Deine C.K.
+      <lb n="34"/>Ein gutes Wiedersehen einen guten Winter
+      <lb n="35"/>für uns! Tausend Küsse Deine Clara Katharina.</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

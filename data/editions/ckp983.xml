@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp983"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Tagebuch von Clara Katharina Pollaczek, 25.–30. September 1931</title>
+            <title type="alternative" when-iso="1931-09-25"/>
+            <title type="alternative" when-iso="1931-09-27"/>
+            <title type="alternative" when-iso="1931-09-28"/>
+            <title type="alternative" when-iso="1931-09-29"/>
+            <title type="alternative" when-iso="1931-09-30"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp983"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="983">
+               <lb n="01"/>vor jedem Zusammensein und sehn mich doch danach.
+      <lb n="02"/>
+               <date>27ten</date>
+               <lb n="03"/>Ge<supplied>s</supplied>tern Abend sagte mir A. er sei so ermattet, dass er nicht meist liege,
+      <lb n="04"/>er habe versucht um ½ 5 fortzugehen aber er sei gleich umgekehrt, fühle
+      <lb n="05"/>sich am wolsten in der horizontalen Lage. Ich hatte aber zufällig um ½ 8
+      <lb n="06"/>angerufen und Minna mir gesagt, er sei nicht zu Hause und es sei unbe
+      <lb n="07"/>stimmt ob und wann er komme. Um 9 war er angeblich noch nicht da. Ich bat
+      <lb n="08"/>Minna nichts von meinem Anruf zu sagen.
+      <lb n="09"/>Den Vorschlag heute Vormittag mit mir spazieren zu gehen lehnte er wieder
+      <lb n="10"/>kurz ab, und kam dann plötzlich 10 Minuten vor 1 Uhr unangemeldet und gieng
+      <lb n="11"/>mit mir bis an das Ende der Strasse und zurück, wie um ein Pensum zu erle
+      <lb n="12"/>digen. Erzählte mir, er werde demnächst <hi rend="underline" n="">allein</hi> auf den Semmering gehen,
+      <lb n="13"/>nur auf 2 Tage. Ich blieb unentwegt sehr freundlich. Aber wenn ich allein
+      <lb n="14"/>bin– – – –
+      <lb n="15"/>
+               <date>28ten</date> Gestern Abend mit Beer-Hofmanns zum Nachtmal bei A. So ist es noch
+      <lb n="16"/>noch am Erträglichsten. Heute fühl ich mich grenzenlos elend. Von 6 Uhr an
+      <lb n="17"/>war das Telefon bei A. ausgeschaltet– Ich könnte diese Person abfangen sie
+      <lb n="18"/>stellen, aber ich tu es wegen A's Gesundheit nicht.
+      <lb n="19"/>Paul H. nach vielen Jahren in der Stadt getroffen. Er war ordentlich ergriff
+      <lb n="20"/>fen. Sagte: <supplied>»</supplied>Noch eben so jung und süss wie immer.« Ich weiss es ist nicht
+      <lb n="21"/>wa<supplied>h</supplied>r aber es tut wol.
+      <lb n="22"/>29ten. Abend meine Kinder und Donats zum Nachtmal, denen ich eine Revanche
+      <lb n="23"/>für meine »Lebens-Rettung« schuldig bin. (dass ich nicht lache) A. kam
+      <lb n="24"/>auch, obwol ich ihm sagte, ich lade ihn nicht ein, es stehe ihm frei,
+      <lb n="25"/>und es bestehe gar keine Verpflichtung. Er machte einen sehr befangenen
+      <lb n="26"/>Eindruck sah aber viel besser aus, wenn auch noch schlecht genug.
+      <lb n="27"/>Heute trotz Kälte um 2 Uhr ein Gewitter.
+      <lb n="28"/>30ten – In der Nacht von Lolo H. geträumt. Ach wenn der noch lebte, der
+      <lb n="29"/>könnte mir helfen, der könnten auch richtig mit A. reden. Schlechtes Gespräch
+      <lb n="30"/>mit A. telefonisch, obwol nur im Ton. Es wurde nichts gesprochen, was</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp353"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 30. Juli 1926</title>
+            <title type="alternative" when-iso="1926-07-30"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp353"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="353">
+               <lb n="01"/>An A.S. nach Adelboden.
+      <lb n="02"/>Wien, 30.7.1926. 15 Uhr Früh.
+      <lb n="03"/>Liebster, guten Morgen ich kann nicht mehr schlafen, wohl weil g ich
+      <lb n="04"/>gestern schon um ½8 Uhr im Bett lag und mir um 10 die Augen zufielen.
+      <lb n="05"/>Mir war gestern recht eland und ich denke, ich werde heute den ganzen
+      <lb n="06"/>Tag liegen.-Uebrigens prasselt wieder der Regen gegen die Fenster.
+      <lb n="07"/>Ich habe den "Laudin" zu Ende gelesen mit einem unangenehmen
+      <lb n="08"/>Nachgeschmack trotz aller Anerkennung. Keine Logik, keine Wahrheit. Die
+      <lb n="09"/>ria, aus der viel zu machen wäre, ist konstruiert und nicht empfunden.-
+      <lb n="10"/>Ich will mir jetzt Verschiedenes überCharlotte Corday als Sommerlektüre
+      <lb n="11"/>beschaffen - Vorarbeiten! Gestern noch Korrektur aus der "Else" heraus-
+      <lb n="12"/>geschrieben, die ich heute oder morgen der Frieda diktieren werde. Am 4.
+      <lb n="13"/>Kapitel nur wenige Zeilen weitergekommen, aber das Ganze gründlich über-
+      <lb n="14"/>dacht.
+      <lb n="15"/>Wie lange Du schon fort bist. Es dünkt mich Ewigkeiten, dass ich
+      <lb n="16"/>Dich zuletzt gesprochen habe. Jetzt will ich versuchen noch ein wenig
+      <lb n="17"/>zu schlafen, aber ich fürchte, es wird nicht gehen.
+      <lb n="18"/>3 Uhr Nachmittag.
+      <lb n="19"/>Ich bin wirklich im Bett geblieben - mir ist zu miserabel, auch
+      <lb n="20"/>versäumt man nichts. Wolkenbruchartige Regengüsse. Ich liege und denke
+      <lb n="21"/>und schreibe und träume und schlafe, nur fliegen und sterben tue ich
+      <lb n="22"/>nicht, weil ich kein Veroual getrunken habe, aber allein bin ich - sehr
+      <lb n="23"/>allein. Dein Bedürfnis an Alleinsein für meine Person dürfte schon be-
+      <lb n="24"/>friedigt sein und Du wirst begreifen, dass ich es mir nicht besonders zu
+      <lb n="25"/>wünschen brauche.Frieda hat heute keine Zeit für mich. Das 4.Kapitel geht
+      <lb n="26"/>angsam vorwärts und keinesfalls werde ich es vor meiner Abreise fertig
+      <lb n="27"/>bringen. Uebrigens werde ich ja erst Deiner Antwort entnehmen, was aus mir
+      <lb n="28"/>wird. Ich habe ein Chroniktagebuch begonnen und will es womöglich weiter
+      <lb n="29"/>führen bis an mein Lebensende, was viel und auch wenig sein kann. Ich habe
+      <lb n="30"/>mir das schon öfters vorgenommen und habe dann doch immer wieder aufgenözt-
+      <lb n="31"/>nicht aus Inkonsequenz, sondern aus gewissen Hennungen heraus. Ich schrei
+      <lb n="32"/>be lieber gar nicht als unaufrichtig.
+      <lb n="33"/>312</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

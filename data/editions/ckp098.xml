@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp098"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 11. September 1923</title>
+            <title type="alternative" when-iso="1923-09-11"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp098"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="98">
+               <lb n="01"/>Bregenz,Lochau 11.9.1923.
+      <lb n="02"/>(nach Wien)
+      <lb n="03"/>Liebste Clara Katharina, wie ich Dir schon voraussagte - im Kreuz
+      <lb n="04"/>war meines Bleibens nicht - trotz Musik und Bekanntschaft eines Bre-
+      <lb n="05"/>genzer Bankdirektors samt Gemahlin; - hier im Badestrandhotel fühl
+      <lb n="06"/>ich mich behaglich; - es ist im Schweizer Stil gehalten und geführt, -
+      <lb n="07"/>ausser uns kaum 3-4 Menschen da; hübscher Park, wunderschön am Ufer
+      <lb n="08"/>gelegen, mit Schirmen und Strandbad, das ich noch nicht genossen, von
+      <lb n="09"/>dem aber meine Tochter entzückt ist. Eigentliche Spaziergänge nicht
+      <lb n="10"/>Pfänder
+      <lb n="11"/>viel - gestern bin ich zum Kinden aufgestiegen, dem Bregenzer Berg,
+      <lb n="12"/>tausend Meter, mit köstlichem (etwas verhebeltem) Blick über den See
+      <lb n="13"/>und die schweizer Berge hin. Der Weg hinab nach Bregenz war unangenehm
+      <lb n="14"/>(nicht zum Schwindeln, aber weit). Heute machen wir eine Tour um den
+      <lb n="15"/>See. Die Stimmung lässt durchaus zu wünschen übrig; trotzdem geht die
+      <lb n="16"/>Arbeit vorwärts.- Abreise nach Wien erfolgt Freitag oder Samstag, je
+      <lb n="17"/>vi
+      <lb n="18"/>nachdem xxx (von Innsbruck aus) dem Schlafwagen bekommen. Das erfahre
+      <lb n="19"/>ich heut oder morgen. Um ein paar Zeilen kann ich Dich also nicht mehr
+      <lb n="20"/>hieher bitten - vielleicht finde ich ein Wort von Dir bei mir zuhaus,
+      <lb n="21"/>da Du doch am Tag meiner Ankunft vermutlich nicht in Wien, sondern in Ga-
+      <lb n="22"/>ming sein wirst? Wie seltsam nach diesen Tagen und Wochen nun tage-
+      <lb n="23"/>und fast wochenlang nichts von Dir zu wissen! Während ich Dir diese
+      <lb n="24"/>Zeilen schreibe, sitze ich auf einer herrlichen Frühstücksterrasse am
+      <lb n="25"/>See und der Morgensionnenglanz bricht die ganze Landschaft auf; ich
+      <lb n="26"/>sehe nur die Gartenbeete auf den Wiesen vor dem Hotel und die Landungs-
+      <lb n="27"/>brücke - das gegenüber liegende Bregenz wird von der Sonne aufgezehrt
+      <lb n="28"/>cto
+      <lb n="29"/>(was übrigens nicht mein Geschmack wäre - was für trauriges österrei-
+      <lb n="30"/>chisches Provinznest! - Ohne Menschen stell ich mirs übrigens ganz
+      <lb n="31"/>schön vor.
+      <lb n="32"/>Sei tausendmal gegrüsst, Liebste, ich habe immer wieder ein Bedürf-
+      <lb n="33"/>nis Dir für die guten und seelenbefreienden Stunden, die Du mir geschenkt
+      <lb n="34"/>hast, die schlanken zärtlichen Hände zu küssen. Auf ein schönes Wieder-
+      <lb n="35"/>sehen. Dein
+      <lb n="36"/>A.
+      <lb n="37"/>des</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

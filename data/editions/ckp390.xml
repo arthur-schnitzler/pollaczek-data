@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp390"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 8. September 1926</title>
+            <title type="alternative" when-iso="1926-09-08"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp390"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="390">
+               <lb n="01"/>Luzern, 8.9.1926.
+      <lb n="02"/>(nach Alt-Aussee)
+      <lb n="03"/>Mein Liebes, aus Italien noch immer keine Nachricht. Umso sicherer
+      <lb n="04"/>nehme ich an, dass man sich für weiteres Verweilen in Venedig ent-
+      <lb n="05"/>scheidet. Und ich denke von hier aus wohl am Sonntag nachhause
+      <lb n="06"/>zu fahren.
+      <lb n="07"/>Die Fahrt auf den Rigi war schön; Aussicht hatte ich wenig; auf dem
+      <lb n="08"/>Scheideg (ich war nemlich sowohl auf dem Kulm als auf Scheidegg,
+      <lb n="09"/>sah, statt in den Zugersee, in ein Nebelmeer. Das Hotel auf dem
+      <lb n="10"/>Kulm, wo ich lunchte, sehr prächtig. (Ich glaube es stand schon, als
+      <lb n="11"/>ich vor 54 Jahren oben war und den ersten konnenaufgang meines
+      <lb n="12"/>Daseins erlebte. Seither nicht viele.-
+      <lb n="13"/>Abend war ich (natürlich) bei "Wien bleibt Wien". - Und Film bleibet
+      <lb n="14"/>Film. Und einer ist doch immer noch dümmer und verlogener als der
+      <lb n="15"/>andere. Nein, dort blüht mein Weizen nicht (wo aber denn? Ich
+      <lb n="16"/>glaub es hat sich ausgeweizt...)
+      <lb n="17"/>(Spiel im Morgengränn)
+      <lb n="18"/>Den heutigen Tag widme ich dem Leutnant Kasda. Das Wetter ist trüb,
+      <lb n="19"/>unsicher und schwül.
+      <lb n="20"/>Ich xxx wünschte Du verlebst heitre Tage in Altaasse ohne die
+      <lb n="21"/>in der Schweiz zu vergessen. An Frl. Frieda bitte ich sehr herzli-
+      <lb n="22"/>che Grüsse zu bestellen; - Eile bedarf es keiner - wenn ich erst
+      <lb n="23"/>Mittwoch zu diktieren anfange ist es kein Malheur; die Leute kön-
+      <lb n="24"/>nen warten - auf meine Werke- und auf eine Briefe erst recht - an
+      <lb n="25"/>denen keiner Freude haben wird.
+      <lb n="26"/>Also auf sehr bald und sei innig umarmt.
+      <lb n="27"/>Dein
+      <lb n="28"/>A
+      <lb n="29"/>- - — —
+      <lb n="30"/>348</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

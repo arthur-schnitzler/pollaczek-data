@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp895"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Tagebuch von Clara Katharina Pollaczek, 24.–31. März 1931</title>
+            <title type="alternative" when-iso="1931-03-24"/>
+            <title type="alternative" when-iso="1931-03-25"/>
+            <title type="alternative" when-iso="1931-03-26"/>
+            <title type="alternative" when-iso="1931-03-27"/>
+            <title type="alternative" when-iso="1931-03-28"/>
+            <title type="alternative" when-iso="1931-03-29"/>
+            <title type="alternative" when-iso="1931-03-30"/>
+            <title type="alternative" when-iso="1931-03-31"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp895"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="895">
+               <lb n="01"/>ich glaube, dass eine so lange Einquartierung für A. sehr anstrangend
+      <lb n="02"/>ist. Aber was wird sich alles daran knüpfe
+      <lb n="03"/>25.3. Carry 38.5 Morgentemperatur. In der Nacht Bier getrunken nach-
+      <lb n="04"/>her Uebelkeit. Alle meine Ermahnungen eine gewisse Diät zu halten
+      <lb n="05"/>sind vergeblich. Wie machtlos ist man!
+      <lb n="06"/>26.3. Frük 37.7. Um ¼ 38.9, entschiedene Besserung, noch wage ich nicht
+      <lb n="07"/>mehr zu sagen. Gestern Abend mit A. aufregender Film "Südpolarflug"
+      <lb n="08"/>Bird", dann nachhause jeder für sich. Kaltes Wetter. Heute Abend
+      <lb n="09"/>Sternwartestrasse mit Frieda, Bruder und einem Herrn Thomasberger.
+      <lb n="10"/>27.3. Schlechter Tag. Früh 38.7, Mittag arge Ueblichkeit, hohes Fieber,
+      <lb n="11"/>später 39.2, aber bei schon besserer Verfassung. Allein mit Carry, der
+      <lb n="12"/>sehr bedrückt scheint.
+      <lb n="13"/>Abend mit A. bei dummen Film, da es das Einzige ist, was ihn zerstreut.
+      <lb n="14"/>Dann bei ihm. Zärtlichkeit, die aber sehr müde scheint - vielleicht Mit-
+      <lb n="15"/>leid.
+      <lb n="16"/>28.3. Gottlob Temperatur 37.6, wie ich telefonisch höre.-Nachmittag
+      <lb n="17"/>wieder Erbrechen und Mattigkeit, Temp. 39.2. Abend allein zuhause.
+      <lb n="18"/>Anna hat mich bei Carry geholt.
+      <lb n="19"/>29.3. Früh 36.9,Mittag wieder 39.7, aber Allgemeinbefinden sehr ge-
+      <lb n="20"/>bessert, keine Ueblichkeiten. A. Mittag mit mir zu Carry und Magdi
+      <lb n="21"/>zu ihrer Grossmutter begleitet. Ich bis gegen 4 Uhr bei Carry, der in
+      <lb n="22"/>guter Stimmung war.
+      <lb n="23"/>Abend mit A. im Kino "Liebe auf Befehl", saudunn, dann bei ihm. Matte,
+      <lb n="24"/>verlegene Zärtlichkeit.
+      <lb n="25"/>30.3. Carry 37.6 Temp. A. mich erst um 1/4 11 angerufen, weil die "Mas-
+      <lb n="26"/>seurin" bei ihm war.-Abend A. mich geholt. "Brüder Karamawoff". Dann
+      <lb n="27"/>nachhauwe. Cary Nachmittag weniger wohl,39.2.
+      <lb n="28"/>31.3. Cary wohler, aber ich bin noch sehr unruhig. A. Abends kurz bei
+      <lb n="29"/>mir. Ich wie täglich 1/2 1-4 Carry.</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

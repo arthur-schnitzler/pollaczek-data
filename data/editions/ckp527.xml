@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp527"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 17. April 1928</title>
+            <title type="alternative" when-iso="1928-04-17"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp527"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="527">
+               <lb n="01"/>An Bord der Stella.
+      <lb n="02"/>Dienstag, 17.4.1928. Vormittag.
+      <lb n="03"/>Im Hafen von Katakolon.
+      <lb n="04"/>Mein Liebes, das Schiff liegt still; die Mehrzahl der Passagiere hat
+      <lb n="05"/>einen Ausflug nach Clympia unternommen, anderthab Stunden Bahnfahrt,
+      <lb n="06"/>berühmter Tempel, Museum, Besichtigung, Lunchpackerl, etwa 150 Menschen,
+      <lb n="07"/>also lieber nicht, dachte ich, ebenso Lili und Arnoldo.-Die schlafen
+      <lb n="08"/>aber noch. Ich habe meine Frühtour auf den Deck gemacht und sitze jetzt
+      <lb n="09"/>im Salon, um Dir zu schreiben. Vor allem allgemeines über das Schiff.
+      <lb n="10"/>Es ist 24 Jahre alt, war ein Amerikadampfer, hat in Ehren gedient, und xxx
+      <lb n="11"/>ist auf seine alten Tage weiss angestrichen und ein Vergnügungsdampfer
+      <lb n="12"/>geworden. Ich habe sowohl meine Kajüte - als Lili und Arnoldo ihre
+      <lb n="13"/>Kajüte gewechselt - ich bekam sogar eine mit Bad - das vorläufig
+      <lb n="14"/>nicht functioniert. - Die Gesellschaftsräume geräumig, aber doch, ins-
+      <lb n="15"/>besondere das Rauchzimmer nicht ausreichend. Essen recht, zuweilen
+      <lb n="16"/>sehr gut. Tische zu 7-20 Personen. Ich links vom Capitän, Lili rechts.
+      <lb n="17"/>Dann von Lili an gerechnet Arnoldo, Prof. Dr.Liepmann und Frau, Bankdi-
+      <lb n="18"/>rektor Sampo aus Mailand. conversation italienisch, französisch, delten
+      <lb n="19"/>deutsch. Das Frühstück zu geht leicht vorüber, das Diner leider schon für
+      <lb n="20"/>7 zu dem üblichen 7 Gängen, dauert über eine Stunde und ist daher zum
+      <lb n="21"/>auswachsen. Nachher lauf ich uns Deck herum, sitze eine Weile im Rauch-
+      <lb n="22"/>zimmer; bis nach 11 wird (auf Deck) getanzt (immer die gleichen Paa-
+      <lb n="23"/>re, 15-20; Arnoldo-Lili sehen nicht am schlechtesten aus). - Dann bin
+      <lb n="24"/>ich noch im Freien oder im Rauchzalon. Bekannte von früher und vom
+      <lb n="25"/>Schiff. Oberleutnant Krum mit Frau (von Lichtensterns her bekannt);
+      <lb n="26"/>ein jüdischer gemütlicher Advokat Sachsel (mir von einer Urheber-
+      <lb n="27"/>rechtconferenz her bekannt), ein Dozent der Theologie und Pfarrer aus
+      <lb n="28"/>Breslau Dr.Haacke (?). nicht unangenehm, etwas selbstgefällig; ein
+      <lb n="29"/>Dr.Katiz (Dresden) früherer Hospital bei Julius u.a.
+      <lb n="30"/>Bisher von meinen Sachen überhaupt noch nichts angesehen; -lese
+      <lb n="31"/>Paléologue und Dreyser. Gestern an Land mit Arnoldo und Lili; -Corfu;</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

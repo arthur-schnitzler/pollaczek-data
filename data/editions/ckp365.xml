@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp365"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 3. August 1926</title>
+            <title type="alternative" when-iso="1926-08-03"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp365"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="365">
+               <lb n="01"/>Adelboden, 3.8.1926.
+      <lb n="02"/>Liebe, eben hatte ich einen gewöhnlichen Brief fortgeschickt - da
+      <lb n="03"/>kommt Bein Expressbrief vom 1., den ich nun auch rasch express beant-
+      <lb n="04"/>worte. Es ist ja (wenn überhaupt mit L.'s was wird, von denen ich
+      <lb n="05"/>eine einfache Grusskarte von Locarno ohne Andeutung anderer Pläne
+      <lb n="06"/>erhielt) a priori wahrscheinlich, dass ich in der Schweiz bleibe und
+      <lb n="07"/>so wird es sich wohl fügen, dass wir entweder am 1.2. wieder in der
+      <lb n="08"/>Schweiz zusammen, bis zu Deiner Ausseer Reise oder dass sich unser
+      <lb n="09"/>erstes Zusammensein etwas länger audehnt, und ich viel leicht erst in
+      <lb n="10"/>dem letzten Augusttagen Dich verlasse, um allein oder mit L.'s einige
+      <lb n="11"/>Tage zu verbringen. Es ist ja keinesfalls so schlimm eine kurze
+      <lb n="12"/>Zeit an einem schönen schweizer Ort allein zu sein. Ich glaube, dass
+      <lb n="13"/>wir kein auf den Tag festgelegtes Programm entwerfen sollen; um den
+      <lb n="14"/>15. herum Rendezvous in der Berner Gegend - alles übrige findet sich,
+      <lb n="15"/>und schön wird es jedesfalls.- Und ein Wort,mein Liebes, Über die
+      <lb n="16"/>Frage der "Concessionen“. Das was Du "Concessionen" nennst, kann
+      <lb n="17"/>natürlich nie "sorgenlos" machen; - lieber leih ich mir aus den doch
+      <lb n="18"/>duth
+      <lb n="19"/>noch glücklicherweise vorhandenen Bankeinlagen etwas aus, als ich
+      <lb n="20"/>en es dringend nothwendig ist meine Preise so weit heruptersetze, dass
+      <lb n="21"/>es eben zu einer Concession wird; die für die Folge gefährlich werden
+      <lb n="22"/>kann. Dass ich z.B. heute nach 15 Jahren für einen Film weniger bekom-
+      <lb n="23"/>men soll; - als z.B. für den Anatol; grenzt an einen Erpressungsver-
+      <lb n="24"/>such, - aus der Empfindung heraus: wahrscheinlich braucht er das Geld
+      <lb n="25"/>dringend. -
+      <lb n="26"/>Und was xxx xxx die Vossische anbelangt, so wird es mir
+      <lb n="27"/>nie einfallen einer Zeitung etwas anzubieten, eh ich die letzte defi-
+      <lb n="28"/>nitive Zeile geschrieben habe. Ueber diese Frage werde ich übrigens
+      <lb n="29"/>so bald als möglich mit Paul W. sprechen.-Nur diese paar Worte - um 2
+      <lb n="30"/>geht die Post.- So kannst Du diesen Brief übermorgen haben.-
+      <lb n="31"/>Lebwohl mein Liebes, ich küsse Dich sehr. Dein
+      <lb n="32"/>Arthur.
+      <lb n="33"/>-- — —</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

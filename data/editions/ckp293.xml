@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp293"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 8. Februar 1926</title>
+            <title type="alternative" when-iso="1926-02-08"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp293"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="293">
+               <lb n="01"/>Berlin, <date>8.2.1926</date>. Hotel Esplanade.
+      <lb n="02"/>(nach Wien, Pregegring.)
+      <lb n="03"/>Mein Liebes, zur Zeit, da ich Dir sonst telefoniere, setze ich mich,
+      <lb n="04"/>während daneben die Badewanne rauscht, an den Tisch und sende Dir
+      <lb n="05"/>meine innigsten Grüsse (Küsse nach Schluss) und erstatte Bericht
+      <lb n="06"/>über das gestrige Ereignis, das mir in dem selben Augenblick schon
+      <lb n="07"/>lächerlich erscheint, da ich es Ereighis nenne. Um aber nichts zu
+      <lb n="08"/>vergessen, will ich chronistisch vorgehn, eine Gewohnheit. Samstag also
+      <lb n="09"/>6 Uhr zu Georg Engel, woselbst schon der Vereinsekretär Birkenfeld.
+      <lb n="10"/>Die Bergner (zu der wir hätten fahren sollen) kam zu uns, – eben von Bar
+      <lb n="11"/>nowsky, der ihr die Else eben noch von 2½ Stunden auf 1 zusammenge
+      <lb n="12"/>strichen hatte. Sie tat oder war höchst aufgeregt wegen morgen und
+      <lb n="13"/>fügte sich meiner Reihenfolge (Else-Gustl) ohneweiters.– Ich ins
+      <lb n="14"/>Schillertheater, Jugend, Heini spielte den Hans sehr gut; die Gesamt
+      <lb n="15"/>vorstellung etwas laut und nicht ohne provinzielle Atmosphäre. Lili
+      <lb n="16"/>und Olga »nach Hause«; – ich mit Heini Esplanade; er auf den »Bösen
+      <lb n="17"/>Buben-Ball« (der jetzt auch in Berlin). Ich um 12 Uhr ins Bett und
+      <lb n="18"/>nach guter Reiseart fast 8 Stunden »glatt«, wie man hier ununterbro
+      <lb n="19"/>chen sagt, durchgeschlafen.– Den Sonntag Vormittag mit Telefongesprächen
+      <lb n="20"/>und Gustl-Versuchen verbracht.– Nach Dahlem, bei Dora M. und ihren
+      <lb n="21"/>zwei Söhnen gegessen (der Gatte ist nach Wien in der Sache Jakob –
+      <lb n="22"/>Julie) (der älteste in Hamburg, Secundararzt); dann in Hotel; ein
+      <lb n="23"/>französischen Stück von K.... »la nuit est å nous« (theilweise
+      <lb n="24"/>hübsch) gelesen. In den Reichstag. Elisabeth Bergner mit Barmowsky;
+      <lb n="25"/>in einem entzückenden Else-Kleid; und voll echtem und gespieltem Aber
+      <lb n="26"/>glauben; von einer Freundin umgeben (jede Schauspielerin hat so
+      <lb n="27"/>eine Freundin); – Georg Engel (der Präsident des Erzählverbandes)
+      <lb n="28"/>eitel, vereinmeierisch und nicht sehr gescheidt; die nette
+      <lb n="29"/>blonde beflissene Sekretärin Birkenfeld. Saal überfüllt. Engel hält
+      <lb n="30"/>eine kleine ein- (und an-) führende Rede über die Blüten österreichi
+      <lb n="31"/>scher Kultur (oder so), die heute  etc. etc.…in diesen Hallen.</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

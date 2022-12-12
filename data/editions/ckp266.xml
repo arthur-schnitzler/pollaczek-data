@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp266"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 14. September 1925</title>
+            <title type="alternative" when-iso="1925-09-14"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp266"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="266">
+               <lb n="01"/>An A.S. nach Florenz.
+      <lb n="02"/>Wien, <date>14.9.1925</date>.
+      <lb n="03"/>Liebster,
+      <lb n="04"/>Samstag erhielt ich Deinen ersten Brief, heute, als ich von
+      <lb n="05"/>der Stadt nachhause kam, dein zweites Schreiben vom 12. Ich habe eigent
+      <lb n="06"/>lich gar nichts zu berichten, denn die Unterhandlungen mit Tapezierern,
+      <lb n="07"/>Zimmerputzern etc., Besuche bei alten Tanten können Dich wenig interes
+      <lb n="08"/>sieren. Ausserdem hatte ich beim Zahnarzt zu tun und schau täglich
+      <lb n="09"/>in das Bureau der Neuen Freien Presse. Aber auf 2 An<supplied>n</supplied>oncen habe ich im
+      <lb n="10"/>Ganzen zwei unbrauchbare Zuschriften bekommen, was mich einigermassen
+      <lb n="11"/>deprimiert.
+      <lb n="12"/>Es tut mir auch unendlich leid, dass ich hier heraus ge
+      <lb n="13"/>zogen bin, was unter den gegebenen Umständen ganz sinnlos ist. Ich
+      <lb n="14"/>hätte die Absage von Kremer als einen Wink des Himmels ansehen sol
+      <lb n="15"/>len; ich friere masslos, sitze allabendlich allein in dem kleinen eis
+      <lb n="16"/>kalten Zimmer, muss täglich mit der Elektrischen in die Stadt und
+      <lb n="17"/>frage mich wozu das alles!! Wenn ich mit jemanden telefonieren will,
+      <lb n="18"/>muss ich 2 Stock hinunter und herauf laufen. "Regina" wäre viel bes
+      <lb n="19"/>ser gewesen und wenn ich nicht Unannehmlichkeiten mit Kremer befürch
+      <lb n="20"/>tete, würde ich davon gehen.
+      <lb n="21"/>Frieda P. ist auch noch nicht hier, wahrscheinlich war
+      <lb n="22"/>sie rechtzeitig über Deine Reisepläne unterrichtet und bleibt
+      <lb n="23"/>länger fort. So kann ich leider auch nicht diktieren. Du siehst also,
+      <lb n="24"/>dass ich bisher weder etwas Angenehmes noch etwas Heiteres zu berich
+      <lb n="25"/>ten habe und nur von Sorgen für die nächste Zeit erfüllt bin. Aber
+      <lb n="26"/>irgendwie werde ich mir schon mein Leben zurechtdeichseln.
+      <lb n="27"/>Ich danke Dir noch sehr für Deinen lieben Bericht, freue
+      <lb n="28"/>mich, dass Dich der dortige Aufenthalt so vollauf befriedigt und wün
+      <lb n="29"/>sche Dir weiter viel Vergnügen und gute Heimkehr. Eine herzliche Um
+      <lb n="30"/>armung von Deiner
+      <lb n="31"/>Clara Katharina.</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

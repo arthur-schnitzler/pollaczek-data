@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp959"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 18. August 1931</title>
+            <title type="alternative" when-iso="1931-08-18"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp959"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="959">
+               <lb n="01"/>Bad Gastein, 19.8.1931.
+      <lb n="02"/>Mein liebes Kind, ich habe Dir soeben telegraphiert; "Nicht Heinis
+      <lb n="03"/>Abreise, aber Form, Gefühl und Einstellung Deines Briefes entscheidend.
+      <lb n="04"/>Lebwohl und alles Gute mit Dir."
+      <lb n="05"/>Dein Brief, der heute Früh eintraf, und mir namenlos weh gethan hat,
+      <lb n="06"/>hat den letzten Zweifel gelöst, dass ich den am Semmering betretenen
+      <lb n="07"/>Reg.
+      <lb n="08"/>Brief weiter zu gehen habe.
+      <lb n="09"/>Wären Deine Anrufe in Wien nach meinem Fortgehn nicht gewesen, hätte
+      <lb n="10"/>Dr. D. in seinem freundschaftlichen Verstehen meiner Verfassung
+      <lb n="11"/>nicht auf mich eingewirkt, so hätte ich das damals schon gewusst.
+      <lb n="12"/>Du hast mir am Telefon damals gesagt: "Wenn Du es erlaubst, bin ich
+      <lb n="13"/>am 15. bei Dir in Gastein" und Dr. Dr. war in seinem Brief derselben
+      <lb n="14"/>Ueberzeugung, die Du offenbar damals noch hattest.
+      <lb n="15"/>Trotzdem ging es nicht um das genaue Datum und den Ort des Zueinan-
+      <lb n="16"/>d erkommens. Ich war bereit aus Rücksicht für Dich,-Dich auch wo an-
+      <lb n="17"/>ders zu treffen, Dir entgegenzufahren, ich schlug Dir den 16., den 17.,
+      <lb n="18"/>den 18. vor als Du mir schriebst, dass Arnoldo erst am 18.Früh fort-
+      <lb n="19"/>fährt. Ich war schliesslich auch einverstanden nach Gmunden zu
+      <lb n="20"/>kommen. Und nun sollte ich noch 5 Tage länger hier bleiben, in
+      <lb n="21"/>diesem entlegenen und mehr als unsympathischen Haus bei diesem
+      <lb n="22"/>trostlosen Wetter,in dieser grenzenlosen Einsamkeit.
+      <lb n="23"/>Du weisst, dass für mich materiell jeder Tag eine Rolle spielt,
+      <lb n="24"/>dass ich mich dadurch in keiner Weise rühren kann, dass diese Welt
+      <lb n="25"/>von der Du immer sprichst nach einem Aufflackern weniger Tage
+      <lb n="26"/>nur ein negatives Resultat haben konnte, aber Du weisst auch sehr
+      <lb n="27"/>genau, dass ich mit Rücksicht auf Heini (denn in dieser Richtung
+      <lb n="28"/>verstehe ich alles) auch mit dem 23. einverstanden gewesen wäre
+      <lb n="29"/>wenn xxx ein Hauch von Liebe und Güte aus Deinen Briefen
+      <lb n="30"/>kommen wäre.
+      <lb n="31"/>Du weisst sehr genau, dass ich nicht eigensinnig und nicht bösartig
+      <lb n="32"/>bin. Es ist Dir nicht fremd, durch welche unaussprechlichen Qualen</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp255"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 14. August 1925</title>
+            <title type="alternative" when-iso="1925-08-14"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp255"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="255">
+               <lb n="01"/>14.8.25.
+      <lb n="02"/>sich bald geben. Nimm doch ein paar Tage Tierkohle, drei Messerspitzen
+      <lb n="03"/>im Tag. Ich halte es für das beste Mittel in solchen Fällen.
+      <lb n="04"/>Ich kann mir gar nicht vorstellen, was für unerdrückliche
+      <lb n="05"/>Gespräche finanzieller Art Ihr noch haben könnt, wo doch diese Frage
+      <lb n="06"/>so weitgehend geordnet war. War wirklich gar nicht von mir die Rede?
+      <lb n="07"/>Cary weiss natürlich, dass ich mit Dir zusammentreffe.
+      <lb n="08"/>Gott, wenn ich denke, dass ich Dein liebes Gesicht in ein
+      <lb n="09"/>paar Tagen wiedersehe, so freue ich mich schon schrecklich.
+      <lb n="10"/>Leider kein Brief von Dir! Wahrscheinlich erst Abend.
+      <lb n="11"/>Ich schicke diesen aber doch gleich nach Bozen ab, damit Du ihn im
+      <lb n="12"/>Laurin vorfindest. Ich bin schon so neuginig, was für ein Programm Du
+      <lb n="13"/>machen wirst. Mich ärgert nur, dass mir das Visum vielleicht Schererei-
+      <lb n="14"/>en machen wird. Ich weiss ja nicht, ob Du überhaupt magst, dass ich in
+      <lb n="15"/>die Schweiz hinüberkomme, aber jedesfalls erkundige Dich gleich im Hotel
+      <lb n="16"/>sos und im Verkehrsbüreau E.N.I.T., Corso Vittorio Emanuel über die
+      <lb n="17"/>diezbezüglichen Möglichkeiten. Wenn notwendig, verständige mich gleich
+      <lb n="18"/>telegrafisch oder telefonisch und ich sende meinen Pass express-re-
+      <lb n="19"/>kommandiert an Dich ab. 
+      <lb n="20"/>Keinesfalls dürfen Dir durch mich irgendwelche Unannehmlichkeiten
+      <lb n="21"/>erwachsen. Lieber bleibe ich zurück und erwarte Dich in Tirol. Aber ich
+      <lb n="22"/>will mir vorläufig nicht den nopf zerbrechen, denn Du wirst schon das
+      <lb n="23"/>Richtige finden oder wir besprechen es mündlich.
+      <lb n="24"/>Wenn Du mich telefonisch sprechen willst, so bin ich
+      <lb n="25"/>jedenfalls von 1–5 und abends von ½8–10 erreichbar. Das ist aber keine
+      <lb n="26"/>Aufforderung mich anzurufen - (ich weiss, dass solche Gespräche enner
+      <lb n="27"/>vant sind) ich gebe nur die Zeit an, für den Fall Du mich aus irgend
+      <lb n="28"/>einem Grund dringend sprechen wolltest. Ich bin ja wahrscheinlich den
+      <lb n="29"/>ganzen Tag hier oder im Park, aber vielleicht fahre ich zwischen 5
+      <lb n="30"/>und 18 zum Tee nach Torbole hinüber oder gehe spazieren.-</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

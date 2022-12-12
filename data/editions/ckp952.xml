@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp952"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 12. August 1931</title>
+            <title type="alternative" when-iso="1931-08-12"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp952"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="952">
+               <lb n="01"/>Bad Gastein, 12. August 1931.7 Uhr ab.
+      <lb n="02"/>Lieber! Ich bin ohne Antwort auf meinen Brief und möchte Dir nur
+      <lb n="03"/>noch sagen, - es hat mir nachträglich leid getan, dass ich Dir auf
+      <lb n="04"/>das Datum um den 20. herum nicht den 17. vorschlug, da der 16. viel-
+      <lb n="05"/>leicht durch Heinig Abreise, ein Klonflikt oder eine Hetzerei für
+      <lb n="06"/>Dich sein könnte. Ueber dieses hinaus sehe ich aber nichts, was ein
+      <lb n="07"/>triftiges Hindernis sein könnte und ich kann meinen Aufenthalt hier
+      <lb n="08"/>nicht länger audehnen. Ich darf und will es nicht riskieren, dass
+      <lb n="09"/>mir die Mittel für eine ev. Heimreise ausgehen oder ich in Wien zu
+      <lb n="10"/>wenig habe, um bis zum 1. durchhalten zu können. Bitte verstehe
+      <lb n="11"/>mich!
+      <lb n="12"/>Ob Du am 17. hieher kommen willst oder mich in Salzburg erwarten
+      <lb n="13"/>steht bei Dir. Du hast glaube ich von Gmunden einen sehr guten
+      <lb n="14"/>Zug, der via Attnang um 3/4 2 in Salzburg ist, ich einen, der um 5
+      <lb n="15"/>Uhr Nachm. nach Dir ankäme. Nachmittagszüge von Salzburg hieher,
+      <lb n="16"/>gibt es 2 mehr gute, wenn Dir das lieber ist.
+      <lb n="17"/>In jedem Fall bitte ich Dich nur das zu tun, was Du Bir zuliebe tust.
+      <lb n="18"/>Alles andere wäre von vornherein falsch ganz falsch. Ich bitte Dich
+      <lb n="19"/>auch sehr mir gleich nach Erhalt dieser Zeilen zu telegraphieren.
+      <lb n="20"/>da ich - wenn wir nicht zusammenkommen, wohl früher fortgehe - und
+      <lb n="21"/>Dispositionen treffen muss.
+      <lb n="22"/>Ich war vorgestern einen Moment im Hotel Austria, weil ich dem Medi-
+      <lb n="23"/>zinalrat Bloch für einen rührend begeisterten Brief, über meine
+      <lb n="24"/>"Betrachtungen" danken wollte. Da traf und sprach ich flüch ig Dei-
+      <lb n="25"/>nen Bruder und Frau.
+      <lb n="26"/>Die Sängerin Luise Fränkel-Ehrenstein liess sich mir durch den Herrn
+      <lb n="27"/>von Tolnay (auf der Durchreise vom Engadi) ) vorstellen, um mir Lob-
+      <lb n="28"/>hudeleien über meine Arbeiten zu sagen.
+      <lb n="29"/>Für gestern Abend war ich vom Präsidenten Bloch-Bauer zum Nachtmahl
+      <lb n="30"/>ins Hotel Weismayr geladen, er ist mit Frau von Eyk, seiner Freundin,</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>

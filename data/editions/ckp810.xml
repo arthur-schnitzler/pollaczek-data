@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="ckp810"
+     xml:base="https://id.acdh.oeaw.ac.at/schnitzler/pollaczek/editions">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title>
+            <title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 23. Juli 1930</title>
+            <title type="alternative" when-iso="1930-07-23"/>
+            <author ref="#12435">Pollaczek, Clara Katharina</author>
+            <editor>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>CKP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Müller, Martin Anton</name>
+               <name>Untner, Laura</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder
+                                            Medium vervielfältigen und weiterverbreiten Bearbeiten —
+                                            das Material remixen, verändern und darauf aufbauen und
+                                            zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen
+                                            solange Sie sich an die Lizenzbedingungen halten. Unter
+                                            folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und
+                                            Rechteangaben machen, einen Link zur Lizenz beifügen und
+                                            angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+                                            dürfen in jeder angemessenen Art und Weise gemacht
+                                            werden, allerdings nicht so, dass der Eindruck entsteht,
+                                            der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+                                            besonders. Keine weiteren Einschränkungen — Sie dürfen
+                                            keine zusätzlichen Klauseln oder technische Verfahren
+                                            einsetzen, die anderen rechtlich irgendetwas untersagen,
+                                            was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich
+                                            solcher Teile des Materials, die gemeinfrei sind, oder
+                                            soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                                            Schranken des Urheberrechts gedeckt sind. Es werden
+                                            keine Garantien gegeben und auch keine Gewähr geleistet.
+                                            Die Lizenz verschafft Ihnen möglicherweise nicht alle
+                                            Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
+                                            Es können beispielsweise andere Rechte wie
+                                            Persönlichkeits- und Datenschutzrechte zu beachten sein,
+                                            die Ihre Nutzung des Materials entsprechend
+                                            beschränken.</p>
+               </licence>
+            </availability>
+            <idno type="handle"/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Correspondences of Arthur
+                                    Schnitzler</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>Wien</settlement>
+                        <repository>Wienbibliothek</repository>
+                        <idno>H.I.N. 155550</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de-AT">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="LU" when="2022-12-25">Angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ckp810"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="writingSession" n="1">
+            <seite id="810">
+               <lb n="01"/>was ich zu verstehen glaube, wenn Deine Gefühle für mich, wie immer Du
+      <lb n="02"/>sie nennen willst, an Innigkeit nichts verloren haben, wenn Du eine glück
+      <lb n="03"/>liche Gemeinsamkeit, nicht ein Weiterschleppen wünschst, erhoffst, dann
+      <lb n="04"/>will auch ich wünschen und hoffen und alles dazu tun, damit es auch
+      <lb n="05"/>wird.
+      <lb n="06"/>Und so will ich Dich fragen: Soll ich gegen den 5. August Dich in der
+      <lb n="07"/>Schweiz oder in der Nähe der Schweiz treffen? Du sagtest noch Dienstag
+      <lb n="08"/>vor einer Woche am Telefon, dass Du um den Ersten herum zurück bist.
+      <lb n="09"/>Dein Bruder fährt, wie ich aus dem Spital höre, Montag nach St. Moritz,
+      <lb n="10"/>Heini trifft in den ersten Augusttagen mit Ruth zusammen. Willst Du
+      <lb n="11"/>mich um den 5. herum also treffen und dann nach ein paar gemeinsamen
+      <lb n="12"/>Tagen mit mir nach Wien zurückkehren?
+      <lb n="13"/>Der Arzt hat mir sehr geraten etwas für meine Erholung zu tun. Ich
+      <lb n="14"/>würde bei einem weiteren Alleinsein nichts, mit ein paar frohen Tagen
+      <lb n="15"/>alles erreichen oder wenigstens viel. Vielleicht haben die 5 Wochen,
+      <lb n="16"/>die wir dann getrennt waren, auch für Dein Bedürfnis ausgereicht,
+      <lb n="17"/>und Du bist mit diesem Wiedersehen, das ich mir lieber an einem an
+      <lb n="18"/>dern Ort als in Wien denke, einverstanden. Oder willst Du lieber am
+      <lb n="19"/>5. hieherkommen und später im Herbst mit mir fortgehen, oder gar nicht
+      <lb n="20"/>mehr–? so ist es mir auch recht.
+      <lb n="21"/>Bitte sage mir das alles bald. Wenn Du Dich mir beim Schreiben Deines
+      <lb n="22"/>Briefes, wie Du sagtest »so innig nahe fühltest wie nur je«, dann wird
+      <lb n="23"/>dies auch der Fall sein, wenn Du diesen hier liest, und verstehen und
+      <lb n="24"/>fühlen, wenn wir auch heute sehr wenig von einander wissen, kaum mehr
+      <lb n="25"/>Aeusserliches nicht einmal mehr was der Tag brachte. Vielleicht wenn
+      <lb n="26"/>wir uns wiederschen, in einem guten Sinne wiedersehen, werden wir uns
+      <lb n="27"/>Alles sagen, so wie es früher einmal war.
+      <lb n="28"/>Und noch eines, damit auch nichts unerwähnt bleibt. Ich weiss, dass Du</seite>
+         </p></div>
+      </body>
+   </text>
+</TEI>
