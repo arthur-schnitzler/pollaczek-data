@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project basedir="." name="mpxml2tei">
-
+    
     <property name="collection.id" value="171233"/>
-
+    
     <property name="tei.dir" value="./tei/${collection.id}"/>
     <delete dir="${tei.dir}"/>
-
+    
     <property name="source.dir" value="./mets/${collection.id}"/>
-
+    
     <property name="tmpDir" value="./tmp"/>
     <delete dir="${tmpDir}"/>
     <mkdir dir="${tmpDir}"/>
-
+    
     <property name="lib.dir" value="lib"/>
-
-    <xslt style="./page2tei-main/page2tei-0.xsl" destdir="${tmpDir}"
-        basedir="${source.dir}">
+    
+    <xslt style="./page2tei-main/page2tei-0.xsl" destdir="${tmpDir}" basedir="${source.dir}">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="./saxon/saxon9he.jar"/>
         <param name="col-id" expression="${collection.id}"/>
@@ -25,19 +24,16 @@
         <mapper type="glob" from="*_mets.xml" to="*_tei.xml"/>
     </xslt>
     <move todir="${tei.dir}">
-        <fileset dir="${tmpDir}">
-            <exclude name="*_tei.xml"/>
-        </fileset>
+        <fileset dir="${tmpDir}"/> 
     </move>
     <delete dir="${tmpDir}"/>
     <mkdir dir="${tmpDir}"/>
-
+    
     <property name="data" value="./data/editions"/>
     <delete dir="${data}"/>
     <mkdir dir="${data}"/>
-
-    <xslt style="./page2tei-main/split-files.xsl" destdir="${tmpDir}"
-        basedir="${tei.dir}">
+    
+    <xslt style="./page2tei-main/split-files.xsl" destdir="${tmpDir}" basedir="${tei.dir}">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="./saxon/saxon9he.jar"/>
         <param name="col-id" expression="${collection.id}"/>
@@ -47,13 +43,12 @@
         <mapper type="glob" from="*.xml" to="*.xml"/>
     </xslt>
     <move todir="${data}">
-        <fileset dir="${tmpDir}">
-            <exclude name="*_tei.xml"/>
-        </fileset>
+        <fileset dir="${tmpDir}"/> 
     </move>
-
+    
     <delete dir="${tmpDir}"/>
     <delete dir="${tei.dir}"/>
     <delete dir="${source.dir}"/>
-
+    <delete file="data/editions/1233893_tei.xml"/>
+    
 </project>
