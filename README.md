@@ -19,3 +19,5 @@ The GitHub Action exports Pollaczek-METS from Transkribus and converts them to X
 * go to Actions, add the ID of the collection to process
 
 Code originally from @csae8092, adaptions by @laurauntner
+
+The original page2tei-transformation is from @dariok with contributions from @tboenig, @peterstadler and @tillgrallert.
