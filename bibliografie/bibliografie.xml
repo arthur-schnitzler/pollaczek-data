@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kommentierte Bibliographie zu Clara Katharina Pollaczek</title>
+            <author>Kurz, Stephan</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p ana="editor">Versammelt sind sämtliche auffindbaren Texte der Autorin Clara Katharina
+               Pollaczek in der Reihenfolge ihres Erscheinens und in der hier nachgewiesenen
+               Fassung. Die Suche beschränkte sich im Wesentlichen auf die <hi>Neue Freie
+                  Presse</hi>, wo ein Großteil der in Pollaczeks <hi>Arthur Schnitzler und ich</hi>
+               erwähnten Texte zwischen 1924 und 1931 erschien.<note>1</note> Zudem erwies sich die
+               Aufstellung in Karl Woisetschlägers Dissertation als hilfreich.<note>2</note> Alle
+               dramatischen sowie erzählenden Texte sind in der Folge mit einer kurzen Inhaltsangabe
+               versehen. Den in chronologischer Reihenfolge aufgelisteten Texten (auch den nicht
+               mehr ermittelbaren) wird, wo dies möglich war, der Nachweis von Daten zu ihrer
+               Entstehung angefügt. </p>
+         </div>
+         <div> </div>
+         <div>
+            <head>1897</head>
+            <list>
+               <item>
+                  <title>Fremdenbuch. Verlaine-Übersetzungen</title>. <note>3</note>
+                  <p>nicht ermittelbar</p>
+               </item>
+               <item>
+                  <title>Mimi. Schattenbilder aus einem Mädchenleben.<note>4</note> (Pseudonym Bob)
+                     Mit einem Prolog von Hugo von Hofmannsthal.</title>
+                  <bibl>In: Neue Deutsche Rundschau, 8 (1897), Nr. 4 vom 1.4.1897, S.
+                     396–413.</bibl>
+                  <p ana="content">Eine Folge von mehreren Szenen rund um die Titelfigur Mimi, die
+                     von der Initiation in die Gesellschaft (»Im Flügel-Kleide«) und den »Ersten
+                     Liebestraum« hin zu diversen Ballgesellschaften (»Loin du Bal«, »Schlüpfrig«),
+                     amourösen Plänkeleien mit einem Schriftsteller in einem Ruderboot am
+                     nächtlichen Millstättersee (»Sommernachtstraum«) und Heiratsplänen, die mit der
+                     Freundin (»Plauderei«) und mit der Mutter (»Haus-Theater«) besprochen werden,
+                     bis zu den Folgen der Heirat (»Flügellahm«) reichen. </p>
+                  <p ana="print">Der Prolog ist abgedruckt in Hugo von Hofmannsthal: Gesammelte
+                     Werke. Bd. I. Berlin: S. Fischer 1924, S. 46 f.</p>
+                  <p ana="print">»Mimi« ist wieder abgedruckt in: <bibl>Der kleine Salon. Szenen und
+                        Prosa des Wiener Fin de Siècle. Mit Illustrationen von Gustav Klimt. Hg. von
+                        Hansjörg Graf. Stuttgart: Goverts 1970, S. 231–268.</bibl></p>
+                  <p ana="comment">Lili Schnitzler liest die »Mimi« auf der Mittelmeerreise mit
+                     ihrem Vater im April 1926.<note>5</note></p>
+               </item>
+            </list>
+         </div>
+         <div> </div>
+         <div>
+            <head>1902</head>
+            <list>
+               <item>
+                  <title>Nietzsche’s Übermensch. Zum Todestage des Philosophen. </title>
+                  <p>In: Pester Lloyd, 49. Jg., Nr. 209, 2.9.1902. </p>
+                  <p ana="editor">Würdigung zum 100. Todestag. Pollaczek stellt Nietzsche in eine
+                     Reihe mit Goethe, Schopenhauer und vor allem Darwin, dessen Ideen von
+                     »Natürlicher Zuchtwahl« und »Anpassung« sie als Grundlagen von Nietzsches
+                     Denken vom »Neuen Menschen« begreift. </p>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head>vor 1908 </head>
+            <list>
+               <item>
+                  <title>Glückliche Ehe – eine Tragödie in unzähligen Auftritten. [Sketch].</title>
+                  <p ana="editor">nicht ermittelbar </p>
+                  <p ana="editor">Zurückübersetzt von »Happy Marriage – a Tragedy in Innumerable
+                        Parts«.<note>6</note>
+                  </p>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head>1921 </head>
+            <list>
+               <item>
+                  <title>Foxtrott. [Feuilletonistische Einakter].<note>7</note></title>
+                  <p ana="editor">nicht ermittelbar</p>
+                  <p ana="editor">Geschrieben 1921,<note>8</note> vermutlich im Dezember 1922 an
+                     Schnitzler geschickt. </p>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head>1924 </head>
+            <list>
+               <item>
+                  <title>Hingabe / Unter der Lampe. Zwei Gedichte aus der Sammlung »Toi et moi« von
+                     Paul Géraldy. </title>
+                  <bibl>In: Neue Freie Presse, 11.5.1924. </bibl>
+                  <p ana="editor">CKP I, 57, erwähnt am 12. August 1924, daß zweimal zwei
+                     Übertragungen von Géraldy-Gedichten in der Neuen Freien Presse erschienen
+                     seien. Das zweite Paar ist nicht ermittelbar. </p>
+               </item>
+               <item>
+                  <title>Der Abhang. [Roman]. </title>
+                  <bibl>In: Neue Freie Presse, 8.–26.7.1924, Abendblatt. </bibl>
+                  <p ana="content">Wien, Mitte der 1920er Jahre. Der verwitwete 40jährige Professor
+                     Kraßl, ein berühmter Chirurg und Vater einer Tochter, will seine
+                     Noch-nicht-Geliebte Helene Barri – die geschiedene Mutter eines 17jährigen
+                     Sohnes – in der Sommerfrische besuchen, kommt jedoch zu spät: Die begehrte Frau
+                     ist beim Blumenpflücken den titelgebenden Abhang hinabgestürzt. Kraßl findet
+                     nur mehr einen Liebesbrief, der ihm bestätigt, wie sehr sie ihn geliebt hat.
+                     Erzählt wird in den fünfzehn halbseitigen Folgen vor allem die Geschichte ihres
+                     Kennenlernens und Näherkommens, auch vom Tod des »Onkels« von Helene, Hofrat
+                     Jannek; die Schilderung in der fünften Folge hat verblüffende Parallelen zu der
+                     des Todes des unbenannten Hofrats in Schnitzlers ein Jahr später erscheinender
+                     Traumnovelle. </p>
+               </item>
+               <item>
+                  <title>Das Abschiedsfest der Sybille Engerth. Novelle. </title>
+                  <p>nicht ermittelbar </p>
+                  <p>Beginn der Arbeit wohl im August 1924.<note>9</note> </p>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head>1925 </head>
+            <list>
+               <item>
+                  <title>Seidenstrümpfe. [Einakter], vor 12.1.1925. </title>
+                  <p>nicht ermittelbar </p>
+               </item>
+               <item>
+                  <title>Schieber. [Einakter], vor 12.1.1925. </title>
+                  <p>nicht ermittelbar </p>
+               </item>
+               <item>
+                  <title>Spaziergang im Mondenschein. [Novelle]. </title>
+                  <p>nicht ermittelbar </p>
+                  <p>Vgl. jeweils CKP I, 105. Die Novelle sollte in dramatisierter Form aufgeführt
+                     werden (gemeinsam mit Redoute). Schnitzler äußert sich dazu kritisch: »ja man
+                     könnte gewissermaßen sagen ›gut geschrieben‹ – aber nicht ebenso ›gut‹
+                        geredet«.<note>10</note>
+                  </p>
+               </item>
+               <item>
+                  <title>Der ewige Student. [Novelle].</title>
+                  <bibl>In: Neue Freie Presse 16.–24.7.1925.</bibl>
+                  <p ana="content">Eusebius Zack hat mit 32 Jahren sein Studium der Medizin noch
+                     immer nicht abgeschlossen, alle Nachhilfeschüler hat er verloren, er mietet
+                     sich mit dem Erlös seiner goldenen Uhr für vier Wochen bei der Wäscherin Mila
+                     Tunfart ein. Bei diesem Sohn eines Greißlers aus Kemmelbach-Ybbs, der viel
+                     lieber das Geschäft des Vaters übernommen hätte, wird die Studien- nie zu einer
+                     Bildungsbiographie. Der Vater zwingt ihn – selbst nachdem alle einschließlich
+                     Eusebius erkannt haben, daß das Studium nichts für ihn ist – zum
+                     Weiterstudieren. Die Wohnungsgeberin hält den Studenten in der Überzeugung aus,
+                     er werde sein Studium abschließen. Zack hält um ihre Hand an, sie stellt die
+                     Bedingung, er müsse erst den Doktortitel erreichen. Er beginnt wieder zu
+                     lernen, es geht voran – am Tag der ersten großen Prüfung trinkt Eusebius sich
+                     jedoch literweise Mut an und wird am Weg zur Universität von einem Autobus
+                     überfahren: die siebente Fortsetzung ist die Todesfolge. </p>
+                  <p>Geschrieben vom 12.–17. Januar 1925,<note>11</note> erwähnt bei
+                        Woisetschläger.<note>12</note> Gelesen von Schnitzler am 23. Jänner 1925 in
+                     St. Moritz, der sie für »durchaus gelungen« hält, aber fortfährt: »meinem
+                     Geschmack nach nicht besonders interessant Du bist zu wenig darin). – Natürlich
+                     lässt sie sich ohneweiteres veröffentlichen (nach Milderung einiger vielleicht
+                     zu cruder Details.)«<note>13</note> Ausführliche inhaltliche und stilistische
+                     Kritik in einem vom selben Tag datierenden Brief.<note>14</note> Replik am 27.
+                     Jänner 1925,<note>15</note> in der Pollaczek von einer Anfrage an Moriz
+                     Benedikt bezüglich einer Veröffentlichung in der Neuen Freien Presse berichtet.
+                  </p>
+               </item>
+               <item>
+                  <title>Schwester Peregrina.</title>
+                  <p ana="editor">nicht ermittelbar </p>
+                  <p ana="editor">Der Titel wird in einem Brief an Schnitzler vom 10. August 1925
+                     genannt und spielt womöglich auf die eigene Wohnadresse an.<note>16</note>
+                  </p>
+               </item>
+               <item>
+                  <title>Der Tod der Gräfin Anastasia. [Novelle].</title>
+                  <bibl>In: Neue Freie Presse, 23.–31.12.1925.</bibl>
+                  <p>Drei Abschiedsbriefe der Suizidantin Anastasia von Olgossy. Der erste ist an
+                     ihre Tochter gerichtet, der sie mitteilt, sie habe sie zugunsten der Enkelin
+                     (die nach ihr selbst Anastasia heißt) enterbt – dieser soll eine Liebesheirat
+                     mit dem mittellosen Dichter Marquis von Waldorf ermöglicht werden. Im zweiten
+                     und umfangreichsten Brief erläutert sie der Enkelin die Gründe für ihren Suizid
+                     durch eine Überdosis Morphium und läßt ihr Leben Revue passieren. Der dritte
+                     Brief richtet sich an ihren langjährigen Verehrer und Geliebten Oberst von
+                     Ringstetten, der sie wegen einer Jüngeren verlassen hatte. Der Oberst erhält
+                     den Brief allerdings erst, nachdem er von seiner neuen Flamme einen Korb
+                     erhalten hat. </p>
+                  <p>Begonnen vor dem 16. Oktober 1925 unter dem Titel Anastasia. Moriz Benedikt von
+                     der Neuen Freien Presse zeigt sich am 14. Februar 1926
+                        begeistert.<note>17</note> Gemeinsam mit einer Novelle von Rudolf Jeremias
+                     Kreutz in einem Band des Verlags der Neuen Freien Presse wiederveröffentlicht.
+                  </p>
+               </item>
+               <item>
+                  <title>Treppe. Volksstück.</title>
+                  <p>nicht ermittelbar </p>
+                  <p>Vgl. CKP I, 239 und 242. </p>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head>1926 </head>
+            <list>
+               <item>
+                  <p>Redoute. Schauspiel in einem Aufzug. </p>
+                  <p>In: Neue Freie Presse, 28.2.–5.3.1926. </p>
+                  <p>Wien 1920. Im Theater wird eine Redoute gegeben: »die erste seit dem Krieg«.
+                     Streiflichter einer verkommenen Gesellschaft, die sich vergnügungssüchtig über
+                     alte Grenzen hinwegsetzt. Unter den maskierten Besuchern spielen sich Szenen
+                     der Eifersucht ab, andere verschwinden miteinander in den Logen des Theaters.
+                     Es kommt zu einer Familienzusammenführung unter unerwarteten Umständen,
+                     Seitensprüngen mit 16jährigen Milliardärstöchtern, Auflösungen langbestehender
+                     Verlöbnisse, am Schluß zu einer Verwechslung mit Todesfolge. Neben der
+                     verkommenen Nachkriegsgesellschaft thematisiert Pollaczek in ihrem Einakter
+                     auch den grassierenden Antisemitismus. </p>
+                  <p>Erwähnung einer prinzipiellen Veröffentlichungszusage seitens der Neuen Freien
+                     Presse am 14. Oktober 1925.<note>18</note> Telefonat mit Moriz Benedikt, der die
+                     Veröffentlichung ankündigt.<note>19</note> </p>
+               </item>
+               <item>
+                  <title>Abend. [Gedicht].</title>
+                  <bibl>In: Neue Freie Presse, 4.4.1926.</bibl>
+                  <p>In der Neuen Freien Presse auf einer Seite mit einem Gedicht von Bertolt Brecht
+                     erschienen. Wieder in Pollaczek, Gedichte der Liebe, S. 16. </p>
+               </item>
+               <item>
+                  <title>Arthur Schnitzler: Mademoiselle Else. Paris: Stock 1926 (= Le Cabinet
+                     Cosmopolite 9).</title>
+                  <p>Übersetzung von Schnitzlers Fräulein Else ins Französische. Pollaczek, die die
+                     Rohübersetzung vorgenommen hatte (im Verlag wurde daran noch gefeilt,
+                     vermutlich durch Germaine Delamain, der Gattin des Verlegers), bleibt
+                        unerwähnt.<note>20</note>
+                  </p>
+               </item>
+               <item>
+                  <title>Vermächtnis.</title>
+                  <p>nicht ermittelbar </p>
+                  <p>Erwähnt im Zusammenhang mit Hofrätin Eisenmenger, die Filmdrehbücher
+                        sucht.<note>21</note> Pollaczek trifft diese in Wien, während Schnitzler in
+                     Adelboden ist. </p>
+               </item>
+               <item>
+                  <title>Das böse Lächeln. </title>
+                  <p>nicht ermittelbar </p>
+                  <p>Möglicherweise ein Drehbuch Pollaczeks.<note>22</note>
+                  </p>
+               </item>
+               <item>
+                  <title>Der Clown.</title>
+                  <p>nicht ermittelbar </p>
+                  <p>Entworfen am 4. August 1926.<note>23</note> Es ist »ein Janningsfilm«<note>24</note> –
+                     Schnitzler dazu in seiner Antwort vom 7. August 1926 aus Adelboden: »Dein
+                     Filmsujet ist nicht übel; aber es sind nicht nur gewisse Anklänge an Variété,
+                     sondern auch an den ›Mann, der die Ohrfeigen bekam‹, – ich glaube ich sah den
+                     Film in Berlin, aber ohne Dich, Chaney (den Du aus dem Operngespenst kennst)
+                     spielte die Hauptrolle; einen Clown, der seine Tochter (oder seine Frau?) einem
+                     Entführer zu entreissen sucht. –«<note>25</note>
+                  </p>
+               </item>
+               <item>
+                  <title>Kind der Liebe.</title>
+                  <bibl>In: Neues Wiener Tagblatt, 5.9.–3.10.1926.</bibl>
+                  <p>Der mißgestaltete August ist nach dem Tod seines Vaters der letzte Sproß aus
+                     dem alten und steinreichen Geschlecht der Grafen von Rotha. Er gerät in die
+                     Fänge einer entfernten, verarmten Cousine. Es kommt zur Heirat. Sie aber
+                     betrügt ihn und geht mit einem Liebhaber durch, der ihn zuvor im Duell
+                     verwundet. August, der an den Rollwagen gebundene Sonderling, verlegt sich auf
+                     die Zucht exotischer Pflanzen. Einen Tag vor seinem frühen Tod heiratet er
+                     Maria, die 17jährige Pflegetochter des Gärtnerehepaars, um den Fortbestand des
+                     Geschlechts zu sichern (Folge vom 14.9.1926). Der zweite Teil der Erzählung
+                     beginnt mit der Aufnahme der jungen Witwe in die Pariser Gesellschaft. Mit
+                     einem jungen Maler zeugt sie einen Sohn namens – August. Als der Künstler von
+                     der testamentarischen Verfügung des Grafen hört, daß der Reichtum Marias an ihr
+                     Alleinbleiben gebunden sei, verschwindet er. Maria heiratet schließlich den
+                     Landarzt Karl Lenk, der dem jungen August das Leben gerettet hatte, und fügt
+                     sich – dem Testament, aber auch dem Wunsch Lenks gehorchend – in ein
+                     bürgerliches Leben. </p>
+                  <p>Schnitzler liest den Text am 1. Juli 1925 in Südtirol während einer gemeinsamen
+                        Reise.<note>26</note></p>
+               </item>
+               <item>
+                  <title>Mädchen für Alles. Novelle.</title>
+                  <bibl>In: Neue Freie Presse, 26.10.–2.11.1926.</bibl>
+                  <p>Protagonistin der sieben Folgen ist Resi, das gerade aus den Bergen in die
+                     Stadt gekommene 17jährige Dienstmädchen der Familie Reinlein. Sie wird von
+                     deren gleichaltrigem Sohn, dem Gymnasiasten Max Reinlein jun., geschwängert,
+                     als sich dessen Eltern für einen Tag in Brünn aufhalten. Das Dienstmädchen hat
+                     nur eine Freundin namens Leni und im Heimatdorf ihren Verehrer Franz Rittler,
+                     der ihr rührende Postkarten schreibt. Im siebten Monat (ihres Dienstes und
+                     ihrer Schwangerschaft) stürzt sie beim Arbeiten von einer Leiter, gebiert ein
+                     totes Kind und stirbt schließlich selbst. In der sechsten Folge findet sich ein
+                     innerer Monolog der Sterbenden. </p>
+                  <p>24. Arthur Schnitzler: Komödie der Verführung. [Französische Übersetzung]. </p>
+                  <p>nicht ermittelbar </p>
+                  <p>Pollaczek begann mit der Übersetzung im Dezember 1926, jedenfalls ist die
+                     Arbeit am 1. Akt dokumentiert.<note>27</note> Am 22. und 23. April 1927
+                     diktierte sie Frieda Pollak.<note>28</note>
+                  </p>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head>1927</head>
+            <list>
+               <item>
+                  <p>25. Nannis Erwachen. Novelle. </p>
+                  <p>In: Neue Freie Presse, 1.1.1927. </p>
+                  <p>Die frischverheiratete junge Titelheldin befindet sich am Semmering auf der
+                     Hochzeitsreise mit ihrem Gatten Adolf Waldner, einem Fabriksbesitzer, als sie
+                     sich vor ihm zu ekeln beginnt. Er gibt sie frei und sie eilt zum Bahnhof, um zu
+                     ihrer Schwester zu reisen. Sie läßt jedoch den Zug davonfahren, um zu ihm
+                     zurückzukehren. </p>
+                  <p>Als Arbeitstitel auch Nani genannt. Sollte ursprünglich in der Neuen Freien
+                     Presse vom 25. Dezember 1926 erscheinen.<note>29</note> Erwähnung in einem
+                     Brief an Schnitzler.<note>30</note>
+                  </p>
+               </item>
+               <item>
+                  <p>26. Mord. Novelle. </p>
+                  <p>In: Neue Freie Presse, 15.5.–22.5.1927. </p>
+                  <p>Die Schauspielerin Julia Jergic wird ermordet in einem Wiener Vorstadthaus
+                     aufgefunden. Die Mordwaffe – ein juwelenbesetztes Papiermesser zum Aufschneiden
+                     von Romanen – steckt noch in ihrer Brust, unter ihrem Bett findet sich ein
+                     Medaillon mit dem Bild des Arztes Dozent Petter. Was als Detektivstory beginnt,
+                     entpuppt sich als die Geschichte einer unglücklichen Liebe: Die letzten beiden
+                     Fortsetzungen geben einen Brief der Nachbarin der Ermordeten wieder, der
+                     russischen Kunstgeschichtsstudentin Vera Strumow, die ihrem Geliebten Petter
+                     die Tat gesteht – schon ihr Vater habe die Mutter unzählige Male wegen so
+                     schlechter Frauen betrogen, wie Jergic eine gewesen sei, die versucht habe,
+                     sich den Mediziner zu angeln (er blieb Vera jedoch treu). Vera, die mit ihrer
+                     Tat nach dem Vorbild von Charlotte Corday einen Pars-pro-toto-Mord begangen
+                     haben will, stellt sich dem Richter. </p>
+                  <p>Erwähnt bei Woisetschläger.<note>31</note> Tallian, S. 44–47, nimmt mit Hinweis auf CKP II,
+                     Beilagen nach Bl. 24, 2f. an, daß Pollaczek die Figur der Julia Jergic nach
+                     Vilma Liechtenstein modelliert habe. </p>
+               </item>
+               <item>
+                  <p>27. Nach Sonnenuntergang. Gedicht. </p>
+                  <p>In: Neue Freie Presse, 24.7.1927. </p>
+                  <p>Wieder in Pollaczek, Gedichte der Liebe, S. 5. </p>
+               </item>
+               <item>
+                  <p>28. Der Aufstieg. Roman. </p>
+                  <p>In: Neue Freie Presse, 4.10.–28.12.1927. </p>
+                  <p>Die Familie der Grafen Hegenbach ist nach dem Untergang der Monarchie vom
+                     sozialen und monetären Abstieg betroffen. Der Sohn Franz Rüdiger von Hegenbach
+                     nimmt nach einer Zeitungsannonce: »Privatsekretär zu erstem Finanzmann gesucht.
+                     Beste Familie. Tadellose Umgangsformen, Sprachenkenntnisse, einwandfreies
+                     Vorleben Bedingung. Geboten wird hoher Gehalt, Equipierungsbeitrag, eventuell
+                     Wohnung. Adresse im Ankündigungsbureau des Blattes« – eine Stelle bei dem übel
+                     beleumundeten, aber unermeßlich reichen jüdischen Kriegsgewinnler Edmond
+                     Petrides an, freilich mit Folgen. Hinzu kommt die Verwicklung staatstragender
+                     Persönlichkeiten und ein Erpressungsjournalismus à la Imre Békessy. Am Ende
+                     wird die alte Ordnung restituiert, nachdem Petrides an einem Herzschlag stirbt
+                     als alles aufzufliegen droht. Die sehr unterschiedlichen Söhne des Verstorbenen
+                     tragen deutlich die Züge von Pollaczeks eigenen Kindern (Kurt ist der
+                     Frauenheld und Bonvivant, Fritz der Labormediziner und begeisterte
+                     Bakteriologe, der die Christin Lisa Simic heiratet; das Verlöbnis wird
+                     geschlossen, als sie noch in die Schule geht). Seine Frau Jo(landa), eine Jüdin
+                     aus Odessa, ermöglicht Franz Hegenbach den fliegenden Wechsel vom Geliebten zum
+                     Ehemann und Kindsvater, verschafft ihm eine Stelle in einem Wasserkraftwerk und
+                     kauft auch das Familienschloß derer von Hegenbach in Schwarzau zurück, wo der
+                     Epilog eine harmonische Weihnachtsszene aufruft. </p>
+                  <p>Bei einem Treffen mit Paul Wiegler vom Ullstein-Verlag verspricht dieser
+                     gegenüber Schnitzler, den »Roman« zu lesen.<note>32</note> Auch Samuel Fischer
+                     will dies tun.<note>33</note> Moriz Benedikt ruft nach der Lektüre »um</p>
+                  <p>12 Uhr Nachts [an] wegen des russischen Akzent[s] der Jo (in meinem Roman).
+                     Unleidliche Sekatur.«<note>34</note> Zur Rezeption notiert Pollaczek am 7. November 1927:
+                     »Jeden Augenblick stürzt jemand anderer auf mich zu, um mir ein paar
+                     freundliche Worte und auch mehr wegen meines Romans zu sagen.«<note>35</note>
+                     Wiederveröffentlicht in einem Band im Verlag der Neuen Freien Presse </p>
+               </item>
+               <item>
+                  <p>Hausgeister. [Volksstück]. </p>
+                  <p>nicht ermittelbar </p>
+                  <p>Wird mit dem Volkstheaterpreis 1927 ausgezeichnet, was Pollaczek am 3. Dezember
+                     1927 durch einen Anruf aus der Redaktion der Neuen Freien Presse erfährt:
+                     »Heute Nacht Anruf der Presse, ob ich mich an dem Preisausschreiben des
+                     Volkstheaters beteiligt habe. Wusste im ersten Augenblick nicht, was sie
+                     meinen. Dann fiel mir ein, dass ich im Februar ein Stück eingereicht habe. Ich
+                     sagte: ›Ja, warum?‹ – ›Weil Sie einen Preis haben!‹ Ich war weg vor Freude,
+                     konnte nicht mehr einschlafen. In der Früh schon die Mitteilung in der Zeitung,
+                     telegraphierte A. Mittag bei Bloch geladen, allgemeines
+                        Angratulieren.«<note>36</note> – Preishöhe 500 Schilling. Zur Preisvergabe
+                     vgl. Neue Freie Presse, 3.12.1927, S. 8.</p>
+               </item>
+               <item>
+                  <p>Mimi und Gwendy. </p>
+                  <p>nicht ermittelbar</p>
+                  <p>Von Schnitzler an Dr. Franz Horch (Dramaturg am Theater in der Josefstadt)
+                        gesandt.<note>37</note> Am 19. Januar 1931 notiert Pollaczek: »N. M. Rudy
+                     mit Maler Zcettel dem ich ›Mimi und Gwendy[‹] übergab, wegen eventueller
+                     Beeinflussung des Wildgans.«<note>38</note> Am 15. August 1931 bei einem
+                     Spaziergang in Gastein mit Dr. Horch Gespräch über Aufführungsmöglichkeiten von
+                     Schnitzler-Stücken: »Meine eigenen Angelegenheiten (Mimy und Gwendy) nur
+                     flüchtig berührt.«<note>39</note> Arthur Kahane (Dramaturg am Deutschen
+                     Theater) findet das Stück in einem Brief »reizend«<note>40</note> und reagiert
+                     Schnitzler gegenüber auf einen Gruß Pollaczeks mit dem Ausruf »Ah, Ihre
+                        Schülerin«.<note>41</note>
+                  </p>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head>1928 </head>
+            <list>
+               <item>
+                  <p>Wissen um den Tod. Gedicht. </p>
+                  <p>In: Neue Freie Presse, 22.4.1928, Sonntagsbeilage. </p>
+                  <p>Die Vertonung von einem Komponisten Hiller wurde am 28. Februar 1931 im
+                     Industriehaus uraufgeführt.<note>42</note> Wieder in Pollaczek, Gedichte der
+                     Liebe, S. 27. </p>
+               </item>
+               <item>
+                  <p>Ungenannter »neuer Roman«. </p>
+                  <p>nicht ermittelbar </p>
+                  <p>Begonnen am 8. November 1927, Abschluß der Korrekturen am 19. Juni 1928 auf
+                     einer Salzkammergut-Reise mit Schnitzler.<note>43</note>
+                  </p>
+               </item>
+               <item>
+                  <p>Der blinde Barspieler. Novelle. </p>
+                  <p>In: Telegrammzeitung, vor 30.8.1928, nicht ermittelt. </p>
+                  <p>»Neue kleine Novelle« begonnen 22. Juli 1928, beendet am 24. Juli
+                        1928.<note>44</note>
+                  </p>
+               </item>
+               <item>
+                  <p>Lasttiere. Novelle. </p>
+                  <p>In: Neue Freie Presse, 16.9.–21.10.1928. </p>
+                  <p>Der Gerichtsadjunkt Dr. Bernhard Gimperling aus Plauen im Vogtland ist mit
+                     Familie (seiner Frau Hildegard, 28, und den Kindern Walter, 9, Ilse, 7, und
+                     Inge, 5) auf der Zugreise in den Sommerurlaub über München und Villach nach
+                     Rienz in Tirol. Er lernt noch im Zugabteil die Sängerin Ludmilla Grobinger und
+                     die Fabrikantenwitwe Betty Huber (beide aus Wien) kennen. Es bahnt sich ein
+                     Reiseflirt an, dessen Vollzug aber trotz Gelegenheit bei einer gemeinsamen
+                     Bergwanderung ohne Familie nicht stattfindet. Nach acht Wochen reist die
+                     Familie zurück: Hilde ist wieder schwanger. Thema ist die Eintönigkeit des
+                     Familienlebens und die Selbstparallelisierung des Protagonisten mit einem
+                     Lasttier.</p>
+                  <p>Vgl. die Arbeitsnotizen vom 10. und 11. November 1927<note>45</note> – Glückwünsche von der
+                     Familie erfolgten am 6. Oktober 1928.<note>46</note>
+                  </p>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head>1929</head>
+            <list>
+               <item>
+                  <p>35. Im Aeroplan. Gedicht. </p>
+                  <p>In: Neue Freie Presse, 25.12.1929. </p>
+                  <p>Unter dem Titel Flug zu Zweit wieder in Pollaczek, Gedichte der Liebe, S. 21.
+                  </p>
+               </item>
+               <item>
+                  <p>36. Die Tochter des Hauses. Novelle. </p>
+                  <p>In: Neue Freie Presse, 25.5.–20.6.1929. </p>
+                  <p>Der Ich-Erzähler, ein nach eigenem Bekunden gealterter Diener (er ist 36),
+                     bietet einen Katalog seiner bisherigen Dienstherren, meist frivole
+                     Junggesellen. Alexander Borg, so der Name des Dieners, nimmt eine neue Stelle
+                     bei Familie Röder in der Wiedner Paniglgasse an. Apart wird die Geschichte, als
+                     sich herausstellt, daß der Protagonist ein Doppelleben führt: Neben seiner
+                     Dienerexistenz gibt er sich zum Vergnügen als reicher amerikanischer Tourist
+                     aus. Als Jackie Land trifft er die 16jährige Tochter Noni Röder, eine verzogene
+                     Kindfrau in der Rolle der Femme fatale der 1920er Jahre. Das zweite Rendezvous
+                     findet in einem Lichtspielhaus statt (12. Fortsetzung). Im Dunkel des Kinos
+                     werden heiße Küsse getauscht. Nach längeren Vorbereitungen (der Diener muß sich
+                     mit immer neuen Ausreden freinehmen) gelingt es »Jackie« mithilfe des Dieners
+                     Alexander in der Nacht ins Haus der Röders zu kommen: Er entjungfert die gerade
+                     frisch verlobte Tochter des Hauses. Am Tag darauf kündigt er und begibt sich
+                     auf die Suche nach einer neuen Stelle. </p>
+                  <p>Unter dem Arbeitstitel Kammerdiener weitergeschrieben am 1. Januar
+                        1929,<note>47</note> beendet am 11. Februar 1929<note>48</note> – umbenannt
+                     in Die Tochter des Hauses am 25. Februar 1929.<note>49</note></p>
+                  <p>An mehrere Verleger unter dem Pseudonym »Clemens Pidoll«
+                        geschickt.<note>50</note> Letztlich unter dem Titel Tochter des Hauses in
+                     der Neuen Freien Presse abgedruckt – »meine Novelle genommen NFP 1000 S« (16.
+                     Mai 1929)<note>51</note> – Problem wegen »Verstümmelung meiner Novelle« – in
+                     dieser Sache 17. Juni 1929 Brief an Paul Wertheimer von der Neuen Freien
+                        Presse.<note>52</note> Auch gedruckt in einem Novellenband des Verlags der
+                     Neuen Freien Presse. </p>
+               </item>
+               <item>
+                  <p>37. Die Schönheit der Konstanze. </p>
+                  <p>In: Neue Freie Presse, 30.10.1929–18.1.1930. </p>
+                  <p>Henry Lanvalle, reicher Erbe eines Malers aus Paris und Frauenheld auf der
+                     Suche nach Schönheit, ruft seinen besten Freund, den um zwanzig Jahre älteren
+                     Arzt Prof. Konrad Schmehling, zu sich nach Baden-Baden zur Sommerkur, wo dieser
+                     die gelähmte Jugendfreundin Marie-Lore heilen soll. Lanvalle trifft dort
+                     unversehens nicht nur seine extravagante Urgroßmutter aus Wien, sondern auch
+                     eine entfernte Verwandte: die titelgebende Konstanze. Den Verlobten dieser
+                     tugendhaften Landschönheit verdrängt er, Heiratspläne werden gemacht, während
+                     der Arzt die Hysterikerin ›psychoanalytisch‹ behandelt (ohne daß das Wort
+                     Psychoanalyse fällt), woraus ein zweites Ehepaar werden wird. Bei einem von
+                     Kommunisten im Ballsaal der Gesellschaft gelegten Brand kann Lanvalle Konstanze
+                     retten, sie trägt allerdings Narben im Gesicht davon: Die Schönheit der
+                     Konstanze ist dahin, und damit die Gefühle des Bräutigams für seine Braut.
+                     Lanvalle reflektiert gequält Liebe und Begehren, verbringt auf der Rückreise
+                     von Paris (wo er sein Haus auf die Ankunft seiner Frau vorbereitet hatte) eine
+                     Liebesnacht mit der Zeitungsromanschriftstellerin Lou Dérain und fährt mit
+                     seinem Auto in den Tod, nicht ohne einen möglichen Filmtitel dazu zu entwerfen:
+                     »›Der Mann, der verschwand‹, ein hübscher Kinotitel eigentlich.« </p>
+                  <p>In Pollaczeks Tagebuch heißt es am 4. Juli 1929, daß die Neue Freie Presse den
+                     Roman in den nächsten Tagen bringen will.<note>53</note> Als Alternativtitel findet sich Die
+                     Schönheit der Constanze.<note>54</note> Wieder in einem Band des Verlags der Neuen Freien
+                     Presse veröffentlicht. </p>
+               </item>
+               <item>
+                  <p>38. Schluchzen. Gedicht </p>
+                  <p>In: Neue Freie Presse, 25.12.1929. </p>
+                  <p>Übersetzung eines Gedichts von Paul Géraldy. </p>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head>1930</head>
+            <list>
+               <item>
+                  <p>Ueber Nacht. Novelle. </p>
+                  <p>In: Neue Freie Presse, 20.4.–4.5.1930. </p>
+                  <p>Julia, eine Dame der besseren Gesellschaft, besucht gemeinsam mit ihrem etwa
+                     gleichaltrigen Liebhaber Stephan eine Abendgesellschaft. Als Stephan sich
+                     seiner wesentlich jüngeren Sitznachbarin zuwendet, verläßt sie das Fest und
+                     eilt durch den Regen nach Hause. Sie beschließt fortan nicht mehr jugendlich
+                     erscheinen zu wollen, entsorgt ihre Kleidung, schneidet ihre rotgefärbten Haare
+                     und will sich – über Nacht gealtert – mit einem Dasein als alte Dame und
+                     Großmutter begnügen. </p>
+                  <p>Zurückerhalten am 3. Januar 1930.<note>55</note> Erscheint ab »21.4. Ostermontag [...]
+                     Gestern Osterbeilage Beginn meiner Novelle ›Ueber Nacht‹«.<note>56</note> </p>
+               </item>
+               <item>
+                  <p>Internationale Kunstausstellung Karlsbad. [Rezension]. </p>
+                  <bibl>In: Neue Freie Presse, 27.7.1930.</bibl>
+                  <p>Wohlwollende Rezension der Ausstellung, die Pollaczek als Nebenprodukt ihres
+                     Aufenthalts in Karlsbad im Juli 1930 veröffentlichte. </p>
+               </item>
+               <item>
+                  <p>Dame. Drama. </p>
+                  <p>In: Neue Freie Presse, 28.9. und 5.10.1930. </p>
+                  <p>Pollaczek veröffentlicht hier nur einen Auszug aus der »Komödie in drei
+                     Aufzügen« (der Rest konnte nicht ermittelt werden): Die gutsituierte
+                     Präsidentin des Vereins schutzbedürftiger junger Mädchen mit Namen Valentine
+                     ist bei einem Spaziergang durch die Vorstadt in ein Gewitter geraten. Sie
+                     findet Aufnahme bei der sichtlich armen Poldi in der Blümchengasse, die ihr
+                     Gewand trocknet und Tee für sie kocht. Valentine ist freundlich, interessiert
+                     und hilfsbereit – bis ihr klar wird, daß sie sich im Haushalt einer
+                     Prostituierten befindet. Sie ergreift die Flucht hinaus ins Unwetter – Poldi
+                     gibt ihr zornig ihre Spende zurück und ruft ihren Kunden aus dem Nebenzimmer. </p>
+                  <p>Erwähnt schon 1929,<note>57</note> angenommen für Neue Freie Presse am 26. Juni
+                        1930,<note>58</note> zweiter Teil am 5. Oktober 1930 in der Neuen Freien
+                     Presse unter Fehldatierung des ersten Teils (»30.9.1930«).<note>59</note>
+                  </p>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head>1931</head>
+            <list>
+               <item>
+                  <p>42. Das Fräulein von Corday d’Armont. </p>
+                  <p>In: Neue Freie Presse, 4.–7.1.1931. </p>
+                  <p>Der dritte Akt, der in drei Teilen erschien (der Rest des Stückes ist nicht
+                     ermittelbar), zeigt Charlotte Corday bei den Vorbereitungen zum Mord an Marat,
+                     der für den nächsten Tag geplant ist. Ort der Handlung ist ein Hotel in Paris.
+                     In der Nacht erscheinen ihr der Geist des Jugendfreunds Henry Belzunce und
+                     andere Gestalten im Traum (der Traum ist durch fünfhebige gereimte Jamben
+                     markiert). Der Ausschnitt bricht mit dem Verlassen des Hotels unmittelbar vor
+                     dem Mord ab. </p>
+                  <p>Idee zum Drama über Charlotte Corday bereits vor 26. August
+                        1897.<note>60</note> Vorarbeiten ab dem 30. Juli 1926,<note>61</note> den
+                     Titel entwickelt Pollaczek in einem Brief an Schnitzler.<note>62</note> Erste
+                     Fassung beendet vor dem 6. Juli 1930,<note>63</note> erster Akt diktiert am 17.
+                     Februar 1930.<note>64</note> In der Neuen Freien Presse nur eine Szene in drei
+                     Fortsetzungen (am 6. Januar 1931 Eintrag »›Corday‹ wieder in drei Fortsetzungen
+                     zerfetzt. Neue Freie Presse!!!!«).<note>65</note>
+                  </p>
+               </item>
+               <item>
+                  <p>43. Mütter. </p>
+                  <p>In: Neue Freie Presse, 30.4.–16.5.1931. </p>
+                  <p>Der ewige Junggeselle Martin und Leonie, die bereits Mutter einer Tochter
+                     namens Tilli aus erster Ehe ist, heiraten nach einer langjährigen Beziehung
+                     doch und ziehen nach Rosenau auf das Gut von Martins Mutter, die in England
+                     lebt. Tilli ist mit dem Sportler Bob verheiratet. Plötzlich empfinden die
+                     beiden Frauen, Leonie und Tilli, »Angst, den geliebten Mann, wenn auch nicht zu
+                     verlieren, so doch weniger zu besitzen«: Martin will – das entnimmt Leonie
+                     einem Brief von dessen Mutter – das Gut verkaufen, Bob hat eine Schwangerschaft
+                     zum Scheidungsgrund erklärt. Beide Mütter tauschen im zweiten Kapitel Platz:
+                     Leonie gibt sich nach einer Scheinschwangerschaft als die Mutter des Kindes
+                     ihrer Tochter aus. Als Bob und Martin mit dem Flugzeug statt per Bahn in Luzern
+                     erscheinen, fliegt alles auf. Doch alles endet gut, wenn auch in einer Trennung
+                     der Haushalte von Martin und Leonie, die damit wieder zu Geliebten werden. </p>
+                  <p>Erster Teil abgeschlossen am 14. November 1930.<note>66</note> Termin mit Moriz
+                     Benedikt am 18. Januar 1931 diesbezüglich.<note>67</note>
+                  </p>
+               </item>
+               <item>
+                  <p>44. Betrachtungen. [Aphorismen]. </p>
+                  <p>In: Neue Freie Presse, 9.8.1931. </p>
+                  <p>Arbeit daran am 10. Februar 1931,<note>68</note> Korrekturbogen 21. Juli 1931
+                     am Semmering,<note>69</note> Typoskript in »Arthur Schnitzler und ich«
+                        erhalten.<note>70</note>
+                  </p>
+               </item>
+               <item>
+                  <p>45. Arthur Schnitzler. Anläßlich der heutigen Totenfeier im Burgtheater.
+                     [Gedicht]. </p>
+                  <p>In: Neue Freie Presse, 15.11.1931. </p>
+                  <p>Unter dem Titel Totenfeier wieder in Pollaczek, Gedichte der Liebe, S. 28. 1932
+                  </p>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head>1932</head>
+            <list>
+               <item>
+                  <p>46. Die Kette. [Erzählung]. </p>
+                  <p>In: Neue Freie Presse, 13.4.–22.4.1932. </p>
+                  <p>Ferdinand Allgeier, der 45jährige erfolgreiche Prokurist einer Textilfirma, ist
+                     seit zehn Jahren mit Irene verheiratet, gemeinsam haben sie Söhne namens Franz
+                     und Kurt. Ferdinand soll auf Anraten des Hausarztes, der in diesem Anliegen von
+                     Irene und Ferdinands bestem Freund Jules unterstützt wird, zur Erholung an den
+                     Gardasee fahren. Irenes Weigerung mitzukommen und weitere Indizien lassen
+                     Ferdinand vermuten, daß der beste Freund und die Ehefrau ihn betrügen. Er
+                     plant, beide in flagranti zu ertappen. Als er sie belauscht und hört, sie
+                     müßten ihn unbedingt wegschaffen, schießt er sich eine Kugel in die Brust. Er
+                     überlebt nur mehr solange, um zu erkennen, daß seine eifersüchtige Vermutung
+                     falsch war. Nach dem Trauerjahr heiraten Jules und Irene dann wirklich. </p>
+                  <p>Erwähnt bei Woisetschläger.<note>71</note>
+                  </p>
+               </item>
+               <item>
+                  <p>47. An Arthur Schnitzlers 70. Geburtstag. 15. Mai 1932. [Gedicht]. </p>
+                  <p>In: Neue Freie Presse, 15.5.1932. </p>
+                  <p>Unter dem Titel Geburtstag eines Toten wieder in Pollaczek, Gedichte der Liebe,
+                     S. 32.</p>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head>1933</head>
+            <list>
+               <item>
+                  <p>Zwischen den Generationen. Roman. </p>
+                  <p>In: Neue Freie Presse, 4.2.–3.6.1933. </p>
+                  <p>Pollaczeks mit hundert Folgen längster Roman ist die Geschichte des Untergangs
+                     einer Familie. Der zweiteilige Roman (1. »Alba«, 2. »Antonia«, ab 21.3.1933)
+                     stellt die Frauenschicksale der ehemals reichen Familie Rautenberg in den
+                     Vordergrund. Literarischen Niederschlag fand die Beziehung zwischen Schnitzler
+                     und Pollaczek in fast all ihren Texten, insbesondere jedoch in dieser
+                     jüdisch-wienerischen Buddenbrooks-Geschichte des Niedergangs über mehrere
+                     Generationen hinweg. Ein Dichter heißt dort Axel Sinding (A. S.), er ist
+                     wissend und um einiges älter als die Protagonistin des zweiten Hauptteils,
+                     Antonia Brandt, geb. Rautenberg. Antonia läßt den Dichter jedoch kurz vor ihrem
+                     Ertrinken im Wörthersee an der Landungsbrücke (eine oberflächliche Andeutung
+                     eines sicheren Hafens) stehen und geht in ihrem betrunkenen Zustand schwimmen. </p>
+                  <p>Doch nicht nur als A. S. taucht Schnitzler auf, im selben Roman vermischen sich
+                     die Probleme und Positionen der in eine reiche, großbürgerlich-jüdische Familie
+                     (»in der Finanzwelt«) geborenen Protagonistinnen, die allesamt Züge von
+                     Pollaczek tragen (Alba, die Mutter, die Duld- und Fügsame, heiratet einen
+                     Industriellen; Antonia trifft es weniger glücklich als die Mutter: zahlreiche
+                     Liebschaften führen zur Scheidung – die aber vom Ehemann einer der zahlreichen
+                     Geliebten ihres Mannes gefordert wird und nicht von Antonia). Antonia verbringt
+                     die Zeit des Anbruchs des Ersten Weltkriegs in Hohenschwangau, wo Schnitzler im
+                     August 1928 war und von dort aus mit Pollaczek korrespondierte. </p>
+                  <p>Beginn der Arbeit vermutlich am 11. August 1931. Pollaczek liest Schnitzler das
+                     erste Kapitel am 23. September 1931 vor – er findet es »ausgezeichnet«.<note>72</note>
+                     Erwähnt bei Woisetschläger.<note>73</note> Wieder in einem Band im Verlag der Neuen Freien
+                     Presse veröffentlicht. Nachweis des Erscheinungsjahrs jedoch unsicher: Die
+                     Buchversion trägt keine Jahreszahl, in Fortsetzungen erst 1933
+                        erschienen.<note>74</note> Möglicherweise ist dies jener Roman, den
+                     Pollaczek am 11. August 1931 zu schreiben begann.<note>75</note>
+                  </p>
+               </item>
+               <item>
+                  <p>Erinnerungsgang. (Cottage 1933.) [Gedicht]. </p>
+                  <p>In: Neue Freie Presse, 22.10.1933. </p>
+                  <p>Wieder in Pollaczek, Gedichte der Liebe, S. 36. </p>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head>1934</head>
+            <list>
+               <item>
+                  <p>Sein Zimmer. [Gedicht]. </p>
+                  <p>In: Neue Freie Presse, 21.10.1934. </p>
+                  <p>Wieder in Pollaczek, Gedichte der Liebe, S. 37. </p></item>
+            </list>
+         </div>
+         <div>
+            <head>1936</head>
+            <list>
+               <item>
+                  <title>Gedichte der Liebe. Wien: Europäischer Verlag 1936 </title>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head>1938</head>
+            <list>
+               <item>
+                  <title>Paul Géraldy: Du und ich. Deutsche Nachdichtung von Clara Katharina
+                     Pollaczek. Wien: Zsolnay 1948. </title></item>
+            </list>
+         </div>
+         <div>
+            <list type="footnotes">
+               <item ana="footnote">1  Gerade das Neue Wiener Tagblatt bedürfte noch einer
+                  eingehenderen Untersuchung  auf Texte von Pollaczek hin – die Ankündigung für den
+                  Roman Das Kind der Liebe vom 3. September  1926 verzeichnet: »Die Wiener
+                  Schriftstellerin ist unsern Lesern nicht mehr unbekannt, wiederholt  schon bot sie
+                  Proben ihrer vornehmen und psychologisch feinen Erzählungskunst dar.« Dies läßt
+                  auf  weitere Texte der Autorin schließen, die dort erschienen sind, aber nicht
+                  ermittelt werden  konnten.</item>
+               <item ana="footnote">2  Karl Woisetschläger: Die Rezeption neuer Erzählliteratur in
+                  der »Neuen Freien  Presse« und der »Frankfurter Zeitung« 1918–1933. Wien: Univ.
+                  Diss. 1991, S. 370.</item>
+               <item ana="footnote">3  Schnitzler schreibt »Clara las mir ›Fremdenbuch‹ und Verlaine
+                  Übersetzung« (Tb  16.7.1897). Vgl. auch CKP I, Beilage nach Bl. 4, 16f.</item>
+               <item ana="footnote">4  Neben »Bob« verwendet Loeb das Pseudonym »Cl. Béol« (die
+                  einfache Spiegelung von  Loeb) für weitere Texte, die hier nicht nachweisbar sind
+                  und auf die die Sekundärliteratur nur  unscharf und ohne Nennung von Titeln Bezug
+                  nimmt.</item>
+               <item ana="footnote">5  Arthur Schnitzler an Clara Katharina Pollaczek, Brief vom 21.
+                  April 1926. In: CKP  I, 273. Dort heißt es: »Lili lässt Dir sehr danken für die
+                  ›Mimi‹, die sie mit grossem Vergnügen  gelesen hat. Sie findet, dass die jungen
+                  Mädchen damals doch nicht anders gewesen sind als  jetzt.–«</item>
+               <item ana="footnote">6  Vgl. Pole, Two halves of a Life (Anm. 6), S. 27.</item>
+               <item ana="footnote">7  Vgl. Farese, Arthur Schnitzler (Anm. 66), S. 240.</item>
+               <item ana="footnote">8  CKP I, 10.</item>
+               <item ana="footnote">9  CKP I, 90.</item>
+               <item ana="footnote">10  CKP I, 111.</item>
+               <item ana="footnote">11  CKP I, 119.</item>
+               <item ana="footnote">12  Woisetschläger, Rezeption neuer Erzählliteratur (Anm. 2), S.
+                  370.</item>
+               <item ana="footnote">13  Arthur Schnitzler an Clara Pollaczek, Karte [?] vom 24.
+                  Jänner 1925. In: CKP I,  124. Hervorhebungen im Original.</item>
+               <item ana="footnote">14  CKP I, 126–128.</item>
+               <item ana="footnote">15  CKP I, 130.</item>
+               <item ana="footnote">16  CKP I, 197.</item>
+               <item ana="footnote">17  CKP I, 251.</item>
+               <item ana="footnote">18  CKP I, 224.</item>
+               <item ana="footnote">19  CKP I, 251.</item>
+               <item ana="footnote">20  Karl Zieger: Arthur Schnitzler und der Verlag Stock. In:
+                  Internationales Archiv  für Sozialgeschichte der deutschen Literatur (IASL) 33
+                  (2008), 1, S. 155–170, hier S. 162.</item>
+               <item ana="footnote">21  Vgl. CKP I, 326.</item>
+               <item ana="footnote">22  Vgl. CKP I, 327.</item>
+               <item ana="footnote">23  CKP I, 338.</item>
+               <item ana="footnote">24  CKP I, 331.</item>
+               <item ana="footnote">25  CKP I, 334.</item>
+               <item ana="footnote">26  Schnitzler hatte sich zuvor kritisch über den Schluß in
+                  seinem Brief vom 19.  März 1925 geäußert, wo er schreibt, es klinge »zu sehr nach
+                  Zeitungsnotiz« (CKP I, 153).</item>
+               <item ana="footnote">27  Vgl. CKP I, 363.</item>
+               <item ana="footnote">28  Vgl. CKP II, 5f.</item>
+               <item ana="footnote">29  CKP I, 354. Zum erwähnten Film vgl. TB 19.10.1925.</item>
+               <item ana="footnote">30  Clara Katharina Pollaczek an Arthur Schnitzler, Brief vom
+                  31. Dezember 1926. In:  CKP I, 367.</item>
+               <item ana="footnote">31  Woisetschläger, Rezeption neuer Erzählliteratur (Anm. 2), S.
+                  370.</item>
+               <item ana="footnote">32  Vgl. CKP I, 368. Schnitzler notiert im Tagebucheintrag vom
+                  1. April 1927 nur ein  Essen mit Wiegler, ohne den Gesprächsinhalt
+                  wiederzugeben.</item>
+               <item ana="footnote">33  Vgl. CKP I, 372.</item>
+               <item ana="footnote">34  CKP II, 67. Es handelt sich um einen Tagebucheintrag vom 10.
+                  November 1927.  </item>
+               <item ana="footnote">35  CKP II, 66.</item>
+               <item ana="footnote">36  CKP II, 70.</item>
+               <item ana="footnote">37  CKP II, 127.</item>
+               <item ana="footnote">38  CKP III, 142.</item>
+               <item ana="footnote">39  CKP III, 234.</item>
+               <item ana="footnote">40  CKP II, 127.</item>
+               <item ana="footnote">41  Arthur Schnitzler an Clara Katharina Pollaczek, Brief vom
+                  13. März 1929. In: CKP  II, 200.</item>
+               <item ana="footnote">46 </item>
+               <item ana="footnote">42  CKP</item>
+               <item ana="footnote">43  CKP</item>
+               <item ana="footnote">44  CKP</item>
+               <item ana="footnote">45  CKP</item>
+               <item ana="footnote">46  CKP</item>
+               <item ana="footnote">47  CKP</item>
+               <item ana="footnote">48  CKP</item>
+               <item ana="footnote">49  CKP</item>
+               <item ana="footnote">50  Ebd.</item>
+               <item ana="footnote">51  CKP</item>
+               <item ana="footnote">52  CKP</item>
+               <item ana="footnote">53  CKP</item>
+               <item ana="footnote">54  CKP</item>
+               <item ana="footnote">55  CKP</item>
+               <item ana="footnote">56  CKP</item>
+               <item ana="footnote">57  CKP</item>
+               <item ana="footnote">58  CKP</item>
+               <item ana="footnote">59  CKP</item>
+               <item ana="footnote">60  CKP bin nun bei der Akt-Einteilung. Ich habe vorher viel
+                  über sie gelesen. Herr  Heutler schickte mir zu dem Zweck ein sehr gutes Buch von
+                  Lamartine das mir viel nützt wenn auch  meine Auffassung eine ganz andere ist. Ich
+                  seh nämlich in ihr keine Heldin, sondern ein ganz  modernes Weib, nach den
+                  allgemeinen Begriffen modern, das eben ihrer Zeit voraus ist. Ihre ‚Tat‘  ist die
+                  Eitelkeit eine verklärende Rolle zu spielen, Sucht nach Unsterblichkeit, ein
+                  bischen  Hysterie und naive politische Anschauung. So seh ich sie eigentlich in
+                  keinem sympathischen aber  doch reizvollen Licht. Was sagst Du dazu?«</item>
+               <item ana="footnote">61  CKP I, 312.</item>
+               <item ana="footnote">62  Clara Katharina Pollaczek an Arthur Schnitzler, Brief vom 3.
+                  Dezember 1927. In:  CKP II, 77.</item>
+               <item ana="footnote">63  CKP III, 48.</item>
+               <item ana="footnote">64  CKP III, 28.</item>
+               <item ana="footnote">65  CKP III, 135.</item>
+               <item ana="footnote">66  Clara Katharina Pollaczek an Arthur Schnitzler, Brief vom
+                  14. November 1930. In:  CKP III, 115.</item>
+               <item ana="footnote">67  CKP III, 142.</item>
+               <item ana="footnote">68  CKP III, 151.</item>
+               <item ana="footnote">69  CKP III, 201.</item>
+               <item ana="footnote">70  CKP III, 226–231.</item>
+               <item ana="footnote">71  Woisetschläger, Rezeption neuer Erzählliteratur (Anm. 2), S.
+                  370.</item>
+               <item ana="footnote">72  CKP III, 216. Schnitzler bekommt das zweite Kapitel am 10.
+                  Oktober zu lesen (CKP  III, 249).</item>
+               <item ana="footnote">73  Ebd.</item>
+               <item ana="footnote">74  Zur Angabe des Erscheinungsjahrs vgl. Der kleine Salon.
+                  Szenen und Prosa des  Wiener Fin de Siècle. Mit Illustrationen von Gustav Klimt.
+                  Hg. von Hansjörg Graf. Stuttgart:  Goverts 1970, S. 305.</item>
+               <item ana="footnote">75  CKP III, 233.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
