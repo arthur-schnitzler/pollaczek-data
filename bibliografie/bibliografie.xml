@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -103,7 +100,8 @@
             <list>
                <item>
                   <title>Wohnungsnot. [Feuilletonistische Einakter].<note>7</note></title>
-                  <bibl>In: Neue Freie Presse, 10.–14.4.1923</bibl><!-- Ergänzung MAM https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19230410&amp;query=%22klara+katharina+pollaczek%22&amp;ref=anno-search&amp;seite=11 
+                  <bibl>In: Neue Freie Presse,
+                  10.–14.4.1923</bibl><!-- Ergänzung MAM https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19230410&amp;query=%22klara+katharina+pollaczek%22&amp;ref=anno-search&amp;seite=11 
                   https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19230411&amp;seite=12&amp;zoom=33&amp;query=%22klara%2Bkatharina%2Bpollaczek%22&amp;ref=anno-search
                   https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19230412&amp;query=%22klara+katharina+pollaczek%22&amp;ref=anno-search&amp;seite=10
                   https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19230413&amp;query=%22klara+katharina+pollaczek%22&amp;ref=anno-search&amp;seite=11
@@ -119,7 +117,7 @@
                   <title>Hingabe / Unter der Lampe. Zwei Gedichte aus der Sammlung »Toi et moi« von
                      Paul Géraldy. </title>
                   <bibl>In: Neue Freie Presse, 11.5.1924. </bibl>
-                  <p ana="editor">CKP I, 57, erwähnt am 12. August 1924, daß zweimal zwei
+                  <p ana="editor"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="57"/> erwähnt am 12. August 1924, daß zweimal zwei
                      Übertragungen von Géraldy-Gedichten in der Neuen Freien Presse erschienen
                      seien. Das zweite Paar ist nicht ermittelbar. </p>
                </item>
@@ -160,7 +158,7 @@
                <item>
                   <title>Spaziergang im Mondenschein. Ein Zwiegespräch. </title>
                   <bibl>In: Neues Wiener Tagblatt, 15.6.1925.</bibl><!-- Ergänzung MAM https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19250615&amp;seite=10 -->
-                  <p>Vgl. jeweils CKP I, 105. Die Novelle sollte in dramatisierter Form aufgeführt
+                  <p>Vgl. jeweils <ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="105"/> Die Novelle sollte in dramatisierter Form aufgeführt
                      werden (gemeinsam mit Redoute). Schnitzler äußert sich dazu kritisch: »ja man
                      könnte gewissermaßen sagen ›gut geschrieben‹ – aber nicht ebenso ›gut‹
                         geredet«.<note>10</note>
@@ -222,7 +220,7 @@
                <item>
                   <title>Treppe. Volksstück.</title>
                   <p>nicht ermittelbar </p>
-                  <p>Vgl. CKP I, 239 und 242. </p>
+                  <p>Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="239"/>und 242. </p>
                </item>
             </list>
          </div>
@@ -720,9 +718,10 @@
             <list>
                <item>
                   <title>Der alte Bauer. [Gedicht]</title>
-                  <bibl>In: Neues Wiener Tagblatt, 7.10.1934.</bibl><!-- Ergänzung MAM, wieder in Gedichte der Liebe? https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19341007&amp;seite=24 -->
+                  <bibl>In: Neues Wiener Tagblatt,
+                  7.10.1934.</bibl><!-- Ergänzung MAM, wieder in Gedichte der Liebe? https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19341007&amp;seite=24 -->
                </item>
-                  <item>
+               <item>
                   <p>Sein Zimmer. [Gedicht]. </p>
                   <p>In: Neue Freie Presse, 21.10.1934. </p>
                   <p>Wieder in Pollaczek, Gedichte der Liebe, S. 37. </p></item>
@@ -736,7 +735,6 @@
                </item>
             </list>
          </div>
-         
          <div>
             <head>1937</head>
             <list>
@@ -753,10 +751,7 @@
                   <bibl>In: Neues Wiener Tagblatt, 22.8.1937.</bibl>
                </item>
             </list>
-            
          </div>
-         
-            
          <div>
             <head>1938</head>
             <list>
@@ -767,122 +762,125 @@
          </div>
          <div>
             <list type="footnotes">
-               <item ana="footnote">1  Gerade das Neue Wiener Tagblatt bedürfte noch einer
-                  eingehenderen Untersuchung  auf Texte von Pollaczek hin – die Ankündigung für den
-                  Roman Das Kind der Liebe vom 3. September  1926 verzeichnet: »Die Wiener
-                  Schriftstellerin ist unsern Lesern nicht mehr unbekannt, wiederholt  schon bot sie
-                  Proben ihrer vornehmen und psychologisch feinen Erzählungskunst dar.« Dies läßt
-                  auf  weitere Texte der Autorin schließen, die dort erschienen sind, aber nicht
-                  ermittelt werden  konnten.</item>
-               <item ana="footnote">2  Karl Woisetschläger: Die Rezeption neuer Erzählliteratur in
-                  der »Neuen Freien  Presse« und der »Frankfurter Zeitung« 1918–1933. Wien: Univ.
-                  Diss. 1991, S. 370.</item>
-               <item ana="footnote">3  Schnitzler schreibt »Clara las mir ›Fremdenbuch‹ und Verlaine
-                  Übersetzung« (Tb  16.7.1897). Vgl. auch CKP I, Beilage nach Bl. 4, 16f.</item>
-               <item ana="footnote">4  Neben »Bob« verwendet Loeb das Pseudonym »Cl. Béol« (die
-                  einfache Spiegelung von  Loeb) für weitere Texte, die hier nicht nachweisbar sind
-                  und auf die die Sekundärliteratur nur  unscharf und ohne Nennung von Titeln Bezug
-                  nimmt.</item>
-               <item ana="footnote">5  Arthur Schnitzler an Clara Katharina Pollaczek, Brief vom 21.
-                  April 1926. In: CKP  I, 273. Dort heißt es: »Lili lässt Dir sehr danken für die
-                  ›Mimi‹, die sie mit grossem Vergnügen  gelesen hat. Sie findet, dass die jungen
-                  Mädchen damals doch nicht anders gewesen sind als  jetzt.–«</item>
-               <item ana="footnote">6  Vgl. Pole, Two halves of a Life (Anm. 6), S. 27.</item>
-               <item ana="footnote">7  Vgl. Farese, Arthur Schnitzler (Anm. 66), S. 240.</item>
-               <item ana="footnote">8  CKP I, 10.</item>
-               <item ana="footnote">9  CKP I, 90.</item>
-               <item ana="footnote">10  CKP I, 111.</item>
-               <item ana="footnote">11  CKP I, 119.</item>
-               <item ana="footnote">12  Woisetschläger, Rezeption neuer Erzählliteratur (Anm. 2), S.
-                  370.</item>
-               <item ana="footnote">13  Arthur Schnitzler an Clara Pollaczek, Karte [?] vom 24.
-                  Jänner 1925. In: CKP I,  124. Hervorhebungen im Original.</item>
-               <item ana="footnote">14  CKP I, 126–128.</item>
-               <item ana="footnote">15  CKP I, 130.</item>
-               <item ana="footnote">16  CKP I, 197.</item>
-               <item ana="footnote">17  CKP I, 251.</item>
-               <item ana="footnote">18  CKP I, 224.</item>
-               <item ana="footnote">19  CKP I, 251.</item>
-               <item ana="footnote">20  Karl Zieger: Arthur Schnitzler und der Verlag Stock. In:
-                  Internationales Archiv  für Sozialgeschichte der deutschen Literatur (IASL) 33
-                  (2008), 1, S. 155–170, hier S. 162.</item>
-               <item ana="footnote">21  Vgl. CKP I, 326.</item>
-               <item ana="footnote">22  Vgl. CKP I, 327.</item>
-               <item ana="footnote">23  CKP I, 338.</item>
-               <item ana="footnote">24  CKP I, 331.</item>
-               <item ana="footnote">25  CKP I, 334.</item>
-               <item ana="footnote">26  Schnitzler hatte sich zuvor kritisch über den Schluß in
-                  seinem Brief vom 19.  März 1925 geäußert, wo er schreibt, es klinge »zu sehr nach
-                  Zeitungsnotiz« (CKP I, 153).</item>
-               <item ana="footnote">27  Vgl. CKP I, 363.</item>
-               <item ana="footnote">28  Vgl. CKP II, 5f.</item>
-               <item ana="footnote">29  CKP I, 354. Zum erwähnten Film vgl. TB 19.10.1925.</item>
-               <item ana="footnote">30  Clara Katharina Pollaczek an Arthur Schnitzler, Brief vom
-                  31. Dezember 1926. In:  CKP I, 367.</item>
-               <item ana="footnote">31  Woisetschläger, Rezeption neuer Erzählliteratur (Anm. 2), S.
-                  370.</item>
-               <item ana="footnote">32  Vgl. CKP I, 368. Schnitzler notiert im Tagebucheintrag vom
-                  1. April 1927 nur ein  Essen mit Wiegler, ohne den Gesprächsinhalt
+               <item ana="footnote" n="1">Gerade das Neue Wiener Tagblatt bedürfte noch einer
+                  eingehenderen Untersuchung auf Texte von Pollaczek hin – die Ankündigung
+                  für den Roman Das Kind der Liebe vom 3. September 1926 verzeichnet: »Die
+                  Wiener Schriftstellerin ist unsern Lesern nicht mehr unbekannt, wiederholt
+                  schon bot sie Proben ihrer vornehmen und psychologisch feinen Erzählungskunst
+                  dar.« Dies läßt auf weitere Texte der Autorin schließen, die dort
+                  erschienen sind, aber nicht ermittelt werden konnten.</item>
+               <item ana="footnote" n="2">Karl Woisetschläger: Die Rezeption neuer Erzählliteratur
+                  in der »Neuen Freien Presse« und der »Frankfurter Zeitung« 1918–1933.
+                  Wien: Univ. Diss. 1991, S. 370.</item>
+               <item ana="footnote" n="3">Schnitzler schreibt »Clara las mir ›Fremdenbuch‹ und
+                  Verlaine Übersetzung« (Tb 16.7.1897). Vgl. auch CKP I, Beilage nach Bl. 4,
+                  16f.</item>
+               <item ana="footnote" n="4">Neben »Bob« verwendet Loeb das Pseudonym »Cl. Béol« (die
+                  einfache Spiegelung von Loeb) für weitere Texte, die hier nicht
+                  nachweisbar sind und auf die die Sekundärliteratur nur unscharf und ohne
+                  Nennung von Titeln Bezug nimmt.</item>
+               <item ana="footnote" n="5">Arthur Schnitzler an Clara Katharina Pollaczek, Brief vom
+                  21. April 1926. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="273"/> Dort heißt es: »Lili lässt Dir sehr danken
+                  für die ›Mimi‹, die sie mit grossem Vergnügen gelesen hat. Sie findet,
+                  dass die jungen Mädchen damals doch nicht anders gewesen sind als
+                  jetzt.–«</item>
+               <item ana="footnote" n="7">Vgl. Farese, Arthur Schnitzler (Anm. 66), S. 240.</item>
+               <item ana="footnote" n="8"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="10"/></item>
+               <item ana="footnote" n="9"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="90"/></item>
+               <item ana="footnote" n="10"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="111"/></item>
+               <item ana="footnote" n="11"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="119"/></item>
+               <item ana="footnote" n="12">Woisetschläger, Rezeption neuer Erzählliteratur (Anm.
+                  2), S. 370.</item>
+               <item ana="footnote" n="13">Arthur Schnitzler an Clara Pollaczek, Karte [?] vom 24.
+                  Jänner 1925. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="124"/> Hervorhebungen im Original.</item>
+               <item ana="footnote" n="14"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="126"/>128.</item>
+               <item ana="footnote" n="15"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="130"/></item>
+               <item ana="footnote" n="16"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="197"/></item>
+               <item ana="footnote" n="17"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="251"/></item>
+               <item ana="footnote" n="18"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="224"/></item>
+               <item ana="footnote" n="19"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="251"/></item>
+               <item ana="footnote" n="20">Karl Zieger: Arthur Schnitzler und der Verlag Stock. In:
+                  Internationales Archiv für Sozialgeschichte der deutschen Literatur (IASL)
+                  33 (2008), 1, S. 155–170, hier S. 162.</item>
+               <item ana="footnote" n="21">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="326"/></item>
+               <item ana="footnote" n="22">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="327"/></item>
+               <item ana="footnote" n="23"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="338"/></item>
+               <item ana="footnote" n="24"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="331"/></item>
+               <item ana="footnote" n="25"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="334"/></item>
+               <item ana="footnote" n="26">Schnitzler hatte sich zuvor kritisch über den Schluß in
+                  seinem Brief vom 19. März 1925 geäußert, wo er schreibt, es klinge »zu
+                  sehr nach Zeitungsnotiz« (<ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="153"/>.</item>
+               <item ana="footnote" n="27">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="363"/></item>
+               <item ana="footnote" n="28">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" vol="II" target="5"/>.</item>
+               <item ana="footnote" n="29"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="354"/> Zum erwähnten Film vgl. TB
+                  19.10.1925.</item>
+               <item ana="footnote" n="30">Clara Katharina Pollaczek an Arthur Schnitzler, Brief
+                  vom 31. Dezember 1926. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="367"/></item>
+               <item ana="footnote" n="31">Woisetschläger, Rezeption neuer Erzählliteratur (Anm.
+                  2), S. 370.</item>
+               <item ana="footnote" n="32">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="368"/> Schnitzler notiert im Tagebucheintrag
+                  vom 1. April 1927 nur ein Essen mit Wiegler, ohne den Gesprächsinhalt
                   wiederzugeben.</item>
-               <item ana="footnote">33  Vgl. CKP I, 372.</item>
-               <item ana="footnote">34  CKP II, 67. Es handelt sich um einen Tagebucheintrag vom 10.
-                  November 1927.  </item>
-               <item ana="footnote">35  CKP II, 66.</item>
-               <item ana="footnote">36  CKP II, 70.</item>
-               <item ana="footnote">37  CKP II, 127.</item>
-               <item ana="footnote">38  CKP III, 142.</item>
-               <item ana="footnote">39  CKP III, 234.</item>
-               <item ana="footnote">40  CKP II, 127.</item>
-               <item ana="footnote">41  Arthur Schnitzler an Clara Katharina Pollaczek, Brief vom
-                  13. März 1929. In: CKP  II, 200.</item>
-               <item ana="footnote">46 </item>
-               <item ana="footnote">42  CKP</item>
-               <item ana="footnote">43  CKP</item>
-               <item ana="footnote">44  CKP</item>
-               <item ana="footnote">45  CKP</item>
-               <item ana="footnote">46  CKP</item>
-               <item ana="footnote">47  CKP</item>
-               <item ana="footnote">48  CKP</item>
-               <item ana="footnote">49  CKP</item>
-               <item ana="footnote">50  Ebd.</item>
-               <item ana="footnote">51  CKP</item>
-               <item ana="footnote">52  CKP</item>
-               <item ana="footnote">53  CKP</item>
-               <item ana="footnote">54  CKP</item>
-               <item ana="footnote">55  CKP</item>
-               <item ana="footnote">56  CKP</item>
-               <item ana="footnote">57  CKP</item>
-               <item ana="footnote">58  CKP</item>
-               <item ana="footnote">59  CKP</item>
-               <item ana="footnote">60  CKP bin nun bei der Akt-Einteilung. Ich habe vorher viel
-                  über sie gelesen. Herr  Heutler schickte mir zu dem Zweck ein sehr gutes Buch von
-                  Lamartine das mir viel nützt wenn auch  meine Auffassung eine ganz andere ist. Ich
-                  seh nämlich in ihr keine Heldin, sondern ein ganz  modernes Weib, nach den
-                  allgemeinen Begriffen modern, das eben ihrer Zeit voraus ist. Ihre ‚Tat‘  ist die
-                  Eitelkeit eine verklärende Rolle zu spielen, Sucht nach Unsterblichkeit, ein
-                  bischen  Hysterie und naive politische Anschauung. So seh ich sie eigentlich in
-                  keinem sympathischen aber  doch reizvollen Licht. Was sagst Du dazu?«</item>
-               <item ana="footnote">61  CKP I, 312.</item>
-               <item ana="footnote">62  Clara Katharina Pollaczek an Arthur Schnitzler, Brief vom 3.
-                  Dezember 1927. In:  CKP II, 77.</item>
-               <item ana="footnote">63  CKP III, 48.</item>
-               <item ana="footnote">64  CKP III, 28.</item>
-               <item ana="footnote">65  CKP III, 135.</item>
-               <item ana="footnote">66  Clara Katharina Pollaczek an Arthur Schnitzler, Brief vom
-                  14. November 1930. In:  CKP III, 115.</item>
-               <item ana="footnote">67  CKP III, 142.</item>
-               <item ana="footnote">68  CKP III, 151.</item>
-               <item ana="footnote">69  CKP III, 201.</item>
-               <item ana="footnote">70  CKP III, 226–231.</item>
-               <item ana="footnote">71  Woisetschläger, Rezeption neuer Erzählliteratur (Anm. 2), S.
-                  370.</item>
-               <item ana="footnote">72  CKP III, 216. Schnitzler bekommt das zweite Kapitel am 10.
-                  Oktober zu lesen (CKP  III, 249).</item>
-               <item ana="footnote">73  Ebd.</item>
-               <item ana="footnote">74  Zur Angabe des Erscheinungsjahrs vgl. Der kleine Salon.
-                  Szenen und Prosa des  Wiener Fin de Siècle. Mit Illustrationen von Gustav Klimt.
-                  Hg. von Hansjörg Graf. Stuttgart:  Goverts 1970, S. 305.</item>
-               <item ana="footnote">75  CKP III, 233.</item>
+               <item ana="footnote" n="33">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="372"/></item>
+               <item ana="footnote" n="34"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="II" target="67"/> Es handelt sich um einen Tagebucheintrag vom
+                  10. November 1927.</item>
+               <item ana="footnote" n="35"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="II" target="66"/></item>
+               <item ana="footnote" n="36"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="II" target="70"/></item>
+               <item ana="footnote" n="37"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="II" target="127"/></item>
+               <item ana="footnote" n="38"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="III" target="142"/></item>
+               <item ana="footnote" n="39"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="III" target="234"/></item>
+               <item ana="footnote" n="40"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="II" target="127"/></item>
+               <item ana="footnote" n="41">Arthur Schnitzler an Clara Katharina Pollaczek, Brief
+                  vom 13. März 1929. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" vol="II" target="200"/></item>
+               <item ana="footnote" n="46"/>
+               <item ana="footnote" n="42">CKP</item>
+               <item ana="footnote" n="43">CKP</item>
+               <item ana="footnote" n="44">CKP</item>
+               <item ana="footnote" n="45">CKP</item>
+               <item ana="footnote" n="46">CKP</item>
+               <item ana="footnote" n="47">CKP</item>
+               <item ana="footnote" n="48">CKP</item>
+               <item ana="footnote" n="49">CKP</item>
+               <item ana="footnote" n="50">Ebd.</item>
+               <item ana="footnote" n="51">CKP</item>
+               <item ana="footnote" n="52">CKP</item>
+               <item ana="footnote" n="53">CKP</item>
+               <item ana="footnote" n="54">CKP</item>
+               <item ana="footnote" n="55">CKP</item>
+               <item ana="footnote" n="56">CKP</item>
+               <item ana="footnote" n="57">CKP</item>
+               <item ana="footnote" n="58">CKP</item>
+               <item ana="footnote" n="59">CKP</item>
+               <item ana="footnote" n="60">CKP bin nun bei der Akt-Einteilung. Ich habe vorher viel
+                  über sie gelesen. Herr Heutler schickte mir zu dem Zweck ein sehr gutes
+                  Buch von Lamartine das mir viel nützt wenn auch meine Auffassung eine ganz
+                  andere ist. Ich seh nämlich in ihr keine Heldin, sondern ein ganz modernes
+                  Weib, nach den allgemeinen Begriffen modern, das eben ihrer Zeit voraus ist. Ihre
+                  ‚Tat‘ ist die Eitelkeit eine verklärende Rolle zu spielen, Sucht nach
+                  Unsterblichkeit, ein bischen Hysterie und naive politische Anschauung. So
+                  seh ich sie eigentlich in keinem sympathischen aber doch reizvollen Licht.
+                  Was sagst Du dazu?«</item>
+               <item ana="footnote" n="61"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="I" target="312"/></item>
+               <item ana="footnote" n="62">Clara Katharina Pollaczek an Arthur Schnitzler, Brief
+                  vom 3. Dezember 1927. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" vol="II" target="77"/></item>
+               <item ana="footnote" n="63"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="III" target="48"/></item>
+               <item ana="footnote" n="64"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="III" target="28"/></item>
+               <item ana="footnote" n="65"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="III" target="135"/></item>
+               <item ana="footnote" n="66">Clara Katharina Pollaczek an Arthur Schnitzler, Brief
+                  vom 14. November 1930. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" vol="III" target="115"/></item>
+               <item ana="footnote" n="67"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="III" target="142"/></item>
+               <item ana="footnote" n="68"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="III" target="151"/></item>
+               <item ana="footnote" n="69"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="III" target="201"/></item>
+               <item ana="footnote" n="70"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="III" target="226"/>231.</item>
+               <item ana="footnote" n="71">Woisetschläger, Rezeption neuer Erzählliteratur (Anm.
+                  2), S. 370.</item>
+               <item ana="footnote" n="72"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="III" target="216"/> Schnitzler bekommt das zweite Kapitel am
+                  10. Oktober zu lesen (<ref subtype="arthur-schnitzler-und-ich" type="URL" vol="III" target="249"/>.</item>
+               <item ana="footnote" n="73">Ebd.</item>
+               <item ana="footnote" n="74">Zur Angabe des Erscheinungsjahrs vgl. Der kleine Salon.
+                  Szenen und Prosa des Wiener Fin de Siècle. Mit Illustrationen von Gustav
+                  Klimt. Hg. von Hansjörg Graf. Stuttgart: Goverts 1970, S. 305.</item>
+               <item ana="footnote" n="75"><ref subtype="arthur-schnitzler-und-ich" type="URL" vol="III" target="233"/></item>
             </list>
          </div>
       </body>
