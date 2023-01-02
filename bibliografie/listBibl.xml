@@ -33,7 +33,7 @@
       <body>
          <div>
             <p ana="editor">Die Personalbibliografie erschien erstmals 2012 gedruckt als Teil des biografischen Abrisses zu Clara Katharina Pollaczek in der Buchpublikation <title>„A. ist manchmal wie ein kleines Kind“. Clara Katharina Pollaczek und Arthur Schnitzler gehen ins Kino</title> (hrsg. v. Michael Rohrwasser und Stephan Kurz unter Mitarbeit von Daniel Schopper) Wien: Böhlau 2012. Die hier vorgelegte Version wurde von Martin Anton Müller durchgesehen und nicht zuletzt um die bereits zuvor bestehende Linksammlung zu den (2011 noch ohne Volltextsuche aufgefundenen) Tageszeitungsdigitalisaten aus ANNO erweitert sowie von Stephan Kurz nochmals technisch überarbeitet. Es folgt der Einleitungstext von 2012.</p>
-            <p ana="editor" resp="#SK">Versammelt sind sämtliche auffindbaren Texte der Autorin Clara Katharina Pollaczek in der Reihenfolge ihres Erscheinens und in der hier nachgewiesenen Fassung. Die Suche beschränkte sich im Wesentlichen auf die <title>Neue Freie Presse</title>, wo ein Großteil der in Pollaczeks <title>Arthur Schnitzler und ich</title> erwähnten Texte zwischen 1924 und 1931 erschien.<note n="1">Gerade das <title>Neue Wiener Tagblatt</title> bedürfte noch einer eingehenderen Untersuchung auf Texte von Pollaczek hin – die Ankündigung für den Roman <title>Das Kind der Liebe</title> vom 3. September 1926 verzeichnet: »Die Wiener Schriftstellerin ist unsern Lesern nicht mehr unbekannt, wiederholt schon bot sie Proben ihrer vornehmen und psychologisch feinen Erzählungskunst dar.« Dies läßt auf weitere Texte der Autorin schließen, die dort erschienen sind, aber nicht ermittelt werden konnten.</note> Zudem erwies sich die Aufstellung in Karl Woisetschlägers Dissertation als hilfreich.<note n="2"><bibl><author>Karl Woisetschläger</author>: <title>Die Rezeption neuer Erzählliteratur in der »Neuen Freien Presse« und der »Frankfurter Zeitung« 1918–1933</title>. <pubPlace>Wien</pubPlace>: <publisher>Univ. Diss.</publisher> <date>1991</date>, <biblScope unit="page">S. 370</biblScope></bibl>.</note>
+            <p ana="editor" resp="#SK">Versammelt sind sämtliche auffindbaren Texte der Autorin Clara Katharina Pollaczek in der Reihenfolge ihres Erscheinens und in der hier nachgewiesenen Fassung. Die Suche beschränkte sich im Wesentlichen auf die <title>Neue Freie Presse</title>, wo ein Großteil der in Pollaczeks <title>Arthur Schnitzler und ich</title> erwähnten Texte zwischen 1924 und 1931 erschien.<note type="footnote" n="1">Gerade das <title>Neue Wiener Tagblatt</title> bedürfte noch einer eingehenderen Untersuchung auf Texte von Pollaczek hin – die Ankündigung für den Roman <title>Das Kind der Liebe</title> vom 3. September 1926 verzeichnet: »Die Wiener Schriftstellerin ist unsern Lesern nicht mehr unbekannt, wiederholt schon bot sie Proben ihrer vornehmen und psychologisch feinen Erzählungskunst dar.« Dies läßt auf weitere Texte der Autorin schließen, die dort erschienen sind, aber nicht ermittelt werden konnten.</note> Zudem erwies sich die Aufstellung in Karl Woisetschlägers Dissertation als hilfreich.<note type="footnote" n="2"><bibl><author>Karl Woisetschläger</author>: <title>Die Rezeption neuer Erzählliteratur in der »Neuen Freien Presse« und der »Frankfurter Zeitung« 1918–1933</title>. <pubPlace>Wien</pubPlace>: <publisher>Univ. Diss.</publisher> <date>1991</date>, <biblScope unit="page">S. 370</biblScope></bibl>.</note>
                Alle dramatischen sowie erzählenden Texte sind in der Folge mit einer kurzen Inhaltsangabe versehen. Den in chronologischer Reihenfolge aufgelisteten Texten wird,  wo dies möglich war, der Nachweis von Daten zu ihrer Entstehung angefügt. </p>
          </div>
       </body>
@@ -50,20 +50,16 @@
          <title/>
          <imprint>
             <biblScope unit="page"/>
-            <note>nicht ermittelbar</note>
+            <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
       <!-- Wie drücken wir aus, dass es das gar nicht gibt (aber gegeben haben muss)? -->
-      <note n="3">Schnitzler schreibt »Clara las mir ›Fremdenbuch‹ und Verlaine Übersetzung« <ref subtype="schnitzler-tagebuch" type="URL" target="1897-07-16">(Tb 16.7.1897)</ref>. Vgl. auch <ref target="ckp015.html">CKP I, Beilage nach Bl. 4, 16f.</ref></note>
-      <note>nicht ermittelbar</note>
+      <note type="footnote" n="3">Schnitzler schreibt »Clara las mir ›Fremdenbuch‹ und Verlaine Übersetzung« <ref subtype="schnitzler-tagebuch" type="URL" target="1897-07-16">(Tb 16.7.1897)</ref>. Vgl. auch <ref target="ckp015.html">CKP I, Beilage nach Bl. 4, 16f.</ref></note>
+      <note type="editorial">nicht ermittelbar</note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/34096">
       <analytic>
-         <title type="main">Mimi. Schattenbilder aus einem Mädchenleben.<!--<note n="4">Neben »Bob«
-                        verwendet Loeb das Pseudonym »Cl. Béol« (die einfache Spiegelung von Loeb)
-                        für weitere Texte, die hier nicht nachweisbar sind und auf die die
-                        Sekundärliteratur nur unscharf und ohne Nennung von Titeln Bezug
-                        nimmt.</note>-->
+         <title type="main">Mimi. Schattenbilder aus einem Mädchenleben.<!--<note type="footnote" n="4">Neben »Bob« verwendet Loeb das Pseudonym »Cl. Béol« (die einfache Spiegelung von Loeb) für weitere Texte, die hier nicht nachweisbar sind und auf die die Sekundärliteratur nur unscharf und ohne Nennung von Titeln Bezug nimmt.</note>-->
          </title>
          <title type="sub">Mit einem Prolog von Hugo von Hofmannsthal</title>
          <author key="https://d-nb.info/gnd/13950916X">
@@ -86,16 +82,16 @@
          </imprint>
       </monogr>
       <note resp="#SK" type="comment">
-         <p ana="comment">Lili Schnitzler liest die »Mimi« auf der Mittelmeerreise mit ihrem Vater im April 1926.<note n="5">Arthur Schnitzler an Clara Katharina Pollaczek, Brief vom 21. April 1926. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp314"/> Dort heißt es: »Lili lässt Dir sehr danken für die ›Mimi‹, die sie mit grossem Vergnügen gelesen hat. Sie findet, dass die jungen Mädchen damals doch nicht anders gewesen sind als jetzt.–«</note>
+         <p ana="comment">Lili Schnitzler liest die »Mimi« auf der Mittelmeerreise mit ihrem Vater im April 1926.<note type="footnote" n="5">Arthur Schnitzler an Clara Katharina Pollaczek, Brief vom 21. April 1926. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp314"/> Dort heißt es: »Lili lässt Dir sehr danken für die ›Mimi‹, die sie mit grossem Vergnügen gelesen hat. Sie findet, dass die jungen Mädchen damals doch nicht anders gewesen sind als jetzt.–«</note>
          </p>
       </note>
-      <note ana="content">Eine Folge von mehreren Szenen rund um die Titelfigur Mimi, die von der Initiation in die Gesellschaft (»Im Flügel-Kleide«) und den »Ersten Liebestraum« hin zu diversen Ballgesellschaften (»Loin du Bal«, »Schlüpfrig«), amourösen Plänkeleien mit einem Schriftsteller in einem Ruderboot am nächtlichen Millstättersee (»Sommernachtstraum«) und Heiratsplänen, die mit der Freundin (»Plauderei«) und mit der Mutter (»Haus-Theater«) besprochen werden, bis zu den Folgen der Heirat (»Flügellahm«) reichen. </note>
+      <note type="summary">Eine Folge von mehreren Szenen rund um die Titelfigur Mimi, die von der Initiation in die Gesellschaft (»Im Flügel-Kleide«) und den »Ersten Liebestraum« hin zu diversen Ballgesellschaften (»Loin du Bal«, »Schlüpfrig«), amourösen Plänkeleien mit einem Schriftsteller in einem Ruderboot am nächtlichen Millstättersee (»Sommernachtstraum«) und Heiratsplänen, die mit der Freundin (»Plauderei«) und mit der Mutter (»Haus-Theater«) besprochen werden, bis zu den Folgen der Heirat (»Flügellahm«) reichen. </note>
       <note type="editorial">
          <p>Der Prolog ist abgedruckt in <bibl><author>Hugo von Hofmannsthal</author>: <title>Gesammelte Werke</title>. <biblScope unit="volume">Bd. I.</biblScope> <pubPlace>Berlin</pubPlace>: <publisher>S. Fischer</publisher> <date>1924</date>, <biblScope unit="page">S. 46 f.</biblScope></bibl></p>
          <p>»Mimi« ist wieder abgedruckt in: <bibl><title>Der kleine Salon. Szenen und Prosa des Wiener Fin de Siècle</title>. Mit Illustrationen von Gustav Klimt. Hg. von <editor>Hansjörg Graf</editor>. <pubPlace>Stuttgart</pubPlace>: <publisher>Goverts</publisher> <date>1970</date>, <biblScope unit="page">S. 231–268</biblScope></bibl></p>
       </note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/118892">
       <analytic>
          <title>Nietzsche’s Übermensch. Zum Todestage des Philosophen</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -124,17 +120,17 @@
          <title/>
          <imprint>
             <biblScope unit="page"/>
-            <note>nicht ermittelbar</note>
+            <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
       <note resp="#SK">
          <p ana="editor">nicht ermittelbar.</p>
-         <p ana="editor">Zurückübersetzt von »Happy Marriage – a Tragedy in Innumerable Parts«.<note n="6"><bibl><author>Pole</author>, <title>Two Halves of a Life</title>, <biblScope>S. 27</biblScope>.</bibl></note></p>
+         <p ana="editor">Zurückübersetzt von »Happy Marriage – a Tragedy in Innumerable Parts«.<note type="footnote" n="6"><bibl><author>Pole</author>, <title>Two Halves of a Life</title>, <biblScope>S. 27</biblScope>.</bibl></note></p>
       </note>
    </biblStruct>
    <biblStruct>
       <analytic>
-         <title>Foxtrott. [Feuilletonistische Einakter].<note n="7">Vgl. <bibl><author>Farese</author>, <title>Arthur Schnitzler</title> (Anm. 66), <biblScope unit="page">S. 240</biblScope></bibl>.</note>
+         <title>Foxtrott. [Feuilletonistische Einakter].<note type="footnote" n="7">Vgl. <bibl><author>Farese</author>, <title>Arthur Schnitzler</title> (Anm. 66), <biblScope unit="page">S. 240</biblScope></bibl>.</note>
          </title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <date when="1921">1921</date>
@@ -143,24 +139,24 @@
          <title/>
          <imprint>
             <biblScope unit="page"/>
-            <note>nicht ermittelbar</note>
+            <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
       <note resp="#SK">
          <p ana="editor">nicht ermittelbar</p>
-         <p ana="editor">Geschrieben 1921,<note n="8"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp059"/></note> vermutlich im Dezember 1921 an Schnitzler geschickt. </p>
+         <p ana="editor">Geschrieben 1921,<note type="footnote" n="8"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp059"/></note> vermutlich im Dezember 1921 an Schnitzler geschickt. </p>
       </note>
    </biblStruct>
    <biblStruct>
       <analytic>
-         <title>Wohnungsnot. Spiel in einem Aufzug<note n="7">Vgl. <bibl><author>Farese</author>, <title>Arthur Schnitzler</title> (Anm. 66), <biblScope unit="page">S. 240</biblScope></bibl>.</note></title>
+         <title>Wohnungsnot. Spiel in einem Aufzug<note type="footnote" n="7">Vgl. <bibl><author>Farese</author>, <title>Arthur Schnitzler</title> (Anm. 66), <biblScope unit="page">S. 240</biblScope></bibl>.</note></title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <date when="1923-04-14">14.4.1923</date>
-         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19230410&amp;seite=11">Wohnungsnot</ref><!-- Ergänzung MAM  -->
-         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19230411&amp;seite=12">Wohnungsnot</ref>
-         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19230412&amp;seite=10">Wohnungsnot</ref>
-         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19230413&amp;seite=11">Wohnungsnot</ref>
-         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19230414&amp;seite=10">Wohnungsnot</ref>
+         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19230410&amp;seite=11" resp="#MAM">Wohnungsnot</ref><!-- Ergänzung MAM  -->
+         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19230411&amp;seite=12" resp="#MAM">Wohnungsnot</ref>
+         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19230412&amp;seite=10" resp="#MAM">Wohnungsnot</ref>
+         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19230413&amp;seite=11" resp="#MAM">Wohnungsnot</ref>
+         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19230414&amp;seite=10" resp="#MAM">Wohnungsnot</ref>
       </analytic>
       <monogr>
          <title>
@@ -190,7 +186,7 @@
          </imprint>
       </monogr>
    </biblStruct>
-   <biblStruct><!-- Ergänzung MAM -->
+         <biblStruct resp="#MAM"><!-- Ergänzung MAM -->
       <analytic>
          <title>Zwei Gedichte aus der Sammlung »Toi et moi« von Paul Géraldy. Autorisierte Übersetzung. Traurigkeit / Entfernung</title>
          <editor role="translator" key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></editor>
@@ -209,7 +205,7 @@
          </imprint>
       </monogr>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78321">
       <analytic>
          <title>Der Abhang. [Roman]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -240,7 +236,7 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <note ana="content">Wien, Mitte der 1920er Jahre. Der verwitwete 40jährige Professor Kraßl, ein berühmter Chirurg und Vater einer Tochter, will seine Noch-nicht-Geliebte Helene Barri – die geschiedene Mutter eines 17jährigen Sohnes – in der Sommerfrische besuchen, kommt jedoch zu spät: Die begehrte Frau ist beim Blumenpflücken den titelgebenden Abhang hinabgestürzt. Kraßl findet nur mehr einen Liebesbrief, der ihm bestätigt, wie sehr sie ihn geliebt hat. Erzählt wird in den fünfzehn halbseitigen Folgen vor allem die Geschichte ihres Kennenlernens und Näherkommens, auch vom Tod des »Onkels« von Helene, Hofrat Jannek; die Schilderung in der fünften Folge hat verblüffende Parallelen zu der des Todes des unbenannten Hofrats in Schnitzlers ein Jahr später erscheinender <bibl corresp="#pmb__work__30851">Traumnovelle</bibl>. </note>
+      <note type="summary">Wien, Mitte der 1920er Jahre. Der verwitwete 40jährige Professor Kraßl, ein berühmter Chirurg und Vater einer Tochter, will seine Noch-nicht-Geliebte Helene Barri – die geschiedene Mutter eines 17jährigen Sohnes – in der Sommerfrische besuchen, kommt jedoch zu spät: Die begehrte Frau ist beim Blumenpflücken den titelgebenden Abhang hinabgestürzt. Kraßl findet nur mehr einen Liebesbrief, der ihm bestätigt, wie sehr sie ihn geliebt hat. Erzählt wird in den fünfzehn halbseitigen Folgen vor allem die Geschichte ihres Kennenlernens und Näherkommens, auch vom Tod des »Onkels« von Helene, Hofrat Jannek; die Schilderung in der fünften Folge hat verblüffende Parallelen zu der des Todes des unbenannten Hofrats in Schnitzlers ein Jahr später erscheinender <bibl corresp="#pmb__work__30851">Traumnovelle</bibl>. </note>
    </biblStruct>
    <biblStruct>
       <analytic><!-- Ergänzung SK Website -->
@@ -263,7 +259,7 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <note type="editorial">Beginn der Arbeit wohl im August 1924.<note n="9"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp140"/></note></note>
+      <note type="editorial">Beginn der Arbeit wohl im August 1924.<note type="footnote" n="9"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp140"/></note></note>
    </biblStruct>
    <biblStruct>
       <analytic>
@@ -275,7 +271,7 @@
          <title/>
          <imprint>
                <biblScope unit="page"/>
-               <note>nicht ermittelbar</note>
+               <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
       <note resp="#SK">
@@ -292,14 +288,14 @@
          <title/>
          <imprint>
             <biblScope unit="page"/>
-            <note>nicht ermittelbar</note>
+            <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
       <note resp="#SK">
          <p ana="editor">nicht ermittelbar</p>
       </note>
    </biblStruct>
-         <biblStruct><!-- Ergänzung MAM https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19250615&amp;seite=10 -->
+   <biblStruct resp="#MAM"><!-- Ergänzung MAM https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19250615&amp;seite=10 -->
       <analytic>
          <title>Spaziergang im Mondenschein. Ein Zwiegespräch</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -316,9 +312,9 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <note type="comment">Vgl. jeweils <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp155"/> Die Novelle sollte in dramatisierter Form aufgeführt werden (gemeinsam mit <title>Redoute</title>). Schnitzler äußert sich dazu kritisch: »ja man könnte gewissermaßen sagen ›gut geschrieben‹ – aber nicht ebenso ›gut‹ geredet«.<note n="10"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp161"/></note></note>
+      <note type="comment">Vgl. jeweils <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp155"/> Die Novelle sollte in dramatisierter Form aufgeführt werden (gemeinsam mit <title>Redoute</title>). Schnitzler äußert sich dazu kritisch: »ja man könnte gewissermaßen sagen ›gut geschrieben‹ – aber nicht ebenso ›gut‹ geredet«.<note type="footnote" n="10"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp161"/></note></note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78322">
       <analytic>
          <title>Der ewige Student. Erzählung</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -342,8 +338,8 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <note ana="content">Eusebius Zack hat mit 32 Jahren sein Studium der Medizin noch immer nicht abgeschlossen, alle Nachhilfeschüler hat er verloren, er mietet sich mit dem Erlös seiner goldenen Uhr für vier Wochen bei der Wäscherin Mila Tunfart ein. Bei diesem Sohn eines Greißlers aus Kemmelbach-Ybbs, der viel lieber das Geschäft des Vaters übernommen hätte, wird die Studien- nie zu einer Bildungsbiographie. Der Vater zwingt ihn – selbst nachdem alle einschließlich Eusebius erkannt haben, daß das Studium nichts für ihn ist – zum Weiterstudieren. Die Wohnungsgeberin hält den Studenten in der Überzeugung aus, er werde sein Studium abschließen. Zack hält um ihre Hand an, sie stellt die Bedingung, er müsse erst den Doktortitel erreichen. Er beginnt wieder zu lernen, es geht voran – am Tag der ersten großen Prüfung trinkt Eusebius sich jedoch literweise Mut an und wird am Weg zur Universität von einem Autobus überfahren: die siebente Fortsetzung ist die Todesfolge. </note>
-      <note type="editorial">Geschrieben vom 12.–17. Januar 1925,<note n="11"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp169"/></note> erwähnt bei Woisetschläger.<note n="12"><bibl><author>Woisetschläger</author>, <title>Rezeption neuer Erzählliteratur</title> (Anm. 2), <biblScope unit="page">S. 370</biblScope></bibl>.</note> Gelesen von Schnitzler am 23. Jänner 1925 in St. Moritz, der sie für »durchaus gelungen« hält, aber fortfährt: »meinem Geschmack nach nicht besonders interessant Du bist zu wenig darin). – Natürlich lässt sie sich ohneweiteres veröffentlichen (nach Milderung einiger vielleicht zu cruder Details.)«<note n="13">Arthur Schnitzler an Clara Pollaczek, Karte [?] vom 24. Jänner 1925. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp174"/> Hervorhebungen im Original.</note> Ausführliche inhaltliche und stilistische Kritik in einem vom selben Tag datierenden Brief.<note n="14"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp176"/>128.</note> Replik am 27. Jänner 1925,<note n="15"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp180"/></note> in der Pollaczek von einer Anfrage an Moriz Benedikt bezüglich einer Veröffentlichung in der Neuen Freien Presse berichtet. </note>
+      <note type="summary">Eusebius Zack hat mit 32 Jahren sein Studium der Medizin noch immer nicht abgeschlossen, alle Nachhilfeschüler hat er verloren, er mietet sich mit dem Erlös seiner goldenen Uhr für vier Wochen bei der Wäscherin Mila Tunfart ein. Bei diesem Sohn eines Greißlers aus Kemmelbach-Ybbs, der viel lieber das Geschäft des Vaters übernommen hätte, wird die Studien- nie zu einer Bildungsbiographie. Der Vater zwingt ihn – selbst nachdem alle einschließlich Eusebius erkannt haben, daß das Studium nichts für ihn ist – zum Weiterstudieren. Die Wohnungsgeberin hält den Studenten in der Überzeugung aus, er werde sein Studium abschließen. Zack hält um ihre Hand an, sie stellt die Bedingung, er müsse erst den Doktortitel erreichen. Er beginnt wieder zu lernen, es geht voran – am Tag der ersten großen Prüfung trinkt Eusebius sich jedoch literweise Mut an und wird am Weg zur Universität von einem Autobus überfahren: die siebente Fortsetzung ist die Todesfolge. </note>
+      <note type="editorial">Geschrieben vom 12.–17. Januar 1925,<note type="footnote" n="11"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp169"/></note> erwähnt bei Woisetschläger.<note type="footnote" n="12"><bibl><author>Woisetschläger</author>, <title>Rezeption neuer Erzählliteratur</title> (Anm. 2), <biblScope unit="page">S. 370</biblScope></bibl>.</note> Gelesen von Schnitzler am 23. Jänner 1925 in St. Moritz, der sie für »durchaus gelungen« hält, aber fortfährt: »meinem Geschmack nach nicht besonders interessant Du bist zu wenig darin). – Natürlich lässt sie sich ohneweiteres veröffentlichen (nach Milderung einiger vielleicht zu cruder Details.)«<note type="footnote" n="13">Arthur Schnitzler an Clara Pollaczek, Karte [?] vom 24. Jänner 1925. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp174"/> Hervorhebungen im Original.</note> Ausführliche inhaltliche und stilistische Kritik in einem vom selben Tag datierenden Brief.<note type="footnote" n="14"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp176"/>128.</note> Replik am 27. Jänner 1925,<note type="footnote" n="15"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp180"/></note> in der Pollaczek von einer Anfrage an Moriz Benedikt bezüglich einer Veröffentlichung in der Neuen Freien Presse berichtet. </note>
    </biblStruct>
          <biblStruct><!-- Ergänzung SK Website, Kommentar MAM -->
       <analytic>
@@ -374,16 +370,16 @@
          <title/>
          <imprint>
             <biblScope unit="page"/>
-            <note>nicht ermittelbar</note>
+            <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
       <note resp="#SK">
-         <p ana="editor">nicht ermittelbar </p>
-         <p ana="editor">Der Titel wird in einem Brief an Schnitzler vom 10. August 1925 genannt und spielt womöglich auf die eigene Wohnadresse an.<note n="16"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp247"/></note>
+         <p ana="editorial">nicht ermittelbar </p>
+         <p ana="editor">Der Titel wird in einem Brief an Schnitzler vom 10. August 1925 genannt und spielt womöglich auf die eigene Wohnadresse an.<note type="footnote" n="16"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp247"/></note>
          </p>
       </note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78323">
       <analytic>
          <title>Der Tod der Gräfin Anastasia. [Novelle].</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -406,7 +402,7 @@
          </imprint>
       </monogr>
       <note type="summary">Drei Abschiedsbriefe der Suizidantin Anastasia von Olgossy. Der erste ist an ihre Tochter gerichtet, der sie mitteilt, sie habe sie zugunsten der Enkelin (die nach ihr selbst Anastasia heißt) enterbt – dieser soll eine Liebesheirat mit dem mittellosen Dichter Marquis von Waldorf ermöglicht werden. Im zweiten und umfangreichsten Brief erläutert sie der Enkelin die Gründe für ihren Suizid durch eine Überdosis Morphium und läßt ihr Leben Revue passieren. Der dritte Brief richtet sich an ihren langjährigen Verehrer und Geliebten Oberst von Ringstetten, der sie wegen einer Jüngeren verlassen hatte. Der Oberst erhält den Brief allerdings erst, nachdem er von seiner neuen Flamme einen Korb erhalten hat. </note>
-         <note type="editorial">Begonnen vor dem 16. Oktober 1925 unter dem Titel <title>Anastasia</title>. Moriz Benedikt von der <title>Neuen Freien Presse</title> zeigt sich am 14. Februar 1926 begeistert.<note n="17"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp301"/></note> Gemeinsam mit einer Novelle von Rudolf Jeremias Kreutz in einem Band des Verlags der <title>Neuen Freien Presse</title> wiederveröffentlicht. </note>
+         <note type="editorial">Begonnen vor dem 16. Oktober 1925 unter dem Titel <title>Anastasia</title>. Moriz Benedikt von der <title>Neuen Freien Presse</title> zeigt sich am 14. Februar 1926 begeistert.<note type="footnote" n="17"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp301"/></note> Gemeinsam mit einer Novelle von Rudolf Jeremias Kreutz in einem Band des Verlags der <title>Neuen Freien Presse</title> wiederveröffentlicht. </note>
    </biblStruct>
    <biblStruct>
       <analytic>
@@ -418,7 +414,7 @@
          <title/>
          <imprint>
             <biblScope unit="page"/>
-            <note>nicht ermittelbar</note>
+            <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
       <note resp="#SK">
@@ -427,7 +423,7 @@
       </note>
       
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78333">
       <analytic>
          <title>Redoute. Schauspiel in einem Aufzug</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -456,7 +452,7 @@
          </imprint>
       </monogr>
       <note type="summary">Wien 1920. Im Theater wird eine Redoute gegeben: »die erste seit dem Krieg«. Streiflichter einer verkommenen Gesellschaft, die sich vergnügungssüchtig über alte Grenzen hinwegsetzt. Unter den maskierten Besuchern spielen sich Szenen der Eifersucht ab, andere verschwinden miteinander in den Logen des Theaters. Es kommt zu einer Familienzusammenführung unter unerwarteten Umständen, Seitensprüngen mit 16jährigen Milliardärstöchtern, Auflösungen langbestehender Verlöbnisse, am Schluß zu einer Verwechslung mit Todesfolge. Neben der verkommenen Nachkriegsgesellschaft thematisiert Pollaczek in ihrem Einakter auch den grassierenden Antisemitismus. </note>
-      <note type="editorial">Erwähnung einer prinzipiellen Veröffentlichungszusage seitens der Neuen Freien Presse am 14. Oktober 1925.<note n="18"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp274"/></note> Telefonat mit Moriz Benedikt, der die Veröffentlichung ankündigt.<note n="19"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp301"/></note>
+      <note type="editorial">Erwähnung einer prinzipiellen Veröffentlichungszusage seitens der Neuen Freien Presse am 14. Oktober 1925.<note type="footnote" n="18"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp274"/></note> Telefonat mit Moriz Benedikt, der die Veröffentlichung ankündigt.<note type="footnote" n="19"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp301"/></note>
       </note>
    </biblStruct>
    <biblStruct>
@@ -493,7 +489,7 @@
          <title level="s">Le Cabinet Cosmopolite</title>
          <biblScope unit="volume">9</biblScope>
       </series>
-      <note>Übersetzung von Schnitzlers <title>Fräulein Else</title> ins Französische. Pollaczek, die die Rohübersetzung vorgenommen hatte (im Verlag wurde daran noch gefeilt, vermutlich durch Germaine Delamain, der Gattin des Verlegers), bleibt unerwähnt.<note n="20"><bibl>Karl Zieger: Arthur Schnitzler und der Verlag Stock. In: Internationales Archiv für Sozialgeschichte der deutschen Literatur (IASL) 33 (2008), 1, <biblScope unit="page" n="155–170">S. 155–170</biblScope>, hier <biblScope unit="page" n="162">S. 162</biblScope></bibl>.</note></note>
+      <note>Übersetzung von Schnitzlers <title>Fräulein Else</title> ins Französische. Pollaczek, die die Rohübersetzung vorgenommen hatte (im Verlag wurde daran noch gefeilt, vermutlich durch Germaine Delamain, der Gattin des Verlegers), bleibt unerwähnt.<note type="footnote" n="20"><bibl>Karl Zieger: Arthur Schnitzler und der Verlag Stock. In: Internationales Archiv für Sozialgeschichte der deutschen Literatur (IASL) 33 (2008), 1, <biblScope unit="page" n="155–170">S. 155–170</biblScope>, hier <biblScope unit="page" n="162">S. 162</biblScope></bibl>.</note></note>
    </biblStruct>
    <biblStruct>
       <analytic>
@@ -505,13 +501,13 @@
          <title/>
          <imprint>
             <biblScope unit="page"/>
-            <note>nicht ermittelbar</note>
+            <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
       <note resp="#SK">
          <p ana="editor">nicht ermittelbar</p>
       </note>
-      <note type="commentary">Möglicherweise ein Drehbuch Pollaczeks.<note n="22">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp376"/>.</note></note>
+      <note type="commentary">Möglicherweise ein Drehbuch Pollaczeks.<note type="footnote" n="22">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp376"/>.</note></note>
    </biblStruct>
    <biblStruct>
       <analytic>
@@ -523,15 +519,15 @@
          <title/>
          <imprint>
             <biblScope unit="page"/>
-            <note>nicht ermittelbar</note>
+            <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
       <note resp="#SK">
          <p>nicht ermittelbar </p>
-         <p>Entworfen am 4. August 1926.<note n="23"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp379"/></note> Es ist »ein Janningsfilm«<note n="24"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp372"/></note> – Schnitzler dazu in seiner Antwort vom 7. August 1926 aus Adelboden: »Dein Filmsujet ist nicht übel; aber es sind nicht nur gewisse Anklänge an Variété, sondern auch an den ›Mann, der die Ohrfeigen bekam‹, – ich glaube ich sah den Film in Berlin, aber ohne Dich, Chaney (den Du aus dem Operngespenst kennst) spielte die Hauptrolle; einen Clown, der seine Tochter (oder seine Frau?) einem Entführer zu entreissen sucht. –«<note n="25"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp375"/></note></p>
+         <p>Entworfen am 4. August 1926.<note type="footnote" n="23"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp379"/></note> Es ist »ein Janningsfilm«<note type="footnote" n="24"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp372"/></note> – Schnitzler dazu in seiner Antwort vom 7. August 1926 aus Adelboden: »Dein Filmsujet ist nicht übel; aber es sind nicht nur gewisse Anklänge an Variété, sondern auch an den ›Mann, der die Ohrfeigen bekam‹, – ich glaube ich sah den Film in Berlin, aber ohne Dich, Chaney (den Du aus dem Operngespenst kennst) spielte die Hauptrolle; einen Clown, der seine Tochter (oder seine Frau?) einem Entführer zu entreissen sucht. –«<note type="footnote" n="25"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp375"/></note></p>
       </note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78320">
       <analytic>
          <title>Kind der Liebe.</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -578,9 +574,9 @@
          </imprint>
       </monogr>
       <note rend="summary">Der mißgestaltete August ist nach dem Tod seines Vaters der letzte Sproß aus dem alten und steinreichen Geschlecht der Grafen von Rotha. Er gerät in die Fänge einer entfernten, verarmten Cousine. Es kommt zur Heirat. Sie aber betrügt ihn und geht mit einem Liebhaber durch, der ihn zuvor im Duell verwundet. August, der an den Rollwagen gebundene Sonderling, verlegt sich auf die Zucht exotischer Pflanzen. Einen Tag vor seinem frühen Tod heiratet er Maria, die 17jährige Pflegetochter des Gärtnerehepaars, um den Fortbestand des Geschlechts zu sichern (Folge vom 14.9.1926). Der zweite Teil der Erzählung beginnt mit der Aufnahme der jungen Witwe in die Pariser Gesellschaft. Mit einem jungen Maler zeugt sie einen Sohn namens – August. Als der Künstler von der testamentarischen Verfügung des Grafen hört, daß der Reichtum Marias an ihr Alleinbleiben gebunden sei, verschwindet er. Maria heiratet schließlich den Landarzt Karl Lenk, der dem jungen August das Leben gerettet hatte, und fügt sich – dem Testament, aber auch dem Wunsch Lenks gehorchend – in ein bürgerliches Leben. </note>
-      <note type="editorial">Schnitzler liest den Text am 1. Juli 1925 in Südtirol während einer gemeinsamen Reise.<note n="26">Schnitzler hatte sich zuvor kritisch über den Schluß in seinem Brief vom 19. März 1925 geäußert, wo er schreibt, es klinge »zu sehr nach Zeitungsnotiz« (<ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp203"/>).</note></note>
+      <note type="editorial">Schnitzler liest den Text am 1. Juli 1925 in Südtirol während einer gemeinsamen Reise.<note type="footnote" n="26">Schnitzler hatte sich zuvor kritisch über den Schluß in seinem Brief vom 19. März 1925 geäußert, wo er schreibt, es klinge »zu sehr nach Zeitungsnotiz« (<ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp203"/>).</note></note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78329">
       <analytic>
          <title>Mädchen für Alles. Novelle.</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -613,12 +609,12 @@
          <author><forename>Arthur</forename> <surname>Schnitzler</surname></author>
          <imprint>
             <biblScope unit="page"/>
-            <note>nicht ermittelbar</note>
+            <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
       <note resp="SK">
          <p>nicht ermittelbar </p>
-         <p>Pollaczek begann mit der Übersetzung im Dezember 1926, jedenfalls ist die Arbeit am 1. Akt dokumentiert.<note n="27">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp404"/></note> Am 22. und 23. April 1927 diktierte sie Frieda Pollak.<note n="28">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp424"/>.</note></p>
+         <p>Pollaczek begann mit der Übersetzung im Dezember 1926, jedenfalls ist die Arbeit am 1. Akt dokumentiert.<note type="footnote" n="27">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp404"/></note> Am 22. und 23. April 1927 diktierte sie Frieda Pollak.<note type="footnote" n="28">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp424"/>.</note></p>
       </note>
    </biblStruct>
    <biblStruct>
@@ -643,9 +639,9 @@
          </imprint>
       </monogr>
       <note type="summary">Die frischverheiratete junge Titelheldin befindet sich am Semmering auf der Hochzeitsreise mit ihrem Gatten Adolf Waldner, einem Fabriksbesitzer, als sie sich vor ihm zu ekeln beginnt. Er gibt sie frei und sie eilt zum Bahnhof, um zu ihrer Schwester zu reisen. Sie läßt jedoch den Zug davonfahren, um zu ihm zurückzukehren. </note>
-         <note type="editorial">Als Arbeitstitel auch <title>Nani</title> genannt. Sollte ursprünglich in der <title>Neuen Freien Presse</title> vom 25. Dezember 1926 erscheinen.<note n="29"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp395"/> Zum erwähnten Film vgl. <ref subtype="schnitzler-tagebuch" type="URL" target="1925-10-19"/>.</note> Erwähnung in einem Brief an Schnitzler.<note n="30">Clara Katharina Pollaczek an Arthur Schnitzler, Brief vom 31. Dezember 1926. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp408"/></note></note>
+         <note type="editorial">Als Arbeitstitel auch <title>Nani</title> genannt. Sollte ursprünglich in der <title>Neuen Freien Presse</title> vom 25. Dezember 1926 erscheinen.<note type="footnote" n="29"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp395"/> Zum erwähnten Film vgl. <ref subtype="schnitzler-tagebuch" type="URL" target="1925-10-19"/>.</note> Erwähnung in einem Brief an Schnitzler.<note type="footnote" n="30">Clara Katharina Pollaczek an Arthur Schnitzler, Brief vom 31. Dezember 1926. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp408"/></note></note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78331">
       <analytic>
          <title>Mord. Novelle</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -672,7 +668,7 @@
          </imprint>
       </monogr>
       <note type="summary">Die Schauspielerin Julia Jergic wird ermordet in einem Wiener Vorstadthaus aufgefunden. Die Mordwaffe – ein juwelenbesetztes Papiermesser zum Aufschneiden von Romanen – steckt noch in ihrer Brust, unter ihrem Bett findet sich ein Medaillon mit dem Bild des Arztes Dozent Petter. Was als Detektivstory beginnt, entpuppt sich als die Geschichte einer unglücklichen Liebe: Die letzten beiden Fortsetzungen geben einen Brief der Nachbarin der Ermordeten wieder, der russischen Kunstgeschichtsstudentin Vera Strumow, die ihrem Geliebten Petter die Tat gesteht – schon ihr Vater habe die Mutter unzählige Male wegen so schlechter Frauen betrogen, wie Jergic eine gewesen sei, die versucht habe, sich den Mediziner zu angeln (er blieb Vera jedoch treu). Vera, die mit ihrer Tat nach dem Vorbild von Charlotte Corday einen Pars-pro-toto-Mord begangen haben will, stellt sich dem Richter. </note>
-      <note type="commentary">Erwähnt bei Woisetschläger.<note n="31"><bibl><author>Woisetschläger</author>, <title>Rezeption neuer Erzählliteratur</title> (Anm. 2), <biblScope unit="page">S. 370</biblScope></bibl>.</note> <bibl><author>Tallian</author>, <biblScope unit="page" n="44–47">S. 44–47</biblScope></bibl>, nimmt mit Hinweis auf <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp445"/> an, daß Pollaczek die Figur der Julia Jergic nach Vilma Liechtenstein modelliert habe. </note>
+      <note type="commentary">Erwähnt bei Woisetschläger.<note type="footnote" n="31"><bibl><author>Woisetschläger</author>, <title>Rezeption neuer Erzählliteratur</title> (Anm. 2), <biblScope unit="page">S. 370</biblScope></bibl>.</note> <bibl><author>Tallian</author>, <biblScope unit="page" n="44–47">S. 44–47</biblScope></bibl>, nimmt mit Hinweis auf <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp445"/> an, daß Pollaczek die Figur der Julia Jergic nach Vilma Liechtenstein modelliert habe. </note>
    </biblStruct>
    <biblStruct>
       <analytic>
@@ -693,7 +689,7 @@
       </monogr>
       <note>Wieder in <bibl><author>Pollaczek</author>, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="5">S. 5</biblScope></bibl>.</note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78317">
       <analytic>
          <title>Der Aufstieg. Roman</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -796,9 +792,9 @@
          </imprint>
       </monogr>
       <note type="summary">Die Familie der Grafen Hegenbach ist nach dem Untergang der Monarchie vom sozialen und monetären Abstieg betroffen. Der Sohn Franz Rüdiger von Hegenbach nimmt nach einer Zeitungsannonce: »Privatsekretär zu erstem Finanzmann gesucht. Beste Familie. Tadellose Umgangsformen, Sprachenkenntnisse, einwandfreies Vorleben Bedingung. Geboten wird hoher Gehalt, Equipierungsbeitrag, eventuell Wohnung. Adresse im Ankündigungsbureau des Blattes« – eine Stelle bei dem übel beleumundeten, aber unermeßlich reichen jüdischen Kriegsgewinnler Edmond Petrides an, freilich mit Folgen. Hinzu kommt die Verwicklung staatstragender Persönlichkeiten und ein Erpressungsjournalismus à la Imre Békessy. Am Ende wird die alte Ordnung restituiert, nachdem Petrides an einem Herzschlag stirbt als alles aufzufliegen droht. Die sehr unterschiedlichen Söhne des Verstorbenen tragen deutlich die Züge von Pollaczeks eigenen Kindern (Kurt ist der Frauenheld und Bonvivant, Fritz der Labormediziner und begeisterte Bakteriologe, der die Christin Lisa Simic heiratet; das Verlöbnis wird geschlossen, als sie noch in die Schule geht). Seine Frau Jo(landa), eine Jüdin aus Odessa, ermöglicht Franz Hegenbach den fliegenden Wechsel vom Geliebten zum Ehemann und Kindsvater, verschafft ihm eine Stelle in einem Wasserkraftwerk und kauft auch das Familienschloß derer von Hegenbach in Schwarzau zurück, wo der Epilog eine harmonische Weihnachtsszene aufruft. </note>
-         <note type="editorial">Bei einem Treffen mit Paul Wiegler vom Ullstein-Verlag verspricht dieser gegenüber Schnitzler, den »Roman« zu lesen.<note n="32">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp409"/> In <ref type="URL" subtype="schnitzler-tagebuch" target="1927-04-27"/> wird nur ein Essen mit Wiegler erwähnt, ohne den Gesprächsinhalt wiederzugeben.</note> Auch Samuel Fischer will dies tun.<note n="33">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp413"/></note> Moriz Benedikt ruft nach der Lektüre »um 12 Uhr Nachts [an] wegen des russischen Akzent[s] der Jo (in meinem Roman). Unleidliche Sekatur.«<note n="34"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp491"/> Es handelt sich um einen Tagebucheintrag vom 10. November 1927.</note> Zur Rezeption notiert Pollaczek am 7. November 1927: »Jeden Augenblick stürzt jemand anderer auf mich zu, um mir ein paar freundliche Worte und auch mehr wegen meines Romans zu sagen.«<note n="35"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp490"/></note> Wiederveröffentlicht in einem Band im Verlag der Neuen Freien Presse </note>
+         <note type="editorial">Bei einem Treffen mit Paul Wiegler vom Ullstein-Verlag verspricht dieser gegenüber Schnitzler, den »Roman« zu lesen.<note type="footnote" n="32">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp409"/> In <ref type="URL" subtype="schnitzler-tagebuch" target="1927-04-27"/> wird nur ein Essen mit Wiegler erwähnt, ohne den Gesprächsinhalt wiederzugeben.</note> Auch Samuel Fischer will dies tun.<note type="footnote" n="33">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp413"/></note> Moriz Benedikt ruft nach der Lektüre »um 12 Uhr Nachts [an] wegen des russischen Akzent[s] der Jo (in meinem Roman). Unleidliche Sekatur.«<note type="footnote" n="34"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp491"/> Es handelt sich um einen Tagebucheintrag vom 10. November 1927.</note> Zur Rezeption notiert Pollaczek am 7. November 1927: »Jeden Augenblick stürzt jemand anderer auf mich zu, um mir ein paar freundliche Worte und auch mehr wegen meines Romans zu sagen.«<note type="footnote" n="35"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp490"/></note> Wiederveröffentlicht in einem Band im Verlag der Neuen Freien Presse </note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78327">
       <analytic>
          <title>Hausgeister. [Volksstück]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -808,15 +804,15 @@
          <title/>
          <imprint>
             <biblScope unit="page"/>
-            <note>nicht ermittelbar</note>
+            <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
       <note resp="#SK">
          <p>nicht ermittelbar </p>
-         <p>Wird mit dem Volkstheaterpreis 1927 ausgezeichnet, was Pollaczek am 3. Dezember 1927 durch einen Anruf aus der Redaktion der <item>Neuen Freien Presse</item> erfährt: »Heute Nacht Anruf der Presse, ob ich mich an dem Preisausschreiben des Volkstheaters beteiligt habe. Wusste im ersten Augenblick nicht, was sie meinen. Dann fiel mir ein, dass ich im Februar ein Stück eingereicht habe. Ich sagte: ›Ja, warum?‹ – ›Weil Sie einen Preis haben!‹ Ich war weg vor Freude, konnte nicht mehr einschlafen. In der Früh schon die Mitteilung in der Zeitung, telegraphierte A. Mittag bei Bloch geladen, allgemeines Angratulieren.«<note n="36"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp493"/></note> – Preishöhe 500 Schilling. Zur Preisvergabe vgl. <bibl><title>Neue Freie Presse, <ref target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19271203&amp;seite=8">3.12.1927</ref></title>, <biblScope unit="page" n="8">S. 8</biblScope></bibl>.</p>
+         <p>Wird mit dem Volkstheaterpreis 1927 ausgezeichnet, was Pollaczek am 3. Dezember 1927 durch einen Anruf aus der Redaktion der <title>Neuen Freien Presse</title> erfährt: »Heute Nacht Anruf der Presse, ob ich mich an dem Preisausschreiben des Volkstheaters beteiligt habe. Wusste im ersten Augenblick nicht, was sie meinen. Dann fiel mir ein, dass ich im Februar ein Stück eingereicht habe. Ich sagte: ›Ja, warum?‹ – ›Weil Sie einen Preis haben!‹ Ich war weg vor Freude, konnte nicht mehr einschlafen. In der Früh schon die Mitteilung in der Zeitung, telegraphierte A. Mittag bei Bloch geladen, allgemeines Angratulieren.«<note type="footnote" n="36"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp493"/></note> – Preishöhe 500 Schilling. Zur Preisvergabe vgl. <bibl><title>Neue Freie Presse, <ref target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19271203&amp;seite=8">3.12.1927</ref></title>, <biblScope unit="page" n="8">S. 8</biblScope></bibl>.</p>
       </note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78330">
       <analytic>
          <title>Mimi und Gwendy</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -825,45 +821,21 @@
       <monogr>
          <title/>
          <imprint>
-            <biblScope unit="jg"/>
-            <biblScope unit="number"/>
             <biblScope unit="page"/>
+            <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
-      <item>
-         <title>Mimi und Gwendy</title>
-         <p>nicht ermittelbar</p>
-         <p>Über Vermittlung von Schnitzler an Dr. Franz Horch (Dramaturg am Theater in der
-                     Josefstadt) gesandt.<note n="37">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp856"/>
-            </note> Am 19. Januar 1931 notiert Pollaczek:
-                     »N. M. Rudy mit Maler Zcettel dem ich ›Mimi und Gwendy[‹] übergab, wegen
-                     eventueller Beeinflussung des Wildgans.«<note n="38">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp878"/>
-            </note>
-                     Am 15. August 1931 bei einem Spaziergang in Gastein mit Dr. Horch Gespräch über
-                     Aufführungsmöglichkeiten von Schnitzler-Stücken: »Meine eigenen Angelegenheiten
-                     (Mimy und Gwendy) nur flüchtig berührt.«<note n="39">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp970"/>
-            </note>
-                     Arthur Kahane (Dramaturg am Deutschen Theater) findet das Stück in einem Brief
-                        »reizend«<note n="40">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp552"/>
-            </note> und reagiert Schnitzler gegenüber auf einen Gruß
-                     Pollaczeks mit dem Ausruf »Ah, Ihre Schülerin«.<note n="41">Arthur Schnitzler
-                        an Clara Katharina Pollaczek, Brief vom 13. März 1929. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp650"/>
-            </note>
-         </p>
-      </item>
+      <note resp="#SK">
+         <p>nicht ermittelbar </p>
+         <p>Über Vermittlung von Schnitzler an <rs type="person" ref="#pmb__person__11774">Dr. Franz Horch</rs> (Dramaturg am Theater in der Josefstadt) gesandt.<note type="footnote" n="37"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp856"/></note> Am 19. Januar 1931 notiert Pollaczek: »N. M. Rudy mit Maler Zcettel dem ich ›Mimi und Gwendy[‹] übergab, wegen eventueller Beeinflussung des Wildgans.«<note type="footnote" n="38"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp878"/></note> Am 15. August 1931 bei einem Spaziergang in Gastein mit Dr. Horch Gespräch über Aufführungsmöglichkeiten von Schnitzler-Stücken: »Meine eigenen Angelegenheiten (<title>Mimy und Gwendy</title>) nur flüchtig berührt.«<note type="footnote" n="39"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp970"/></note> <rs type="person" ref="#pmb__person__3025">Arthur Kahane</rs> (Dramaturg am Deutschen Theater) findet das Stück in einem Brief »reizend«<note type="footnote" n="40"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp552"/></note> und reagiert Schnitzler gegenüber auf einen Gruß Pollaczeks mit dem Ausruf »Ah, Ihre Schülerin«.<note type="footnote" n="41">Arthur Schnitzler an Clara Katharina Pollaczek, Brief vom 13. März 1929. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp650"/></note></p>
+      </note>
    </biblStruct>
    <biblStruct>
       <analytic>
          <title>Wissen um den Tod. Gedicht</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <date when="1928-04-22">22.4.1928</date>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280422&amp;seite=35">Wissen um den Tod</ref>
-         </listRef>
+         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280422&amp;seite=35">Wissen um den Tod</ref>
       </analytic>
       <monogr>
          <title>
@@ -875,54 +847,37 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Wissen um den Tod. Gedicht</title>
-         <bibl>Neue Freie Presse, 22.4.1928, Sonntagsbeilage</bibl>
-         <p>Die Vertonung von einem Komponisten Hiller wurde am 28. Februar 1931 im
-                     Industriehaus uraufgeführt.<note n="42">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp885"/>f.</note> Wieder in Pollaczek,
-                     <title>Gedichte der Liebe</title>, <biblScope unit="page" n="27">S. 27</biblScope> </p>
-         <listRef>
-            <listRef>
-               <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280422&amp;seite=35">Wissen um den Tod</ref>
-            </listRef>
-         </listRef>
-      </item>
+      <note>Die Vertonung von einem Komponisten Hiller wurde am 28. Februar 1931 im Industriehaus uraufgeführt.<note type="footnote" n="42"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp885"/>f.</note> Wieder in <bibl><author>Pollaczek</author>, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="27">S. 27</biblScope></bibl>. </note>
    </biblStruct>
    <biblStruct>
-      <analytic>
-         <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
-         <date when="1928">1928</date>
-      </analytic>
       <monogr>
+         <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <title>
             <bibl>[Ungenannter »neuer Roman«]</bibl>
          </title>
          <imprint>
-            <biblScope unit="jg"/>
-            <biblScope unit="number"/>
+            <date when="1928">1928</date>
             <biblScope unit="page"/>
+            <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
-      <item>
-         <bibl>[Ungenannter »neuer Roman«]</bibl>
+      <note>
          <p>nicht ermittelbar </p>
-         <p>Begonnen am 8. November 1927, Abschluß der Korrekturen am 19. Juni 1928 auf
-                     einer Salzkammergut-Reise mit Schnitzler.<note n="43">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp552"/>
-            </note>
-         </p>
-      </item>
+         <p>Begonnen am 8. November 1927, Abschluß der Korrekturen am 19. Juni 1928 auf einer Salzkammergut-Reise mit Schnitzler.<note type="footnote" n="43"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp552"/></note></p>
+      </note>
    </biblStruct>
    <biblStruct>
-      <analytic>
+      <analytic><!-- SK Ergänzt -->
          <title>Der blinde Barspieler. Novelle</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <date when="1928-08-30">30.8.1928</date>
+         <ref target="https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19330204&amp;seite=6">Der blinde Barspieler</ref>
+         <ref target="https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19330205&amp;seite=10">Der blinde Barspieler</ref>
+         <ref target="https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19330207&amp;seite=6">Der blinde Barspieler</ref>
       </analytic>
       <monogr>
          <title>
-            <bibl>Telegrammzeitung, vor 30.8.1928, nicht ermittelt</bibl>
+            <bibl>Neues Wiener Tagblatt, 4.–7.2.1933</bibl>
          </title>
          <imprint>
             <biblScope unit="jg"/>
@@ -930,16 +885,12 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Der blinde Barspieler. Novelle</title>
-         <bibl>Telegrammzeitung, vor 30.8.1928, nicht ermittelt</bibl>
-         <p>»Neue kleine Novelle« begonnen 22. Juli 1928, beendet am 24. Juli 1928.<note n="44">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp556"/>
-            </note>
-         </p>
-      </item>
+      <note>
+         <p>»Neue kleine Novelle« begonnen 22. Juli 1928, beendet am 24. Juli 1928.<note type="footnote" n="44"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp556"/></note></p>
+      </note>
+      <note type="summary">Früh erblindet der Protagonist Peter, doch nicht ohne zuvor noch Noten lesen und dann aus Gehör und Gedächtnis Klavier spielen zu lernen. Er bringt Mutter und Schwester mit Klavierspiel für ein Stummfilmkino am Wiener Gürtel über die Runden, nachdem der Vater stirbt; als die Mutter stirbt und längere Krankheit in einem Winter ihn seine Stelle verlieren lassen, bleiben die Schwester und er auf die Mieteinnahmen durch das an den Freund Eduard vermietete Zimmer angewiesen. Eduard vermittelt ihm für den Sommer eine Stelle als Barpianist im Restaurant »Stella d’Italia« in Gardone. Dort verliebt er sich in eine ihn wegen seiner Blindheit bemitleidende amerikanische Touristin; als diese mit ihrem Verlobten weiterreist, verliert sein Spiel jede Anmut. Nach Verlust auch dieser Anstellung geht er statt in die Herberge geradeaus in den See.</note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78328">
       <analytic>
          <title>Lasttiere. Novelle</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -970,53 +921,15 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Lasttiere. Novelle</title>
-         <bibl>Neue Freie Presse, 16.9.–21.10.1928</bibl>
-         <p rend="summary">Der Gerichtsadjunkt Dr. Bernhard Gimperling aus Plauen im
-                     Vogtland ist mit Familie (seiner Frau Hildegard, 28, und den Kindern Walter, 9,
-                     Ilse, 7, und Inge, 5) auf der Zugreise in den Sommerurlaub über München und
-                     Villach nach Rienz in Tirol. Er lernt noch im Zugabteil die Sängerin Ludmilla
-                     Grobinger und die Fabrikantenwitwe Betty Huber (beide aus Wien) kennen. Es
-                     bahnt sich ein Reiseflirt an, dessen Vollzug aber trotz Gelegenheit bei einer
-                     gemeinsamen Bergwanderung ohne Familie nicht stattfindet. Nach acht Wochen
-                     reist die Familie zurück: Hilde ist wieder schwanger. Thema ist die
-                     Eintönigkeit des Familienlebens und die Selbstparallelisierung des
-                     Protagonisten mit einem Lasttier.</p>
-         <p>Vgl. die Arbeitsnotizen vom 10. und 11. November 1927<note n="45">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp491"/>
-            </note> –
-                     Glückwünsche von der Familie erfolgten am 6. Oktober 1928.<note n="46">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp598"/>
-            </note>
-         </p>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280916&amp;seite=31">Lasttiere. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280916&amp;seite=32">Lasttiere. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280923&amp;seite=29">Lasttiere. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280923&amp;seite=30">Lasttiere. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280923&amp;seite=31">Lasttiere. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280930&amp;seite=31">Lasttiere. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280930&amp;seite=32">Lasttiere. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280930&amp;seite=33">Lasttiere. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281007&amp;seite=31">Lasttiere. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281007&amp;seite=32">Lasttiere. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281014&amp;seite=32">Lasttiere. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281014&amp;seite=33">Lasttiere. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281021&amp;seite=31">Lasttiere. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281021&amp;seite=32">Lasttiere. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281021&amp;seite=33">Lasttiere. Novelle</ref>
-         </listRef>
-      </item>
+      <note type="summary">Der Gerichtsadjunkt Dr. Bernhard Gimperling aus Plauen im Vogtland ist mit Familie (seiner Frau Hildegard, 28, und den Kindern Walter, 9, Ilse, 7, und Inge, 5) auf der Zugreise in den Sommerurlaub über München und Villach nach Rienz in Tirol. Er lernt noch im Zugabteil die Sängerin Ludmilla Grobinger und die Fabrikantenwitwe Betty Huber (beide aus Wien) kennen. Es bahnt sich ein Reiseflirt an, dessen Vollzug aber trotz Gelegenheit bei einer gemeinsamen Bergwanderung ohne Familie nicht stattfindet. Nach acht Wochen reist die Familie zurück: Hilde ist wieder schwanger. Thema ist die Eintönigkeit des Familienlebens und die Selbstparallelisierung des Protagonisten mit einem Lasttier.</note>
+         <note type="editorial">Vgl. die Arbeitsnotizen vom 10. und 11. November 1927<note type="footnote" n="45"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp491"/></note> – Glückwünsche von der Familie erfolgten am 6. Oktober 1928.<note type="footnote" n="46"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp598"/></note></note>
    </biblStruct>
    <biblStruct>
       <analytic>
          <title>Im Aeroplan. Gedicht</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <date when="1929-12-25">25.12.1929</date>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291225&amp;seite=46">Gedicht Im Aeroplan</ref>
-         </listRef>
+         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291225&amp;seite=46">Gedicht Im Aeroplan</ref>
       </analytic>
       <monogr>
          <title>
@@ -1028,18 +941,9 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Im Aeroplan. Gedicht</title>
-         <bibl>Neue Freie Presse, 25.12.1929</bibl>
-         <p>Unter dem Titel Flug zu Zweit wieder in Pollaczek, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="21">S. 21</biblScope> </p>
-         <listRef>
-            <listRef>
-               <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291225&amp;seite=46">Gedicht Im Aeroplan</ref>
-            </listRef>
-         </listRef>
-      </item>
+      <note type="editorial">Unter dem Titel <title>Flug zu Zweit</title> wieder in <bibl><author>Pollaczek</author>, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="21">S. 21</biblScope></bibl>.</note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78325">
       <analytic>
          <title>Die Tochter des Hauses. Novelle</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1082,74 +986,13 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Die Tochter des Hauses. Novelle</title>
-         <bibl>Neue Freie Presse, 25.5.–20.6.1929</bibl>
-         <p rend="summary">Der Ich-Erzähler, ein nach eigenem Bekunden gealterter Diener
-                     (er ist 36), bietet einen Katalog seiner bisherigen Dienstherren, meist frivole
-                     Junggesellen. Alexander Borg, so der Name des Dieners, nimmt eine neue Stelle
-                     bei Familie Röder in der Wiedner Paniglgasse an. Apart wird die Geschichte, als
-                     sich herausstellt, daß der Protagonist ein Doppelleben führt: Neben seiner
-                     Dienerexistenz gibt er sich zum Vergnügen als reicher amerikanischer Tourist
-                     aus. Als Jackie Land trifft er die 16jährige Tochter Noni Röder, eine verzogene
-                     Kindfrau in der Rolle der Femme fatale der 1920er Jahre. Das zweite Rendezvous
-                     findet in einem Lichtspielhaus statt (12. Fortsetzung). Im Dunkel des Kinos
-                     werden heiße Küsse getauscht. Nach längeren Vorbereitungen (der Diener muß sich
-                     mit immer neuen Ausreden freinehmen) gelingt es »Jackie« mithilfe des Dieners
-                     Alexander in der Nacht ins Haus der Röders zu kommen: Er entjungfert die gerade
-                     frisch verlobte Tochter des Hauses. Am Tag darauf kündigt er und begibt sich
-                     auf die Suche nach einer neuen Stelle. </p>
-         <p>Unter dem Arbeitstitel <title>Kammerdiener</title> weitergeschrieben am 1. Januar 1929,<note n="47">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp640"/>
-            </note> beendet am 11. Februar 1929<note n="48">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp643"/>
-            </note> –
-                     umbenannt in Die Tochter des Hauses am 25. Februar 1929.<note n="49">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp646"/>
-            </note>
-         </p>
-         <p>An mehrere Verleger unter dem Pseudonym »Clemens Pidoll« geschickt.<note n="50">Ebd.</note> Letztlich unter dem Titel Tochter des Hauses in der Neuen
-                     Freien Presse abgedruckt – »meine Novelle genommen NFP 1000 S« (16. Mai
-                        1929)<note n="51">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp697"/>
-            </note> – Problem wegen »Verstümmelung meiner Novelle«
-                     – in dieser Sache 17. Juni 1929 Brief an Paul Wertheimer von der Neuen Freien
-                        Presse.<note n="52">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp704"/>
-            </note> Auch gedruckt in einem Novellenband des
-                     Verlags der <title>Neuen Freien Presse</title>. </p>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290525&amp;seite=14">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290525&amp;seite=15">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290526&amp;seite=25">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290528&amp;seite=10">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290528&amp;seite=11">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290529&amp;seite=18">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290530&amp;seite=19">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290531&amp;seite=16">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290601&amp;seite=13">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290602&amp;seite=26">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290604&amp;seite=10">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290605&amp;seite=12">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290605&amp;seite=13">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290606&amp;seite=12">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290606&amp;seite=13">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290607&amp;seite=12">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290608&amp;seite=12">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290609&amp;seite=30">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290611&amp;seite=10">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290612&amp;seite=13">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290613&amp;seite=12">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290614&amp;seite=11">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290615&amp;seite=22">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290616&amp;seite=14">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290618&amp;seite=10">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290619&amp;seite=12">Die Tochter des Hauses. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290620&amp;seite=10">Die Tochter des Hauses. Novelle</ref>
-         </listRef>
-      </item>
+      <note type="summary">Der Ich-Erzähler, ein nach eigenem Bekunden gealterter Diener (er ist 36), bietet einen Katalog seiner bisherigen Dienstherren, meist frivole Junggesellen. Alexander Borg, so der Name des Dieners, nimmt eine neue Stelle bei Familie Röder in der Wiedner Paniglgasse an. Apart wird die Geschichte, als sich herausstellt, daß der Protagonist ein Doppelleben führt: Neben seiner Dienerexistenz gibt er sich zum Vergnügen als reicher amerikanischer Tourist aus. Als Jackie Land trifft er die 16jährige Tochter Noni Röder, eine verzogene Kindfrau in der Rolle der Femme fatale der 1920er Jahre. Das zweite Rendezvous findet in einem Lichtspielhaus statt (12. Fortsetzung). Im Dunkel des Kinos werden heiße Küsse getauscht. Nach längeren Vorbereitungen (der Diener muß sich mit immer neuen Ausreden freinehmen) gelingt es »Jackie« mithilfe des Dieners Alexander in der Nacht ins Haus der Röders zu kommen: Er entjungfert die gerade frisch verlobte Tochter des Hauses. Am Tag darauf kündigt er und begibt sich auf die Suche nach einer neuen Stelle. </note>
+      <note type="editorial">
+            <p>Unter dem Arbeitstitel <title>Kammerdiener</title> weitergeschrieben am 1. Januar 1929,<note type="footnote" n="47"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp640"/></note> beendet am 11. Februar 1929<note type="footnote" n="48"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp643"/></note> – umbenannt in <title>Die Tochter des Hauses</title> am 25. Februar 1929.<note type="footnote" n="49"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp646"/></note></p>
+            <p>An mehrere Verleger unter dem Pseudonym »Clemens Pidoll« geschickt.<note type="footnote" n="50">Ebd.</note> Letztlich unter dem Titel <title>Tochter des Hauses</title> in der <title>Neuen Freien Presse</title> abgedruckt – »meine Novelle genommen NFP 1000 S« (16. Mai 1929)<note type="footnote" n="51"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp697"/></note> – Problem wegen »Verstümmelung meiner Novelle« – in dieser Sache 17. Juni 1929 Brief an Paul Wertheimer von der <title>Neuen Freien Presse</title>.<note type="footnote" n="52"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp704"/></note> Auch gedruckt in einem Novellenband des Verlags der <title>Neuen Freien Presse</title>. </p>
+      </note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78324">
       <analytic>
          <title>Die Schönheit der Konstanze</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1240,116 +1083,15 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Die Schönheit der Konstanze</title>
-         <bibl>Neue Freie Presse, 30.10.1929–18.1.1930</bibl>
-         <p rend="summary">Henry Lanvalle, reicher Erbe eines Malers aus Paris und
-                     Frauenheld auf der Suche nach Schönheit, ruft seinen besten Freund, den um
-                     zwanzig Jahre älteren Arzt Prof. Konrad Schmehling, zu sich nach Baden-Baden
-                     zur Sommerkur, wo dieser die gelähmte Jugendfreundin Marie-Lore heilen soll.
-                     Lanvalle trifft dort unversehens nicht nur seine extravagante Urgroßmutter aus
-                     Wien, sondern auch eine entfernte Verwandte: die titelgebende Konstanze. Den
-                     Verlobten dieser tugendhaften Landschönheit verdrängt er, Heiratspläne werden
-                     gemacht, während der Arzt die Hysterikerin ›psychoanalytisch‹ behandelt (ohne
-                     daß das Wort Psychoanalyse fällt), woraus ein zweites Ehepaar werden wird. Bei
-                     einem von Kommunisten im Ballsaal der Gesellschaft gelegten Brand kann Lanvalle
-                     Konstanze retten, sie trägt allerdings Narben im Gesicht davon: Die Schönheit
-                     der Konstanze ist dahin, und damit die Gefühle des Bräutigams für seine Braut.
-                     Lanvalle reflektiert gequält Liebe und Begehren, verbringt auf der Rückreise
-                     von Paris (wo er sein Haus auf die Ankunft seiner Frau vorbereitet hatte) eine
-                     Liebesnacht mit der Zeitungsromanschriftstellerin Lou Dérain und fährt mit
-                     seinem Auto in den Tod, nicht ohne einen möglichen Filmtitel dazu zu entwerfen:
-                     »›Der Mann, der verschwand‹, ein hübscher Kinotitel eigentlich.« </p>
-         <p>In Pollaczeks Tagebuch heißt es am 4. Juli 1929, daß die Neue Freie Presse den
-                     Roman in den nächsten Tagen bringen will.<note n="53">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp707"/>
-            </note> Als
-                     Alternativtitel findet sich <title>Die Schönheit der Constanze</title>.<note n="54">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp738"/>f.</note>
-                     Wieder in einem Band des Verlags der Neuen Freien Presse veröffentlicht. </p>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291030&amp;seite=09">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291031&amp;seite=22">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291101&amp;seite=22">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291102&amp;seite=13">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291103&amp;seite=30">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291105&amp;seite=15">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291106&amp;seite=09">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291107&amp;seite=11">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291108&amp;seite=13">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291108&amp;seite=14">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291109&amp;seite=13">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291110&amp;seite=32">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291112&amp;seite=09">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291114&amp;seite=10">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291115&amp;seite=15">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291116&amp;seite=13">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291117&amp;seite=40">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291119&amp;seite=16">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291120&amp;seite=17">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291121&amp;seite=18">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291122&amp;seite=11">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291123&amp;seite=11">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291124&amp;seite=29">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291126&amp;seite=11">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291126&amp;seite=12">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291127&amp;seite=13">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291128&amp;seite=17">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291129&amp;seite=08">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291130&amp;seite=15">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291130&amp;seite=16">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291201&amp;seite=29">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291203&amp;seite=11">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291204&amp;seite=11">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291205&amp;seite=13">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291206&amp;seite=08">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291207&amp;seite=26">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291208&amp;seite=40">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291210&amp;seite=20">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291211&amp;seite=14">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291212&amp;seite=19">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291213&amp;seite=14">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291214&amp;seite=22">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291215&amp;seite=24">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291217&amp;seite=18">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291218&amp;seite=13">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291219&amp;seite=20">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291220&amp;seite=13">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291221&amp;seite=15">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291222&amp;seite=31">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291224&amp;seite=10">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291225&amp;seite=17">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291227&amp;seite=10">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291228&amp;seite=21">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291229&amp;seite=14">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291231&amp;seite=11">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291231&amp;seite=12">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300101&amp;seite=30">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300102&amp;seite=09">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300102&amp;seite=10">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300103&amp;seite=09">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300104&amp;seite=19">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300105&amp;seite=26">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300107&amp;seite=10">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300107&amp;seite=11">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300108&amp;seite=11">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300109&amp;seite=11">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300110&amp;seite=13">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300111&amp;seite=22">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300112&amp;seite=28">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300114&amp;seite=11">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300115&amp;seite=13">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300116&amp;seite=17">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300117&amp;seite=13">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300118&amp;seite=31">Die Schönheit der Konstanze. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300119&amp;seite=26">Die Schönheit der Konstanze. Roman</ref>
-         </listRef>
-      </item>
+      <note type="summary">Henry Lanvalle, reicher Erbe eines Malers aus Paris und Frauenheld auf der Suche nach Schönheit, ruft seinen besten Freund, den um zwanzig Jahre älteren Arzt Prof. Konrad Schmehling, zu sich nach Baden-Baden zur Sommerkur, wo dieser die gelähmte Jugendfreundin Marie-Lore heilen soll. Lanvalle trifft dort unversehens nicht nur seine extravagante Urgroßmutter aus Wien, sondern auch eine entfernte Verwandte: die titelgebende Konstanze. Den Verlobten dieser tugendhaften Landschönheit verdrängt er, Heiratspläne werden gemacht, während der Arzt die Hysterikerin ›psychoanalytisch‹ behandelt (ohne daß das Wort Psychoanalyse fällt), woraus ein zweites Ehepaar werden wird. Bei einem von Kommunisten im Ballsaal der Gesellschaft gelegten Brand kann Lanvalle Konstanze retten, sie trägt allerdings Narben im Gesicht davon: Die Schönheit der Konstanze ist dahin, und damit die Gefühle des Bräutigams für seine Braut. Lanvalle reflektiert gequält Liebe und Begehren, verbringt auf der Rückreise von Paris (wo er sein Haus auf die Ankunft seiner Frau vorbereitet hatte) eine Liebesnacht mit der Zeitungsromanschriftstellerin Lou Dérain und fährt mit seinem Auto in den Tod, nicht ohne einen möglichen Filmtitel dazu zu entwerfen: »›Der Mann, der verschwand‹, ein hübscher Kinotitel eigentlich.« </note>
+         <note type="editorial"><p>In Pollaczeks Tagebuch heißt es am 4. Juli 1929, daß die <title>Neue Freie Presse</title> den Roman in den nächsten Tagen bringen will.<note type="footnote" n="53"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp707"/></note> Als Schreibungsvariante findet sich <title>Die Schönheit der Constanze</title>.<note type="footnote" n="54"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp738"/>f.</note></p>
+         <p>Wieder in einem Band des Verlags der <title>Neuen Freien Presse</title> veröffentlicht. </p></note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/118897">
       <analytic>
          <title>Schluchzen. Gedicht von Paul Géraldy. [Übersetzung]</title>
-         <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
+         <editor role="translator"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></editor>
+         <author><forename>Paul</forename> <surname>Géraldy</surname></author>
          <date when="1929-12-25">25.12.1929</date>
          <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291225&amp;seite=45">Schluchzen. Gedicht von Paul Geraldy, übs. CKP</ref>
       </analytic>
@@ -1363,17 +1105,10 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Schluchzen. Gedicht von Paul Géraldy. [Übersetzung]</title>
-         <bibl>Neue Freie Presse, 25.12.1929</bibl>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291225&amp;seite=45">Schluchzen. Gedicht von Paul Geraldy, übs. CKP</ref>
-         </listRef>
-      </item>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78334">
       <analytic>
-         <title>Ueber Nacht. Novelle</title>
+         <title>Über Nacht. Novelle</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <date when="1930-05-04">4.5.1930</date>
          <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300420&amp;seite=39">Über Nacht. Novelle</ref>
@@ -1396,36 +1131,8 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Ueber Nacht. Novelle</title>
-         <bibl>Neue Freie Presse, 20.4.–4.5.1930</bibl>
-         <p rend="summary">Julia, eine Dame der besseren Gesellschaft, besucht gemeinsam
-                     mit ihrem etwa gleichaltrigen Liebhaber Stephan eine Abendgesellschaft. Als
-                     Stephan sich seiner wesentlich jüngeren Sitznachbarin zuwendet, verläßt sie das
-                     Fest und eilt durch den Regen nach Hause. Sie beschließt fortan nicht mehr
-                     jugendlich erscheinen zu wollen, entsorgt ihre Kleidung, schneidet ihre
-                     rotgefärbten Haare und will sich – über Nacht gealtert – mit einem Dasein als
-                     alte Dame und Großmutter begnügen. </p>
-         <p>Zurückerhalten am 3. Januar 1930.<note n="55">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp750"/>
-            </note> Erscheint ab »21.4.
-                     Ostermontag […] Gestern Osterbeilage Beginn meiner Novelle ›Ueber
-                        Nacht‹«.<note n="56">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp771"/>
-            </note>
-         </p>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300420&amp;seite=39">Über Nacht. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300420&amp;seite=40">Über Nacht. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300420&amp;seite=41">Über Nacht. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300420&amp;seite=42">Über Nacht. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300427&amp;seite=35">Über Nacht. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300427&amp;seite=36">Über Nacht. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300504&amp;seite=33">Über Nacht. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300504&amp;seite=34">Über Nacht. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300504&amp;seite=35">Über Nacht. Novelle</ref>
-         </listRef>
-      </item>
+      <note type="summary">Julia, eine Dame der besseren Gesellschaft, besucht gemeinsam mit ihrem etwa gleichaltrigen Liebhaber Stephan eine Abendgesellschaft. Als Stephan sich seiner wesentlich jüngeren Sitznachbarin zuwendet, verläßt sie das Fest und eilt durch den Regen nach Hause. Sie beschließt fortan nicht mehr jugendlich erscheinen zu wollen, entsorgt ihre Kleidung, schneidet ihre rotgefärbten Haare und will sich – über Nacht gealtert – mit einem Dasein als alte Dame und Großmutter begnügen. </note>
+         <note type="editorial">Zurückerhalten am 3. Januar 1930.<note type="footnote" n="55"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp750"/></note> Erscheint ab »21.4. Ostermontag […] Gestern Osterbeilage Beginn meiner Novelle ›Ueber Nacht‹«.<note type="footnote" n="56"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp771"/></note></note>
    </biblStruct>
    <biblStruct>
       <analytic>
@@ -1444,17 +1151,9 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Internationale Kunstausstellung Karlsbad. [Rezension]</title>
-         <bibl>Neue Freie Presse, 27.7.1930</bibl>
-         <p>Wohlwollende Rezension der Ausstellung, die Pollaczek als Nebenprodukt ihres
-                     Aufenthalts in Karlsbad im Juli 1930 veröffentlichte. </p>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300727&amp;seite=30">Internationale Kunstausstellung Karlsbad</ref>
-         </listRef>
-      </item>
+      <note>Wohlwollende Rezension der Ausstellung, die Pollaczek als Nebenprodukt ihres Aufenthalts in Karlsbad im Juli 1930 veröffentlichte. </note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78318">
       <analytic>
          <title>Dame. Drama</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1476,58 +1175,21 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Dame. Drama</title>
-         <bibl>Neue Freie Presse, 28.9. und 5.10.1930</bibl>
-         <p rend="summary">Pollaczek veröffentlicht hier nur einen Auszug aus der »Komödie
-                     in drei Aufzügen« (der Rest konnte nicht ermittelt werden): Die gutsituierte
-                     Präsidentin des Vereins schutzbedürftiger junger Mädchen mit Namen Valentine
-                     ist bei einem Spaziergang durch die Vorstadt in ein Gewitter geraten. Sie
-                     findet Aufnahme bei der sichtlich armen Poldi in der Blümchengasse, die ihr
-                     Gewand trocknet und Tee für sie kocht. Valentine ist freundlich, interessiert
-                     und hilfsbereit – bis ihr klar wird, daß sie sich im Haushalt einer
-                     Prostituierten befindet. Sie ergreift die Flucht hinaus ins Unwetter – Poldi
-                     gibt ihr zornig ihre Spende zurück und ruft ihren Kunden aus dem Nebenzimmer. </p>
-         <p>Erwähnt schon 1929,<note n="57">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp709"/>, <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp711"/>
-            </note> angenommen für Neue Freie Presse am
-                     26. Juni 1930,<note n="58">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp782"/>
-            </note> zweiter Teil am 5. Oktober 1930 in der
-                     Neuen Freien Presse unter Fehldatierung des ersten Teils (»30.9.1930«).<note n="59">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp836"/>, <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp837"/>
-            </note>
-         </p>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300928&amp;seite=33">Dame. Komödie in drei Aufzügen</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300928&amp;seite=34">Dame. Komödie in drei Aufzügen</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19301005&amp;seite=33">Dame. Komödie in drei Aufzügen</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19301005&amp;seite=34">Dame. Komödie in drei Aufzügen</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19301005&amp;seite=35">Dame. Komödie in drei Aufzügen</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19301005&amp;seite=36">Dame. Komödie in drei Aufzügen</ref>
-         </listRef>
-      </item>
+      <note type="summary">Pollaczek veröffentlicht hier nur einen Auszug aus der »Komödie in drei Aufzügen« (der Rest konnte nicht ermittelt werden): Die gutsituierte Präsidentin des Vereins schutzbedürftiger junger Mädchen mit Namen Valentine ist bei einem Spaziergang durch die Vorstadt in ein Gewitter geraten. Sie findet Aufnahme bei der sichtlich armen Poldi in der Blümchengasse, die ihr Gewand trocknet und Tee für sie kocht. Valentine ist freundlich, interessiert und hilfsbereit – bis ihr klar wird, daß sie sich im Haushalt einer Prostituierten befindet. Sie ergreift die Flucht hinaus ins Unwetter – Poldi gibt ihr zornig ihre Spende zurück und ruft ihren Kunden aus dem Nebenzimmer. </note>
+         <note type="editorial"><p>Erwähnt schon 1929,<note type="footnote" n="57"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp709"/>, <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp711"/></note> angenommen für <title>Neue Freie Presse</title> am 26. Juni 1930,<note type="footnote" n="58"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp782"/></note> zweiter Teil am 5. Oktober 1930 in der <title>Neuen Freien Presse</title> unter Fehldatierung des ersten Teils (»30.9.1930«).<note type="footnote" n="59"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp836"/>, <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp837"/></note></p></note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78319">
       <analytic>
-         <title>Das Fräulein von Corday d’Armont. Vorwort zu einer Szene aus dem
-                     dreiaktigen historischen Drama</title>
+         <title>Das Fräulein von Corday d’Armont. Vorwurf zu einer Szene aus dem dreiaktigen historischen Drama</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <date when="1931-01-07">7.1.1931</date>
-         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310104&amp;seite=26">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem
-                        dreiaktigen historischen Drama</ref>
-         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310104&amp;seite=27">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem
-                        dreiaktigen historischen Drama</ref>
-         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310104&amp;seite=28">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem
-                        dreiaktigen historischen Drama</ref>
-         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310106&amp;seite=11">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem
-                        dreiaktigen historischen Drama</ref>
-         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310106&amp;seite=12">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem
-                        dreiaktigen historischen Drama</ref>
-         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310107&amp;seite=09">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem
-                        dreiaktigen historischen Drama</ref>
-         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310107&amp;seite=10">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem
-                        dreiaktigen historischen Drama</ref>
+         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310104&amp;seite=26">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem dreiaktigen historischen Drama</ref>
+         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310104&amp;seite=27">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem dreiaktigen historischen Drama</ref>
+         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310104&amp;seite=28">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem dreiaktigen historischen Drama</ref>
+         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310106&amp;seite=11">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem dreiaktigen historischen Drama</ref>
+         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310106&amp;seite=12">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem dreiaktigen historischen Drama</ref>
+         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310107&amp;seite=09">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem dreiaktigen historischen Drama</ref>
+         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310107&amp;seite=10">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem dreiaktigen historischen Drama</ref>
       </analytic>
       <monogr>
          <title>
@@ -1539,63 +1201,11 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Das Fräulein von Corday d’Armont. Vorwort zu einer Szene aus dem
-                     dreiaktigen historischen Drama</title>
-         <bibl>Neue Freie Presse, 4.–7.1.1931</bibl>
-         <p rend="summary">Der dritte Akt, der in drei Teilen erschien (der Rest des
-                     Stückes ist nicht ermittelbar), zeigt Charlotte Corday bei den Vorbereitungen
-                     zum Mord an Marat, der für den nächsten Tag geplant ist. Ort der Handlung ist
-                     ein Hotel in Paris. In der Nacht erscheinen ihr der Geist des Jugendfreunds
-                     Henry Belzunce und andere Gestalten im Traum (der Traum ist durch fünfhebige
-                     gereimte Jamben markiert). Der Ausschnitt bricht mit dem Verlassen des Hotels
-                     unmittelbar vor dem Mord ab. </p>
-         <p>Idee zum Drama über Charlotte Corday bereits vor 26. August 1897.<note n="60">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp044"/> „Ich hab die Idee ‚Charlotte Corday‘ zu dramatisieren und bin nun bei der Akt-Einteilung. Ich habe vorher viel über sie gelesen.
-                        Herr Heutler schickte mir zu dem Zweck ein sehr gutes Buch von Lamartine das
-                        mir viel nützt wenn auch meine Auffassung eine ganz andere ist. Ich seh
-                        nämlich in ihr keine Heldin, sondern ein ganz modernes Weib, nach den
-                        allgemeinen Begriffen modern, das eben ihrer Zeit voraus ist. Ihre ‚Tat‘ ist
-                        die Eitelkeit eine verklärende Rolle zu spielen, Sucht nach Unsterblichkeit,
-                        ein bischen Hysterie und naive politische Anschauung. So seh ich sie
-                        eigentlich in keinem sympathischen aber doch reizvollen Licht. Was sagst Du
-                        dazu?«</note> Vorarbeiten ab dem 30. Juli 1926,<note n="61">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp353"/>
-            </note>
-                     den Titel entwickelt Pollaczek in einem Brief an Schnitzler.<note n="62">Clara
-                        Katharina Pollaczek an Arthur Schnitzler, Brief vom 3. Dezember 1927. In:
-                           <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp502"/>
-            </note> Erste Fassung beendet vor dem 6. Juli 1930,<note n="63">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp784"/>
-            </note>
-                     erster Akt diktiert am 17. Februar 1930.<note n="64">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp764"/>
-            </note>
-                     In der Neuen Freien Presse nur eine Szene in drei Fortsetzungen (am 6. Januar
-                     1931 Eintrag »›Corday‹ wieder in drei Fortsetzungen zerfetzt. Neue Freie
-                        Presse!!!!«).<note n="65">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp871"/>
-            </note>
-         </p>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310104&amp;seite=26">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem
-                        dreiaktigen historischen Drama</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310104&amp;seite=27">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem
-                        dreiaktigen historischen Drama</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310104&amp;seite=28">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem
-                        dreiaktigen historischen Drama</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310106&amp;seite=11">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem
-                        dreiaktigen historischen Drama</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310106&amp;seite=12">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem
-                        dreiaktigen historischen Drama</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310107&amp;seite=09">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem
-                        dreiaktigen historischen Drama</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310107&amp;seite=10">Das Fräulein von Corday d’ Armont. Vorwort zu einer Szene aus dem
-                        dreiaktigen historischen Drama</ref>
-         </listRef>
-      </item>
+      <note type="summary">Der dritte Akt, der in drei Teilen erschien (der Rest des Stückes ist nicht ermittelbar), zeigt Charlotte Corday bei den Vorbereitungen zum Mord an Marat, der für den nächsten Tag geplant ist. Ort der Handlung ist ein Hotel in Paris. In der Nacht erscheinen ihr der Geist des Jugendfreunds Henry Belzunce und andere Gestalten im Traum (der Traum ist durch fünfhebige gereimte Jamben markiert). Der Ausschnitt bricht mit dem Verlassen des Hotels unmittelbar vor dem Mord ab. </note>
+         <note type="editorial">Idee zum Drama über Charlotte Corday bereits vor 26. August 1897.<note type="footnote" n="60"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp044"/> „Ich hab die Idee ‚Charlotte Corday‘ zu dramatisieren und bin nun bei der Akt-Einteilung. Ich habe vorher viel über sie gelesen. Herr Heutler schickte mir zu dem Zweck ein sehr gutes Buch von Lamartine das mir viel nützt wenn auch meine Auffassung eine ganz andere ist. Ich seh nämlich in ihr keine Heldin, sondern ein ganz modernes Weib, nach den allgemeinen Begriffen modern, das eben ihrer Zeit voraus ist. Ihre ‚Tat‘ ist die Eitelkeit eine verklärende Rolle zu spielen, Sucht nach Unsterblichkeit, ein bischen Hysterie und naive politische Anschauung. So seh ich sie eigentlich in keinem sympathischen aber doch reizvollen Licht. Was sagst Du dazu?«</note> Vorarbeiten ab dem 30. Juli 1926,<note type="footnote" n="61"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp353"/></note> den Titel entwickelt Pollaczek in einem Brief an Schnitzler.<note type="footnote" n="62">Clara Katharina Pollaczek an Arthur Schnitzler, Brief vom 3. Dezember 1927. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp502"/></note> Erste Fassung beendet vor dem 6. Juli 1930,<note type="footnote" n="63"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp784"/></note> erster Akt diktiert am 17. Februar 1930.<note type="footnote" n="64"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp764"/></note> In der <title>Neuen Freien Presse</title> nur eine Szene in drei Fortsetzungen (am 6. Januar 1931 Eintrag »›Corday‹ wieder in drei Fortsetzungen zerfetzt. Neue Freie Presse!!!!«).<note type="footnote" n="65"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp871"/></note>
+         </note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78332">
       <analytic>
          <title>Mütter. Novelle</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1625,46 +1235,8 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Mütter. Novelle</title>
-         <bibl>Neue Freie Presse, 30.4.–16.5.1931</bibl>
-         <p rend="summary">Der ewige Junggeselle Martin und Leonie, die bereits Mutter
-                     einer Tochter namens Tilli aus erster Ehe ist, heiraten nach einer langjährigen
-                     Beziehung doch und ziehen nach Rosenau auf das Gut von Martins Mutter, die in
-                     England lebt. Tilli ist mit dem Sportler Bob verheiratet. Plötzlich empfinden
-                     die beiden Frauen, Leonie und Tilli, »Angst, den geliebten Mann, wenn auch
-                     nicht zu verlieren, so doch weniger zu besitzen«: Martin will – das entnimmt
-                     Leonie einem Brief von dessen Mutter – das Gut verkaufen, Bob hat eine
-                     Schwangerschaft zum Scheidungsgrund erklärt. Beide Mütter tauschen im zweiten
-                     Kapitel Platz: Leonie gibt sich nach einer Scheinschwangerschaft als die Mutter
-                     des Kindes ihrer Tochter aus. Als Bob und Martin mit dem Flugzeug statt per
-                     Bahn in Luzern erscheinen, fliegt alles auf. Doch alles endet gut, wenn auch in
-                     einer Trennung der Haushalte von Martin und Leonie, die damit wieder zu
-                     Geliebten werden. </p>
-         <p>Erster Teil abgeschlossen am 14. November 1930.<note n="66">Clara Katharina
-                        Pollaczek an Arthur Schnitzler, Brief vom 14. November 1930. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp851"/>
-            </note>
-                     Termin mit Moriz Benedikt am 18. Januar 1931 diesbezüglich.<note n="67">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp878"/>
-            </note>
-         </p>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310430&amp;seite=10">Mütter. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310501&amp;seite=11">Mütter. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310503&amp;seite=29">Mütter. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310505&amp;seite=10">Mütter. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310506&amp;seite=11">Mütter. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310507&amp;seite=17">Mütter. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310508&amp;seite=14">Mütter. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310509&amp;seite=10">Mütter. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310510&amp;seite=18">Mütter. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310512&amp;seite=11">Mütter. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310513&amp;seite=09">Mütter. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310514&amp;seite=13">Mütter. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310515&amp;seite=09">Mütter. Novelle</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310516&amp;seite=23">Mütter. Novelle</ref>
-         </listRef>
-      </item>
+      <note type="summary">Der ewige Junggeselle Martin und Leonie, die bereits Mutter einer Tochter namens Tilli aus erster Ehe ist, heiraten nach einer langjährigen Beziehung doch und ziehen nach Rosenau auf das Gut von Martins Mutter, die in England lebt. Tilli ist mit dem Sportler Bob verheiratet. Plötzlich empfinden die beiden Frauen, Leonie und Tilli, »Angst, den geliebten Mann, wenn auch nicht zu verlieren, so doch weniger zu besitzen«: Martin will – das entnimmt Leonie einem Brief von dessen Mutter – das Gut verkaufen, Bob hat eine Schwangerschaft zum Scheidungsgrund erklärt. Beide Mütter tauschen im zweiten Kapitel Platz: Leonie gibt sich nach einer Scheinschwangerschaft als die Mutter des Kindes ihrer Tochter aus. Als Bob und Martin mit dem Flugzeug statt per Bahn in Luzern erscheinen, fliegt alles auf. Doch alles endet gut, wenn auch in einer Trennung der Haushalte von Martin und Leonie, die damit wieder zu Geliebten werden. </note>
+         <note type="editorial">Erster Teil abgeschlossen am 14. November 1930.<note type="footnote" n="66">Clara Katharina Pollaczek an Arthur Schnitzler, Brief vom 14. November 1930. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp851"/></note> Termin mit Moriz Benedikt am 18. Januar 1931 diesbezüglich.<note type="footnote" n="67"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp878"/></note></note>
    </biblStruct>
    <biblStruct>
       <analytic>
@@ -1683,32 +1255,14 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Betrachtungen. [Aphorismen]</title>
-         <bibl>Neue Freie Presse, 9.8.1931</bibl>
-         <p>Arbeit daran am 10. Februar 1931,<note n="68">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp887"/>
-            </note>
-                     Korrekturbogen 21. Juli 1931 am Semmering,<note n="69">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp937"/>
-            </note>
-                     Typoskript in »Arthur Schnitzler und ich« erhalten.<note n="70">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp962"/> (6
-                        Blatt).</note>
-         </p>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310809&amp;seite=28">Betrachtungen. (Aphorismen)</ref>
-         </listRef>
-      </item>
+      <note type="editorial">Arbeit daran am 10. Februar 1931,<note type="footnote" n="68"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp887"/></note> Korrekturbogen 21. Juli 1931 am Semmering,<note type="footnote" n="69"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp937"/></note> Typoskript in »Arthur Schnitzler und ich« erhalten.<note type="footnote" n="70"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp962"/> (6 Blatt).</note></note>
    </biblStruct>
    <biblStruct>
       <analytic>
-         <title>Arthur Schnitzler. Anläßlich der heutigen Totenfeier im Burgtheater.
-                     [Gedicht]</title>
+         <title>Arthur Schnitzler. Anläßlich der heutigen Totenfeier im Burgtheater. [Gedicht]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <date when="1931-11-15">15.11.1931</date>
-         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19311115&amp;seite=27">Arthur Schnitzler. Anläßlich der heutigen Totenfeier im Burgtheater.
-                        Gedicht</ref>
+         <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19311115&amp;seite=27">Arthur Schnitzler. Anläßlich der heutigen Totenfeier im Burgtheater. Gedicht</ref>
       </analytic>
       <monogr>
          <title>
@@ -1720,16 +1274,7 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Arthur Schnitzler. Anläßlich der heutigen Totenfeier im Burgtheater.
-                     [Gedicht]</title>
-         <bibl>Neue Freie Presse, 15.11.1931</bibl>
-         <p>Unter dem Titel Totenfeier wieder in Pollaczek, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="28">S. 28</biblScope> 1932 </p>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19311115&amp;seite=27">Arthur Schnitzler. Anläßlich der heutigen Totenfeier im Burgtheater.
-                        Gedicht</ref>
-         </listRef>
-      </item>
+      <note type="editorial">Unter dem Titel <title>Totenfeier</title> wieder in <bibl><author>Pollaczek</author>, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="28">S. 28</biblScope></bibl>.</note>
    </biblStruct>
    <biblStruct>
       <analytic>
@@ -1756,35 +1301,8 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Die Kette. [Erzählung]</title>
-         <bibl>Neue Freie Presse, 13.4.–22.4.1932</bibl>
-         <p rend="summary">Ferdinand Allgeier, der 45jährige erfolgreiche Prokurist einer
-                     Textilfirma, ist seit zehn Jahren mit Irene verheiratet, gemeinsam haben sie
-                     Söhne namens Franz und Kurt. Ferdinand soll auf Anraten des Hausarztes, der in
-                     diesem Anliegen von Irene und Ferdinands bestem Freund Jules unterstützt wird,
-                     zur Erholung an den Gardasee fahren. Irenes Weigerung mitzukommen und weitere
-                     Indizien lassen Ferdinand vermuten, daß der beste Freund und die Ehefrau ihn
-                     betrügen. Er plant, beide in flagranti zu ertappen. Als er sie belauscht und
-                     hört, sie müßten ihn unbedingt wegschaffen, schießt er sich eine Kugel in die
-                     Brust. Er überlebt nur mehr solange, um zu erkennen, daß seine eifersüchtige
-                     Vermutung falsch war. Nach dem Trauerjahr heiraten Jules und Irene dann
-                     wirklich. </p>
-         <p>Erwähnt bei Woisetschläger.<note n="71">Woisetschläger, Rezeption neuer
-                        Erzählliteratur (Anm. 2), <biblScope unit="page" n="370">S. 370</biblScope></note>
-         </p>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19320413&amp;seite=15">Die Kette. Erzählung</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19320414&amp;seite=16">Die Kette. Erzählung</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19320415&amp;seite=15">Die Kette. Erzählung</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19320416&amp;seite=17">Die Kette. Erzählung</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19320417&amp;seite=20">Die Kette. Erzählung</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19320419&amp;seite=14">Die Kette. Erzählung</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19320420&amp;seite=15">Die Kette. Erzählung</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19320421&amp;seite=17">Die Kette. Erzählung</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19320422&amp;seite=15">Die Kette. Erzählung</ref>
-         </listRef>
-      </item>
+      <note type="summary">Ferdinand Allgeier, der 45jährige erfolgreiche Prokurist einer Textilfirma, ist seit zehn Jahren mit Irene verheiratet, gemeinsam haben sie Söhne namens Franz und Kurt. Ferdinand soll auf Anraten des Hausarztes, der in diesem Anliegen von Irene und Ferdinands bestem Freund Jules unterstützt wird, zur Erholung an den Gardasee fahren. Irenes Weigerung mitzukommen und weitere Indizien lassen Ferdinand vermuten, daß der beste Freund und die Ehefrau ihn betrügen. Er plant, beide in flagranti zu ertappen. Als er sie belauscht und hört, sie müßten ihn unbedingt wegschaffen, schießt er sich eine Kugel in die Brust. Er überlebt nur mehr solange, um zu erkennen, daß seine eifersüchtige Vermutung falsch war. Nach dem Trauerjahr heiraten Jules und Irene dann wirklich. </note>
+         <note type="commentary">Erwähnt bei Woisetschläger.<note type="footnote" n="71"><bibl><author>Woisetschläger</author>, <title>Rezeption neuer Erzählliteratur</title> (Anm. 2), <biblScope unit="page" n="370">S. 370</biblScope></bibl></note></note>
    </biblStruct>
    <biblStruct>
       <analytic>
@@ -1803,17 +1321,9 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>An Arthur Schnitzlers 70. Geburtstag. 15. Mai 1932. [Gedicht]</title>
-         <bibl>Neue Freie Presse, 15.5.1932</bibl>
-         <p>Unter dem Titel Geburtstag eines Toten wieder in Pollaczek, <title>Gedichte der Liebe</title>,
-                     <biblScope unit="page" n="32">S. 32</biblScope></p>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19320515&amp;seite=42">An Arthur Schnitzlers 70. Geburtstag . Gedicht</ref>
-         </listRef>
-      </item>
+      <note type="editorial">Unter dem Titel <title>Geburtstag eines Toten</title> wieder in <bibl><author>Pollaczek</author>, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="32">S. 32</biblScope></bibl>.</note>
    </biblStruct>
-   <biblStruct>
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78335">
       <analytic>
          <title>Zwischen den Generationen. Roman</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1929,147 +1439,9 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Zwischen den Generationen. Roman</title>
-         <bibl>Neue Freie Presse, 4.2.–3.6.1933</bibl>
-         <p rend="summary">Pollaczeks mit hundert Folgen längster Roman ist die Geschichte
-                     des Untergangs einer Familie. Der zweiteilige Roman (1. »Alba«, 2. »Antonia«,
-                     ab 21.3.1933) stellt die Frauenschicksale der ehemals reichen Familie
-                     Rautenberg in den Vordergrund. Literarischen Niederschlag fand die Beziehung
-                     zwischen Schnitzler und Pollaczek in fast all ihren Texten, insbesondere jedoch
-                     in dieser jüdisch-wienerischen Buddenbrooks-Geschichte des Niedergangs über
-                     mehrere Generationen hinweg. Ein Dichter heißt dort Axel Sinding (A. S.), er
-                     ist wissend und um einiges älter als die Protagonistin des zweiten Hauptteils,
-                     Antonia Brandt, geb. Rautenberg. Antonia läßt den Dichter jedoch kurz vor ihrem
-                     Ertrinken im Wörthersee an der Landungsbrücke (eine oberflächliche Andeutung
-                     eines sicheren Hafens) stehen und geht in ihrem betrunkenen Zustand schwimmen. </p>
-         <p>Doch nicht nur als A. S. taucht Schnitzler auf, im selben Roman vermischen sich
-                     die Probleme und Positionen der in eine reiche, großbürgerlich-jüdische Familie
-                     (»in der Finanzwelt«) geborenen Protagonistinnen, die allesamt Züge von
-                     Pollaczek tragen (Alba, die Mutter, die Duld- und Fügsame, heiratet einen
-                     Industriellen; Antonia trifft es weniger glücklich als die Mutter: zahlreiche
-                     Liebschaften führen zur Scheidung – die aber vom Ehemann einer der zahlreichen
-                     Geliebten ihres Mannes gefordert wird und nicht von Antonia). Antonia verbringt
-                     die Zeit des Anbruchs des Ersten Weltkriegs in Hohenschwangau, wo Schnitzler im
-                     August 1928 war und von dort aus mit Pollaczek korrespondierte. </p>
-         <p>Beginn der Arbeit vermutlich am 11. August 1931. Pollaczek liest Schnitzler das
-                     erste Kapitel am 23. September 1931 vor – er findet es »ausgezeichnet«.<note n="72">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp982"/>
-                        Schnitzler bekommt das zweite Kapitel am 10. Oktober zu lesen (<ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp985"/>).</note>
-                     Erwähnt bei Woisetschläger.<note n="73">Ebd.</note> Wieder in einem Band im
-                     Verlag der Neuen Freien Presse veröffentlicht. Nachweis des Erscheinungsjahrs
-                     jedoch unsicher: Die Buchversion trägt keine Jahreszahl, in Fortsetzungen erst
-                     1933 erschienen.<note n="74">Zur Angabe des Erscheinungsjahrs vgl. Der kleine
-                        Salon. Szenen und Prosa des Wiener Fin de Siècle. Mit Illustrationen von
-                        Gustav Klimt. Hg. von Hansjörg Graf. Stuttgart: Goverts 1970, <biblScope unit="page" n="305">S. 305</biblScope></note>
-                     Möglicherweise ist dies jener Roman, den Pollaczek am 11. August 1931 zu
-                     schreiben begann.<note n="75">
-               <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp969"/>
-            </note>
-         </p>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330204&amp;seite=09">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330205&amp;seite=27">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330207&amp;seite=07">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330208&amp;seite=06">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330209&amp;seite=08">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330210&amp;seite=07">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330211&amp;seite=07">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330212&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330214&amp;seite=13">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330215&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330216&amp;seite=14">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330217&amp;seite=08">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330218&amp;seite=07">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330219&amp;seite=14">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330221&amp;seite=13">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330222&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330223&amp;seite=14">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330224&amp;seite=08">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330225&amp;seite=07">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330226&amp;seite=14">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330228&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330301&amp;seite=14">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330302&amp;seite=14">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330303&amp;seite=09">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330304&amp;seite=06">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330305&amp;seite=13">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330307&amp;seite=08">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330308&amp;seite=13">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330309&amp;seite=11">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330310&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330311&amp;seite=17">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330312&amp;seite=18">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330314&amp;seite=14">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330315&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330316&amp;seite=18">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330317&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330318&amp;seite=17">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330319&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330321&amp;seite=09">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330322&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330323&amp;seite=14">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330324&amp;seite=07">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330326&amp;seite=13">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330328&amp;seite=07">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330329&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330330&amp;seite=10">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330331&amp;seite=09">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330401&amp;seite=11">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330402&amp;seite=23">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330404&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330405&amp;seite=17">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330406&amp;seite=16">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330407&amp;seite=17">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330408&amp;seite=09">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330409&amp;seite=22">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330411&amp;seite=08">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330412&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330413&amp;seite=10">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330414&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330415&amp;seite=09">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330416&amp;seite=20">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330419&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330420&amp;seite=16">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330421&amp;seite=16">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330422&amp;seite=09">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330423&amp;seite=25">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330425&amp;seite=08">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330426&amp;seite=17">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330427&amp;seite=08">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330428&amp;seite=17">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330429&amp;seite=09">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330430&amp;seite=18">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330503&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330504&amp;seite=16">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330505&amp;seite=06">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330506&amp;seite=17">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330507&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330509&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330510&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330511&amp;seite=10">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330512&amp;seite=09">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330513&amp;seite=08">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330514&amp;seite=22">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330516&amp;seite=14">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330517&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330518&amp;seite=16">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330519&amp;seite=17">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330520&amp;seite=17">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330521&amp;seite=14">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330523&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330524&amp;seite=15">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330525&amp;seite=20">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330526&amp;seite=07">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330527&amp;seite=16">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330528&amp;seite=25">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330530&amp;seite=17">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330531&amp;seite=08">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330601&amp;seite=16">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330602&amp;seite=10">Zwischen den Generationen. Roman</ref>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19330603&amp;seite=08">Zwischen den Generationen. Roman</ref>
-         </listRef>
-      </item>
+      <note type="summary">Pollaczeks mit hundert Folgen längster Roman ist die Geschichte des Untergangs einer Familie. Der zweiteilige Roman (1. »Alba«, 2. »Antonia«, ab 21.3.1933) stellt die Frauenschicksale der ehemals reichen Familie Rautenberg in den Vordergrund. Literarischen Niederschlag fand die Beziehung zwischen Schnitzler und Pollaczek in fast all ihren Texten, insbesondere jedoch in dieser jüdisch-wienerischen Buddenbrooks-Geschichte des Niedergangs über mehrere Generationen hinweg. Ein Dichter heißt dort Axel Sinding (A. S.), er ist wissend und um einiges älter als die Protagonistin des zweiten Hauptteils, Antonia Brandt, geb. Rautenberg. Antonia läßt den Dichter jedoch kurz vor ihrem Ertrinken im Wörthersee an der Landungsbrücke (eine oberflächliche Andeutung eines sicheren Hafens) stehen und geht in ihrem betrunkenen Zustand schwimmen. </note>
+         <note type="commentary">Doch nicht nur als »A. S.« taucht Schnitzler auf, im selben Roman vermischen sich die Probleme und Positionen der in eine reiche, großbürgerlich-jüdische Familie (»in der Finanzwelt«) geborenen Protagonistinnen, die allesamt Züge von Pollaczek tragen (Alba, die Mutter, die Duld- und Fügsame, heiratet einen Industriellen; Antonia trifft es weniger glücklich als die Mutter: zahlreiche Liebschaften führen zur Scheidung – die aber vom Ehemann einer der zahlreichen Geliebten ihres Mannes gefordert wird und nicht von Antonia). Antonia verbringt die Zeit des Anbruchs des Ersten Weltkriegs in Hohenschwangau, wo Schnitzler im August 1928 war und von dort aus mit Pollaczek korrespondierte. </note>
+         <note type="editorial">Beginn der Arbeit vermutlich am 11. August 1931. Pollaczek liest Schnitzler das erste Kapitel am 23. September 1931 vor – er findet es »ausgezeichnet«.<note type="footnote" n="72"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp982"/> Schnitzler bekommt das zweite Kapitel am 10. Oktober zu lesen (<ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp985"/>).</note> Erwähnt bei Woisetschläger.<note type="footnote" n="73"><bibl><author>Woisetschläger</author>, <title>Rezeption neuer Erzählliteratur</title> (Anm. 2), <biblScope unit="page" n="370">S. 370</biblScope></bibl>.</note> Wieder in einem Band im Verlag der <title>Neuen Freien Presse</title> veröffentlicht. Nachweis des Erscheinungsjahrs jedoch unsicher: Die Buchversion trägt keine Jahreszahl, in Fortsetzungen erst 1933 erschienen.<note type="footnote" n="74">Zur Angabe des Erscheinungsjahrs vgl. <bibl><title>Der kleine Salon. Szenen und Prosa des Wiener Fin de Siècle</title>. Mit Illustrationen von Gustav Klimt. Hg. von <editor>Hansjörg Graf</editor>. <pubPlace>Stuttgart</pubPlace>: <publisher>Goverts</publisher> <date>1970</date>, <biblScope unit="page" n="305">S. 305</biblScope></bibl></note> Möglicherweise ist dies jener Roman, den Pollaczek am 11. August 1931 zu schreiben begann.<note type="footnote" n="75"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp969"/></note></note>
    </biblStruct>
    <biblStruct>
       <analytic>
@@ -2088,14 +1460,7 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Erinnerungsgang. (Cottage 1933.) [Gedicht]</title>
-         <bibl>Neue Freie Presse, 22.10.1933</bibl>
-         <p>Wieder in Pollaczek, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="36">S. 36</biblScope> </p>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19331022&amp;seite=29">Erinnerungsgang. Gedicht</ref>
-         </listRef>
-      </item>
+      <note type="editorial">Wieder in <bibl><author>Pollaczek</author>, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="36">S. 36</biblScope></bibl>.</note>
    </biblStruct>
    <biblStruct>
       <analytic>
@@ -2114,17 +1479,10 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Grab im Mai. Gedicht</title>
-         <bibl>Neue Freie Presse, 15.5.1934</bibl>
-         <p>Autorinnenname als 'C.K.P.'</p>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19340515&amp;seite=6">Grab im Mai. Gedicht</ref>
-         </listRef>
-      </item>
+      <note type="editorial">Autorinnenname als ›C.K.P.‹</note>
    </biblStruct>
-   <biblStruct>
-      <analytic>
+   <biblStruct resp="#MAM">
+      <analytic><!-- Ergänzung MAM, wieder in Gedichte der Liebe?  -->
          <title>Der alte Bauer. [Gedicht]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <date when="1934-10-07">7.10.1934</date>
@@ -2140,14 +1498,6 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Der alte Bauer. [Gedicht]</title>
-         <bibl>Neues Wiener Tagblatt, 7.10.1934</bibl>
-         <!-- Ergänzung MAM, wieder in Gedichte der Liebe?  -->
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19341007&amp;seite=24"/>
-         </listRef>
-      </item>
    </biblStruct>
    <biblStruct>
       <analytic>
@@ -2166,35 +1516,21 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Zum dritten Todestage Arthur Schnitzlers. Sein Zimmer. [Gedicht]</title>
-         <bibl>Neue Freie Presse, 21.10.1934</bibl>
-         <p>Autorinnenname als „Cl.K.P“. Wieder in Pollaczek, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="37">S. 37</biblScope> </p>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19341021&amp;seite=09">Zum dritten Todestage Arthur Schnitzlers. Gedicht</ref>
-         </listRef>
-      </item>
+      <note type="editorial">Autorinnenname als „Cl.K.P“. Wieder in <bibl><author>Pollaczek</author>, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="37">S. 37</biblScope></bibl>.</note>
    </biblStruct>
    <biblStruct>
-      <analytic>
+      <monogr>
          <title>Gedichte der Liebe. Wien: Europäischer Verlag 1936</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
-         <date when="1936">1936</date>
-      </analytic>
-      <monogr>
-         <title/>
          <imprint>
-            <biblScope unit="jg"/>
-            <biblScope unit="number"/>
-            <biblScope unit="page"/>
+            <pubPlace>Wien</pubPlace>
+            <publisher>Europäischer Verlag</publisher>
+            <date when="1936">1936</date>
          </imprint>
       </monogr>
-      <item>
-         <title>Gedichte der Liebe. Wien: Europäischer Verlag 1936</title>
-      </item>
    </biblStruct>
    <biblStruct>
-      <analytic>
+      <analytic><!-- Ergänzung MAM -->
          <title>Ich seh’ der Stunde ins Gesicht. [Gedicht]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <date when="1937-02-28">28.2.1937</date>
@@ -2210,17 +1546,9 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Ich seh’ der Stunde ins Gesicht. [Gedicht]</title>
-         <!-- Ergänzung MAM -->
-         <bibl>Neues Wiener Tagblatt, 28.2.1937</bibl>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19370228&amp;seite=26"/>
-         </listRef>
-      </item>
    </biblStruct>
-   <biblStruct>
-      <analytic>
+   <biblStruct resp="#MAM">
+      <analytic><!-- Ergänzung MAM  -->
          <title>Blick aus dem Fenster. [Gedicht]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <date when="1937-06-27">27.6.1937</date>
@@ -2236,17 +1564,9 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Blick aus dem Fenster. [Gedicht]</title>
-         <!-- Ergänzung MAM  -->
-         <bibl>Neues Wiener Tagblatt, 27.6.1937</bibl>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19370627seite=24"/>
-         </listRef>
-      </item>
    </biblStruct>
-   <biblStruct>
-      <analytic>
+         <biblStruct resp="#MAM">
+      <analytic><!-- Ergänzung MAM  -->
          <title>Goethe-Weg, Marienbad 1937. [Gedicht]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <date when="1937-08-22">22.8.1937</date>
@@ -2262,34 +1582,18 @@
             <biblScope unit="page"/>
          </imprint>
       </monogr>
-      <item>
-         <title>Goethe-Weg, Marienbad 1937. [Gedicht]</title>
-         <!-- Ergänzung MAM  -->
-         <bibl>Neues Wiener Tagblatt, 22.8.1937</bibl>
-         <listRef>
-            <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19370822&amp;seite=19"/>
-         </listRef>
-      </item>
    </biblStruct>
    <biblStruct>
-      <analytic>
-         <title>Paul Géraldy: Du und ich. Deutsche Nachdichtung von Clara Katharina
-                     Pollaczek. Wien: Zsolnay 1948</title>
-         <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
-         <date when="1938">1938</date>
-      </analytic>
       <monogr>
-         <title/>
+         <title>Du und ich. Deutsche Nachdichtung von Clara Katharina Pollaczek</title>
+         <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
+         <author><forename>Paul</forename> <surname>Géraldy</surname></author>
          <imprint>
-            <biblScope unit="jg"/>
-            <biblScope unit="number"/>
-            <biblScope unit="page"/>
+            <pubPlace>Wien</pubPlace>
+            <publisher>Zsolnay</publisher>
+            <date when="1948">1948</date>
          </imprint>
       </monogr>
-      <item>
-         <title>Paul Géraldy: Du und ich. Deutsche Nachdichtung von Clara Katharina
-                     Pollaczek. Wien: Zsolnay 1948</title>
-      </item>
    </biblStruct>
 </listBibl>
   </standOff>
