@@ -25,6 +25,11 @@
             </bibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>TEI-Fassung der kommentierten Werkbibliografie zu Clara Katharina Pollaczek.</p>
+         </projectDesc>
+      </encodingDesc>
       <revisionDesc>
          <change>Dies ist eine durchgesehene, erweiterte und technisch überarbeitete Version.</change>
       </revisionDesc>
@@ -40,7 +45,7 @@
    </text>
   <standOff>
       <listBibl>
-   <biblStruct>
+         <biblStruct type="Übersetzung">
       <analytic>
          <title>Fremdenbuch. Verlaine-Übersetzungen</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -57,7 +62,7 @@
       <note type="footnote" n="3">Schnitzler schreibt »Clara las mir ›Fremdenbuch‹ und Verlaine Übersetzung« <ref subtype="schnitzler-tagebuch" type="URL" target="1897-07-16">(Tb 16.7.1897)</ref>. Vgl. auch <ref target="ckp015.html">CKP I, Beilage nach Bl. 4, 16f.</ref></note>
       <note type="editorial">nicht ermittelbar</note>
    </biblStruct>
-   <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/34096">
+   <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/34096" type="Drama">
       <analytic>
          <title type="main">Mimi. Schattenbilder aus einem Mädchenleben.<!--<note type="footnote" n="4">Neben »Bob« verwendet Loeb das Pseudonym »Cl. Béol« (die einfache Spiegelung von Loeb) für weitere Texte, die hier nicht nachweisbar sind und auf die die Sekundärliteratur nur unscharf und ohne Nennung von Titeln Bezug nimmt.</note>-->
          </title>
@@ -91,7 +96,7 @@
          <p>»Mimi« ist wieder abgedruckt in: <bibl><title>Der kleine Salon. Szenen und Prosa des Wiener Fin de Siècle</title>. Mit Illustrationen von Gustav Klimt. Hg. von <editor>Hansjörg Graf</editor>. <pubPlace>Stuttgart</pubPlace>: <publisher>Goverts</publisher> <date>1970</date>, <biblScope unit="page">S. 231–268</biblScope></bibl></p>
       </note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/118892">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/118892" type="Debatte">
       <analytic>
          <title>Nietzsche’s Übermensch. Zum Todestage des Philosophen</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -106,11 +111,11 @@
             <biblScope unit="page">2</biblScope>
          </imprint>
       </monogr>
-      <note resp="#SK">
+      <note resp="#SK" type="editorial">
          <p ana="editor">Würdigung zum 100. Todestag. Pollaczek stellt Nietzsche in eine Reihe mit Goethe, Schopenhauer und vor allem Darwin, dessen Ideen von »Natürlicher Zuchtwahl« und »Anpassung« sie als Grundlagen von Nietzsches Denken vom »Neuen Menschen« begreift. </p>
       </note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Drama">
       <analytic>
          <title>Glückliche Ehe – eine Tragödie in unzähligen Auftritten. [Sketch].</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -123,12 +128,12 @@
             <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
-      <note resp="#SK">
+      <note resp="#SK" type="editorial">
          <p ana="editor">nicht ermittelbar.</p>
          <p ana="editor">Zurückübersetzt von »Happy Marriage – a Tragedy in Innumerable Parts«.<note type="footnote" n="6"><bibl><author>Pole</author>, <title>Two Halves of a Life</title>, <biblScope>S. 27</biblScope>.</bibl></note></p>
       </note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Drama">
       <analytic>
          <title>Foxtrott. [Feuilletonistische Einakter].<note type="footnote" n="7">Vgl. <bibl><author>Farese</author>, <title>Arthur Schnitzler</title> (Anm. 66), <biblScope unit="page">S. 240</biblScope></bibl>.</note>
          </title>
@@ -142,12 +147,12 @@
             <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
-      <note resp="#SK">
+      <note resp="#SK" type="editorial">
          <p ana="editor">nicht ermittelbar</p>
          <p ana="editor">Geschrieben 1921,<note type="footnote" n="8"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp059"/></note> vermutlich im Dezember 1921 an Schnitzler geschickt. </p>
       </note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Drama">
       <analytic>
          <title>Wohnungsnot. Spiel in einem Aufzug<note type="footnote" n="7">Vgl. <bibl><author>Farese</author>, <title>Arthur Schnitzler</title> (Anm. 66), <biblScope unit="page">S. 240</biblScope></bibl>.</note></title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -167,7 +172,7 @@
          </imprint>
       </monogr>
    </biblStruct>
-   <biblStruct>
+         <biblStruct type="Übersetzung">
       <analytic>
          <title>Zwei Gedichte aus der Sammlung »Toi et moi« von Paul Géraldy. Autorisierte Übersetzung. Hingabe / Unter der Lampe</title>
          <editor role="translator" key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></editor>
@@ -186,7 +191,7 @@
          </imprint>
       </monogr>
    </biblStruct>
-         <biblStruct resp="#MAM"><!-- Ergänzung MAM -->
+         <biblStruct resp="#MAM" type="Übersetzung"><!-- Ergänzung MAM -->
       <analytic>
          <title>Zwei Gedichte aus der Sammlung »Toi et moi« von Paul Géraldy. Autorisierte Übersetzung. Traurigkeit / Entfernung</title>
          <editor role="translator" key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></editor>
@@ -205,7 +210,7 @@
          </imprint>
       </monogr>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78321">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78321" type="Roman">
       <analytic>
          <title>Der Abhang. [Roman]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -238,7 +243,7 @@
       </monogr>
       <note type="summary">Wien, Mitte der 1920er Jahre. Der verwitwete 40jährige Professor Kraßl, ein berühmter Chirurg und Vater einer Tochter, will seine Noch-nicht-Geliebte Helene Barri – die geschiedene Mutter eines 17jährigen Sohnes – in der Sommerfrische besuchen, kommt jedoch zu spät: Die begehrte Frau ist beim Blumenpflücken den titelgebenden Abhang hinabgestürzt. Kraßl findet nur mehr einen Liebesbrief, der ihm bestätigt, wie sehr sie ihn geliebt hat. Erzählt wird in den fünfzehn halbseitigen Folgen vor allem die Geschichte ihres Kennenlernens und Näherkommens, auch vom Tod des »Onkels« von Helene, Hofrat Jannek; die Schilderung in der fünften Folge hat verblüffende Parallelen zu der des Todes des unbenannten Hofrats in Schnitzlers ein Jahr später erscheinender <bibl corresp="#pmb__work__30851">Traumnovelle</bibl>. </note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Novelle">
       <analytic><!-- Ergänzung SK Website -->
          <title>Die Abschiedsfeier der Sybille Engerth. Erzählung</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -261,7 +266,7 @@
       </monogr>
       <note type="editorial">Beginn der Arbeit wohl im August 1924.<note type="footnote" n="9"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp140"/></note></note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Drama">
       <analytic>
          <title>Seidenstrümpfe. [Einakter], vor 12.1.1925</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -274,11 +279,11 @@
                <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
-      <note resp="#SK">
+      <note resp="#SK" type="editorial">
          <p ana="editor">nicht ermittelbar</p>
       </note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Drama">
       <analytic>
          <title>Schieber. [Einakter], vor 12.1.1925</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -291,11 +296,11 @@
             <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
-      <note resp="#SK">
+      <note resp="#SK" type="editorial">
          <p ana="editor">nicht ermittelbar</p>
       </note>
    </biblStruct>
-   <biblStruct resp="#MAM"><!-- Ergänzung MAM https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19250615&amp;seite=10 -->
+   <biblStruct resp="#MAM" type="Novelle"><!-- Ergänzung MAM https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19250615&amp;seite=10 -->
       <analytic>
          <title>Spaziergang im Mondenschein. Ein Zwiegespräch</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -314,7 +319,7 @@
       </monogr>
       <note type="comment">Vgl. jeweils <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp155"/> Die Novelle sollte in dramatisierter Form aufgeführt werden (gemeinsam mit <title>Redoute</title>). Schnitzler äußert sich dazu kritisch: »ja man könnte gewissermaßen sagen ›gut geschrieben‹ – aber nicht ebenso ›gut‹ geredet«.<note type="footnote" n="10"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp161"/></note></note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78322">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78322" type="Erzählung">
       <analytic>
          <title>Der ewige Student. Erzählung</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -341,7 +346,7 @@
       <note type="summary">Eusebius Zack hat mit 32 Jahren sein Studium der Medizin noch immer nicht abgeschlossen, alle Nachhilfeschüler hat er verloren, er mietet sich mit dem Erlös seiner goldenen Uhr für vier Wochen bei der Wäscherin Mila Tunfart ein. Bei diesem Sohn eines Greißlers aus Kemmelbach-Ybbs, der viel lieber das Geschäft des Vaters übernommen hätte, wird die Studien- nie zu einer Bildungsbiographie. Der Vater zwingt ihn – selbst nachdem alle einschließlich Eusebius erkannt haben, daß das Studium nichts für ihn ist – zum Weiterstudieren. Die Wohnungsgeberin hält den Studenten in der Überzeugung aus, er werde sein Studium abschließen. Zack hält um ihre Hand an, sie stellt die Bedingung, er müsse erst den Doktortitel erreichen. Er beginnt wieder zu lernen, es geht voran – am Tag der ersten großen Prüfung trinkt Eusebius sich jedoch literweise Mut an und wird am Weg zur Universität von einem Autobus überfahren: die siebente Fortsetzung ist die Todesfolge. </note>
       <note type="editorial">Geschrieben vom 12.–17. Januar 1925,<note type="footnote" n="11"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp169"/></note> erwähnt bei Woisetschläger.<note type="footnote" n="12"><bibl><author>Woisetschläger</author>, <title>Rezeption neuer Erzählliteratur</title> (Anm. 2), <biblScope unit="page">S. 370</biblScope></bibl>.</note> Gelesen von Schnitzler am 23. Jänner 1925 in St. Moritz, der sie für »durchaus gelungen« hält, aber fortfährt: »meinem Geschmack nach nicht besonders interessant Du bist zu wenig darin). – Natürlich lässt sie sich ohneweiteres veröffentlichen (nach Milderung einiger vielleicht zu cruder Details.)«<note type="footnote" n="13">Arthur Schnitzler an Clara Pollaczek, Karte [?] vom 24. Jänner 1925. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp174"/> Hervorhebungen im Original.</note> Ausführliche inhaltliche und stilistische Kritik in einem vom selben Tag datierenden Brief.<note type="footnote" n="14"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp176"/>128.</note> Replik am 27. Jänner 1925,<note type="footnote" n="15"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp180"/></note> in der Pollaczek von einer Anfrage an Moriz Benedikt bezüglich einer Veröffentlichung in der Neuen Freien Presse berichtet. </note>
    </biblStruct>
-         <biblStruct><!-- Ergänzung SK Website, Kommentar MAM -->
+         <biblStruct type="Debatte"><!-- Ergänzung SK Website, Kommentar MAM -->
       <analytic>
          <title>An Karin Michaelis. Eine Antwort auf den Artikel: „Das Recht, Mutter zu sein“</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -360,7 +365,7 @@
       </monogr>
       <note type="editorial" resp="#MAM">Reaktion auf: <bibl><author>Karin Michaelis</author>: <title>Das Recht, Mutter zu sein</title>. In: <title>Neue Freie Presse</title>, 26.7.1925</bibl>, die darin wiederum das anonym erschienene Buch <bibl>„<title>Martha Berger – Leben einer Frau</title>“ von <author>Amalie Pirhofer</author></bibl> rezensiert.</note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="-">
       <analytic>
          <title>Schwester Peregrina</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -373,13 +378,13 @@
             <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
-      <note resp="#SK">
+      <note resp="#SK" type="editorial">
          <p ana="editorial">nicht ermittelbar </p>
          <p ana="editor">Der Titel wird in einem Brief an Schnitzler vom 10. August 1925 genannt und spielt womöglich auf die eigene Wohnadresse an.<note type="footnote" n="16"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp247"/></note>
          </p>
       </note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78323">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78323" type="Novelle">
       <analytic>
          <title>Der Tod der Gräfin Anastasia. [Novelle].</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -404,7 +409,7 @@
       <note type="summary">Drei Abschiedsbriefe der Suizidantin Anastasia von Olgossy. Der erste ist an ihre Tochter gerichtet, der sie mitteilt, sie habe sie zugunsten der Enkelin (die nach ihr selbst Anastasia heißt) enterbt – dieser soll eine Liebesheirat mit dem mittellosen Dichter Marquis von Waldorf ermöglicht werden. Im zweiten und umfangreichsten Brief erläutert sie der Enkelin die Gründe für ihren Suizid durch eine Überdosis Morphium und läßt ihr Leben Revue passieren. Der dritte Brief richtet sich an ihren langjährigen Verehrer und Geliebten Oberst von Ringstetten, der sie wegen einer Jüngeren verlassen hatte. Der Oberst erhält den Brief allerdings erst, nachdem er von seiner neuen Flamme einen Korb erhalten hat. </note>
          <note type="editorial">Begonnen vor dem 16. Oktober 1925 unter dem Titel <title>Anastasia</title>. Moriz Benedikt von der <title>Neuen Freien Presse</title> zeigt sich am 14. Februar 1926 begeistert.<note type="footnote" n="17"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp301"/></note> Gemeinsam mit einer Novelle von Rudolf Jeremias Kreutz in einem Band des Verlags der <title>Neuen Freien Presse</title> wiederveröffentlicht. </note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Drama">
       <analytic>
          <title>Treppe. Volksstück.</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -417,13 +422,13 @@
             <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
-      <note resp="#SK">
+      <note resp="#SK" type="editorial">
          <p ana="editor">nicht ermittelbar</p>
          <p>Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp289"/> und <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp291"/>. </p>
       </note>
       
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78333">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78333" type="Drama">
       <analytic>
          <title>Redoute. Schauspiel in einem Aufzug</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -455,7 +460,7 @@
       <note type="editorial">Erwähnung einer prinzipiellen Veröffentlichungszusage seitens der Neuen Freien Presse am 14. Oktober 1925.<note type="footnote" n="18"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp274"/></note> Telefonat mit Moriz Benedikt, der die Veröffentlichung ankündigt.<note type="footnote" n="19"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp301"/></note>
       </note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Lyrik">
       <analytic>
          <title>Abend. [Gedicht].</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -474,7 +479,7 @@
       </monogr>
       <note type="editorial">In der <title>Neuen Freien Presse</title> auf einer Seite mit einem Gedicht von Bertolt Brecht erschienen. Wieder in <bibl><author>Pollaczek</author>, <title>Gedichte der Liebe</title>, <biblScope unit="page">S. 16</biblScope></bibl>.</note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Übersetzung">
       <monogr>
          <title>Mademoiselle Else</title>
          <editor role="translator" key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></editor>
@@ -491,7 +496,7 @@
       </series>
       <note>Übersetzung von Schnitzlers <title>Fräulein Else</title> ins Französische. Pollaczek, die die Rohübersetzung vorgenommen hatte (im Verlag wurde daran noch gefeilt, vermutlich durch Germaine Delamain, der Gattin des Verlegers), bleibt unerwähnt.<note type="footnote" n="20"><bibl>Karl Zieger: Arthur Schnitzler und der Verlag Stock. In: Internationales Archiv für Sozialgeschichte der deutschen Literatur (IASL) 33 (2008), 1, <biblScope unit="page" n="155–170">S. 155–170</biblScope>, hier <biblScope unit="page" n="162">S. 162</biblScope></bibl>.</note></note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="-">
       <analytic>
          <title>Das böse Lächeln</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -504,12 +509,12 @@
             <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
-      <note resp="#SK">
+      <note resp="#SK" type="editorial">
          <p ana="editor">nicht ermittelbar</p>
       </note>
       <note type="commentary">Möglicherweise ein Drehbuch Pollaczeks.<note type="footnote" n="22">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp376"/>.</note></note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Drehbuchentwurf">
       <analytic>
          <title>Der Clown</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -522,14 +527,14 @@
             <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
-      <note resp="#SK">
+      <note resp="#SK" type="editorial">
          <p>nicht ermittelbar </p>
          <p>Entworfen am 4. August 1926.<note type="footnote" n="23"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp379"/></note> Es ist »ein Janningsfilm«<note type="footnote" n="24"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp372"/></note> – Schnitzler dazu in seiner Antwort vom 7. August 1926 aus Adelboden: »Dein Filmsujet ist nicht übel; aber es sind nicht nur gewisse Anklänge an Variété, sondern auch an den ›Mann, der die Ohrfeigen bekam‹, – ich glaube ich sah den Film in Berlin, aber ohne Dich, Chaney (den Du aus dem Operngespenst kennst) spielte die Hauptrolle; einen Clown, der seine Tochter (oder seine Frau?) einem Entführer zu entreissen sucht. –«<note type="footnote" n="25"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp375"/></note></p>
       </note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78320">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78320" type="Roman">
       <analytic>
-         <title>Kind der Liebe.</title>
+         <title>Kind der Liebe</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <date when="1926-10-03">3.10.1926</date>
          <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19260903&amp;seite=24">Das Kind der Liebe</ref>
@@ -576,9 +581,9 @@
       <note rend="summary">Der mißgestaltete August ist nach dem Tod seines Vaters der letzte Sproß aus dem alten und steinreichen Geschlecht der Grafen von Rotha. Er gerät in die Fänge einer entfernten, verarmten Cousine. Es kommt zur Heirat. Sie aber betrügt ihn und geht mit einem Liebhaber durch, der ihn zuvor im Duell verwundet. August, der an den Rollwagen gebundene Sonderling, verlegt sich auf die Zucht exotischer Pflanzen. Einen Tag vor seinem frühen Tod heiratet er Maria, die 17jährige Pflegetochter des Gärtnerehepaars, um den Fortbestand des Geschlechts zu sichern (Folge vom 14.9.1926). Der zweite Teil der Erzählung beginnt mit der Aufnahme der jungen Witwe in die Pariser Gesellschaft. Mit einem jungen Maler zeugt sie einen Sohn namens – August. Als der Künstler von der testamentarischen Verfügung des Grafen hört, daß der Reichtum Marias an ihr Alleinbleiben gebunden sei, verschwindet er. Maria heiratet schließlich den Landarzt Karl Lenk, der dem jungen August das Leben gerettet hatte, und fügt sich – dem Testament, aber auch dem Wunsch Lenks gehorchend – in ein bürgerliches Leben. </note>
       <note type="editorial">Schnitzler liest den Text am 1. Juli 1925 in Südtirol während einer gemeinsamen Reise.<note type="footnote" n="26">Schnitzler hatte sich zuvor kritisch über den Schluß in seinem Brief vom 19. März 1925 geäußert, wo er schreibt, es klinge »zu sehr nach Zeitungsnotiz« (<ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp203"/>).</note></note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78329">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78329" type="Novelle">
       <analytic>
-         <title>Mädchen für Alles. Novelle.</title>
+         <title>Mädchen für Alles. Novelle</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <date when="1926-11-02">2.11.1926</date>
          <ref type="URL" target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19261024&amp;seite=33">Mädchen für alles. Novelle</ref>
@@ -602,7 +607,7 @@
       </monogr>
       <note type="summary">Protagonistin der sieben Folgen ist Resi, das gerade aus den Bergen in die Stadt gekommene 17jährige Dienstmädchen der Familie Reinlein. Sie wird von deren gleichaltrigem Sohn, dem Gymnasiasten Max Reinlein jun., geschwängert, als sich dessen Eltern für einen Tag in Brünn aufhalten. Das Dienstmädchen hat nur eine Freundin namens Leni und im Heimatdorf ihren Verehrer Franz Rittler, der ihr rührende Postkarten schreibt. Im siebten Monat (ihres Dienstes und ihrer Schwangerschaft) stürzt sie beim Arbeiten von einer Leiter, gebiert ein totes Kind und stirbt schließlich selbst. In der sechsten Folge findet sich ein innerer Monolog der Sterbenden. </note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Übersetzung">
       <monogr>
          <title>Arthur Schnitzler: Komödie der Verführung. [Französische Übersetzung]</title>
          <editor role="translator" key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></editor>
@@ -617,7 +622,7 @@
          <p>Pollaczek begann mit der Übersetzung im Dezember 1926, jedenfalls ist die Arbeit am 1. Akt dokumentiert.<note type="footnote" n="27">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp404"/></note> Am 22. und 23. April 1927 diktierte sie Frieda Pollak.<note type="footnote" n="28">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp424"/>.</note></p>
       </note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Novelle">
       <analytic>
          <title>Nannis Erwachen. Novelle</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -641,7 +646,7 @@
       <note type="summary">Die frischverheiratete junge Titelheldin befindet sich am Semmering auf der Hochzeitsreise mit ihrem Gatten Adolf Waldner, einem Fabriksbesitzer, als sie sich vor ihm zu ekeln beginnt. Er gibt sie frei und sie eilt zum Bahnhof, um zu ihrer Schwester zu reisen. Sie läßt jedoch den Zug davonfahren, um zu ihm zurückzukehren. </note>
          <note type="editorial">Als Arbeitstitel auch <title>Nani</title> genannt. Sollte ursprünglich in der <title>Neuen Freien Presse</title> vom 25. Dezember 1926 erscheinen.<note type="footnote" n="29"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp395"/> Zum erwähnten Film vgl. <ref subtype="schnitzler-tagebuch" type="URL" target="1925-10-19"/>.</note> Erwähnung in einem Brief an Schnitzler.<note type="footnote" n="30">Clara Katharina Pollaczek an Arthur Schnitzler, Brief vom 31. Dezember 1926. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp408"/></note></note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78331">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78331" type="Novelle">
       <analytic>
          <title>Mord. Novelle</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -670,7 +675,7 @@
       <note type="summary">Die Schauspielerin Julia Jergic wird ermordet in einem Wiener Vorstadthaus aufgefunden. Die Mordwaffe – ein juwelenbesetztes Papiermesser zum Aufschneiden von Romanen – steckt noch in ihrer Brust, unter ihrem Bett findet sich ein Medaillon mit dem Bild des Arztes Dozent Petter. Was als Detektivstory beginnt, entpuppt sich als die Geschichte einer unglücklichen Liebe: Die letzten beiden Fortsetzungen geben einen Brief der Nachbarin der Ermordeten wieder, der russischen Kunstgeschichtsstudentin Vera Strumow, die ihrem Geliebten Petter die Tat gesteht – schon ihr Vater habe die Mutter unzählige Male wegen so schlechter Frauen betrogen, wie Jergic eine gewesen sei, die versucht habe, sich den Mediziner zu angeln (er blieb Vera jedoch treu). Vera, die mit ihrer Tat nach dem Vorbild von Charlotte Corday einen Pars-pro-toto-Mord begangen haben will, stellt sich dem Richter. </note>
       <note type="commentary">Erwähnt bei Woisetschläger.<note type="footnote" n="31"><bibl><author>Woisetschläger</author>, <title>Rezeption neuer Erzählliteratur</title> (Anm. 2), <biblScope unit="page">S. 370</biblScope></bibl>.</note> <bibl><author>Tallian</author>, <biblScope unit="page" n="44–47">S. 44–47</biblScope></bibl>, nimmt mit Hinweis auf <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp445"/> an, daß Pollaczek die Figur der Julia Jergic nach Vilma Liechtenstein modelliert habe. </note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Lyrik">
       <analytic>
          <title>Nach Sonnenuntergang. Gedicht</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -689,7 +694,7 @@
       </monogr>
       <note>Wieder in <bibl><author>Pollaczek</author>, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="5">S. 5</biblScope></bibl>.</note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78317">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78317" type="Roman">
       <analytic>
          <title>Der Aufstieg. Roman</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -794,7 +799,7 @@
       <note type="summary">Die Familie der Grafen Hegenbach ist nach dem Untergang der Monarchie vom sozialen und monetären Abstieg betroffen. Der Sohn Franz Rüdiger von Hegenbach nimmt nach einer Zeitungsannonce: »Privatsekretär zu erstem Finanzmann gesucht. Beste Familie. Tadellose Umgangsformen, Sprachenkenntnisse, einwandfreies Vorleben Bedingung. Geboten wird hoher Gehalt, Equipierungsbeitrag, eventuell Wohnung. Adresse im Ankündigungsbureau des Blattes« – eine Stelle bei dem übel beleumundeten, aber unermeßlich reichen jüdischen Kriegsgewinnler Edmond Petrides an, freilich mit Folgen. Hinzu kommt die Verwicklung staatstragender Persönlichkeiten und ein Erpressungsjournalismus à la Imre Békessy. Am Ende wird die alte Ordnung restituiert, nachdem Petrides an einem Herzschlag stirbt als alles aufzufliegen droht. Die sehr unterschiedlichen Söhne des Verstorbenen tragen deutlich die Züge von Pollaczeks eigenen Kindern (Kurt ist der Frauenheld und Bonvivant, Fritz der Labormediziner und begeisterte Bakteriologe, der die Christin Lisa Simic heiratet; das Verlöbnis wird geschlossen, als sie noch in die Schule geht). Seine Frau Jo(landa), eine Jüdin aus Odessa, ermöglicht Franz Hegenbach den fliegenden Wechsel vom Geliebten zum Ehemann und Kindsvater, verschafft ihm eine Stelle in einem Wasserkraftwerk und kauft auch das Familienschloß derer von Hegenbach in Schwarzau zurück, wo der Epilog eine harmonische Weihnachtsszene aufruft. </note>
          <note type="editorial">Bei einem Treffen mit Paul Wiegler vom Ullstein-Verlag verspricht dieser gegenüber Schnitzler, den »Roman« zu lesen.<note type="footnote" n="32">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp409"/> In <ref type="URL" subtype="schnitzler-tagebuch" target="1927-04-27"/> wird nur ein Essen mit Wiegler erwähnt, ohne den Gesprächsinhalt wiederzugeben.</note> Auch Samuel Fischer will dies tun.<note type="footnote" n="33">Vgl. <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp413"/></note> Moriz Benedikt ruft nach der Lektüre »um 12 Uhr Nachts [an] wegen des russischen Akzent[s] der Jo (in meinem Roman). Unleidliche Sekatur.«<note type="footnote" n="34"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp491"/> Es handelt sich um einen Tagebucheintrag vom 10. November 1927.</note> Zur Rezeption notiert Pollaczek am 7. November 1927: »Jeden Augenblick stürzt jemand anderer auf mich zu, um mir ein paar freundliche Worte und auch mehr wegen meines Romans zu sagen.«<note type="footnote" n="35"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp490"/></note> Wiederveröffentlicht in einem Band im Verlag der Neuen Freien Presse </note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78327">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78327" type="Roman">
       <analytic>
          <title>Hausgeister. [Volksstück]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -807,12 +812,12 @@
             <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
-      <note resp="#SK">
+      <note resp="#SK" type="editorial">
          <p>nicht ermittelbar </p>
          <p>Wird mit dem Volkstheaterpreis 1927 ausgezeichnet, was Pollaczek am 3. Dezember 1927 durch einen Anruf aus der Redaktion der <title>Neuen Freien Presse</title> erfährt: »Heute Nacht Anruf der Presse, ob ich mich an dem Preisausschreiben des Volkstheaters beteiligt habe. Wusste im ersten Augenblick nicht, was sie meinen. Dann fiel mir ein, dass ich im Februar ein Stück eingereicht habe. Ich sagte: ›Ja, warum?‹ – ›Weil Sie einen Preis haben!‹ Ich war weg vor Freude, konnte nicht mehr einschlafen. In der Früh schon die Mitteilung in der Zeitung, telegraphierte A. Mittag bei Bloch geladen, allgemeines Angratulieren.«<note type="footnote" n="36"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp493"/></note> – Preishöhe 500 Schilling. Zur Preisvergabe vgl. <bibl><title>Neue Freie Presse, <ref target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19271203&amp;seite=8">3.12.1927</ref></title>, <biblScope unit="page" n="8">S. 8</biblScope></bibl>.</p>
       </note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78330">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78330" type="Drama">
       <analytic>
          <title>Mimi und Gwendy</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -825,12 +830,12 @@
             <note type="editorial">nicht ermittelbar</note>
          </imprint>
       </monogr>
-      <note resp="#SK">
+      <note resp="#SK" type="editorial">
          <p>nicht ermittelbar </p>
          <p>Über Vermittlung von Schnitzler an <rs type="person" ref="#pmb__person__11774">Dr. Franz Horch</rs> (Dramaturg am Theater in der Josefstadt) gesandt.<note type="footnote" n="37"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp856"/></note> Am 19. Januar 1931 notiert Pollaczek: »N. M. Rudy mit Maler Zcettel dem ich ›Mimi und Gwendy[‹] übergab, wegen eventueller Beeinflussung des Wildgans.«<note type="footnote" n="38"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp878"/></note> Am 15. August 1931 bei einem Spaziergang in Gastein mit Dr. Horch Gespräch über Aufführungsmöglichkeiten von Schnitzler-Stücken: »Meine eigenen Angelegenheiten (<title>Mimy und Gwendy</title>) nur flüchtig berührt.«<note type="footnote" n="39"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp970"/></note> <rs type="person" ref="#pmb__person__3025">Arthur Kahane</rs> (Dramaturg am Deutschen Theater) findet das Stück in einem Brief »reizend«<note type="footnote" n="40"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp552"/></note> und reagiert Schnitzler gegenüber auf einen Gruß Pollaczeks mit dem Ausruf »Ah, Ihre Schülerin«.<note type="footnote" n="41">Arthur Schnitzler an Clara Katharina Pollaczek, Brief vom 13. März 1929. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp650"/></note></p>
       </note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Lyrik">
       <analytic>
          <title>Wissen um den Tod. Gedicht</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -849,7 +854,7 @@
       </monogr>
       <note>Die Vertonung von einem Komponisten Hiller wurde am 28. Februar 1931 im Industriehaus uraufgeführt.<note type="footnote" n="42"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp885"/>f.</note> Wieder in <bibl><author>Pollaczek</author>, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="27">S. 27</biblScope></bibl>. </note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Roman">
       <monogr>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <title>
@@ -866,7 +871,7 @@
          <p>Begonnen am 8. November 1927, Abschluß der Korrekturen am 19. Juni 1928 auf einer Salzkammergut-Reise mit Schnitzler.<note type="footnote" n="43"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp552"/></note></p>
       </note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Novelle">
       <analytic><!-- SK Ergänzt -->
          <title>Der blinde Barspieler. Novelle</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -890,7 +895,7 @@
       </note>
       <note type="summary">Früh erblindet der Protagonist Peter, doch nicht ohne zuvor noch Noten lesen und dann aus Gehör und Gedächtnis Klavier spielen zu lernen. Er bringt Mutter und Schwester mit Klavierspiel für ein Stummfilmkino am Wiener Gürtel über die Runden, nachdem der Vater stirbt; als die Mutter stirbt und längere Krankheit in einem Winter ihn seine Stelle verlieren lassen, bleiben die Schwester und er auf die Mieteinnahmen durch das an den Freund Eduard vermietete Zimmer angewiesen. Eduard vermittelt ihm für den Sommer eine Stelle als Barpianist im Restaurant »Stella d’Italia« in Gardone. Dort verliebt er sich in eine ihn wegen seiner Blindheit bemitleidende amerikanische Touristin; als diese mit ihrem Verlobten weiterreist, verliert sein Spiel jede Anmut. Nach Verlust auch dieser Anstellung geht er statt in die Herberge geradeaus in den See.</note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78328">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78328" type="Novelle">
       <analytic>
          <title>Lasttiere. Novelle</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -924,7 +929,7 @@
       <note type="summary">Der Gerichtsadjunkt Dr. Bernhard Gimperling aus Plauen im Vogtland ist mit Familie (seiner Frau Hildegard, 28, und den Kindern Walter, 9, Ilse, 7, und Inge, 5) auf der Zugreise in den Sommerurlaub über München und Villach nach Rienz in Tirol. Er lernt noch im Zugabteil die Sängerin Ludmilla Grobinger und die Fabrikantenwitwe Betty Huber (beide aus Wien) kennen. Es bahnt sich ein Reiseflirt an, dessen Vollzug aber trotz Gelegenheit bei einer gemeinsamen Bergwanderung ohne Familie nicht stattfindet. Nach acht Wochen reist die Familie zurück: Hilde ist wieder schwanger. Thema ist die Eintönigkeit des Familienlebens und die Selbstparallelisierung des Protagonisten mit einem Lasttier.</note>
          <note type="editorial">Vgl. die Arbeitsnotizen vom 10. und 11. November 1927<note type="footnote" n="45"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp491"/></note> – Glückwünsche von der Familie erfolgten am 6. Oktober 1928.<note type="footnote" n="46"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp598"/></note></note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Lyrik">
       <analytic>
          <title>Im Aeroplan. Gedicht</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -943,7 +948,7 @@
       </monogr>
       <note type="editorial">Unter dem Titel <title>Flug zu Zweit</title> wieder in <bibl><author>Pollaczek</author>, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="21">S. 21</biblScope></bibl>.</note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78325">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78325" type="Novelle">
       <analytic>
          <title>Die Tochter des Hauses. Novelle</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -992,7 +997,7 @@
             <p>An mehrere Verleger unter dem Pseudonym »Clemens Pidoll« geschickt.<note type="footnote" n="50">Ebd.</note> Letztlich unter dem Titel <title>Tochter des Hauses</title> in der <title>Neuen Freien Presse</title> abgedruckt – »meine Novelle genommen NFP 1000 S« (16. Mai 1929)<note type="footnote" n="51"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp697"/></note> – Problem wegen »Verstümmelung meiner Novelle« – in dieser Sache 17. Juni 1929 Brief an Paul Wertheimer von der <title>Neuen Freien Presse</title>.<note type="footnote" n="52"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp704"/></note> Auch gedruckt in einem Novellenband des Verlags der <title>Neuen Freien Presse</title>. </p>
       </note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78324">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78324" type="Roman">
       <analytic>
          <title>Die Schönheit der Konstanze</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1087,7 +1092,7 @@
          <note type="editorial"><p>In Pollaczeks Tagebuch heißt es am 4. Juli 1929, daß die <title>Neue Freie Presse</title> den Roman in den nächsten Tagen bringen will.<note type="footnote" n="53"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp707"/></note> Als Schreibungsvariante findet sich <title>Die Schönheit der Constanze</title>.<note type="footnote" n="54"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp738"/>f.</note></p>
          <p>Wieder in einem Band des Verlags der <title>Neuen Freien Presse</title> veröffentlicht. </p></note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/118897">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/118897" type="Übersetzung">
       <analytic>
          <title>Schluchzen. Gedicht von Paul Géraldy. [Übersetzung]</title>
          <editor role="translator"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></editor>
@@ -1106,7 +1111,7 @@
          </imprint>
       </monogr>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78334">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78334" type="Novelle">
       <analytic>
          <title>Über Nacht. Novelle</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1134,7 +1139,7 @@
       <note type="summary">Julia, eine Dame der besseren Gesellschaft, besucht gemeinsam mit ihrem etwa gleichaltrigen Liebhaber Stephan eine Abendgesellschaft. Als Stephan sich seiner wesentlich jüngeren Sitznachbarin zuwendet, verläßt sie das Fest und eilt durch den Regen nach Hause. Sie beschließt fortan nicht mehr jugendlich erscheinen zu wollen, entsorgt ihre Kleidung, schneidet ihre rotgefärbten Haare und will sich – über Nacht gealtert – mit einem Dasein als alte Dame und Großmutter begnügen. </note>
          <note type="editorial">Zurückerhalten am 3. Januar 1930.<note type="footnote" n="55"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp750"/></note> Erscheint ab »21.4. Ostermontag […] Gestern Osterbeilage Beginn meiner Novelle ›Ueber Nacht‹«.<note type="footnote" n="56"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp771"/></note></note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Rezension">
       <analytic>
          <title>Internationale Kunstausstellung Karlsbad. [Rezension]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1153,7 +1158,7 @@
       </monogr>
       <note>Wohlwollende Rezension der Ausstellung, die Pollaczek als Nebenprodukt ihres Aufenthalts in Karlsbad im Juli 1930 veröffentlichte. </note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78318">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78318" type="Drama">
       <analytic>
          <title>Dame. Drama</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1178,7 +1183,7 @@
       <note type="summary">Pollaczek veröffentlicht hier nur einen Auszug aus der »Komödie in drei Aufzügen« (der Rest konnte nicht ermittelt werden): Die gutsituierte Präsidentin des Vereins schutzbedürftiger junger Mädchen mit Namen Valentine ist bei einem Spaziergang durch die Vorstadt in ein Gewitter geraten. Sie findet Aufnahme bei der sichtlich armen Poldi in der Blümchengasse, die ihr Gewand trocknet und Tee für sie kocht. Valentine ist freundlich, interessiert und hilfsbereit – bis ihr klar wird, daß sie sich im Haushalt einer Prostituierten befindet. Sie ergreift die Flucht hinaus ins Unwetter – Poldi gibt ihr zornig ihre Spende zurück und ruft ihren Kunden aus dem Nebenzimmer. </note>
          <note type="editorial"><p>Erwähnt schon 1929,<note type="footnote" n="57"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp709"/>, <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp711"/></note> angenommen für <title>Neue Freie Presse</title> am 26. Juni 1930,<note type="footnote" n="58"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp782"/></note> zweiter Teil am 5. Oktober 1930 in der <title>Neuen Freien Presse</title> unter Fehldatierung des ersten Teils (»30.9.1930«).<note type="footnote" n="59"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp836"/>, <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp837"/></note></p></note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78319">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78319" type="Drama">
       <analytic>
          <title>Das Fräulein von Corday d’Armont. Vorwurf zu einer Szene aus dem dreiaktigen historischen Drama</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1205,7 +1210,7 @@
          <note type="editorial">Idee zum Drama über Charlotte Corday bereits vor 26. August 1897.<note type="footnote" n="60"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp044"/> „Ich hab die Idee ‚Charlotte Corday‘ zu dramatisieren und bin nun bei der Akt-Einteilung. Ich habe vorher viel über sie gelesen. Herr Heutler schickte mir zu dem Zweck ein sehr gutes Buch von Lamartine das mir viel nützt wenn auch meine Auffassung eine ganz andere ist. Ich seh nämlich in ihr keine Heldin, sondern ein ganz modernes Weib, nach den allgemeinen Begriffen modern, das eben ihrer Zeit voraus ist. Ihre ‚Tat‘ ist die Eitelkeit eine verklärende Rolle zu spielen, Sucht nach Unsterblichkeit, ein bischen Hysterie und naive politische Anschauung. So seh ich sie eigentlich in keinem sympathischen aber doch reizvollen Licht. Was sagst Du dazu?«</note> Vorarbeiten ab dem 30. Juli 1926,<note type="footnote" n="61"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp353"/></note> den Titel entwickelt Pollaczek in einem Brief an Schnitzler.<note type="footnote" n="62">Clara Katharina Pollaczek an Arthur Schnitzler, Brief vom 3. Dezember 1927. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp502"/></note> Erste Fassung beendet vor dem 6. Juli 1930,<note type="footnote" n="63"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp784"/></note> erster Akt diktiert am 17. Februar 1930.<note type="footnote" n="64"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp764"/></note> In der <title>Neuen Freien Presse</title> nur eine Szene in drei Fortsetzungen (am 6. Januar 1931 Eintrag »›Corday‹ wieder in drei Fortsetzungen zerfetzt. Neue Freie Presse!!!!«).<note type="footnote" n="65"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp871"/></note>
          </note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78332">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78332" type="Novelle">
       <analytic>
          <title>Mütter. Novelle</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1238,7 +1243,7 @@
       <note type="summary">Der ewige Junggeselle Martin und Leonie, die bereits Mutter einer Tochter namens Tilli aus erster Ehe ist, heiraten nach einer langjährigen Beziehung doch und ziehen nach Rosenau auf das Gut von Martins Mutter, die in England lebt. Tilli ist mit dem Sportler Bob verheiratet. Plötzlich empfinden die beiden Frauen, Leonie und Tilli, »Angst, den geliebten Mann, wenn auch nicht zu verlieren, so doch weniger zu besitzen«: Martin will – das entnimmt Leonie einem Brief von dessen Mutter – das Gut verkaufen, Bob hat eine Schwangerschaft zum Scheidungsgrund erklärt. Beide Mütter tauschen im zweiten Kapitel Platz: Leonie gibt sich nach einer Scheinschwangerschaft als die Mutter des Kindes ihrer Tochter aus. Als Bob und Martin mit dem Flugzeug statt per Bahn in Luzern erscheinen, fliegt alles auf. Doch alles endet gut, wenn auch in einer Trennung der Haushalte von Martin und Leonie, die damit wieder zu Geliebten werden. </note>
          <note type="editorial">Erster Teil abgeschlossen am 14. November 1930.<note type="footnote" n="66">Clara Katharina Pollaczek an Arthur Schnitzler, Brief vom 14. November 1930. In: <ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp851"/></note> Termin mit Moriz Benedikt am 18. Januar 1931 diesbezüglich.<note type="footnote" n="67"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp878"/></note></note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Aphorismen">
       <analytic>
          <title>Betrachtungen. [Aphorismen]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1257,7 +1262,7 @@
       </monogr>
       <note type="editorial">Arbeit daran am 10. Februar 1931,<note type="footnote" n="68"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp887"/></note> Korrekturbogen 21. Juli 1931 am Semmering,<note type="footnote" n="69"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp937"/></note> Typoskript in »Arthur Schnitzler und ich« erhalten.<note type="footnote" n="70"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp962"/> (6 Blatt).</note></note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Lyrik">
       <analytic>
          <title>Arthur Schnitzler. Anläßlich der heutigen Totenfeier im Burgtheater. [Gedicht]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1276,7 +1281,7 @@
       </monogr>
       <note type="editorial">Unter dem Titel <title>Totenfeier</title> wieder in <bibl><author>Pollaczek</author>, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="28">S. 28</biblScope></bibl>.</note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Erzählung">
       <analytic>
          <title>Die Kette. [Erzählung]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1304,7 +1309,7 @@
       <note type="summary">Ferdinand Allgeier, der 45jährige erfolgreiche Prokurist einer Textilfirma, ist seit zehn Jahren mit Irene verheiratet, gemeinsam haben sie Söhne namens Franz und Kurt. Ferdinand soll auf Anraten des Hausarztes, der in diesem Anliegen von Irene und Ferdinands bestem Freund Jules unterstützt wird, zur Erholung an den Gardasee fahren. Irenes Weigerung mitzukommen und weitere Indizien lassen Ferdinand vermuten, daß der beste Freund und die Ehefrau ihn betrügen. Er plant, beide in flagranti zu ertappen. Als er sie belauscht und hört, sie müßten ihn unbedingt wegschaffen, schießt er sich eine Kugel in die Brust. Er überlebt nur mehr solange, um zu erkennen, daß seine eifersüchtige Vermutung falsch war. Nach dem Trauerjahr heiraten Jules und Irene dann wirklich. </note>
          <note type="commentary">Erwähnt bei Woisetschläger.<note type="footnote" n="71"><bibl><author>Woisetschläger</author>, <title>Rezeption neuer Erzählliteratur</title> (Anm. 2), <biblScope unit="page" n="370">S. 370</biblScope></bibl></note></note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Lyrik">
       <analytic>
          <title>An Arthur Schnitzlers 70. Geburtstag. 15. Mai 1932. [Gedicht]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1323,7 +1328,7 @@
       </monogr>
       <note type="editorial">Unter dem Titel <title>Geburtstag eines Toten</title> wieder in <bibl><author>Pollaczek</author>, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="32">S. 32</biblScope></bibl>.</note>
    </biblStruct>
-         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/78335">
+         <biblStruct sameAs="https://pmb.acdh.oeaw.ac.at/entity/78335" type="Roman">
       <analytic>
          <title>Zwischen den Generationen. Roman</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1443,7 +1448,7 @@
          <note type="commentary">Doch nicht nur als »A. S.« taucht Schnitzler auf, im selben Roman vermischen sich die Probleme und Positionen der in eine reiche, großbürgerlich-jüdische Familie (»in der Finanzwelt«) geborenen Protagonistinnen, die allesamt Züge von Pollaczek tragen (Alba, die Mutter, die Duld- und Fügsame, heiratet einen Industriellen; Antonia trifft es weniger glücklich als die Mutter: zahlreiche Liebschaften führen zur Scheidung – die aber vom Ehemann einer der zahlreichen Geliebten ihres Mannes gefordert wird und nicht von Antonia). Antonia verbringt die Zeit des Anbruchs des Ersten Weltkriegs in Hohenschwangau, wo Schnitzler im August 1928 war und von dort aus mit Pollaczek korrespondierte. </note>
          <note type="editorial">Beginn der Arbeit vermutlich am 11. August 1931. Pollaczek liest Schnitzler das erste Kapitel am 23. September 1931 vor – er findet es »ausgezeichnet«.<note type="footnote" n="72"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp982"/> Schnitzler bekommt das zweite Kapitel am 10. Oktober zu lesen (<ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp985"/>).</note> Erwähnt bei Woisetschläger.<note type="footnote" n="73"><bibl><author>Woisetschläger</author>, <title>Rezeption neuer Erzählliteratur</title> (Anm. 2), <biblScope unit="page" n="370">S. 370</biblScope></bibl>.</note> Wieder in einem Band im Verlag der <title>Neuen Freien Presse</title> veröffentlicht. Nachweis des Erscheinungsjahrs jedoch unsicher: Die Buchversion trägt keine Jahreszahl, in Fortsetzungen erst 1933 erschienen.<note type="footnote" n="74">Zur Angabe des Erscheinungsjahrs vgl. <bibl><title>Der kleine Salon. Szenen und Prosa des Wiener Fin de Siècle</title>. Mit Illustrationen von Gustav Klimt. Hg. von <editor>Hansjörg Graf</editor>. <pubPlace>Stuttgart</pubPlace>: <publisher>Goverts</publisher> <date>1970</date>, <biblScope unit="page" n="305">S. 305</biblScope></bibl></note> Möglicherweise ist dies jener Roman, den Pollaczek am 11. August 1931 zu schreiben begann.<note type="footnote" n="75"><ref subtype="arthur-schnitzler-und-ich" type="URL" target="ckp969"/></note></note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Lyrik">
       <analytic>
          <title>Erinnerungsgang. (Cottage 1933.) [Gedicht]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1462,7 +1467,7 @@
       </monogr>
       <note type="editorial">Wieder in <bibl><author>Pollaczek</author>, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="36">S. 36</biblScope></bibl>.</note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Lyrik">
       <analytic>
          <title>Grab im Mai. Gedicht</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1481,7 +1486,7 @@
       </monogr>
       <note type="editorial">Autorinnenname als ›C.K.P.‹</note>
    </biblStruct>
-   <biblStruct resp="#MAM">
+   <biblStruct resp="#MAM" type="Lyrik">
       <analytic><!-- Ergänzung MAM, wieder in Gedichte der Liebe?  -->
          <title>Der alte Bauer. [Gedicht]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1499,7 +1504,7 @@
          </imprint>
       </monogr>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Lyrik">
       <analytic>
          <title>Zum dritten Todestage Arthur Schnitzlers. Sein Zimmer. [Gedicht]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1518,7 +1523,7 @@
       </monogr>
       <note type="editorial">Autorinnenname als „Cl.K.P“. Wieder in <bibl><author>Pollaczek</author>, <title>Gedichte der Liebe</title>, <biblScope unit="page" n="37">S. 37</biblScope></bibl>.</note>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Lyrik">
       <monogr>
          <title>Gedichte der Liebe. Wien: Europäischer Verlag 1936</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1529,7 +1534,7 @@
          </imprint>
       </monogr>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Lyrik">
       <analytic><!-- Ergänzung MAM -->
          <title>Ich seh’ der Stunde ins Gesicht. [Gedicht]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1547,7 +1552,7 @@
          </imprint>
       </monogr>
    </biblStruct>
-   <biblStruct resp="#MAM">
+   <biblStruct resp="#MAM" type="Lyrik">
       <analytic><!-- Ergänzung MAM  -->
          <title>Blick aus dem Fenster. [Gedicht]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1565,7 +1570,7 @@
          </imprint>
       </monogr>
    </biblStruct>
-         <biblStruct resp="#MAM">
+         <biblStruct resp="#MAM" type="Lyrik">
       <analytic><!-- Ergänzung MAM  -->
          <title>Goethe-Weg, Marienbad 1937. [Gedicht]</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
@@ -1583,7 +1588,7 @@
          </imprint>
       </monogr>
    </biblStruct>
-   <biblStruct>
+   <biblStruct type="Übersetzung">
       <monogr>
          <title>Du und ich. Deutsche Nachdichtung von Clara Katharina Pollaczek</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
