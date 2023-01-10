@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="listBibl.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -2139,6 +2139,23 @@
                         </imprint>
                     </monogr>
                 </biblStruct>
-            </listBibl>
+        <biblStruct>
+           <monogr>
+              <title>„A. ist manchmal wie ein kleines Kind“. Clara Katharina Pollaczek und Arthur Schnitzler gehen ins Kino</title>
+              <editor>Michael Rohrwasser</editor>
+              <editor>Stephan Kurz</editor>
+              <editor>Daniel Schopper</editor>
+              <imprint>
+                 <publisher>Böhlau</publisher>
+                 <pubPlace>Wien</pubPlace>
+               <date>2012</date>
+              </imprint>
+           </monogr>
+           <series>
+              <title>manu scripta</title>
+              <biblScope unit="volume">2</biblScope>
+           </series>
+        </biblStruct>
+     </listBibl>
 </standOff>
 </TEI>
