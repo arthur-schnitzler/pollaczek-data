@@ -37,7 +37,7 @@
    <text>
       <body>
          <div>
-            <p ana="editor">Die Personalbibliografie erschien erstmals 2012 gedruckt als Teil des biografischen Abrisses zu Clara Katharina Pollaczek in der Buchpublikation <title>„A. ist manchmal wie ein kleines Kind“. Clara Katharina Pollaczek und Arthur Schnitzler gehen ins Kino</title> (hrsg. v. Michael Rohrwasser und Stephan Kurz unter Mitarbeit von Daniel Schopper) Wien: Böhlau 2012. Die hier vorgelegte Version wurde von Martin Anton Müller durchgesehen und nicht zuletzt um die bereits zuvor bestehende Linksammlung zu den (2011 noch ohne Volltextsuche aufgefundenen) Tageszeitungsdigitalisaten aus ANNO erweitert sowie von Stephan Kurz nochmals technisch überarbeitet. Es folgt der Einleitungstext von 2012.</p>
+            <p ana="editor">Die Personalbibliografie erschien erstmals 2012 gedruckt als Teil des biografischen Abrisses zu Clara Katharina Pollaczek in der Buchpublikation <title>„A. ist manchmal wie ein kleines Kind“. Clara Katharina Pollaczek und Arthur Schnitzler gehen ins Kino</title> (hrsg. v. Michael Rohrwasser und Stephan Kurz unter Mitarbeit von Daniel Schopper) Wien: Böhlau 2012. Die hier vorgelegte Version wurde von Martin Anton Müller durchgesehen und nicht zuletzt um die bereits zuvor bestehende Linksammlung zu den (2011 noch ohne Volltextsuche aufgefundenen) Tageszeitungsdigitalisaten aus ANNO erweitert sowie von Stephan Kurz nochmals technisch überarbeitet und in eine tei:listBibl umgeformt. Auch die Sekundärbibliografie wurde mit dem Stand von 2012 in diese Datei übernommen. Es folgt der Einleitungstext von 2012.</p>
             <p ana="editor" resp="#SK">Versammelt sind sämtliche auffindbaren Texte der Autorin Clara Katharina Pollaczek in der Reihenfolge ihres Erscheinens und in der hier nachgewiesenen Fassung. Die Suche beschränkte sich im Wesentlichen auf die <title>Neue Freie Presse</title>, wo ein Großteil der in Pollaczeks <title>Arthur Schnitzler und ich</title> erwähnten Texte zwischen 1924 und 1931 erschien.<note type="footnote" n="1">Gerade das <title>Neue Wiener Tagblatt</title> bedürfte noch einer eingehenderen Untersuchung auf Texte von Pollaczek hin – die Ankündigung für den Roman <title>Das Kind der Liebe</title> vom 3. September 1926 verzeichnet: »Die Wiener Schriftstellerin ist unsern Lesern nicht mehr unbekannt, wiederholt schon bot sie Proben ihrer vornehmen und psychologisch feinen Erzählungskunst dar.« Dies läßt auf weitere Texte der Autorin schließen, die dort erschienen sind, aber nicht ermittelt werden konnten.</note> Zudem erwies sich die Aufstellung in Karl Woisetschlägers Dissertation als hilfreich.<note type="footnote" n="2"><bibl><author>Karl Woisetschläger</author>: <title>Die Rezeption neuer Erzählliteratur in der »Neuen Freien Presse« und der »Frankfurter Zeitung« 1918–1933</title>. <pubPlace>Wien</pubPlace>: <publisher>Univ. Diss.</publisher> <date>1991</date>, <biblScope unit="page">S. 370</biblScope></bibl>.</note>
                Alle dramatischen sowie erzählenden Texte sind in der Folge mit einer kurzen Inhaltsangabe versehen. Den in chronologischer Reihenfolge aufgelisteten Texten wird,  wo dies möglich war, der Nachweis von Daten zu ihrer Entstehung angefügt. </p>
          </div>
@@ -93,7 +93,7 @@
       </note>
       <note type="summary">Eine Folge von mehreren Szenen rund um die Titelfigur Mimi, die von der Initiation in die Gesellschaft (»Im Flügel-Kleide«) und den »Ersten Liebestraum« hin zu diversen Ballgesellschaften (»Loin du Bal«, »Schlüpfrig«), amourösen Plänkeleien mit einem Schriftsteller in einem Ruderboot am nächtlichen Millstättersee (»Sommernachtstraum«) und Heiratsplänen, die mit der Freundin (»Plauderei«) und mit der Mutter (»Haus-Theater«) besprochen werden, bis zu den Folgen der Heirat (»Flügellahm«) reichen. </note>
       <note type="editorial">
-         <p>Der Prolog ist abgedruckt in <bibl><author>Hugo von Hofmannsthal</author>: <title>Gesammelte Werke</title>. <biblScope unit="volume">Bd. I.</biblScope> <pubPlace>Berlin</pubPlace>: <publisher>S. Fischer</publisher> <date>1924</date>, <biblScope unit="page">S. 46 f.</biblScope></bibl></p>
+         <p>Der Prolog ist abgedruckt in <bibl><author>Hugo von Hofmannsthal</author> <title>Gesammelte Werke</title>. <biblScope unit="volume">Bd. I.</biblScope> <pubPlace>Berlin</pubPlace>: <publisher>S. Fischer</publisher> <date>1924</date>, <biblScope unit="page">S. 46 f.</biblScope></bibl></p>
          <p>»Mimi« ist wieder abgedruckt in: <bibl><title>Der kleine Salon. Szenen und Prosa des Wiener Fin de Siècle</title>. Mit Illustrationen von Gustav Klimt. Hg. von <editor>Hansjörg Graf</editor>. <pubPlace>Stuttgart</pubPlace>: <publisher>Goverts</publisher> <date>1970</date>, <biblScope unit="page">S. 231–268</biblScope></bibl></p>
       </note>
    </biblStruct>
@@ -1526,7 +1526,7 @@
    </biblStruct>
    <biblStruct type="Lyrik">
       <monogr>
-         <title>Gedichte der Liebe. Wien: Europäischer Verlag 1936</title>
+         <title>Gedichte der Liebe</title>
          <author key="https://d-nb.info/gnd/13950916X"><forename>Clara Katharina</forename> <surname>Pollaczek</surname></author>
          <imprint>
             <pubPlace>Wien</pubPlace>
@@ -1603,6 +1603,7 @@
    </biblStruct>
 </listBibl>
      <listBibl type="Sekundärliteratur">
+        <head>Sekundärliteratur zu Clara Katharina Pollaczek</head>
                 <biblStruct type="journalArticle" xml:id="RohrwasserWahlloseSchaulust" corresp="http://zotero.org/users/5028859/items/M79SVTTC">
                     <analytic>
                         <title level="a">Wahllose Schaulust</title>
