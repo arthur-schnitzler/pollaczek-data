@@ -6,4 +6,6 @@ auf dieser Webseite wurde eingeholt von
 - Werner Michael Schwarz
 - Wienbibliothek
 
-Eine freie Lizenz auf das Buch in seiner layoutierten Form können wir allerdings nicht vergeben. 
+Die Brill Österreich GmbH erteilte keine Publikationserlaubnis, da das in Frage stehende Buch noch lieferbar ist. Die HerausgeberInnen ersuchen daher um Erwerbung der restlichen Exemplare. 
+
+Eine freie Lizenz auf das Buch in seiner layoutierten Form können wir nicht vergeben. 
