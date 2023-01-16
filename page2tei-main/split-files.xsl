@@ -5,8 +5,6 @@
     <xsl:output name="xml" method="xml" indent="yes" omit-xml-declaration="yes"/>
     <!-- directory of new files -->
     <xsl:param name="dir">../editions</xsl:param>
-<!--    <xsl:param name="toc" select="document('../../data/toc.xml')"/>-->
-<!--    <xsl:param name="toc" select="document('https://raw.githubusercontent.com/arthur-schnitzler/pollaczek-data/main/data/toc.xml')"/>-->
     
     <xsl:param name="toc" select="document('https://raw.githubusercontent.com/arthur-schnitzler/pollaczek-data/main/data/toc.xml')"/>
         
@@ -18,20 +16,6 @@
     <xsl:template match="/*">
         <xsl:for-each select="//*:seite">
             <xsl:variable name="dateiname" as="xs:string">
-                <!--<xsl:choose>
-                    <xsl:when test="string-length(@id) = 1">
-                        <xsl:value-of select="concat('ckp00', @id)"/>
-                    </xsl:when>
-                    <xsl:when test="string-length(@id) = 2">
-                        <xsl:value-of select="concat('ckp0', @id)"/>
-                    </xsl:when>
-                    <xsl:when test="string-length(@id) = 3">
-                        <xsl:value-of select="concat('ckp', @id)"/>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <xsl:value-of select="@id"/>
-                    </xsl:otherwise>
-                </xsl:choose>-->
                 <xsl:choose>
                     <xsl:when test="position() &lt; 10">
                         <xsl:value-of select="concat('ckp00', position())"/>
