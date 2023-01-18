@@ -15,7 +15,7 @@
    </teiHeader>
    <text>
       <body>
-         <p>Wer sich durch diese digitale Ausgabe liest, wird nicht lange suchen müssen, um auf Fehler zu
+         <div><p>Wer sich durch diese digitale Ausgabe liest, wird nicht lange suchen müssen, um auf Fehler zu
             stoßen. Wir glauben jedoch, dass die Texterkennung auch ohne eine genaue Textkontrolle
             einen lesbaren Text erzeugt hat. Darum gibt es diese Ausgabe schon in der vorliegenden
             Form.</p>
@@ -27,16 +27,37 @@
                target="https://readcoop.eu/transkribus/?sc=Transkribus">Transkribus</ref> zu und
             mailen Sie uns Ihren Usernamen. Wir geben Ihnen Zugang zum Dokument und geben genauere
             Auskunft.</p>
-         <p/>
+      <p/></div>
+         <div>
+         <head type="sub">Helferinnen und Helfer</head>
+          <p>Folgende Personen haben sich engagiert und zur Verbesserung beigetragen:</p>
+            <list>
+               <item>Michael Mangel</item>
+            </list>
+         </div>
+         <div>
+           
+            <head type="sub">Durchsicht</head>
          <p>Auf folgende Punkte ist bei der Durchsicht besonders zu achten:</p>
          <list>
             <item>Fehlende Unterstreichungen</item>
-            <item>Trennzeichen am Ende einer Zeile mit eckigem Winkelzeichen (»¬«) statt
-               (»-«)</item>
             <item>Korrektur von Abstandsfehlern oder falsch erkannten Zeichen</item>
             <item>Entfernung von gelöschten Zeichen (»xxxx«), Seitenzahlen (»S. 2«) und
                Seitenköpfen</item>
+            <item>Einarbeiten von (handschriftlichen) Korrekturen der Vorlage. Öfter kommt vor,
+            dass ein Wort zwischen die Zeilen über die zu ändernde Stelle getippt ist. Dann wird
+            das Wort über der Zeile an die richtige Stelle gesetzt, das damit ersetzte Wort wird entfernt.</item>
+            <item>Wenn am Zeilenende ein Bindestrich steht und das Wort weitergeht, wird
+               der Bindestrich durch ein eckiges Winkelzeichen (»¬«) ersetzt (Beispiel: »Schlaf¬«, nächste 
+               Zeile: »wagen«)</item>
+            <item>Wenn am Zeilenende ein Bindestrich steht und das Wort eine Zusammenfügung ist,
+               kommt »-¬« (Beispiel »Darm-¬«, nächste Zeile: »Grippe«)</item>
+            <item>Im Falle einer Wortverbindung mit gemeinsamen Anteil bleibt der Bindestrich (Beispiel: »Vor-«,
+               nächste Zeile: »und Nachname«)</item>
+            <item>In allen Fällen außer Wortverbindungen (»Maul-und-Klauen-Seuche«) wird ein Bindestrich zum Halbgeviertstrich »–«</item>
+            <item>Doppelte Anführungszeichen »"« werden durch französische ersetzt »«</item>            
          </list>
+         </div>
       </body>
    </text>
 </TEI>
