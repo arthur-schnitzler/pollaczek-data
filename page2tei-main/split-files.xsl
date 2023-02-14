@@ -100,9 +100,10 @@
                             <editionStmt>
                                 <edition>CKP</edition>
                                 <respStmt>
-                                    <resp>Transkription und Kommentierung</resp>
+                                    <resp>Transkription</resp>
                                     <name>Müller, Martin Anton</name>
                                     <name>Untner, Laura</name>
+                                    <name>Mangel, Michael</name>
                                 </respStmt>
                             </editionStmt>
                             <publicationStmt>
