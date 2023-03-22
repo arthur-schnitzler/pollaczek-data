@@ -164,7 +164,6 @@
   <xsl:template match="mets:file" mode="text">
     <xsl:variable name="file" select="document(mets:FLocat/@xlink:href, .)"/>
     <xsl:variable name="numCurr" select="@SEQ"/>
-
     <xsl:apply-templates select="$file//p:Page" mode="text">
       <xsl:with-param name="numCurr" select="$numCurr" tunnel="true"/>
     </xsl:apply-templates>
@@ -282,10 +281,11 @@
 
     <xsl:variable name="coords" select="tokenize(p:PrintSpace/p:Coords/@points, ' ')"/>
     <xsl:variable name="type" select="@imageFilename"/>
-
+    <xsl:element name="seite">
     <pb facs="{substring-before($type, '.jpg')}"/>
     <xsl:apply-templates select="p:TextRegion | p:SeparatorRegion | p:GraphicRegion | p:TableRegion"
       mode="text"/>
+    </xsl:element>
   </xsl:template>
 
   <xd:doc>
@@ -353,16 +353,15 @@
           <xsl:apply-templates select="p:TextLine"/>
         </note>
       </xsl:when>
-      <!--<xsl:when test="@type = ('other', 'paragraph')">
+      <xsl:when test="@type = ('other', 'paragraph')">
         <p facs="#facs_{$numCurr}_{@id}">
+          <xsl:text>porsche</xsl:text>
           <xsl:apply-templates select="p:TextLine"/>
         </p>
-      </xsl:when>-->
+      </xsl:when>
       <!-- the fallback option should be a semantically open element such as <ab> -->
       <xsl:otherwise>
-        <seite>
           <xsl:apply-templates select="p:TextLine"/>
-        </seite>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
