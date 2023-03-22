@@ -354,7 +354,7 @@
         </note>
       </xsl:when>
       <xsl:when test="@type = ('other', 'paragraph')">
-        <paragraph-begin/><xsl:apply-templates select="p:TextLine"/>
+        <xsl:apply-templates select="p:TextLine"/>
       </xsl:when>
       <!-- the fallback option should be a semantically open element such as <ab> -->
       <xsl:otherwise>
@@ -585,6 +585,9 @@
       <!-\-<xsl:text>&lt;p&gt;</xsl:text>-\->
       <paragraph-start/>
     </xsl:if>-->
+    <xsl:if test="contains(@custom, 'paragraph')">
+      <xsl:element name="paragraph-begin"/>
+    </xsl:if>
     <lb n="{format-number($pos, '00')}"/>
     <xsl:apply-templates select="$prepared/text()[not(preceding-sibling::local:m)]"/>
     <xsl:apply-templates select="
