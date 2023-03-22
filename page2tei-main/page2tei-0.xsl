@@ -282,7 +282,7 @@
     <xsl:variable name="coords" select="tokenize(p:PrintSpace/p:Coords/@points, ' ')"/>
     <xsl:variable name="type" select="@imageFilename"/>
     <xsl:element name="seite">
-    <pb facs="{substring-before($type, '.jpg')}"/>
+    <!--<pb facs="{substring-before($type, '.jpg')}"/>-->
     <xsl:apply-templates select="p:TextRegion | p:SeparatorRegion | p:GraphicRegion | p:TableRegion"
       mode="text"/>
     </xsl:element>
@@ -354,10 +354,7 @@
         </note>
       </xsl:when>
       <xsl:when test="@type = ('other', 'paragraph')">
-        <p facs="#facs_{$numCurr}_{@id}">
-          <xsl:text>porsche</xsl:text>
-          <xsl:apply-templates select="p:TextLine"/>
-        </p>
+        <paragraph-begin/><xsl:apply-templates select="p:TextLine"/>
       </xsl:when>
       <!-- the fallback option should be a semantically open element such as <ab> -->
       <xsl:otherwise>
