@@ -281,7 +281,7 @@
 
     <xsl:variable name="coords" select="tokenize(p:PrintSpace/p:Coords/@points, ' ')"/>
     <xsl:variable name="type" select="@imageFilename"/>
-    <xsl:element name="seite">
+    <xsl:element name="page">
     <!--<pb facs="{substring-before($type, '.jpg')}"/>-->
     <xsl:apply-templates select="p:TextRegion | p:SeparatorRegion | p:GraphicRegion | p:TableRegion"
       mode="text"/>

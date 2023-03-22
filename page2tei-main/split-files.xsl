@@ -5,16 +5,13 @@
     <xsl:output name="xml" method="xml" indent="yes" omit-xml-declaration="yes"/>
     <!-- directory of new files -->
     <xsl:param name="dir">../editions</xsl:param>
-    
-    <xsl:param name="toc" select="document('https://raw.githubusercontent.com/arthur-schnitzler/pollaczek-data/main/data/toc.xml')"/>
-        
-    
-    
+    <xsl:param name="toc"
+        select="document('https://raw.githubusercontent.com/arthur-schnitzler/pollaczek-data/main/data/toc.xml')"/>
     <xsl:key name="toc-title" match="*:item" use="@xml:id"/>
     <!-- output xml file for each letter tag with file name according to number of xml files in output directory (+1) -->
     <xsl:param name="n" select="count(collection(concat($dir, '?select=*.xml')))"/>
     <xsl:template match="/*">
-        <xsl:for-each select="//*:seite">
+        <xsl:for-each select="//*:page">
             <xsl:variable name="dateiname" as="xs:string">
                 <xsl:choose>
                     <xsl:when test="position() &lt; 10">
@@ -64,21 +61,22 @@
                                                 <xsl:text>Clara Katharina Pollaczek an Arthur Schnitzler, 6.&#160;8.&#160;1931</xsl:text>
                                             </xsl:when>
                                             <xsl:otherwise>
-                                                <xsl:value-of select="$inhalt-nachschlagen/*:title"/>
+                                                <xsl:value-of select="$inhalt-nachschlagen/*:title"
+                                                />
                                             </xsl:otherwise>
                                         </xsl:choose>
                                     </title>
-                                <xsl:for-each select="$inhalt-nachschlagen/*:date/@when">
-                                    <xsl:element name="title"
-                                        namespace="http://www.tei-c.org/ns/1.0">
-                                        <xsl:attribute name="type">
-                                            <xsl:text>alternative</xsl:text>
-                                        </xsl:attribute>
-                                        <xsl:attribute name="when-iso">
-                                            <xsl:value-of select="."/>
-                                        </xsl:attribute>
-                                    </xsl:element>
-                                </xsl:for-each>
+                                    <xsl:for-each select="$inhalt-nachschlagen/*:date/@when">
+                                        <xsl:element name="title"
+                                            namespace="http://www.tei-c.org/ns/1.0">
+                                            <xsl:attribute name="type">
+                                                <xsl:text>alternative</xsl:text>
+                                            </xsl:attribute>
+                                            <xsl:attribute name="when-iso">
+                                                <xsl:value-of select="."/>
+                                            </xsl:attribute>
+                                        </xsl:element>
+                                    </xsl:for-each>
                                 </xsl:if>
                                 <author ref="#12435">Pollaczek, Clara Katharina</author>
                                 <editor>
