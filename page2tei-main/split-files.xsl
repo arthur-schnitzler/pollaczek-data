@@ -189,7 +189,7 @@
                                 <xsl:attribute name="n">
                                     <xsl:value-of select="'1'"/>
                                 </xsl:attribute>
-                                <xsl:copy-of select="."/>
+                                <xsl:copy-of select="child::*"/>
                             </xsl:element>
                         </body>
                     </text>
