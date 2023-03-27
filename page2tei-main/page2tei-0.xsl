@@ -356,7 +356,7 @@
       <xsl:when test="@type = ('other', 'paragraph')">
         <xsl:for-each-group select="p:TextLine" group-starting-with="@custom[contains(text(), 'type:paragraph')]">
           <xsl:element name="p" namespace="http://www.tei-c.org/ns/1.0">
-            <xsl:apply-templates select="p:TextLine"/>
+            <xsl:apply-templates select="current-group()"/>
           </xsl:element>
         </xsl:for-each-group>
       </xsl:when>
@@ -364,7 +364,7 @@
       <xsl:otherwise>
         <xsl:for-each-group select="p:TextLine" group-starting-with="@custom[contains(text(), 'type:paragraph')]">
           <xsl:element name="p" namespace="http://www.tei-c.org/ns/1.0">
-            <xsl:apply-templates select="p:TextLine"/>
+            <xsl:apply-templates select="current-group()"/>
           </xsl:element>
         </xsl:for-each-group>
       </xsl:otherwise>
