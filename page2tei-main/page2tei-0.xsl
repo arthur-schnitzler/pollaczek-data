@@ -581,14 +581,14 @@
     <!-- TODO parameter to create <l>...</l> - #1 -->
     <xsl:text>
       </xsl:text>
-    <!--<xsl:if test="contains(@custom, 'type:paragraph')">
-      <!-\-<xsl:text>&lt;p&gt;</xsl:text>-\->
-      <paragraph-start/>
-    </xsl:if>-->
-    <xsl:if test="contains(@custom, 'paragraph')">
-      <xsl:element name="paragraph-begin"/>
-    </xsl:if>
-    <lb n="{format-number($pos, '00')}"/>
+    <xsl:choose>
+      <xsl:when test="contains(@custom, 'paragraph')">
+        <lb n="{format-number($pos, '00')}" type="paragraph-begin"/>
+      </xsl:when>
+      <xsl:otherwise>
+        <lb n="{format-number($pos, '00')}"/>
+      </xsl:otherwise>
+    </xsl:choose>
     <xsl:apply-templates select="$prepared/text()[not(preceding-sibling::local:m)]"/>
     <xsl:apply-templates select="
         $prepared/local:m[@pos = 's']
