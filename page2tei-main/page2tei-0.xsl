@@ -354,7 +354,7 @@
         </note>
       </xsl:when>
       <xsl:when test="@type = ('other', 'paragraph')">
-        <xsl:for-each-group select="p:TextLine" group-starting-with="p:Textline[contains(@custom, 'type:paragraph')]">
+        <xsl:for-each-group select="p:TextLine" group-starting-with="@custom[contains(text(), 'type:paragraph')]">
           <xsl:element name="p" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:apply-templates select="p:TextLine"/>
           </xsl:element>
@@ -362,7 +362,11 @@
       </xsl:when>
       <!-- the fallback option should be a semantically open element such as <ab> -->
       <xsl:otherwise>
-          <xsl:apply-templates select="p:TextLine"/>
+        <xsl:for-each-group select="p:TextLine" group-starting-with="@custom[contains(text(), 'type:paragraph')]">
+          <xsl:element name="p" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:apply-templates select="p:TextLine"/>
+          </xsl:element>
+        </xsl:for-each-group>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
