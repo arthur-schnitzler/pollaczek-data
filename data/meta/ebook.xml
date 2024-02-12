@@ -1,0 +1,29 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">E-Book</title>
+            <title type="sub">Clara Katharina Pollaczek – Arthur Schnitzler und ich</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>»Arthur Schnitzler und ich« kann kostenfrei als EPUB geladen werden. Damit ist der Text
+            mit gängigen E-Readern, Tablets und Smartphones lesbar.</p>
+         <p rend="center"><hi rend="bold"><ref type="URL"
+                  target="https://github.com/arthur-schnitzler/pollaczek-epub/raw/main/out/pollaczek.epub"
+                  >EPUB herunterladen</ref></hi></p>
+         <p>Der Text des E-Books ist ident mit jenem auf der Webseite.</p>
+         <p>Die Daten für das EPUB können gemeinsam mit dem zugrundeliegenden Code auch auf <ref
+               type="URL" target="https://github.com/arthur-schnitzler/pollaczek-epub">GitHub</ref>
+            geladen werden.</p>
+      </body>
+   </text>
+</TEI>
