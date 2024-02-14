@@ -18,7 +18,7 @@ jobs:
     name: Download METS files from Transkribus and convert them to TEIs
     runs-on: ubuntu-latest
     env:
-      ANT_OPTS: -Xmx5g
+      ANT_OPTS: -Xmx6g
       TR_USER: ${{ secrets.TR_USER }}
       TR_PW: ${{ secrets.TR_PW}}
       COL_ID: ${{ github.event.inputs.colId }}
